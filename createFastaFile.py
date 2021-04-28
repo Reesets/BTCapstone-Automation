@@ -13,13 +13,18 @@ if __name__ == '__main__':
     load_dotenv()
 
     df = pd.read_excel('{}fastasequences.xlsx'.format(os.getenv('MAIN_PATH')), sheet_name = 'Sheet1')
-    df = df[df['status'] != 'Done']
 
     sequences = ''
 
-    for seq in df['fastaseqs'].tolist():
+    for ind, seq in enumerate(df['fastaseqs'].tolist()):
         
-        sequences += seq + '\n'
+        if df.at[ind, 'status'] != 'Done':
+            sequences += seq + '\n'
+            f = open('textFiles/{}.fna'.format(df.at[ind, 'accession numbers']), 'w+')
+            f.write(seq)
+            f.close()
 
     sequences = sequences.strip()
-    pickle.dump(sequences, open('fastaseqs.fna', 'wb'))
+    f = open('fastaseqs.fna', 'w+')
+    f.write(sequences)
+    f.close()
