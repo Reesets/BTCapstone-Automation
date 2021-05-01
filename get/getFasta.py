@@ -17,7 +17,7 @@ if __name__ == '__main__':
 
     options = webdriver.ChromeOptions()
     options.add_experimental_option('excludeSwitches', ['enable-logging'])
-    bot = webdriver.Chrome('{}chromedriver.exe'.format(os.getenv('CHROMEDRIVER_PATH')), options = options)
+    bot = webdriver.Chrome(os.getenv('CHROMEDRIVER_PATH'), options = options)
 
     accnums = df['accession numbers'].tolist()
 

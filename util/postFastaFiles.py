@@ -17,7 +17,7 @@ if __name__ == '__main__':
 
     options = webdriver.ChromeOptions()
     options.add_experimental_option('excludeSwitches', ['enable-logging'])
-    bot = webdriver.Chrome('{}chromedriver.exe'.format(os.getenv('CHROMEDRIVER_PATH')), options = options)
+    bot = webdriver.Chrome(os.getenv('CHROMEDRIVER_PATH'), options = options)
 
     df = pd.read_excel('{}fastasequences.xlsx'.format(os.getenv('MAIN_PATH')), sheet_name = 'Sheet1')
     
@@ -31,9 +31,12 @@ if __name__ == '__main__':
             job = ''
             newuri = ''
             accnum = df.at[ind, 'accession numbers']
+
+            print('{}: {}'.format(ind, accnum))
+
             try:
                 bot.get('https://phaster.ca/')
-                time.sleep(10)
+                time.sleep(5)
                 
                 inp = bot.find_element_by_xpath('.//input[@id = "submission_sequence"]')
                 inp.send_keys('C:{}textFiles/{}.fna'.format(os.getenv('MAIN_PATH'), accnum))
@@ -50,7 +53,7 @@ if __name__ == '__main__':
                 acc.append(accnum)
                 jobids.append(job)
                 joblinks.append(newuri)
-                writer = pd.ExcelWriter('{}runfastajob1.xlsx'.format(os.getenv('MAIN_PATH')), engine = 'xlsxwriter') # pylint: disable=abstract-class-instantiated
+                writer = pd.ExcelWriter('{}runfastajob.xlsx'.format(os.getenv('MAIN_PATH')), engine = 'xlsxwriter') # pylint: disable=abstract-class-instantiated
                 pd.DataFrame({'accession numbers': acc, 'jobID': jobids, 'links': joblinks}).to_excel(writer, sheet_name = 'Sheet1', index = False)
                 writer.save()
                 
