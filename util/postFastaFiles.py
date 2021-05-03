@@ -61,6 +61,6 @@ if __name__ == '__main__':
     bot.close()
     bot.quit()
 
-    writer = pd.ExcelWriter('{}runfastajob1.xlsx'.format(os.getenv('MAIN_PATH')), engine = 'xlsxwriter') # pylint: disable=abstract-class-instantiated
+    writer = pd.ExcelWriter('{}runfastajob.xlsx'.format(os.getenv('MAIN_PATH')), engine = 'xlsxwriter') # pylint: disable=abstract-class-instantiated
     pd.DataFrame({'accession numbers': acc, 'jobID': jobids, 'links': joblinks}).to_excel(writer, sheet_name = 'Sheet1', index = False)
     writer.save()
