@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 
+import sys
 import os
 from dotenv import load_dotenv
 
+import traceback
 import time
 
 from selenium import webdriver
@@ -62,8 +64,11 @@ if __name__ == '__main__':
                                 dnas.append(j.text)
                         bot.find_elements_by_xpath('.//div[@id = "' + dnaID + '"]/div[@class = "modal-footer"]/a[contains(text(),"Close")]')[0].click()
 
-        except Exception as e:
-            raise e
+        except ValueError:
+            pass
+
+        except:
+            pass
 
         finally:
             tot = len(a) + len(b) + len(c)
@@ -90,7 +95,7 @@ if __name__ == '__main__':
                 df.at[ind, 'statussequencesbyacc'] = 'Stored locally!!'
             else:
                 df.at[ind, 'statussequencesbyacc'] = 'No intact phages!!'
-                
+
             writer = pd.ExcelWriter('{}main/prophages.xlsx'.format(os.getenv('MAIN_PATH')), engine = 'xlsxwriter') # pylint: disable=abstract-class-instantiated
             df.to_excel(writer, sheet_name = 'Sheet1', index = False)
             writer.save()
