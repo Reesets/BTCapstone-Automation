@@ -20,23 +20,33 @@ if __name__ == '__main__':
     bot = webdriver.Chrome(os.getenv('CHROMEDRIVER_PATH'), options = options)
 
     df = pd.read_excel('{}main/prophages.xlsx'.format(os.getenv('MAIN_PATH')), sheet_name = 'Sheet1')
+
+    failedL = []
     
     for ind in range(len(df)):
 
-        accnum = df.at[ind, 'accession numbers']
+        accnum = df.at[ind, 'accessionNumbers']
         print('{}: {}'.format(ind, accnum))
+        job = ''
+        newuri = ''
 
         try:
             bot.get('https://phaster.ca/')
             time.sleep(5)
             inp = bot.find_element_by_xpath('.//input[@id = "submission_sequence"]')
-            inp.send_keys('C:{}main/fastafiles/{}.fna'.format(os.getenv('MAIN_PATH'), accnum))
+            try:
+                inp.send_keys('C:{}main/fastafiles/{}.fna'.format(os.getenv('MAIN_PATH'), accnum))
+            except:
+                raise ValueError
             inp = bot.find_element_by_xpath('.//button[@id = "file-submit"]')
             inp.click()
-            time.sleep(6)
+            time.sleep(15)
             newuri = bot.current_url
             l = newuri.split('/')
             job = l[4]
+        except ValueError as e:
+            print('File not found!!!')
+            failedL.append(accnum)
         except:
             pass
         finally:
@@ -53,3 +63,5 @@ if __name__ == '__main__':
     writer = pd.ExcelWriter('{}main/prophages.xlsx'.format(os.getenv('MAIN_PATH')), engine = 'xlsxwriter') # pylint: disable=abstract-class-instantiated
     df.to_excel(writer, sheet_name = 'Sheet1', index = False)
     writer.save()
+    
+    print(failedL)
