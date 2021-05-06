@@ -1,2 +1,2 @@
-#fna files
-*.fna
+#fasta file
+main/fastafiles/*.fna
