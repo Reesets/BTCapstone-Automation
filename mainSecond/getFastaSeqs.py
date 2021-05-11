@@ -13,40 +13,53 @@ if __name__ == '__main__':
 
     load_dotenv()
 
-    df = pd.read_excel('{}main/prophages.xlsx'.format(os.getenv('MAIN_PATH')), sheet_name = 'Sheet1')
+    df = pd.read_excel('{}mainSecond/prophages.xlsx'.format(os.getenv('MAIN_PATH')), sheet_name = 'Sheet1')
 
     options = webdriver.ChromeOptions()
     options.add_experimental_option('excludeSwitches', ['enable-logging'])
+    options.add_experimental_option('prefs', {'download.prompt_for_download': False, 'download.directory_upgrade': True})
     bot = webdriver.Chrome(os.getenv('CHROMEDRIVER_PATH'), options = options)
 
     for ind in range(len(df)):
         
-        print('{}: {}'.format(ind, df.at[ind, 'accessionNumbers']))
+        accnum = df.at[ind, 'accessionNumbers']
+        print('{}: {}'.format(ind, accnum))
         text = ''
 
         try:
             bot.get('https://www.ncbi.nlm.nih.gov/nuccore/{}?report=fasta'.format(df.at[ind, 'accessionNumbers']))
-            time.sleep(10)
-            l = bot.find_element_by_xpath('.//input[@id = "dest_File"]')
-            print(l)
-        
-        except:
-            pass
-
-        finally:
-            f = open('{}main/fastafiles/{}.fna'.format(os.getenv('MAIN_PATH'), df.at[ind, 'accessionNumbers']), 'w+')
-            f.write(text)
-            f.close()
+            time.sleep(2)
+            inp = bot.find_element_by_xpath('.//a[@sourcecontent = "send_to_topmenu"]')
+            inp.click()
+            time.sleep(1)
+            inp = bot.find_element_by_xpath('.//label[@for = "dest_File"]')
+            inp.click()
+            time.sleep(1)
+            inp = bot.find_element_by_xpath('.//input[@id = "dest_File"]')
+            inp.send_keys()
+            time.sleep(1)
+            inp = bot.find_element_by_xpath('.//div[@id = "submenu_File"]/button[@type = "submit"]')
+            inp.click()
+            time.sleep(1)
+            l = os.listdir('/Users/ABHINAV/Downloads/')
+            l = list(map(lambda x:x.split('.').pop(), l))
+            while 'fasta' not in l:
+                l = os.listdir('/Users/ABHINAV/Downloads/')
+                l = list(map(lambda x:x.split('.').pop(), l))
+            time.sleep(3)
+            os.rename('/Users/ABHINAV/Downloads/sequence.fasta', '{}mainSecond/fastafiles/{}.fasta'.format(os.getenv('MAIN_PATH'), accnum))
             df.at[ind, 'fastaSequence'] = 'Stored Locally'
+        except:
+            df.at[ind, 'fastaSequence'] = 'Error'
+        finally:
             writer = pd.ExcelWriter('{}mainSecond/prophages.xlsx'.format(os.getenv('MAIN_PATH')), engine = 'xlsxwriter') # pylint: disable=abstract-class-instantiated
             df.to_excel(writer, sheet_name = 'Sheet1', index = False)
             writer.save()
-            break
         
     time.sleep(4)
     bot.close()
     bot.quit()
-    
+
     writer = pd.ExcelWriter('{}mainSecond/prophages.xlsx'.format(os.getenv('MAIN_PATH')), engine = 'xlsxwriter') # pylint: disable=abstract-class-instantiated
     df.to_excel(writer, sheet_name = 'Sheet1', index = False)
     writer.save()
