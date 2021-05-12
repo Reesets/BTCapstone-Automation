@@ -1,0 +1,28 @@
+##sequence-region CP065888.1 1 6778
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP065888.1	Genbank	region	1	6778	.	+	.	ID=CP065888.1:1..6778;Dbxref=taxon:470;Name=unnamed2;collected-by=NIST<ATCC;culture-collection=FDA:FDAARGOS_917;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=unnamed2;strain=FDAARGOS_917
+CP065888.1	Genbank	gene	223	366	.	-	.	ID=gene-I6G74_19260;Name=I6G74_19260;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_19260
+CP065888.1	Protein Homology	CDS	223	366	.	-	0	ID=cds-QQA28270.1;Parent=gene-I6G74_19260;Dbxref=NCBI_GP:QQA28270.1;Name=QQA28270.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786602.1;locus_tag=I6G74_19260;product=hypothetical protein;protein_id=QQA28270.1;transl_table=11
+CP065888.1	Genbank	gene	386	961	.	-	.	ID=gene-I6G74_19265;Name=I6G74_19265;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_19265
+CP065888.1	Protein Homology	CDS	386	961	.	-	0	ID=cds-QQA28271.1;Parent=gene-I6G74_19265;Dbxref=NCBI_GP:QQA28271.1;Name=QQA28271.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=I6G74_19265;product=helix-turn-helix domain-containing protein;protein_id=QQA28271.1;transl_table=11
+CP065888.1	Genbank	gene	954	1904	.	-	.	ID=gene-I6G74_19270;Name=I6G74_19270;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_19270
+CP065888.1	Protein Homology	CDS	954	1904	.	-	0	ID=cds-QQA28272.1;Parent=gene-I6G74_19270;Dbxref=NCBI_GP:QQA28272.1;Name=QQA28272.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=I6G74_19270;product=replication initiation protein;protein_id=QQA28272.1;transl_table=11
+CP065888.1	Genbank	gene	3115	3486	.	+	.	ID=gene-I6G74_19275;Name=I6G74_19275;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_19275
+CP065888.1	Protein Homology	CDS	3115	3486	.	+	0	ID=cds-QQA28273.1;Parent=gene-I6G74_19275;Dbxref=NCBI_GP:QQA28273.1;Name=QQA28273.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=I6G74_19275;product=hypothetical protein;protein_id=QQA28273.1;transl_table=11
+CP065888.1	Genbank	gene	3486	3626	.	+	.	ID=gene-I6G74_19280;Name=I6G74_19280;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_19280
+CP065888.1	Protein Homology	CDS	3486	3626	.	+	0	ID=cds-QQA28274.1;Parent=gene-I6G74_19280;Dbxref=NCBI_GP:QQA28274.1;Name=QQA28274.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001985218.1;locus_tag=I6G74_19280;product=hypothetical protein;protein_id=QQA28274.1;transl_table=11
+CP065888.1	Genbank	gene	3735	4094	.	+	.	ID=gene-I6G74_19285;Name=I6G74_19285;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_19285
+CP065888.1	Protein Homology	CDS	3735	4094	.	+	0	ID=cds-QQA28275.1;Parent=gene-I6G74_19285;Dbxref=NCBI_GP:QQA28275.1;Name=QQA28275.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000360920.1;locus_tag=I6G74_19285;product=hypothetical protein;protein_id=QQA28275.1;transl_table=11
+CP065888.1	Genbank	gene	4189	4701	.	+	.	ID=gene-I6G74_19290;Name=I6G74_19290;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_19290
+CP065888.1	Protein Homology	CDS	4189	4701	.	+	0	ID=cds-QQA28276.1;Parent=gene-I6G74_19290;Dbxref=NCBI_GP:QQA28276.1;Name=QQA28276.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000064854.1;locus_tag=I6G74_19290;product=hypothetical protein;protein_id=QQA28276.1;transl_table=11
+CP065888.1	Genbank	gene	5028	5243	.	+	.	ID=gene-I6G74_19295;Name=I6G74_19295;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_19295
+CP065888.1	Protein Homology	CDS	5028	5243	.	+	0	ID=cds-QQA28277.1;Parent=gene-I6G74_19295;Dbxref=NCBI_GP:QQA28277.1;Name=QQA28277.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004693381.1;locus_tag=I6G74_19295;product=cold-shock protein;protein_id=QQA28277.1;transl_table=11
+CP065888.1	Genbank	gene	5341	5568	.	+	.	ID=gene-I6G74_19300;Name=I6G74_19300;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_19300
+CP065888.1	Protein Homology	CDS	5341	5568	.	+	0	ID=cds-QQA28278.1;Parent=gene-I6G74_19300;Dbxref=NCBI_GP:QQA28278.1;Name=QQA28278.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005166620.1;locus_tag=I6G74_19300;product=hypothetical protein;protein_id=QQA28278.1;transl_table=11
+CP065888.1	Genbank	gene	5635	5832	.	+	.	ID=gene-I6G74_19305;Name=I6G74_19305;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_19305
+CP065888.1	Protein Homology	CDS	5635	5832	.	+	0	ID=cds-QQA28279.1;Parent=gene-I6G74_19305;Dbxref=NCBI_GP:QQA28279.1;Name=QQA28279.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005237334.1;locus_tag=I6G74_19305;product=hypothetical protein;protein_id=QQA28279.1;transl_table=11
+CP065888.1	Genbank	gene	6019	6339	.	+	.	ID=gene-I6G74_19310;Name=I6G74_19310;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_19310
+CP065888.1	Protein Homology	CDS	6019	6339	.	+	0	ID=cds-QQA28280.1;Parent=gene-I6G74_19310;Dbxref=NCBI_GP:QQA28280.1;Name=QQA28280.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000897307.1;locus_tag=I6G74_19310;product=type II toxin-antitoxin system RelE/ParE family toxin;protein_id=QQA28280.1;transl_table=11
+CP065888.1	Genbank	gene	6332	6604	.	+	.	ID=gene-I6G74_19315;Name=I6G74_19315;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_19315
+CP065888.1	Protein Homology	CDS	6332	6604	.	+	0	ID=cds-QQA28281.1;Parent=gene-I6G74_19315;Dbxref=NCBI_GP:QQA28281.1;Name=QQA28281.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000369784.1;locus_tag=I6G74_19315;product=helix-turn-helix domain-containing protein;protein_id=QQA28281.1;transl_table=11
+

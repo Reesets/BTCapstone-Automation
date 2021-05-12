@@ -1,0 +1,24 @@
+##sequence-region CP033751.1 1 7181
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP033751.1	Genbank	region	1	7181	.	+	.	ID=CP033751.1:1..7181;Dbxref=taxon:470;Name=unnamed3;collected-by=University of North Carolina;culture-collection=FDA:FDAARGOS_540;gbkey=Src;genome=plasmid;mol_type=genomic DNA;nat-host=Homo sapiens;note=Clinical Isolate;plasmid-name=unnamed3;strain=FDAARGOS_540
+CP033751.1	Genbank	gene	545	817	.	-	.	ID=gene-EGX84_00005;Name=EGX84_00005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGX84_00005
+CP033751.1	Protein Homology	CDS	545	817	.	-	0	ID=cds-AYX85214.1;Parent=gene-EGX84_00005;Dbxref=NCBI_GP:AYX85214.1;Name=AYX85214.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000369784.1;locus_tag=EGX84_00005;product=helix-turn-helix domain-containing protein;protein_id=AYX85214.1;transl_table=11
+CP033751.1	Genbank	gene	810	1130	.	-	.	ID=gene-EGX84_00010;Name=EGX84_00010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGX84_00010
+CP033751.1	Protein Homology	CDS	810	1130	.	-	0	ID=cds-AYX85215.1;Parent=gene-EGX84_00010;Dbxref=NCBI_GP:AYX85215.1;Name=AYX85215.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000897307.1;locus_tag=EGX84_00010;product=hypothetical protein;protein_id=AYX85215.1;transl_table=11
+CP033751.1	Genbank	gene	1317	1514	.	-	.	ID=gene-EGX84_00015;Name=EGX84_00015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGX84_00015
+CP033751.1	Protein Homology	CDS	1317	1514	.	-	0	ID=cds-AYX85216.1;Parent=gene-EGX84_00015;Dbxref=NCBI_GP:AYX85216.1;Name=AYX85216.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005237334.1;locus_tag=EGX84_00015;product=hypothetical protein;protein_id=AYX85216.1;transl_table=11
+CP033751.1	Genbank	gene	1581	1808	.	-	.	ID=gene-EGX84_00020;Name=EGX84_00020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGX84_00020
+CP033751.1	Protein Homology	CDS	1581	1808	.	-	0	ID=cds-AYX85217.1;Parent=gene-EGX84_00020;Dbxref=NCBI_GP:AYX85217.1;Name=AYX85217.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005166620.1;locus_tag=EGX84_00020;product=hypothetical protein;protein_id=AYX85217.1;transl_table=11
+CP033751.1	Genbank	gene	1906	2121	.	-	.	ID=gene-EGX84_00025;Name=EGX84_00025;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGX84_00025
+CP033751.1	Protein Homology	CDS	1906	2121	.	-	0	ID=cds-AYX85218.1;Parent=gene-EGX84_00025;Dbxref=NCBI_GP:AYX85218.1;Name=AYX85218.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004693381.1;locus_tag=EGX84_00025;product=cold-shock protein;protein_id=AYX85218.1;transl_table=11
+CP033751.1	Genbank	gene	2447	2878	.	-	.	ID=gene-EGX84_00030;Name=EGX84_00030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGX84_00030
+CP033751.1	Protein Homology	CDS	2447	2878	.	-	0	ID=cds-AYX85219.1;Parent=gene-EGX84_00030;Dbxref=NCBI_GP:AYX85219.1;Name=AYX85219.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004986359.1;locus_tag=EGX84_00030;product=hypothetical protein;protein_id=AYX85219.1;transl_table=11
+CP033751.1	Genbank	gene	2896	3162	.	-	.	ID=gene-EGX84_00035;Name=EGX84_00035;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGX84_00035
+CP033751.1	Protein Homology	CDS	2896	3162	.	-	0	ID=cds-AYX85223.1;Parent=gene-EGX84_00035;Dbxref=NCBI_GP:AYX85223.1;Name=AYX85223.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005098300.1;locus_tag=EGX84_00035;product=mobilization protein;protein_id=AYX85223.1;transl_table=11
+CP033751.1	Genbank	gene	3373	4809	.	+	.	ID=gene-EGX84_00040;Name=EGX84_00040;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGX84_00040
+CP033751.1	Protein Homology	CDS	3373	4809	.	+	0	ID=cds-AYX85220.1;Parent=gene-EGX84_00040;Dbxref=NCBI_GP:AYX85220.1;Name=AYX85220.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005248576.1;locus_tag=EGX84_00040;product=nickase;protein_id=AYX85220.1;transl_table=11
+CP033751.1	Genbank	gene	5356	6285	.	+	.	ID=gene-EGX84_00045;Name=EGX84_00045;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGX84_00045
+CP033751.1	Protein Homology	CDS	5356	6285	.	+	0	ID=cds-AYX85221.1;Parent=gene-EGX84_00045;Dbxref=NCBI_GP:AYX85221.1;Name=AYX85221.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000131200.1;locus_tag=EGX84_00045;product=RepB family plasmid replication initiator protein;protein_id=AYX85221.1;transl_table=11
+CP033751.1	Genbank	gene	6364	6888	.	+	.	ID=gene-EGX84_00050;Name=EGX84_00050;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGX84_00050
+CP033751.1	Protein Homology	CDS	6364	6888	.	+	0	ID=cds-AYX85222.1;Parent=gene-EGX84_00050;Dbxref=NCBI_GP:AYX85222.1;Name=AYX85222.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_008307689.1;locus_tag=EGX84_00050;product=DNA-binding protein;protein_id=AYX85222.1;transl_table=11
+

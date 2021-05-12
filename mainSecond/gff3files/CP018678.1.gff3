@@ -1,0 +1,20 @@
+##sequence-region CP018678.1 1 8006
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP018678.1	Genbank	region	1	8006	.	+	.	ID=CP018678.1:1..8006;Dbxref=taxon:470;Is_circular=true;Name=pALAC4-1;collection-date=02-Jan-1997;country=USA;gbkey=Src;genome=plasmid;lat-lon=34.05 N 118.25 W;mol_type=genomic DNA;plasmid-name=pALAC4-1;strain=LAC4
+CP018678.1	Genbank	gene	946	1869	.	+	.	ID=gene-BBX32_19155;Name=BBX32_19155;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BBX32_19155
+CP018678.1	Protein Homology	CDS	946	1869	.	+	0	ID=cds-APO60695.1;Parent=gene-BBX32_19155;Dbxref=NCBI_GP:APO60695.1;Name=APO60695.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_005198814.1;locus_tag=BBX32_19155;product=RepB family plasmid replication initiator protein;protein_id=APO60695.1;transl_table=11
+CP018678.1	Genbank	gene	1937	2482	.	+	.	ID=gene-BBX32_19160;Name=BBX32_19160;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BBX32_19160
+CP018678.1	Protein Homology	CDS	1937	2482	.	+	0	ID=cds-APO60696.1;Parent=gene-BBX32_19160;Dbxref=NCBI_GP:APO60696.1;Name=APO60696.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_004786457.1;locus_tag=BBX32_19160;product=DNA replication protein;protein_id=APO60696.1;transl_table=11
+CP018678.1	Genbank	gene	2820	3137	.	+	.	ID=gene-BBX32_19165;Name=BBX32_19165;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BBX32_19165
+CP018678.1	Protein Homology	CDS	2820	3137	.	+	0	ID=cds-APO60697.1;Parent=gene-BBX32_19165;Dbxref=NCBI_GP:APO60697.1;Name=APO60697.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_005249023.1;locus_tag=BBX32_19165;product=hypothetical protein;protein_id=APO60697.1;transl_table=11
+CP018678.1	Genbank	gene	3665	4021	.	+	.	ID=gene-BBX32_19170;Name=BBX32_19170;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BBX32_19170
+CP018678.1	Protein Homology	CDS	3665	4021	.	+	0	ID=cds-APO60698.1;Parent=gene-BBX32_19170;Dbxref=NCBI_GP:APO60698.1;Name=APO60698.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_005237491.1;locus_tag=BBX32_19170;product=addiction module toxin RelE;protein_id=APO60698.1;transl_table=11
+CP018678.1	Genbank	gene	4014	4316	.	+	.	ID=gene-BBX32_19175;Name=BBX32_19175;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BBX32_19175
+CP018678.1	Protein Homology	CDS	4014	4316	.	+	0	ID=cds-APO60699.1;Parent=gene-BBX32_19175;Dbxref=NCBI_GP:APO60699.1;Name=APO60699.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_001140617.1;locus_tag=BBX32_19175;product=transcriptional regulator;protein_id=APO60699.1;transl_table=11
+CP018678.1	Genbank	gene	4309	4518	.	+	.	ID=gene-BBX32_19180;Name=BBX32_19180;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BBX32_19180
+CP018678.1	Protein Homology	CDS	4309	4518	.	+	0	ID=cds-APO60700.1;Parent=gene-BBX32_19180;Dbxref=NCBI_GP:APO60700.1;Name=APO60700.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_018680077.1;locus_tag=BBX32_19180;product=hypothetical protein;protein_id=APO60700.1;transl_table=11
+CP018678.1	Genbank	gene	4673	7318	.	+	.	ID=gene-BBX32_19185;Name=BBX32_19185;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BBX32_19185
+CP018678.1	GeneMarkS+	CDS	4673	7318	.	+	0	ID=cds-APO60701.1;Parent=gene-BBX32_19185;Dbxref=NCBI_GP:APO60701.1;Name=APO60701.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS+;locus_tag=BBX32_19185;product=hypothetical protein;protein_id=APO60701.1;transl_table=11
+CP018678.1	Genbank	gene	7392	7583	.	-	.	ID=gene-BBX32_19190;Name=BBX32_19190;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BBX32_19190
+CP018678.1	Protein Homology	CDS	7392	7583	.	-	0	ID=cds-APO60702.1;Parent=gene-BBX32_19190;Dbxref=NCBI_GP:APO60702.1;Name=APO60702.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000102617.1;locus_tag=BBX32_19190;product=hypothetical protein;protein_id=APO60702.1;transl_table=11
+

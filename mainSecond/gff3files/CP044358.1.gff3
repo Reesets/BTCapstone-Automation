@@ -1,0 +1,45 @@
+##sequence-region CP044358.1 1 16096
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP044358.1	Genbank	region	1	16096	.	+	.	ID=CP044358.1:1..16096;Dbxref=taxon:470;Is_circular=true;Name=pCAM180B;collected-by=Yong-Hak Kim;collection-date=2016-01-13;country=Cambodia: Battambang;culture-collection=KCTC:72439;gbkey=Src;genome=plasmid;isolation-source=oral cavity;lat-lon=13.06 N 103.12 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pCAM180B;strain=CAM180-1
+CP044358.1	Genbank	gene	284	1222	.	+	.	ID=gene-ABCAM1_3811;Name=ABCAM1_3811;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABCAM1_3811
+CP044358.1	Genbank	CDS	284	1222	.	+	0	ID=cds-QEY06144.1;Parent=gene-ABCAM1_3811;Dbxref=NCBI_GP:QEY06144.1;Name=QEY06144.1;Note=Pfam:pfam01051 Initiator Replication protein;gbkey=CDS;locus_tag=ABCAM1_3811;product=RepB family plasmid replication initiator protein;protein_id=QEY06144.1;transl_table=11
+CP044358.1	Genbank	gene	1215	1790	.	+	.	ID=gene-ABCAM1_3812;Name=ABCAM1_3812;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABCAM1_3812
+CP044358.1	Genbank	CDS	1215	1790	.	+	0	ID=cds-QEY06145.1;Parent=gene-ABCAM1_3812;Dbxref=NCBI_GP:QEY06145.1;Name=QEY06145.1;gbkey=CDS;locus_tag=ABCAM1_3812;product=DNA replication protein;protein_id=QEY06145.1;transl_table=11
+CP044358.1	Genbank	pseudogene	2163	3616	.	-	.	ID=gene-ABCAM1_3814;Name=ABCAM1_3814;Note=SulP family inorganic anion transporter;gbkey=Gene;gene_biotype=pseudogene;locus_tag=ABCAM1_3814;pseudo=true
+CP044358.1	Genbank	gene	3866	4075	.	-	.	ID=gene-ABCAM1_3816;Name=ABCAM1_3816;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABCAM1_3816
+CP044358.1	Genbank	CDS	3866	4075	.	-	0	ID=cds-QEY06146.1;Parent=gene-ABCAM1_3816;Dbxref=NCBI_GP:QEY06146.1;Name=QEY06146.1;gbkey=CDS;locus_tag=ABCAM1_3816;product=hypothetical protein;protein_id=QEY06146.1;transl_table=11
+CP044358.1	Genbank	gene	4758	5474	.	-	.	ID=gene-ABCAM1_3817;Name=ABCAM1_3817;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABCAM1_3817
+CP044358.1	Genbank	CDS	4758	5474	.	-	0	ID=cds-QEY06147.1;Parent=gene-ABCAM1_3817;Dbxref=NCBI_GP:QEY06147.1;Name=QEY06147.1;gbkey=CDS;locus_tag=ABCAM1_3817;product=hypothetical protein;protein_id=QEY06147.1;transl_table=11
+CP044358.1	Genbank	gene	5644	6045	.	-	.	ID=gene-ABCAM1_3818;Name=ABCAM1_3818;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABCAM1_3818
+CP044358.1	Genbank	CDS	5644	6045	.	-	0	ID=cds-QEY06148.1;Parent=gene-ABCAM1_3818;Dbxref=NCBI_GP:QEY06148.1;Name=QEY06148.1;gbkey=CDS;locus_tag=ABCAM1_3818;product=hypothetical protein;protein_id=QEY06148.1;transl_table=11
+CP044358.1	Genbank	gene	6051	6350	.	-	.	ID=gene-ABCAM1_3819;Name=ABCAM1_3819;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABCAM1_3819
+CP044358.1	Genbank	CDS	6051	6350	.	-	0	ID=cds-QEY06149.1;Parent=gene-ABCAM1_3819;Dbxref=NCBI_GP:QEY06149.1;Name=QEY06149.1;gbkey=CDS;locus_tag=ABCAM1_3819;product=hypothetical protein;protein_id=QEY06149.1;transl_table=11
+CP044358.1	Genbank	gene	6353	6919	.	-	.	ID=gene-ABCAM1_3820;Name=ABCAM1_3820;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABCAM1_3820
+CP044358.1	Genbank	CDS	6353	6919	.	-	0	ID=cds-QEY06150.1;Parent=gene-ABCAM1_3820;Dbxref=NCBI_GP:QEY06150.1;Name=QEY06150.1;gbkey=CDS;locus_tag=ABCAM1_3820;product=hypothetical protein;protein_id=QEY06150.1;transl_table=11
+CP044358.1	Genbank	gene	7191	7544	.	-	.	ID=gene-ABCAM1_3821;Name=ABCAM1_3821;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABCAM1_3821
+CP044358.1	Genbank	CDS	7191	7544	.	-	0	ID=cds-QEY06151.1;Parent=gene-ABCAM1_3821;Dbxref=NCBI_GP:QEY06151.1;Name=QEY06151.1;gbkey=CDS;locus_tag=ABCAM1_3821;product=hypothetical protein;protein_id=QEY06151.1;transl_table=11
+CP044358.1	Genbank	gene	7851	8192	.	+	.	ID=gene-ABCAM1_3822;Name=ABCAM1_3822;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABCAM1_3822
+CP044358.1	Genbank	CDS	7851	8192	.	+	0	ID=cds-QEY06152.1;Parent=gene-ABCAM1_3822;Dbxref=NCBI_GP:QEY06152.1;Name=QEY06152.1;gbkey=CDS;locus_tag=ABCAM1_3822;product=hypothetical protein;protein_id=QEY06152.1;transl_table=11
+CP044358.1	Genbank	gene	8770	9726	.	+	.	ID=gene-ABCAM1_3823;Name=ABCAM1_3823;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABCAM1_3823
+CP044358.1	Genbank	CDS	8770	9726	.	+	0	ID=cds-QEY06153.1;Parent=gene-ABCAM1_3823;Dbxref=NCBI_GP:QEY06153.1;Name=QEY06153.1;Note=Pfam:pfam01051 Initiator Replication protein;gbkey=CDS;locus_tag=ABCAM1_3823;product=Initiator RepB protein;protein_id=QEY06153.1;transl_table=11
+CP044358.1	Genbank	gene	9719	10273	.	+	.	ID=gene-ABCAM1_3824;Name=ABCAM1_3824;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABCAM1_3824
+CP044358.1	Genbank	CDS	9719	10273	.	+	0	ID=cds-QEY06154.1;Parent=gene-ABCAM1_3824;Dbxref=NCBI_GP:QEY06154.1;Name=QEY06154.1;gbkey=CDS;locus_tag=ABCAM1_3824;product=DNA-binding protein;protein_id=QEY06154.1;transl_table=11
+CP044358.1	Genbank	gene	10782	11099	.	+	.	ID=gene-ABCAM1_3826;Name=ABCAM1_3826;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABCAM1_3826
+CP044358.1	Genbank	CDS	10782	11099	.	+	0	ID=cds-QEY06155.1;Parent=gene-ABCAM1_3826;Dbxref=NCBI_GP:QEY06155.1;Name=QEY06155.1;gbkey=CDS;locus_tag=ABCAM1_3826;product=hypothetical protein;protein_id=QEY06155.1;transl_table=11
+CP044358.1	Genbank	gene	11574	11846	.	-	.	ID=gene-ABCAM1_3827;Name=ABCAM1_3827;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABCAM1_3827
+CP044358.1	Genbank	CDS	11574	11846	.	-	0	ID=cds-QEY06156.1;Parent=gene-ABCAM1_3827;Dbxref=NCBI_GP:QEY06156.1;Name=QEY06156.1;Note=Pfam:pfam01381 Helix-turn-helix;gbkey=CDS;locus_tag=ABCAM1_3827;product=transcriptional regulator;protein_id=QEY06156.1;transl_table=11
+CP044358.1	Genbank	gene	11839	12240	.	-	.	ID=gene-ABCAM1_3828;Name=ABCAM1_3828;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABCAM1_3828
+CP044358.1	Genbank	CDS	11839	12240	.	-	0	ID=cds-QEY06157.1;Parent=gene-ABCAM1_3828;Dbxref=NCBI_GP:QEY06157.1;Name=QEY06157.1;Note=Pfam:pfam06296 Protein of unknown function (DUF1044);gbkey=CDS;locus_tag=ABCAM1_3828;product=hypothetical protein;protein_id=QEY06157.1;transl_table=11
+CP044358.1	Genbank	gene	12345	12542	.	-	.	ID=gene-ABCAM1_3829;Name=ABCAM1_3829;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABCAM1_3829
+CP044358.1	Genbank	CDS	12345	12542	.	-	0	ID=cds-QEY06158.1;Parent=gene-ABCAM1_3829;Dbxref=NCBI_GP:QEY06158.1;Name=QEY06158.1;gbkey=CDS;locus_tag=ABCAM1_3829;product=hypothetical protein;protein_id=QEY06158.1;transl_table=11
+CP044358.1	Genbank	gene	12609	12836	.	-	.	ID=gene-ABCAM1_3830;Name=ABCAM1_3830;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABCAM1_3830
+CP044358.1	Genbank	CDS	12609	12836	.	-	0	ID=cds-QEY06159.1;Parent=gene-ABCAM1_3830;Dbxref=NCBI_GP:QEY06159.1;Name=QEY06159.1;gbkey=CDS;locus_tag=ABCAM1_3830;product=hypothetical protein;protein_id=QEY06159.1;transl_table=11
+CP044358.1	Genbank	gene	12933	13148	.	-	.	ID=gene-ABCAM1_3831;Name=ABCAM1_3831;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABCAM1_3831
+CP044358.1	Genbank	CDS	12933	13148	.	-	0	ID=cds-QEY06160.1;Parent=gene-ABCAM1_3831;Dbxref=NCBI_GP:QEY06160.1;Name=QEY06160.1;Note=Pfam:pfam00313 'Cold-shock' DNA-binding domain;gbkey=CDS;locus_tag=ABCAM1_3831;product=cold-shock protein;protein_id=QEY06160.1;transl_table=11
+CP044358.1	Genbank	gene	13474	13905	.	-	.	ID=gene-ABCAM1_3832;Name=ABCAM1_3832;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABCAM1_3832
+CP044358.1	Genbank	CDS	13474	13905	.	-	0	ID=cds-QEY06161.1;Parent=gene-ABCAM1_3832;Dbxref=NCBI_GP:QEY06161.1;Name=QEY06161.1;gbkey=CDS;locus_tag=ABCAM1_3832;product=hypothetical protein;protein_id=QEY06161.1;transl_table=11
+CP044358.1	Genbank	gene	13923	14228	.	-	.	ID=gene-ABCAM1_3833;Name=ABCAM1_3833;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABCAM1_3833
+CP044358.1	Genbank	CDS	13923	14228	.	-	0	ID=cds-QEY06162.1;Parent=gene-ABCAM1_3833;Dbxref=NCBI_GP:QEY06162.1;Name=QEY06162.1;gbkey=CDS;locus_tag=ABCAM1_3833;product=hypothetical protein;protein_id=QEY06162.1;transl_table=11
+CP044358.1	Genbank	gene	14399	15835	.	+	.	ID=gene-ABCAM1_3834;Name=ABCAM1_3834;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABCAM1_3834
+CP044358.1	Genbank	CDS	14399	15835	.	+	0	ID=cds-QEY06163.1;Parent=gene-ABCAM1_3834;Dbxref=NCBI_GP:QEY06163.1;Name=QEY06163.1;Note=Pfam:pfam03389 MobA/MobL family;gbkey=CDS;locus_tag=ABCAM1_3834;product=MobA/MobL family protein;protein_id=QEY06163.1;transl_table=11
+

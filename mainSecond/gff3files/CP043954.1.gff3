@@ -1,0 +1,26 @@
+##sequence-region CP043954.1 1 7791
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP043954.1	Genbank	region	1	7791	.	+	.	ID=CP043954.1:1..7791;Dbxref=taxon:470;Is_circular=true;Name=pK09-14;collected-by=Microbial Repository%2C NTU;collection-date=2017-12-10;country=Malaysia;gbkey=Src;genome=plasmid;isolation-source=soil;lat-lon=2.500593 N 102.093880 E;mol_type=genomic DNA;plasmid-name=pK09-14;strain=K09-14
+CP043954.1	Genbank	gene	41	232	.	-	.	ID=gene-F3P16_18750;Name=F3P16_18750;gbkey=Gene;gene_biotype=protein_coding;locus_tag=F3P16_18750
+CP043954.1	Protein Homology	CDS	41	232	.	-	0	ID=cds-QER77249.1;Parent=gene-F3P16_18750;Dbxref=NCBI_GP:QER77249.1;Name=QER77249.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000032259.1;locus_tag=F3P16_18750;product=hypothetical protein;protein_id=QER77249.1;transl_table=11
+CP043954.1	Genbank	gene	466	684	.	-	.	ID=gene-F3P16_18755;Name=F3P16_18755;gbkey=Gene;gene_biotype=protein_coding;locus_tag=F3P16_18755
+CP043954.1	Protein Homology	CDS	466	684	.	-	0	ID=cds-QER77250.1;Parent=gene-F3P16_18755;Dbxref=NCBI_GP:QER77250.1;Name=QER77250.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_002031357.1;locus_tag=F3P16_18755;product=hypothetical protein;protein_id=QER77250.1;transl_table=11
+CP043954.1	Genbank	gene	1374	2309	.	+	.	ID=gene-F3P16_18760;Name=F3P16_18760;gbkey=Gene;gene_biotype=protein_coding;locus_tag=F3P16_18760
+CP043954.1	Protein Homology	CDS	1374	2309	.	+	0	ID=cds-QER77251.1;Parent=gene-F3P16_18760;Dbxref=NCBI_GP:QER77251.1;Name=QER77251.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005237873.1;locus_tag=F3P16_18760;product=replication initiation protein;protein_id=QER77251.1;transl_table=11
+CP043954.1	Genbank	gene	2375	2854	.	+	.	ID=gene-F3P16_18765;Name=F3P16_18765;gbkey=Gene;gene_biotype=protein_coding;locus_tag=F3P16_18765
+CP043954.1	Protein Homology	CDS	2375	2854	.	+	0	ID=cds-QER77252.1;Parent=gene-F3P16_18765;Dbxref=NCBI_GP:QER77252.1;Name=QER77252.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005086340.1;locus_tag=F3P16_18765;product=DNA-binding protein;protein_id=QER77252.1;transl_table=11
+CP043954.1	Genbank	gene	2982	3167	.	+	.	ID=gene-F3P16_18770;Name=F3P16_18770;gbkey=Gene;gene_biotype=protein_coding;locus_tag=F3P16_18770
+CP043954.1	Protein Homology	CDS	2982	3167	.	+	0	ID=cds-QER77253.1;Parent=gene-F3P16_18770;Dbxref=NCBI_GP:QER77253.1;Name=QER77253.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_002013694.1;locus_tag=F3P16_18770;product=hypothetical protein;protein_id=QER77253.1;transl_table=11
+CP043954.1	Genbank	gene	3216	3728	.	+	.	ID=gene-F3P16_18775;Name=F3P16_18775;gbkey=Gene;gene_biotype=protein_coding;locus_tag=F3P16_18775
+CP043954.1	Protein Homology	CDS	3216	3728	.	+	0	ID=cds-QER77254.1;Parent=gene-F3P16_18775;Dbxref=NCBI_GP:QER77254.1;Name=QER77254.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004865560.1;locus_tag=F3P16_18775;product=hypothetical protein;protein_id=QER77254.1;transl_table=11
+CP043954.1	Genbank	gene	4311	5369	.	-	.	ID=gene-F3P16_18780;Name=F3P16_18780;gbkey=Gene;gene_biotype=protein_coding;locus_tag=F3P16_18780
+CP043954.1	Protein Homology	CDS	4311	5369	.	-	0	ID=cds-QER77255.1;Parent=gene-F3P16_18780;Dbxref=NCBI_GP:QER77255.1;Name=QER77255.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_015484794.1;locus_tag=F3P16_18780;product=ParA family protein;protein_id=QER77255.1;transl_table=11
+CP043954.1	Genbank	gene	5504	5713	.	-	.	ID=gene-F3P16_18785;Name=F3P16_18785;gbkey=Gene;gene_biotype=protein_coding;locus_tag=F3P16_18785
+CP043954.1	Protein Homology	CDS	5504	5713	.	-	0	ID=cds-QER77256.1;Parent=gene-F3P16_18785;Dbxref=NCBI_GP:QER77256.1;Name=QER77256.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_018680077.1;locus_tag=F3P16_18785;product=hypothetical protein;protein_id=QER77256.1;transl_table=11
+CP043954.1	Genbank	gene	5706	6008	.	-	.	ID=gene-F3P16_18790;Name=F3P16_18790;gbkey=Gene;gene_biotype=protein_coding;locus_tag=F3P16_18790
+CP043954.1	Protein Homology	CDS	5706	6008	.	-	0	ID=cds-QER77257.1;Parent=gene-F3P16_18790;Dbxref=NCBI_GP:QER77257.1;Name=QER77257.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001140617.1;locus_tag=F3P16_18790;product=helix-turn-helix transcriptional regulator;protein_id=QER77257.1;transl_table=11
+CP043954.1	Genbank	gene	6001	6357	.	-	.	ID=gene-F3P16_18795;Name=F3P16_18795;gbkey=Gene;gene_biotype=protein_coding;locus_tag=F3P16_18795
+CP043954.1	Protein Homology	CDS	6001	6357	.	-	0	ID=cds-QER77258.1;Parent=gene-F3P16_18795;Dbxref=NCBI_GP:QER77258.1;Name=QER77258.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005237491.1;locus_tag=F3P16_18795;product=type II toxin-antitoxin system RelE/ParE family toxin;protein_id=QER77258.1;transl_table=11
+CP043954.1	Genbank	gene	6961	7788	.	+	.	ID=gene-F3P16_18800;Name=F3P16_18800;gbkey=Gene;gene_biotype=protein_coding;locus_tag=F3P16_18800
+CP043954.1	Protein Homology	CDS	6961	7788	.	+	0	ID=cds-QER77259.1;Parent=gene-F3P16_18800;Dbxref=NCBI_GP:QER77259.1;Name=QER77259.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_057689930.1;locus_tag=F3P16_18800;product=OXA-24 family carbapenem-hydrolyzing class D beta-lactamase OXA-72;protein_id=QER77259.1;transl_table=11
+

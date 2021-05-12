@@ -1,0 +1,24 @@
+##sequence-region CP027244.1 1 8731
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP027244.1	Genbank	region	1	8731	.	+	.	ID=CP027244.1:1..8731;Dbxref=taxon:470;Is_circular=true;Name=p2_005078;country=China: Sichuan%2C Chengdu;gbkey=Src;genome=plasmid;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=p2_005078;strain=WCHAB005078
+CP027244.1	Genbank	gene	1	951	.	+	.	ID=gene-C6N18_00490;Name=C6N18_00490;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C6N18_00490
+CP027244.1	Protein Homology	CDS	1	951	.	+	0	ID=cds-AVN12717.1;Parent=gene-C6N18_00490;Dbxref=NCBI_GP:AVN12717.1;Name=AVN12717.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=C6N18_00490;product=replication initiation protein;protein_id=AVN12717.1;transl_table=11
+CP027244.1	Genbank	gene	944	1519	.	+	.	ID=gene-C6N18_00495;Name=C6N18_00495;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C6N18_00495
+CP027244.1	Protein Homology	CDS	944	1519	.	+	0	ID=cds-AVN12718.1;Parent=gene-C6N18_00495;Dbxref=NCBI_GP:AVN12718.1;Name=AVN12718.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=C6N18_00495;product=helix-turn-helix domain-containing protein;protein_id=AVN12718.1;transl_table=11
+CP027244.1	Genbank	gene	1871	2389	.	-	.	ID=gene-C6N18_00500;Name=C6N18_00500;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C6N18_00500
+CP027244.1	Protein Homology	CDS	1871	2389	.	-	0	ID=cds-AVN12719.1;Parent=gene-C6N18_00500;Dbxref=NCBI_GP:AVN12719.1;Name=AVN12719.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=C6N18_00500;product=sel1 repeat family protein;protein_id=AVN12719.1;transl_table=11
+CP027244.1	Genbank	gene	2762	3049	.	+	.	ID=gene-C6N18_00505;Name=C6N18_00505;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C6N18_00505
+CP027244.1	Protein Homology	CDS	2762	3049	.	+	0	ID=cds-AVN12720.1;Parent=gene-C6N18_00505;Dbxref=NCBI_GP:AVN12720.1;Name=AVN12720.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=C6N18_00505;product=BrnT family toxin;protein_id=AVN12720.1;transl_table=11
+CP027244.1	Genbank	gene	3036	3350	.	+	.	ID=gene-C6N18_00510;Name=C6N18_00510;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C6N18_00510
+CP027244.1	Protein Homology	CDS	3036	3350	.	+	0	ID=cds-AVN12721.1;Parent=gene-C6N18_00510;Dbxref=NCBI_GP:AVN12721.1;Name=AVN12721.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_006582675.1;locus_tag=C6N18_00510;product=BrnA antitoxin family protein;protein_id=AVN12721.1;transl_table=11
+CP027244.1	Genbank	gene	3478	5889	.	+	.	ID=gene-C6N18_00515;Name=C6N18_00515;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C6N18_00515
+CP027244.1	Protein Homology	CDS	3478	5889	.	+	0	ID=cds-AVN12722.1;Parent=gene-C6N18_00515;Dbxref=NCBI_GP:AVN12722.1;Name=AVN12722.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=C6N18_00515;product=TonB-dependent receptor;protein_id=AVN12722.1;transl_table=11
+CP027244.1	Genbank	gene	6194	6655	.	+	.	ID=gene-C6N18_00520;Name=C6N18_00520;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C6N18_00520
+CP027244.1	Protein Homology	CDS	6194	6655	.	+	0	ID=cds-AVN12723.1;Parent=gene-C6N18_00520;Dbxref=NCBI_GP:AVN12723.1;Name=AVN12723.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004781077.1;locus_tag=C6N18_00520;product=septicolysin;protein_id=AVN12723.1;transl_table=11
+CP027244.1	Genbank	gene	7151	7522	.	-	.	ID=gene-C6N18_00525;Name=C6N18_00525;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C6N18_00525
+CP027244.1	Protein Homology	CDS	7151	7522	.	-	0	ID=cds-AVN12724.1;Parent=gene-C6N18_00525;Dbxref=NCBI_GP:AVN12724.1;Name=AVN12724.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=C6N18_00525;product=hypothetical protein;protein_id=AVN12724.1;transl_table=11
+CP027244.1	Genbank	gene	7794	8048	.	-	.	ID=gene-C6N18_00530;Name=C6N18_00530;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C6N18_00530
+CP027244.1	Protein Homology	CDS	7794	8048	.	-	0	ID=cds-AVN12725.1;Parent=gene-C6N18_00530;Dbxref=NCBI_GP:AVN12725.1;Name=AVN12725.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001014301.1;locus_tag=C6N18_00530;product=hypothetical protein;protein_id=AVN12725.1;transl_table=11
+CP027244.1	Genbank	pseudogene	8332	8551	.	+	.	ID=gene-C6N18_00535;Name=C6N18_00535;gbkey=Gene;gene_biotype=pseudogene;locus_tag=C6N18_00535;pseudo=true
+CP027244.1	Protein Homology	CDS	8332	8551	.	+	0	ID=cds-C6N18_00535;Parent=gene-C6N18_00535;Note=frameshifted%3B internal stop;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004641946.1;locus_tag=C6N18_00535;product=hypothetical protein;pseudo=true;transl_table=11
+

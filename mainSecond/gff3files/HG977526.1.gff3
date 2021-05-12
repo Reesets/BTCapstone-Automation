@@ -1,0 +1,4 @@
+##sequence-region HG977526.1 1 3788589
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+HG977526.1	Genbank	region	1	3788589	.	+	.	ID=HG977526.1:1..3788589;Dbxref=taxon:470;gbkey=Src;mol_type=genomic DNA;note=scaffold00001;strain=CR17
+

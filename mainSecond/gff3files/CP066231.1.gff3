@@ -1,0 +1,26 @@
+##sequence-region CP066231.1 1 8731
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP066231.1	Genbank	region	1	8731	.	+	.	ID=CP066231.1:1..8731;Dbxref=taxon:470;Is_circular=true;Name=pG20AB011-2;collected-by=Hallym University Dongtan Sacred Heart Hospital;collection-date=2020-05-16;country=South Korea: Hwaseong-si;gbkey=Src;genome=plasmid;isolation-source=blood;lat-lon=37.22 N 127.08 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pG20AB011-2;strain=G20AB011
+CP066231.1	Genbank	gene	496	867	.	+	.	ID=gene-JCR19_19725;Name=JCR19_19725;gbkey=Gene;gene_biotype=protein_coding;locus_tag=JCR19_19725
+CP066231.1	Protein Homology	CDS	496	867	.	+	0	ID=cds-QQD98228.1;Parent=gene-JCR19_19725;Dbxref=NCBI_GP:QQD98228.1;Name=QQD98228.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=JCR19_19725;product=hypothetical protein;protein_id=QQD98228.1;transl_table=11
+CP066231.1	Genbank	gene	867	1040	.	+	.	ID=gene-JCR19_19730;Name=JCR19_19730;gbkey=Gene;gene_biotype=protein_coding;locus_tag=JCR19_19730
+CP066231.1	Protein Homology	CDS	867	1040	.	+	0	ID=cds-QQD98229.1;Parent=gene-JCR19_19730;Dbxref=NCBI_GP:QQD98229.1;Name=QQD98229.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001282484.1;locus_tag=JCR19_19730;product=hypothetical protein;protein_id=QQD98229.1;transl_table=11
+CP066231.1	Genbank	gene	1363	1824	.	-	.	ID=gene-JCR19_19735;Name=JCR19_19735;gbkey=Gene;gene_biotype=protein_coding;locus_tag=JCR19_19735
+CP066231.1	Protein Homology	CDS	1363	1824	.	-	0	ID=cds-QQD98230.1;Parent=gene-JCR19_19735;Dbxref=NCBI_GP:QQD98230.1;Name=QQD98230.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004781077.1;locus_tag=JCR19_19735;product=DIP1984 family protein;protein_id=QQD98230.1;transl_table=11
+CP066231.1	Genbank	gene	2129	4540	.	-	.	ID=gene-JCR19_19740;Name=JCR19_19740;gbkey=Gene;gene_biotype=protein_coding;locus_tag=JCR19_19740
+CP066231.1	Protein Homology	CDS	2129	4540	.	-	0	ID=cds-QQD98231.1;Parent=gene-JCR19_19740;Dbxref=NCBI_GP:QQD98231.1;Name=QQD98231.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=JCR19_19740;product=TonB-dependent receptor;protein_id=QQD98231.1;transl_table=11
+CP066231.1	Genbank	gene	4668	4982	.	-	.	ID=gene-JCR19_19745;Name=JCR19_19745;gbkey=Gene;gene_biotype=protein_coding;locus_tag=JCR19_19745
+CP066231.1	Protein Homology	CDS	4668	4982	.	-	0	ID=cds-QQD98222.1;Parent=gene-JCR19_19745;Dbxref=NCBI_GP:QQD98222.1;Name=QQD98222.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_006582675.1;locus_tag=JCR19_19745;product=BrnA antitoxin family protein;protein_id=QQD98222.1;transl_table=11
+CP066231.1	Genbank	gene	4969	5256	.	-	.	ID=gene-JCR19_19750;Name=JCR19_19750;gbkey=Gene;gene_biotype=protein_coding;locus_tag=JCR19_19750
+CP066231.1	Protein Homology	CDS	4969	5256	.	-	0	ID=cds-QQD98223.1;Parent=gene-JCR19_19750;Dbxref=NCBI_GP:QQD98223.1;Name=QQD98223.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=JCR19_19750;product=BrnT family toxin;protein_id=QQD98223.1;transl_table=11
+CP066231.1	Genbank	gene	5629	6147	.	+	.	ID=gene-JCR19_19755;Name=JCR19_19755;gbkey=Gene;gene_biotype=protein_coding;locus_tag=JCR19_19755
+CP066231.1	Protein Homology	CDS	5629	6147	.	+	0	ID=cds-QQD98232.1;Parent=gene-JCR19_19755;Dbxref=NCBI_GP:QQD98232.1;Name=QQD98232.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=JCR19_19755;product=sel1 repeat family protein;protein_id=QQD98232.1;transl_table=11
+CP066231.1	Genbank	gene	6336	6479	.	-	.	ID=gene-JCR19_19760;Name=JCR19_19760;gbkey=Gene;gene_biotype=protein_coding;locus_tag=JCR19_19760
+CP066231.1	Protein Homology	CDS	6336	6479	.	-	0	ID=cds-QQD98224.1;Parent=gene-JCR19_19760;Dbxref=NCBI_GP:QQD98224.1;Name=QQD98224.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786602.1;locus_tag=JCR19_19760;product=hypothetical protein;protein_id=QQD98224.1;transl_table=11
+CP066231.1	Genbank	gene	6499	7074	.	-	.	ID=gene-JCR19_19765;Name=JCR19_19765;gbkey=Gene;gene_biotype=protein_coding;locus_tag=JCR19_19765
+CP066231.1	Protein Homology	CDS	6499	7074	.	-	0	ID=cds-QQD98225.1;Parent=gene-JCR19_19765;Dbxref=NCBI_GP:QQD98225.1;Name=QQD98225.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=JCR19_19765;product=helix-turn-helix domain-containing protein;protein_id=QQD98225.1;transl_table=11
+CP066231.1	Genbank	gene	7067	8017	.	-	.	ID=gene-JCR19_19770;Name=JCR19_19770;gbkey=Gene;gene_biotype=protein_coding;locus_tag=JCR19_19770
+CP066231.1	Protein Homology	CDS	7067	8017	.	-	0	ID=cds-QQD98226.1;Parent=gene-JCR19_19770;Dbxref=NCBI_GP:QQD98226.1;Name=QQD98226.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=JCR19_19770;product=replication initiation protein;protein_id=QQD98226.1;transl_table=11
+CP066231.1	Genbank	gene	8701	8955	.	+	.	ID=gene-JCR19_19720;Name=JCR19_19720;gbkey=Gene;gene_biotype=protein_coding;locus_tag=JCR19_19720
+CP066231.1	Protein Homology	CDS	8701	8955	.	+	0	ID=cds-QQD98227.1;Parent=gene-JCR19_19720;Dbxref=NCBI_GP:QQD98227.1;Name=QQD98227.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001014301.1;locus_tag=JCR19_19720;product=hypothetical protein;protein_id=QQD98227.1;transl_table=11
+

@@ -1,0 +1,14 @@
+##sequence-region CP051874.1 1 2697
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP051874.1	Genbank	region	1	2697	.	+	.	ID=CP051874.1:1..2697;Dbxref=taxon:470;Is_circular=true;Name=pAb-D10a-a_5;collection-date=Mar-2016;country=Ghana: Sekondi-Takoradi;gbkey=Src;genome=plasmid;isolation-source=cerebrospinal fluid;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pAb-D10a-a_5;strain=Ab-D10a-a
+CP051874.1	Genbank	gene	422	709	.	+	.	ID=gene-HIN87_20320;Name=HIN87_20320;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN87_20320
+CP051874.1	Protein Homology	CDS	422	709	.	+	0	ID=cds-QJF33727.1;Parent=gene-HIN87_20320;Dbxref=NCBI_GP:QJF33727.1;Name=QJF33727.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000442155.1;locus_tag=HIN87_20320;product=hypothetical protein;protein_id=QJF33727.1;transl_table=11
+CP051874.1	Genbank	gene	908	1993	.	+	.	ID=gene-HIN87_20325;Name=HIN87_20325;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN87_20325
+CP051874.1	Protein Homology	CDS	908	1993	.	+	0	ID=cds-QJF33731.1;Parent=gene-HIN87_20325;Dbxref=NCBI_GP:QJF33731.1;Name=QJF33731.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005253769.1;locus_tag=HIN87_20325;product=protein rep;protein_id=QJF33731.1;transl_table=11
+CP051874.1	Genbank	gene	1996	2229	.	+	.	ID=gene-HIN87_20330;Name=HIN87_20330;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN87_20330
+CP051874.1	GeneMarkS-2+	CDS	1996	2229	.	+	0	ID=cds-QJF33728.1;Parent=gene-HIN87_20330;Dbxref=NCBI_GP:QJF33728.1;Name=QJF33728.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HIN87_20330;product=hypothetical protein;protein_id=QJF33728.1;transl_table=11
+CP051874.1	Genbank	gene	2306	2512	.	+	.	ID=gene-HIN87_20335;Name=HIN87_20335;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN87_20335
+CP051874.1	GeneMarkS-2+	CDS	2306	2512	.	+	0	ID=cds-QJF33729.1;Parent=gene-HIN87_20335;Dbxref=NCBI_GP:QJF33729.1;Name=QJF33729.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HIN87_20335;product=hypothetical protein;protein_id=QJF33729.1;transl_table=11
+CP051874.1	Genbank	gene	2569	2814	.	+	.	ID=gene-HIN87_20315;Name=HIN87_20315;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN87_20315
+CP051874.1	GeneMarkS-2+	CDS	2569	2814	.	+	0	ID=cds-QJF33730.1;Parent=gene-HIN87_20315;Dbxref=NCBI_GP:QJF33730.1;Name=QJF33730.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HIN87_20315;product=hypothetical protein;protein_id=QJF33730.1;transl_table=11
+

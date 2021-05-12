@@ -1,0 +1,16 @@
+##sequence-region CP018679.1 1 6078
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP018679.1	Genbank	region	1	6078	.	+	.	ID=CP018679.1:1..6078;Dbxref=taxon:470;Is_circular=true;Name=pALAC4-2;collection-date=02-Jan-1997;country=USA;gbkey=Src;genome=plasmid;lat-lon=34.05 N 118.25 W;mol_type=genomic DNA;plasmid-name=pALAC4-2;strain=LAC4
+CP018679.1	Genbank	gene	649	1182	.	+	.	ID=gene-BBX32_19200;Name=BBX32_19200;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BBX32_19200
+CP018679.1	Protein Homology	CDS	649	1182	.	+	0	ID=cds-APO60707.1;Parent=gene-BBX32_19200;Dbxref=NCBI_GP:APO60707.1;Name=APO60707.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000381802.1;locus_tag=BBX32_19200;product=aminoglycoside nucleotidyltransferase;protein_id=APO60707.1;transl_table=11
+CP018679.1	Genbank	gene	1341	2003	.	-	.	ID=gene-BBX32_19205;Name=BBX32_19205;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BBX32_19205
+CP018679.1	Protein Homology	CDS	1341	2003	.	-	0	ID=cds-APO60708.1;Parent=gene-BBX32_19205;Dbxref=NCBI_GP:APO60708.1;Name=APO60708.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_002037551.1;locus_tag=BBX32_19205;product=CAAX protease;protein_id=APO60708.1;transl_table=11
+CP018679.1	Genbank	gene	2142	2687	.	-	.	ID=gene-BBX32_19210;Name=BBX32_19210;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BBX32_19210
+CP018679.1	Protein Homology	CDS	2142	2687	.	-	0	ID=cds-APO60704.1;Parent=gene-BBX32_19210;Dbxref=NCBI_GP:APO60704.1;Name=APO60704.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_010589060.1;locus_tag=BBX32_19210;product=hypothetical protein;protein_id=APO60704.1;transl_table=11
+CP018679.1	Genbank	gene	2736	4550	.	-	.	ID=gene-BBX32_19215;Name=BBX32_19215;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BBX32_19215
+CP018679.1	Protein Homology	CDS	2736	4550	.	-	0	ID=cds-APO60705.1;Parent=gene-BBX32_19215;Dbxref=NCBI_GP:APO60705.1;Name=APO60705.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000634474.1;locus_tag=BBX32_19215;product=mobilization protein;protein_id=APO60705.1;transl_table=11
+CP018679.1	Genbank	gene	4540	4947	.	-	.	ID=gene-BBX32_19220;Name=BBX32_19220;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BBX32_19220
+CP018679.1	Protein Homology	CDS	4540	4947	.	-	0	ID=cds-APO60706.1;Parent=gene-BBX32_19220;Dbxref=NCBI_GP:APO60706.1;Name=APO60706.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_017482451.1;locus_tag=BBX32_19220;product=mobilization protein;protein_id=APO60706.1;transl_table=11
+CP018679.1	Genbank	gene	5950	6636	.	+	.	ID=gene-BBX32_19195;Name=BBX32_19195;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BBX32_19195
+CP018679.1	Protein Homology	CDS	5950	6636	.	+	0	ID=cds-APO60703.1;Parent=gene-BBX32_19195;Dbxref=NCBI_GP:APO60703.1;Name=APO60703.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_004986708.1;locus_tag=BBX32_19195;product=hypothetical protein;protein_id=APO60703.1;transl_table=11
+

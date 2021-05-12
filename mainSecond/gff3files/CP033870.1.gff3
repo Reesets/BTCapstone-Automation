@@ -1,0 +1,26 @@
+##sequence-region CP033870.1 1 6667
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP033870.1	Genbank	region	1	6667	.	+	.	ID=CP033870.1:1..6667;Dbxref=taxon:470;Is_circular=true;Name=p597A-6.7;collected-by=MRSN;collection-date=2008;country=Brazil: Salvador;gbkey=Src;genome=plasmid;isolation-source=cerebrospinal fluid;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=p597A-6.7;strain=MRSN15313
+CP033870.1	Genbank	gene	142	1092	.	+	.	ID=gene-EGM95_20630;Name=EGM95_20630;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGM95_20630
+CP033870.1	Protein Homology	CDS	142	1092	.	+	0	ID=cds-AYY91181.1;Parent=gene-EGM95_20630;Dbxref=NCBI_GP:AYY91181.1;Name=AYY91181.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=EGM95_20630;product=RepB family plasmid replication initiator protein;protein_id=AYY91181.1;transl_table=11
+CP033870.1	Genbank	gene	1085	1660	.	+	.	ID=gene-EGM95_20635;Name=EGM95_20635;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGM95_20635
+CP033870.1	Protein Homology	CDS	1085	1660	.	+	0	ID=cds-AYY91182.1;Parent=gene-EGM95_20635;Dbxref=NCBI_GP:AYY91182.1;Name=AYY91182.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=EGM95_20635;product=DNA-binding protein;protein_id=AYY91182.1;transl_table=11
+CP033870.1	Genbank	gene	2012	2530	.	-	.	ID=gene-EGM95_20640;Name=EGM95_20640;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGM95_20640
+CP033870.1	Protein Homology	CDS	2012	2530	.	-	0	ID=cds-AYY91183.1;Parent=gene-EGM95_20640;Dbxref=NCBI_GP:AYY91183.1;Name=AYY91183.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=EGM95_20640;product=sel1 repeat family protein;protein_id=AYY91183.1;transl_table=11
+CP033870.1	Genbank	gene	3147	3419	.	-	.	ID=gene-EGM95_20645;Name=EGM95_20645;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGM95_20645
+CP033870.1	Protein Homology	CDS	3147	3419	.	-	0	ID=cds-AYY91184.1;Parent=gene-EGM95_20645;Dbxref=NCBI_GP:AYY91184.1;Name=AYY91184.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000369784.1;locus_tag=EGM95_20645;product=helix-turn-helix domain-containing protein;protein_id=AYY91184.1;transl_table=11
+CP033870.1	Genbank	gene	3412	3732	.	-	.	ID=gene-EGM95_20650;Name=EGM95_20650;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGM95_20650
+CP033870.1	Protein Homology	CDS	3412	3732	.	-	0	ID=cds-AYY91185.1;Parent=gene-EGM95_20650;Dbxref=NCBI_GP:AYY91185.1;Name=AYY91185.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000897307.1;locus_tag=EGM95_20650;product=hypothetical protein;protein_id=AYY91185.1;transl_table=11
+CP033870.1	Genbank	gene	3919	4116	.	-	.	ID=gene-EGM95_20655;Name=EGM95_20655;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGM95_20655
+CP033870.1	Protein Homology	CDS	3919	4116	.	-	0	ID=cds-AYY91186.1;Parent=gene-EGM95_20655;Dbxref=NCBI_GP:AYY91186.1;Name=AYY91186.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005237334.1;locus_tag=EGM95_20655;product=hypothetical protein;protein_id=AYY91186.1;transl_table=11
+CP033870.1	Genbank	gene	4183	4410	.	-	.	ID=gene-EGM95_20660;Name=EGM95_20660;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGM95_20660
+CP033870.1	Protein Homology	CDS	4183	4410	.	-	0	ID=cds-AYY91187.1;Parent=gene-EGM95_20660;Dbxref=NCBI_GP:AYY91187.1;Name=AYY91187.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005166620.1;locus_tag=EGM95_20660;product=hypothetical protein;protein_id=AYY91187.1;transl_table=11
+CP033870.1	Genbank	gene	4508	4723	.	-	.	ID=gene-EGM95_20665;Name=EGM95_20665;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGM95_20665
+CP033870.1	Protein Homology	CDS	4508	4723	.	-	0	ID=cds-AYY91188.1;Parent=gene-EGM95_20665;Dbxref=NCBI_GP:AYY91188.1;Name=AYY91188.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004693381.1;locus_tag=EGM95_20665;product=cold-shock protein;protein_id=AYY91188.1;transl_table=11
+CP033870.1	Genbank	gene	5228	5599	.	-	.	ID=gene-EGM95_20670;Name=EGM95_20670;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGM95_20670
+CP033870.1	Protein Homology	CDS	5228	5599	.	-	0	ID=cds-AYY91189.1;Parent=gene-EGM95_20670;Dbxref=NCBI_GP:AYY91189.1;Name=AYY91189.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=EGM95_20670;product=hypothetical protein;protein_id=AYY91189.1;transl_table=11
+CP033870.1	Genbank	gene	5871	6125	.	-	.	ID=gene-EGM95_20675;Name=EGM95_20675;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGM95_20675
+CP033870.1	Protein Homology	CDS	5871	6125	.	-	0	ID=cds-AYY91190.1;Parent=gene-EGM95_20675;Dbxref=NCBI_GP:AYY91190.1;Name=AYY91190.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001014301.1;locus_tag=EGM95_20675;product=hypothetical protein;protein_id=AYY91190.1;transl_table=11
+CP033870.1	Genbank	pseudogene	6409	6628	.	+	.	ID=gene-EGM95_20680;Name=EGM95_20680;gbkey=Gene;gene_biotype=pseudogene;locus_tag=EGM95_20680;pseudo=true
+CP033870.1	Protein Homology	CDS	6409	6628	.	+	0	ID=cds-EGM95_20680;Parent=gene-EGM95_20680;Note=frameshifted%3B internal stop;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004641946.1;locus_tag=EGM95_20680;product=hypothetical protein;pseudo=true;transl_table=11
+

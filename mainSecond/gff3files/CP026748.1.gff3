@@ -1,0 +1,18 @@
+##sequence-region CP026748.1 1 5602
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP026748.1	Genbank	region	1	5602	.	+	.	ID=CP026748.1:1..5602;Dbxref=taxon:470;Is_circular=true;Name=p1_005133;country=China: Sichuan%2C Chengdu;gbkey=Src;genome=plasmid;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=p1_005133;strain=WCHAB005133
+CP026748.1	Genbank	gene	1	951	.	+	.	ID=gene-C5B74_00005;Name=C5B74_00005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C5B74_00005
+CP026748.1	Protein Homology	CDS	1	951	.	+	0	ID=cds-AVE88593.1;Parent=gene-C5B74_00005;Dbxref=NCBI_GP:AVE88593.1;Name=AVE88593.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=C5B74_00005;product=replication initiation protein;protein_id=AVE88593.1;transl_table=11
+CP026748.1	Genbank	gene	944	1519	.	+	.	ID=gene-C5B74_00010;Name=C5B74_00010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C5B74_00010
+CP026748.1	Protein Homology	CDS	944	1519	.	+	0	ID=cds-AVE88594.1;Parent=gene-C5B74_00010;Dbxref=NCBI_GP:AVE88594.1;Name=AVE88594.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=C5B74_00010;product=helix-turn-helix domain-containing protein;protein_id=AVE88594.1;transl_table=11
+CP026748.1	Genbank	gene	1962	3341	.	+	.	ID=gene-C5B74_00015;Name=C5B74_00015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C5B74_00015
+CP026748.1	Protein Homology	CDS	1962	3341	.	+	0	ID=cds-AVE88595.1;Parent=gene-C5B74_00015;Dbxref=NCBI_GP:AVE88595.1;Name=AVE88595.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:PF13304.4;locus_tag=C5B74_00015;product=ATP-binding protein;protein_id=AVE88595.1;transl_table=11
+CP026748.1	Genbank	gene	3334	3771	.	+	.	ID=gene-C5B74_00020;Name=C5B74_00020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C5B74_00020
+CP026748.1	GeneMarkS-2+	CDS	3334	3771	.	+	0	ID=cds-AVE88596.1;Parent=gene-C5B74_00020;Dbxref=NCBI_GP:AVE88596.1;Name=AVE88596.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=C5B74_00020;product=hypothetical protein;protein_id=AVE88596.1;transl_table=11
+CP026748.1	Genbank	gene	4021	4392	.	-	.	ID=gene-C5B74_00025;Name=C5B74_00025;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C5B74_00025
+CP026748.1	Protein Homology	CDS	4021	4392	.	-	0	ID=cds-AVE88597.1;Parent=gene-C5B74_00025;Dbxref=NCBI_GP:AVE88597.1;Name=AVE88597.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=C5B74_00025;product=hypothetical protein;protein_id=AVE88597.1;transl_table=11
+CP026748.1	Genbank	gene	4663	4917	.	-	.	ID=gene-C5B74_00030;Name=C5B74_00030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C5B74_00030
+CP026748.1	Protein Homology	CDS	4663	4917	.	-	0	ID=cds-AVE88598.1;Parent=gene-C5B74_00030;Dbxref=NCBI_GP:AVE88598.1;Name=AVE88598.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001014301.1;locus_tag=C5B74_00030;product=hypothetical protein;protein_id=AVE88598.1;transl_table=11
+CP026748.1	Genbank	pseudogene	5201	5402	.	+	.	ID=gene-C5B74_00035;Name=C5B74_00035;gbkey=Gene;gene_biotype=pseudogene;locus_tag=C5B74_00035;pseudo=true
+CP026748.1	Protein Homology	CDS	5201	5402	.	+	0	ID=cds-C5B74_00035;Parent=gene-C5B74_00035;Note=frameshifted%3B internal stop;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004641946.1;locus_tag=C5B74_00035;product=hypothetical protein;pseudo=true;transl_table=11
+

@@ -1,0 +1,25 @@
+##sequence-region CP041588.1 1 6078
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP041588.1	Genbank	region	1	6078	.	+	.	ID=CP041588.1:1..6078;Dbxref=taxon:470;Is_circular=true;Name=pJ9-1;collected-by=Westmead Hospital;collection-date=1999;country=Australia: Westmead%2C Sydney;gbkey=Src;genome=plasmid;lat-lon=33.80 S 150.98 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pJ9-1;strain=J9
+CP041588.1	Genbank	gene	92	202	.	+	.	ID=gene-FK728_p100001;Name=FK728_p100001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FK728_p100001
+CP041588.1	Genbank	CDS	92	202	.	+	0	ID=cds-QDM68397.1;Parent=gene-FK728_p100001;Dbxref=NCBI_GP:QDM68397.1;Name=QDM68397.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=FK728_p100001;product=hypothetical protein;protein_id=QDM68397.1;transl_table=11
+CP041588.1	Genbank	gene	247	558	.	+	.	ID=gene-FK728_p100002;Name=FK728_p100002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FK728_p100002
+CP041588.1	Genbank	CDS	247	558	.	+	0	ID=cds-QDM68398.1;Parent=gene-FK728_p100002;Dbxref=NCBI_GP:QDM68398.1;Name=QDM68398.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=FK728_p100002;product=hypothetical protein;protein_id=QDM68398.1;transl_table=11
+CP041588.1	Genbank	gene	637	1182	.	+	.	ID=gene-FK728_p100003;Name=aadB;gbkey=Gene;gene=aadB;gene_biotype=protein_coding;locus_tag=FK728_p100003
+CP041588.1	Genbank	CDS	637	1182	.	+	0	ID=cds-QDM68399.1;Parent=gene-FK728_p100003;Dbxref=NCBI_GP:QDM68399.1;Name=QDM68399.1;gbkey=CDS;gene=aadB;inference=similar to AA sequence:UniProtKB:P0AE05;locus_tag=FK728_p100003;product=2''-aminoglycoside nucleotidyltransferase;protein_id=QDM68399.1;transl_table=11
+CP041588.1	Genbank	recombination_feature	640	645	.	+	.	ID=id-FK728_p100003;Note=aadB attC (59-base element);gbkey=misc_recomb;gene=aadB;locus_tag=FK728_p100003
+CP041588.1	Genbank	sequence_feature	640	1230	.	+	.	ID=id-CP041588.1:640..1230;Note=aadB gene cassette;gbkey=misc_feature
+CP041588.1	Genbank	recombination_feature	1177	1230	.	+	.	ID=id-CP041588.1:1177..1230;Note=aadB attC (59-base element);gbkey=misc_recomb
+CP041588.1	Genbank	gene	1341	2009	.	-	.	ID=gene-FK728_p100004;Name=FK728_p100004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FK728_p100004
+CP041588.1	Genbank	CDS	1341	2009	.	-	0	ID=cds-QDM68400.1;Parent=gene-FK728_p100004;Dbxref=NCBI_GP:QDM68400.1;Name=QDM68400.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=FK728_p100004;product=AadB;protein_id=QDM68400.1;transl_table=11
+CP041588.1	Genbank	gene	2142	2687	.	-	.	ID=gene-FK728_p100005;Name=FK728_p100005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FK728_p100005
+CP041588.1	Genbank	CDS	2142	2687	.	-	0	ID=cds-QDM68401.1;Parent=gene-FK728_p100005;Dbxref=NCBI_GP:QDM68401.1;Name=QDM68401.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=FK728_p100005;product=hypothetical protein;protein_id=QDM68401.1;transl_table=11
+CP041588.1	Genbank	gene	2736	4550	.	-	.	ID=gene-FK728_p100006;Name=mobA;gbkey=Gene;gene=mobA;gene_biotype=protein_coding;locus_tag=FK728_p100006
+CP041588.1	Genbank	CDS	2736	4550	.	-	0	ID=cds-QDM68402.1;Parent=gene-FK728_p100006;Dbxref=NCBI_GP:QDM68402.1;Name=QDM68402.1;gbkey=CDS;gene=mobA;inference=ab initio prediction:Prodigal:2.6;locus_tag=FK728_p100006;product=MobA;protein_id=QDM68402.1;transl_table=11
+CP041588.1	Genbank	gene	2804	3220	.	-	.	ID=gene-FK728_p100008;Name=FK728_p100008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FK728_p100008
+CP041588.1	Genbank	CDS	2804	3220	.	-	0	ID=cds-QDM68403.1;Parent=gene-FK728_p100008;Dbxref=NCBI_GP:QDM68403.1;Name=QDM68403.1;gbkey=CDS;locus_tag=FK728_p100008;product=hypothetical protein;protein_id=QDM68403.1;transl_table=11
+CP041588.1	Genbank	gene	3224	3835	.	-	.	ID=gene-FK728_p100009;Name=FK728_p100009;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FK728_p100009
+CP041588.1	Genbank	CDS	3224	3835	.	-	0	ID=cds-QDM68404.1;Parent=gene-FK728_p100009;Dbxref=NCBI_GP:QDM68404.1;Name=QDM68404.1;gbkey=CDS;locus_tag=FK728_p100009;product=hypothetical protein;protein_id=QDM68404.1;transl_table=11
+CP041588.1	Genbank	gene	4540	4947	.	-	.	ID=gene-FK728_p100007;Name=mobC;gbkey=Gene;gene=mobC;gene_biotype=protein_coding;locus_tag=FK728_p100007
+CP041588.1	Genbank	CDS	4540	4947	.	-	0	ID=cds-QDM68405.1;Parent=gene-FK728_p100007;Dbxref=NCBI_GP:QDM68405.1;Name=QDM68405.1;gbkey=CDS;gene=mobC;inference=ab initio prediction:Prodigal:2.6;locus_tag=FK728_p100007;product=MobC;protein_id=QDM68405.1;transl_table=11
+

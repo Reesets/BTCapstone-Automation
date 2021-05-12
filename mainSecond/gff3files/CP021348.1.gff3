@@ -1,0 +1,68 @@
+##sequence-region CP021348.1 1 25150
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP021348.1	Genbank	region	1	25150	.	+	.	ID=CP021348.1:1..25150;Dbxref=taxon:470;Is_circular=true;Name=pB8300;collected-by=CMC%2C Vellore%2C India;collection-date=15-Mar-2015;country=India: Vellore;gbkey=Src;genome=plasmid;isolation-source=blood;lat-lon=12.92 N 79.13 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pB8300;strain=B8300
+CP021348.1	Genbank	gene	823	1368	.	+	.	ID=gene-AB987_3786;Name=AB987_3786;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3786
+CP021348.1	Genbank	CDS	823	1368	.	+	0	ID=cds-KMV24620.1;Parent=gene-AB987_3786;Dbxref=NCBI_GP:KMV24620.1;Name=KMV24620.1;gbkey=CDS;locus_tag=AB987_3786;product=hypothetical protein;protein_id=KMV24620.1;transl_table=11
+CP021348.1	Genbank	gene	1661	3181	.	+	.	ID=gene-AB987_3787;Name=AB987_3787;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3787
+CP021348.1	Genbank	CDS	1661	3181	.	+	0	ID=cds-KMV24618.1;Parent=gene-AB987_3787;Dbxref=NCBI_GP:KMV24618.1;Name=KMV24618.1;gbkey=CDS;locus_tag=AB987_3787;product=catalase family protein;protein_id=KMV24618.1;transl_table=11
+CP021348.1	Genbank	gene	3701	4228	.	+	.	ID=gene-AB987_3788;Name=AB987_3788;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3788
+CP021348.1	Genbank	CDS	3701	4228	.	+	0	ID=cds-KMV24610.1;Parent=gene-AB987_3788;Dbxref=NCBI_GP:KMV24610.1;Name=KMV24610.1;gbkey=CDS;locus_tag=AB987_3788;product=plasmid pRiA4b ORF-3-like family protein;protein_id=KMV24610.1;transl_table=11
+CP021348.1	Genbank	gene	4458	4769	.	+	.	ID=gene-AB987_3789;Name=AB987_3789;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3789
+CP021348.1	Genbank	CDS	4458	4769	.	+	0	ID=cds-KMV24609.1;Parent=gene-AB987_3789;Dbxref=NCBI_GP:KMV24609.1;Name=KMV24609.1;gbkey=CDS;locus_tag=AB987_3789;product=hypothetical protein;protein_id=KMV24609.1;transl_table=11
+CP021348.1	Genbank	gene	4756	5046	.	+	.	ID=gene-AB987_3790;Name=AB987_3790;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3790
+CP021348.1	Genbank	CDS	4756	5046	.	+	0	ID=cds-KMV24604.1;Parent=gene-AB987_3790;Dbxref=NCBI_GP:KMV24604.1;Name=KMV24604.1;gbkey=CDS;locus_tag=AB987_3790;product=hypothetical protein;protein_id=KMV24604.1;transl_table=11
+CP021348.1	Genbank	gene	5141	5668	.	+	.	ID=gene-AB987_3791;Name=AB987_3791;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3791
+CP021348.1	Genbank	CDS	5141	5668	.	+	0	ID=cds-KMV24607.1;Parent=gene-AB987_3791;Dbxref=NCBI_GP:KMV24607.1;Name=KMV24607.1;gbkey=CDS;locus_tag=AB987_3791;product=plasmid pRiA4b ORF-3-like family protein;protein_id=KMV24607.1;transl_table=11
+CP021348.1	Genbank	gene	5858	6460	.	+	.	ID=gene-AB987_3792;Name=AB987_3792;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3792
+CP021348.1	Genbank	CDS	5858	6460	.	+	0	ID=cds-KMV24603.1;Parent=gene-AB987_3792;Dbxref=NCBI_GP:KMV24603.1;Name=KMV24603.1;gbkey=CDS;locus_tag=AB987_3792;product=resolvase%2C N terminal domain protein;protein_id=KMV24603.1;transl_table=11
+CP021348.1	Genbank	gene	6535	7188	.	-	.	ID=gene-AB987_3793;Name=AB987_3793;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3793
+CP021348.1	Genbank	CDS	6535	7188	.	-	0	ID=cds-KMV24600.1;Parent=gene-AB987_3793;Dbxref=NCBI_GP:KMV24600.1;Name=KMV24600.1;gbkey=CDS;locus_tag=AB987_3793;product=hypothetical protein;protein_id=KMV24600.1;transl_table=11
+CP021348.1	Genbank	gene	7416	7736	.	+	.	ID=gene-AB987_3794;Name=AB987_3794;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3794
+CP021348.1	Genbank	CDS	7416	7736	.	+	0	ID=cds-KMV24624.1;Parent=gene-AB987_3794;Dbxref=NCBI_GP:KMV24624.1;Name=KMV24624.1;gbkey=CDS;locus_tag=AB987_3794;product=hypothetical protein;protein_id=KMV24624.1;transl_table=11
+CP021348.1	Genbank	gene	7729	8001	.	+	.	ID=gene-AB987_3795;Name=AB987_3795;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3795
+CP021348.1	Genbank	CDS	7729	8001	.	+	0	ID=cds-KMV24601.1;Parent=gene-AB987_3795;Dbxref=NCBI_GP:KMV24601.1;Name=KMV24601.1;gbkey=CDS;locus_tag=AB987_3795;product=helix-turn-helix family protein;protein_id=KMV24601.1;transl_table=11
+CP021348.1	Genbank	gene	8161	8304	.	+	.	ID=gene-AB987_3796;Name=AB987_3796;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3796
+CP021348.1	Genbank	CDS	8161	8304	.	+	0	ID=cds-KMV24598.1;Parent=gene-AB987_3796;Dbxref=NCBI_GP:KMV24598.1;Name=KMV24598.1;gbkey=CDS;locus_tag=AB987_3796;product=hypothetical protein;protein_id=KMV24598.1;transl_table=11
+CP021348.1	Genbank	gene	8496	9101	.	-	.	ID=gene-AB987_3797;Name=AB987_3797;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3797
+CP021348.1	Genbank	CDS	8496	9101	.	-	0	ID=cds-KMV24628.1;Parent=gene-AB987_3797;Dbxref=NCBI_GP:KMV24628.1;Name=KMV24628.1;gbkey=CDS;locus_tag=AB987_3797;product=hypothetical protein;protein_id=KMV24628.1;transl_table=11
+CP021348.1	Genbank	gene	9104	9544	.	-	.	ID=gene-AB987_3798;Name=AB987_3798;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3798
+CP021348.1	Genbank	CDS	9104	9544	.	-	0	ID=cds-KMV24608.1;Parent=gene-AB987_3798;Dbxref=NCBI_GP:KMV24608.1;Name=KMV24608.1;gbkey=CDS;locus_tag=AB987_3798;product=hypothetical protein;protein_id=KMV24608.1;transl_table=11
+CP021348.1	Genbank	gene	9558	10184	.	-	.	ID=gene-AB987_3799;Name=AB987_3799;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3799
+CP021348.1	Genbank	CDS	9558	10184	.	-	0	ID=cds-KMV24612.1;Parent=gene-AB987_3799;Dbxref=NCBI_GP:KMV24612.1;Name=KMV24612.1;gbkey=CDS;locus_tag=AB987_3799;product=hypothetical protein;protein_id=KMV24612.1;transl_table=11
+CP021348.1	Genbank	gene	10359	10583	.	-	.	ID=gene-AB987_3800;Name=AB987_3800;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3800
+CP021348.1	Genbank	CDS	10359	10583	.	-	0	ID=cds-KMV24602.1;Parent=gene-AB987_3800;Dbxref=NCBI_GP:KMV24602.1;Name=KMV24602.1;gbkey=CDS;locus_tag=AB987_3800;product=hypothetical protein;protein_id=KMV24602.1;transl_table=11
+CP021348.1	Genbank	gene	10732	10974	.	+	.	ID=gene-AB987_3801;Name=AB987_3801;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3801
+CP021348.1	Genbank	CDS	10732	10974	.	+	0	ID=cds-KMV24611.1;Parent=gene-AB987_3801;Dbxref=NCBI_GP:KMV24611.1;Name=KMV24611.1;gbkey=CDS;locus_tag=AB987_3801;product=hypothetical protein;protein_id=KMV24611.1;transl_table=11
+CP021348.1	Genbank	gene	11047	12192	.	-	.	ID=gene-AB987_3802;Name=AB987_3802;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3802
+CP021348.1	Genbank	CDS	11047	12192	.	-	0	ID=cds-KMV24621.1;Parent=gene-AB987_3802;Dbxref=NCBI_GP:KMV24621.1;Name=KMV24621.1;gbkey=CDS;locus_tag=AB987_3802;product=hypothetical protein;protein_id=KMV24621.1;transl_table=11
+CP021348.1	Genbank	gene	12471	13247	.	-	.	ID=gene-AB987_3803;Name=AB987_3803;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3803
+CP021348.1	Genbank	CDS	12471	13247	.	-	0	ID=cds-KMV24613.1;Parent=gene-AB987_3803;Dbxref=NCBI_GP:KMV24613.1;Name=KMV24613.1;gbkey=CDS;locus_tag=AB987_3803;product=hypothetical protein;protein_id=KMV24613.1;transl_table=11
+CP021348.1	Genbank	gene	13406	13555	.	-	.	ID=gene-AB987_3804;Name=AB987_3804;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3804
+CP021348.1	Genbank	CDS	13406	13555	.	-	0	ID=cds-KMV24599.1;Parent=gene-AB987_3804;Dbxref=NCBI_GP:KMV24599.1;Name=KMV24599.1;gbkey=CDS;locus_tag=AB987_3804;product=hypothetical protein;protein_id=KMV24599.1;transl_table=11
+CP021348.1	Genbank	gene	13554	14714	.	+	.	ID=gene-AB987_3805;Name=AB987_3805;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3805
+CP021348.1	Genbank	CDS	13554	14714	.	+	0	ID=cds-KMV24626.1;Parent=gene-AB987_3805;Dbxref=NCBI_GP:KMV24626.1;Name=KMV24626.1;gbkey=CDS;locus_tag=AB987_3805;product=mobA/MobL family protein;protein_id=KMV24626.1;transl_table=11
+CP021348.1	Genbank	gene	15262	16143	.	+	.	ID=gene-AB987_3806;Name=AB987_3806;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3806
+CP021348.1	Genbank	CDS	15262	16143	.	+	0	ID=cds-KMV24615.1;Parent=gene-AB987_3806;Dbxref=NCBI_GP:KMV24615.1;Name=KMV24615.1;gbkey=CDS;locus_tag=AB987_3806;product=initiator Replication family protein;protein_id=KMV24615.1;transl_table=11
+CP021348.1	Genbank	gene	16207	16773	.	+	.	ID=gene-AB987_3807;Name=AB987_3807;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3807
+CP021348.1	Genbank	CDS	16207	16773	.	+	0	ID=cds-KMV24605.1;Parent=gene-AB987_3807;Dbxref=NCBI_GP:KMV24605.1;Name=KMV24605.1;gbkey=CDS;locus_tag=AB987_3807;product=hypothetical protein;protein_id=KMV24605.1;transl_table=11
+CP021348.1	Genbank	gene	17049	17276	.	+	.	ID=gene-AB987_3808;Name=AB987_3808;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3808
+CP021348.1	Genbank	CDS	17049	17276	.	+	0	ID=cds-KMV24619.1;Parent=gene-AB987_3808;Dbxref=NCBI_GP:KMV24619.1;Name=KMV24619.1;gbkey=CDS;locus_tag=AB987_3808;product=hypothetical protein;protein_id=KMV24619.1;transl_table=11
+CP021348.1	Genbank	gene	17660	19183	.	-	.	ID=gene-AB987_3809;Name=AB987_3809;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3809
+CP021348.1	Genbank	CDS	17660	19183	.	-	0	ID=cds-KMV24629.1;Parent=gene-AB987_3809;Dbxref=NCBI_GP:KMV24629.1;Name=KMV24629.1;gbkey=CDS;locus_tag=AB987_3809;product=hypothetical protein;protein_id=KMV24629.1;transl_table=11
+CP021348.1	Genbank	gene	19484	19804	.	+	.	ID=gene-AB987_3810;Name=AB987_3810;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3810
+CP021348.1	Genbank	CDS	19484	19804	.	+	0	ID=cds-KMV24616.1;Parent=gene-AB987_3810;Dbxref=NCBI_GP:KMV24616.1;Name=KMV24616.1;gbkey=CDS;locus_tag=AB987_3810;product=hypothetical protein;protein_id=KMV24616.1;transl_table=11
+CP021348.1	Genbank	gene	19797	20069	.	+	.	ID=gene-AB987_3811;Name=AB987_3811;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3811
+CP021348.1	Genbank	CDS	19797	20069	.	+	0	ID=cds-KMV24622.1;Parent=gene-AB987_3811;Dbxref=NCBI_GP:KMV24622.1;Name=KMV24622.1;gbkey=CDS;locus_tag=AB987_3811;product=helix-turn-helix family protein;protein_id=KMV24622.1;transl_table=11
+CP021348.1	Genbank	gene	20507	20806	.	+	.	ID=gene-AB987_3812;Name=AB987_3812;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3812
+CP021348.1	Genbank	CDS	20507	20806	.	+	0	ID=cds-KMV24606.1;Parent=gene-AB987_3812;Dbxref=NCBI_GP:KMV24606.1;Name=KMV24606.1;gbkey=CDS;locus_tag=AB987_3812;product=transposase family protein;protein_id=KMV24606.1;transl_table=11
+CP021348.1	Genbank	gene	20818	21672	.	+	.	ID=gene-AB987_3813;Name=AB987_3813;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3813
+CP021348.1	Genbank	CDS	20818	21672	.	+	0	ID=cds-KMV24625.1;Parent=gene-AB987_3813;Dbxref=NCBI_GP:KMV24625.1;Name=KMV24625.1;gbkey=CDS;locus_tag=AB987_3813;product=integrase core domain protein;protein_id=KMV24625.1;transl_table=11
+CP021348.1	Genbank	gene	21623	22150	.	-	.	ID=gene-AB987_3814;Name=AB987_3814;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3814
+CP021348.1	Genbank	CDS	21623	22150	.	-	0	ID=cds-KMV24617.1;Parent=gene-AB987_3814;Dbxref=NCBI_GP:KMV24617.1;Name=KMV24617.1;gbkey=CDS;locus_tag=AB987_3814;product=hypothetical protein;protein_id=KMV24617.1;transl_table=11
+CP021348.1	Genbank	gene	22157	23287	.	-	.	ID=gene-AB987_3815;Name=AB987_3815;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3815
+CP021348.1	Genbank	CDS	22157	23287	.	-	0	ID=cds-KMV24623.1;Parent=gene-AB987_3815;Dbxref=NCBI_GP:KMV24623.1;Name=KMV24623.1;gbkey=CDS;locus_tag=AB987_3815;product=hypothetical protein;protein_id=KMV24623.1;transl_table=11
+CP021348.1	Genbank	gene	23422	23613	.	-	.	ID=gene-AB987_3816;Name=AB987_3816;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3816
+CP021348.1	Genbank	CDS	23422	23613	.	-	0	ID=cds-KMV24614.1;Parent=gene-AB987_3816;Dbxref=NCBI_GP:KMV24614.1;Name=KMV24614.1;gbkey=CDS;locus_tag=AB987_3816;product=hypothetical protein;protein_id=KMV24614.1;transl_table=11
+CP021348.1	Genbank	gene	24982	25905	.	+	.	ID=gene-AB987_3785;Name=AB987_3785;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB987_3785
+CP021348.1	Genbank	CDS	24982	25905	.	+	0	ID=cds-KMV24627.1;Parent=gene-AB987_3785;Dbxref=NCBI_GP:KMV24627.1;Name=KMV24627.1;gbkey=CDS;locus_tag=AB987_3785;product=initiator Replication family protein;protein_id=KMV24627.1;transl_table=11
+

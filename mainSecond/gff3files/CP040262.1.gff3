@@ -1,0 +1,14 @@
+##sequence-region CP040262.1 1 5464
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP040262.1	Genbank	region	1	5464	.	+	.	ID=CP040262.1:1..5464;Dbxref=taxon:470;Is_circular=true;Name=unnamed3;collected-by=Post Graduate Institute of Medical Education and Research;collection-date=2018;country=India;gbkey=Src;genome=plasmid;isolation-source=Pus;lat-lon=30.7650 N 76.7750 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=unnamed3;strain=P7774
+CP040262.1	Genbank	gene	785	1723	.	-	.	ID=gene-FED54_21355;Name=FED54_21355;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FED54_21355
+CP040262.1	Protein Homology	CDS	785	1723	.	-	0	ID=cds-QCR91187.1;Parent=gene-FED54_21355;Dbxref=NCBI_GP:QCR91187.1;Name=QCR91187.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000798284.1;locus_tag=FED54_21355;product=replication initiation protein;protein_id=QCR91187.1;transl_table=11
+CP040262.1	Genbank	gene	2274	2537	.	-	.	ID=gene-FED54_21360;Name=FED54_21360;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FED54_21360
+CP040262.1	GeneMarkS-2+	CDS	2274	2537	.	-	0	ID=cds-QCR91188.1;Parent=gene-FED54_21360;Dbxref=NCBI_GP:QCR91188.1;Name=QCR91188.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=FED54_21360;product=hypothetical protein;protein_id=QCR91188.1;transl_table=11
+CP040262.1	Genbank	gene	3156	4049	.	+	.	ID=gene-FED54_21365;Name=FED54_21365;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FED54_21365
+CP040262.1	Protein Homology	CDS	3156	4049	.	+	0	ID=cds-QCR91190.1;Parent=gene-FED54_21365;Dbxref=NCBI_GP:QCR91190.1;Name=QCR91190.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_017402718.1;locus_tag=FED54_21365;product=integrase;protein_id=QCR91190.1;transl_table=11
+CP040262.1	Genbank	gene	4050	4289	.	+	.	ID=gene-FED54_21370;Name=FED54_21370;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FED54_21370
+CP040262.1	Protein Homology	CDS	4050	4289	.	+	0	ID=cds-QCR91189.1;Parent=gene-FED54_21370;Dbxref=NCBI_GP:QCR91189.1;Name=QCR91189.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004918667.1;locus_tag=FED54_21370;product=hypothetical protein;protein_id=QCR91189.1;transl_table=11
+CP040262.1	Genbank	pseudogene	4653	6083	.	+	.	ID=gene-FED54_21350;Name=FED54_21350;gbkey=Gene;gene_biotype=pseudogene;locus_tag=FED54_21350;pseudo=true
+CP040262.1	Protein Homology	CDS	4653	6083	.	+	0	ID=cds-FED54_21350;Parent=gene-FED54_21350;Note=incomplete%3B partial on complete genome%3B missing N-terminus;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_017402720.1;locus_tag=FED54_21350;product=type IV secretory system conjugative DNA transfer family protein;pseudo=true;transl_table=11
+

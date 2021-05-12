@@ -1,0 +1,16 @@
+##sequence-region CP065394.1 1 6078
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP065394.1	Genbank	region	1	6078	.	+	.	ID=CP065394.1:1..6078;Dbxref=taxon:470;Is_circular=true;Name=pAbBAS-1.2;collected-by=Lucia Gallego;collection-date=2019;country=Spain: Bilbao;gbkey=Src;genome=plasmid;isolation-source=clinical;lat-lon=43.2 N 2.5 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pAbBAS-1.2;strain=AbBAS-1
+CP065394.1	Genbank	gene	470	1156	.	+	.	ID=gene-I5592_19660;Name=I5592_19660;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I5592_19660
+CP065394.1	Protein Homology	CDS	470	1156	.	+	0	ID=cds-QPN36873.1;Parent=gene-I5592_19660;Dbxref=NCBI_GP:QPN36873.1;Name=QPN36873.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004986708.1;locus_tag=I5592_19660;product=pentapeptide repeat-containing protein;protein_id=QPN36873.1;transl_table=11
+CP065394.1	Genbank	gene	1247	1780	.	+	.	ID=gene-I5592_19665;Name=aadB;gbkey=Gene;gene=aadB;gene_biotype=protein_coding;locus_tag=I5592_19665
+CP065394.1	Protein Homology	CDS	1247	1780	.	+	0	ID=cds-QPN36876.1;Parent=gene-I5592_19665;Dbxref=NCBI_GP:QPN36876.1;Name=QPN36876.1;gbkey=CDS;gene=aadB;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000381802.1;locus_tag=I5592_19665;product=aminoglycoside nucleotidyltransferase ANT(2'')-Ia;protein_id=QPN36876.1;transl_table=11
+CP065394.1	Genbank	gene	1939	2607	.	-	.	ID=gene-I5592_19670;Name=I5592_19670;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I5592_19670
+CP065394.1	Protein Homology	CDS	1939	2607	.	-	0	ID=cds-QPN36874.1;Parent=gene-I5592_19670;Dbxref=NCBI_GP:QPN36874.1;Name=QPN36874.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000423610.1;locus_tag=I5592_19670;product=Abi family protein;protein_id=QPN36874.1;transl_table=11
+CP065394.1	Genbank	gene	2740	3285	.	-	.	ID=gene-I5592_19675;Name=I5592_19675;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I5592_19675
+CP065394.1	Protein Homology	CDS	2740	3285	.	-	0	ID=cds-QPN36875.1;Parent=gene-I5592_19675;Dbxref=NCBI_GP:QPN36875.1;Name=QPN36875.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_010589060.1;locus_tag=I5592_19675;product=hypothetical protein;protein_id=QPN36875.1;transl_table=11
+CP065394.1	Genbank	gene	3334	5148	.	-	.	ID=gene-I5592_19680;Name=I5592_19680;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I5592_19680
+CP065394.1	Protein Homology	CDS	3334	5148	.	-	0	ID=cds-QPN36871.1;Parent=gene-I5592_19680;Dbxref=NCBI_GP:QPN36871.1;Name=QPN36871.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000634474.1;locus_tag=I5592_19680;product=mobilization protein;protein_id=QPN36871.1;transl_table=11
+CP065394.1	Genbank	gene	5138	5545	.	-	.	ID=gene-I5592_19685;Name=I5592_19685;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I5592_19685
+CP065394.1	Protein Homology	CDS	5138	5545	.	-	0	ID=cds-QPN36872.1;Parent=gene-I5592_19685;Dbxref=NCBI_GP:QPN36872.1;Name=QPN36872.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000016535.1;locus_tag=I5592_19685;product=MobC family plasmid mobilization relaxosome protein;protein_id=QPN36872.1;transl_table=11
+

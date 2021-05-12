@@ -1,0 +1,16 @@
+##sequence-region CP027181.1 1 6078
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP027181.1	Genbank	region	1	6078	.	+	.	ID=CP027181.1:1..6078;Dbxref=taxon:470;Is_circular=true;Name=unnamed3;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=unnamed3;strain=AR_0070
+CP027181.1	Genbank	gene	4	672	.	-	.	ID=gene-CSB70_0001;Name=CSB70_0001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_0001
+CP027181.1	Genbank	CDS	4	672	.	-	0	ID=cds-AVI35225.1;Parent=gene-CSB70_0001;Dbxref=NCBI_GP:AVI35225.1;Name=AVI35225.1;gbkey=CDS;locus_tag=CSB70_0001;product=abi-like family protein;protein_id=AVI35225.1;transl_table=11
+CP027181.1	Genbank	gene	805	1350	.	-	.	ID=gene-CSB70_0002;Name=CSB70_0002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_0002
+CP027181.1	Genbank	CDS	805	1350	.	-	0	ID=cds-AVI35226.1;Parent=gene-CSB70_0002;Dbxref=NCBI_GP:AVI35226.1;Name=AVI35226.1;gbkey=CDS;locus_tag=CSB70_0002;product=hypothetical protein;protein_id=AVI35226.1;transl_table=11
+CP027181.1	Genbank	gene	1399	3213	.	-	.	ID=gene-CSB70_0003;Name=CSB70_0003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_0003
+CP027181.1	Genbank	CDS	1399	3213	.	-	0	ID=cds-AVI35227.1;Parent=gene-CSB70_0003;Dbxref=NCBI_GP:AVI35227.1;Name=AVI35227.1;gbkey=CDS;locus_tag=CSB70_0003;product=putative mobA;protein_id=AVI35227.1;transl_table=11
+CP027181.1	Genbank	gene	3203	3610	.	-	.	ID=gene-CSB70_0004;Name=CSB70_0004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_0004
+CP027181.1	Genbank	CDS	3203	3610	.	-	0	ID=cds-AVI35228.1;Parent=gene-CSB70_0004;Dbxref=NCBI_GP:AVI35228.1;Name=AVI35228.1;gbkey=CDS;locus_tag=CSB70_0004;product=bacterial mobilization family protein;protein_id=AVI35228.1;transl_table=11
+CP027181.1	Genbank	gene	4613	5299	.	+	.	ID=gene-CSB70_0005;Name=CSB70_0005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_0005
+CP027181.1	Genbank	CDS	4613	5299	.	+	0	ID=cds-AVI35229.1;Parent=gene-CSB70_0005;Dbxref=NCBI_GP:AVI35229.1;Name=AVI35229.1;gbkey=CDS;locus_tag=CSB70_0005;product=pentapeptide repeats family protein;protein_id=AVI35229.1;transl_table=11
+CP027181.1	Genbank	gene	5390	5923	.	+	.	ID=gene-CSB70_0006;Name=CSB70_0006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_0006
+CP027181.1	Genbank	CDS	5390	5923	.	+	0	ID=cds-AVI35230.1;Parent=gene-CSB70_0006;Dbxref=NCBI_GP:AVI35230.1;Name=AVI35230.1;gbkey=CDS;locus_tag=CSB70_0006;product=aminoglycoside-2''-adenylyltransferase family protein;protein_id=AVI35230.1;transl_table=11
+

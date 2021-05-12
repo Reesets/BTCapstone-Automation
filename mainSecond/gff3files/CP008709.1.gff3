@@ -1,0 +1,10 @@
+##sequence-region CP008709.1 1 1967
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP008709.1	Genbank	region	1	1967	.	+	.	ID=CP008709.1:1..1967;Dbxref=taxon:470;Is_circular=true;Name=p3AB5075;collection-date=2008;country=USA;gbkey=Src;genome=plasmid;isolation-source=Tibia/Osteomyelitis;mol_type=genomic DNA;nat-host=diabetes patient;plasmid-name=p3AB5075;strain=AB5075-UW
+CP008709.1	Genbank	gene	1	1182	.	+	.	ID=gene-ABUW_6001;Name=ABUW_6001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABUW_6001
+CP008709.1	Genbank	CDS	1	1182	.	+	0	ID=cds-AKA33693.1;Parent=gene-ABUW_6001;Dbxref=NCBI_GP:AKA33693.1;Name=AKA33693.1;gbkey=CDS;locus_tag=ABUW_6001;product=replication protein;protein_id=AKA33693.1;transl_table=11
+CP008709.1	Genbank	gene	1185	1388	.	+	.	ID=gene-ABUW_6002;Name=ABUW_6002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABUW_6002
+CP008709.1	Genbank	CDS	1185	1388	.	+	0	ID=cds-AKA33694.1;Parent=gene-ABUW_6002;Dbxref=NCBI_GP:AKA33694.1;Name=AKA33694.1;gbkey=CDS;locus_tag=ABUW_6002;product=hypothetical protein;protein_id=AKA33694.1;transl_table=11
+CP008709.1	Genbank	gene	1642	1893	.	+	.	ID=gene-ABUW_6003;Name=ABUW_6003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABUW_6003
+CP008709.1	Genbank	CDS	1642	1893	.	+	0	ID=cds-AKA33695.1;Parent=gene-ABUW_6003;Dbxref=NCBI_GP:AKA33695.1;Name=AKA33695.1;gbkey=CDS;locus_tag=ABUW_6003;product=hypothetical protein;protein_id=AKA33695.1;transl_table=11
+

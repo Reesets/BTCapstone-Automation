@@ -1,0 +1,4 @@
+##sequence-region CP060732.1 1 4103762
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP060732.1	Genbank	region	1	4103762	.	+	.	ID=CP060732.1:1..4103762;Dbxref=taxon:470;Is_circular=true;Name=ANONYMOUS;collected-by=Henan Li;collection-date=23-Apr-2018;country=China:Beijing;gbkey=Src;genome=chromosome;isolation-source=bronchial;lat-lon=39.9 N 116.05 E;mol_type=genomic DNA;nat-host=Homo sapiens;strain=abA1
+

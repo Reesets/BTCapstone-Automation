@@ -1,0 +1,143 @@
+##sequence-region CP013925.1 1 52517
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP013925.1	Genbank	region	1	52517	.	+	.	ID=CP013925.1:1..52517;Dbxref=taxon:470;Is_circular=true;Name=pKBN10P02143;collection-date=2012-02-13;country=South Korea:Daegu;gbkey=Src;genome=plasmid;isolation-source=pus;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pKBN10P02143;strain=KBN10P02143
+CP013925.1	Genbank	gene	97	420	.	-	.	ID=gene-KBNAB1_3883;Name=KBNAB1_3883;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3883
+CP013925.1	Genbank	CDS	97	420	.	-	0	ID=cds-ALY01389.1;Parent=gene-KBNAB1_3883;Dbxref=NCBI_GP:ALY01389.1;Name=ALY01389.1;Note=Pfam:pfam00816 H-NS histone family;gbkey=CDS;locus_tag=KBNAB1_3883;product=H-NS histone family protein;protein_id=ALY01389.1;transl_table=11
+CP013925.1	Genbank	gene	851	1384	.	+	.	ID=gene-KBNAB1_3884;Name=KBNAB1_3884;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3884
+CP013925.1	Genbank	CDS	851	1384	.	+	0	ID=cds-ALY01390.1;Parent=gene-KBNAB1_3884;Dbxref=NCBI_GP:ALY01390.1;Name=ALY01390.1;gbkey=CDS;locus_tag=KBNAB1_3884;product=hypothetical protein;protein_id=ALY01390.1;transl_table=11
+CP013925.1	Genbank	gene	1832	2530	.	+	.	ID=gene-KBNAB1_3885;Name=KBNAB1_3885;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3885
+CP013925.1	Genbank	CDS	1832	2530	.	+	0	ID=cds-ALY01391.1;Parent=gene-KBNAB1_3885;Dbxref=NCBI_GP:ALY01391.1;Name=ALY01391.1;Note=Pfam:pfam02086 D12 class N6 adenine-specific DNA methyltransferase;gbkey=CDS;locus_tag=KBNAB1_3885;product=hypothetical protein;protein_id=ALY01391.1;transl_table=11
+CP013925.1	Genbank	gene	2650	2838	.	+	.	ID=gene-KBNAB1_3886;Name=KBNAB1_3886;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3886
+CP013925.1	Genbank	CDS	2650	2838	.	+	0	ID=cds-ALY01392.1;Parent=gene-KBNAB1_3886;Dbxref=NCBI_GP:ALY01392.1;Name=ALY01392.1;gbkey=CDS;locus_tag=KBNAB1_3886;product=hypothetical protein;protein_id=ALY01392.1;transl_table=11
+CP013925.1	Genbank	gene	2825	3100	.	+	.	ID=gene-KBNAB1_3887;Name=KBNAB1_3887;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3887
+CP013925.1	Genbank	CDS	2825	3100	.	+	0	ID=cds-ALY01393.1;Parent=gene-KBNAB1_3887;Dbxref=NCBI_GP:ALY01393.1;Name=ALY01393.1;Note=Pfam:pfam05016 Plasmid stabilisation system protein;gbkey=CDS;locus_tag=KBNAB1_3887;product=hypothetical protein;protein_id=ALY01393.1;transl_table=11
+CP013925.1	Genbank	gene	3144	3692	.	-	.	ID=gene-KBNAB1_3888;Name=KBNAB1_3888;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3888
+CP013925.1	Genbank	CDS	3144	3692	.	-	0	ID=cds-ALY01394.1;Parent=gene-KBNAB1_3888;Dbxref=NCBI_GP:ALY01394.1;Name=ALY01394.1;Note=Pfam:pfam01464 Transglycosylase SLT domain;gbkey=CDS;locus_tag=KBNAB1_3888;product=hypothetical protein;protein_id=ALY01394.1;transl_table=11
+CP013925.1	Genbank	gene	3737	6703	.	-	.	ID=gene-KBNAB1_3889;Name=KBNAB1_3889;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3889
+CP013925.1	Genbank	CDS	3737	6703	.	-	0	ID=cds-ALY01395.1;Parent=gene-KBNAB1_3889;Dbxref=NCBI_GP:ALY01395.1;Name=ALY01395.1;Note=Pfam:pfam07916 TraG-like protein%2C N-terminal region;gbkey=CDS;locus_tag=KBNAB1_3889;product=TraG-like protein%2C domain protein;protein_id=ALY01395.1;transl_table=11
+CP013925.1	Genbank	gene	6719	8143	.	-	.	ID=gene-KBNAB1_3890;Name=KBNAB1_3890;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3890
+CP013925.1	Genbank	CDS	6719	8143	.	-	0	ID=cds-ALY01396.1;Parent=gene-KBNAB1_3890;Dbxref=NCBI_GP:ALY01396.1;Name=ALY01396.1;Note=Pfam:pfam06122 Conjugative relaxosome accessory transposon protein;gbkey=CDS;locus_tag=KBNAB1_3890;product=TraH protein;protein_id=ALY01396.1;transl_table=11
+CP013925.1	Genbank	signal_peptide_region_of_CDS	8072	8143	.	-	.	ID=id-ALY01396.1:1..24;Parent=cds-ALY01396.1;gbkey=Prot
+CP013925.1	Genbank	gene	8153	8977	.	-	.	ID=gene-KBNAB1_3891;Name=KBNAB1_3891;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3891
+CP013925.1	Genbank	CDS	8153	8977	.	-	0	ID=cds-ALY01397.1;Parent=gene-KBNAB1_3891;Dbxref=NCBI_GP:ALY01397.1;Name=ALY01397.1;Note=Pfam:pfam13728 F plasmid transfer operon protein;gbkey=CDS;locus_tag=KBNAB1_3891;product=TraF-like protein;protein_id=ALY01397.1;transl_table=11
+CP013925.1	Genbank	gene	8964	11654	.	-	.	ID=gene-KBNAB1_3892;Name=KBNAB1_3892;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3892
+CP013925.1	Genbank	CDS	8964	11654	.	-	0	ID=cds-ALY01398.1;Parent=gene-KBNAB1_3892;Dbxref=NCBI_GP:ALY01398.1;Name=ALY01398.1;Note=Pfam:pfam06986 Type-1V conjugative transfer system mating pair stabilisation;gbkey=CDS;locus_tag=KBNAB1_3892;product=Mating pair stabilization protein TraN;protein_id=ALY01398.1;transl_table=11
+CP013925.1	Genbank	signal_peptide_region_of_CDS	11595	11654	.	-	.	ID=id-ALY01398.1:1..20;Parent=cds-ALY01398.1;gbkey=Prot
+CP013925.1	Genbank	gene	11647	12375	.	-	.	ID=gene-KBNAB1_3893;Name=KBNAB1_3893;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3893
+CP013925.1	Genbank	CDS	11647	12375	.	-	0	ID=cds-ALY01399.1;Parent=gene-KBNAB1_3893;Dbxref=NCBI_GP:ALY01399.1;Name=ALY01399.1;Note=Pfam:pfam09673 Type-F conjugative transfer system pilin assembly protein;gbkey=CDS;locus_tag=KBNAB1_3893;product=Type-F conjugative transfer system pilin assembly protein TrbC;protein_id=ALY01399.1;transl_table=11
+CP013925.1	Genbank	signal_peptide_region_of_CDS	12310	12375	.	-	.	ID=id-ALY01399.1:1..22;Parent=cds-ALY01399.1;gbkey=Prot
+CP013925.1	Genbank	gene	12387	13424	.	-	.	ID=gene-KBNAB1_3894;Name=KBNAB1_3894;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3894
+CP013925.1	Genbank	CDS	12387	13424	.	-	0	ID=cds-ALY01400.1;Parent=gene-KBNAB1_3894;Dbxref=NCBI_GP:ALY01400.1;Name=ALY01400.1;Note=Pfam:pfam06834 TraU protein;gbkey=CDS;locus_tag=KBNAB1_3894;product=Conjugal transfer protein;protein_id=ALY01400.1;transl_table=11
+CP013925.1	Genbank	signal_peptide_region_of_CDS	13362	13424	.	-	.	ID=id-ALY01400.1:1..21;Parent=cds-ALY01400.1;gbkey=Prot
+CP013925.1	Genbank	gene	13421	14062	.	-	.	ID=gene-KBNAB1_3895;Name=KBNAB1_3895;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3895
+CP013925.1	Genbank	CDS	13421	14062	.	-	0	ID=cds-ALY01401.1;Parent=gene-KBNAB1_3895;Dbxref=NCBI_GP:ALY01401.1;Name=ALY01401.1;gbkey=CDS;locus_tag=KBNAB1_3895;product=Type-F conjugative transfer system protein TraW;protein_id=ALY01401.1;transl_table=11
+CP013925.1	Genbank	signal_peptide_region_of_CDS	13994	14062	.	-	.	ID=id-ALY01401.1:1..23;Parent=cds-ALY01401.1;gbkey=Prot
+CP013925.1	Genbank	gene	14049	14540	.	-	.	ID=gene-KBNAB1_3896;Name=KBNAB1_3896;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3896
+CP013925.1	Genbank	CDS	14049	14540	.	-	0	ID=cds-ALY01402.1;Parent=gene-KBNAB1_3896;Dbxref=NCBI_GP:ALY01402.1;Name=ALY01402.1;Note=Pfam:pfam10502 Signal peptidase%2C peptidase S26;gbkey=CDS;locus_tag=KBNAB1_3896;product=Conjugative transfer signal peptidase TraF;protein_id=ALY01402.1;transl_table=11
+CP013925.1	Genbank	gene	14537	15016	.	-	.	ID=gene-KBNAB1_3897;Name=KBNAB1_3897;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3897
+CP013925.1	Genbank	CDS	14537	15016	.	-	0	ID=cds-ALY01403.1;Parent=gene-KBNAB1_3897;Dbxref=NCBI_GP:ALY01403.1;Name=ALY01403.1;gbkey=CDS;locus_tag=KBNAB1_3897;product=hypothetical protein;protein_id=ALY01403.1;transl_table=11
+CP013925.1	Genbank	gene	15013	17622	.	-	.	ID=gene-KBNAB1_3898;Name=KBNAB1_3898;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3898
+CP013925.1	Genbank	CDS	15013	17622	.	-	0	ID=cds-ALY01404.1;Parent=gene-KBNAB1_3898;Dbxref=NCBI_GP:ALY01404.1;Name=ALY01404.1;Note=Pfam:pfam12846 AAA-like domain;gbkey=CDS;locus_tag=KBNAB1_3898;product=Type-IV secretion system protein TraC;protein_id=ALY01404.1;transl_table=11
+CP013925.1	Genbank	gene	17627	18319	.	-	.	ID=gene-KBNAB1_3899;Name=KBNAB1_3899;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3899
+CP013925.1	Genbank	CDS	17627	18319	.	-	0	ID=cds-ALY01405.1;Parent=gene-KBNAB1_3899;Dbxref=NCBI_GP:ALY01405.1;Name=ALY01405.1;Note=Pfam:pfam09676 Type IV conjugative transfer system lipoprotein (TraV);gbkey=CDS;locus_tag=KBNAB1_3899;product=Type IV conjugative transfer system protein TraV;protein_id=ALY01405.1;transl_table=11
+CP013925.1	Genbank	gene	18309	19037	.	-	.	ID=gene-KBNAB1_3900;Name=KBNAB1_3900;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3900
+CP013925.1	Genbank	CDS	18309	19037	.	-	0	ID=cds-ALY01406.1;Parent=gene-KBNAB1_3900;Dbxref=NCBI_GP:ALY01406.1;Name=ALY01406.1;Note=Pfam:pfam10411 Disulfide bond isomerase protein N-terminus;gbkey=CDS;locus_tag=KBNAB1_3900;product=hypothetical protein;protein_id=ALY01406.1;transl_table=11
+CP013925.1	Genbank	signal_peptide_region_of_CDS	18975	19037	.	-	.	ID=id-ALY01406.1:1..21;Parent=cds-ALY01406.1;gbkey=Prot
+CP013925.1	Genbank	gene	19039	20358	.	-	.	ID=gene-KBNAB1_3901;Name=KBNAB1_3901;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3901
+CP013925.1	Genbank	CDS	19039	20358	.	-	0	ID=cds-ALY01407.1;Parent=gene-KBNAB1_3901;Dbxref=NCBI_GP:ALY01407.1;Name=ALY01407.1;Note=Pfam:pfam03743 Bacterial conjugation TrbI-like protein;gbkey=CDS;locus_tag=KBNAB1_3901;product=TraB pilus assembly protein;protein_id=ALY01407.1;transl_table=11
+CP013925.1	Genbank	gene	20369	21091	.	-	.	ID=gene-KBNAB1_3902;Name=KBNAB1_3902;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3902
+CP013925.1	Genbank	CDS	20369	21091	.	-	0	ID=cds-ALY01408.1;Parent=gene-KBNAB1_3902;Dbxref=NCBI_GP:ALY01408.1;Name=ALY01408.1;Note=Pfam:pfam06586 TraK protein;gbkey=CDS;locus_tag=KBNAB1_3902;product=hypothetical protein;protein_id=ALY01408.1;transl_table=11
+CP013925.1	Genbank	signal_peptide_region_of_CDS	21026	21091	.	-	.	ID=id-ALY01408.1:1..22;Parent=cds-ALY01408.1;gbkey=Prot
+CP013925.1	Genbank	gene	21078	21650	.	-	.	ID=gene-KBNAB1_3903;Name=KBNAB1_3903;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3903
+CP013925.1	Genbank	CDS	21078	21650	.	-	0	ID=cds-ALY01409.1;Parent=gene-KBNAB1_3903;Dbxref=NCBI_GP:ALY01409.1;Name=ALY01409.1;Note=Pfam:pfam05309 TraE protein;gbkey=CDS;locus_tag=KBNAB1_3903;product=Type IV conjugative transfer system protein TraE;protein_id=ALY01409.1;transl_table=11
+CP013925.1	Genbank	gene	21658	21945	.	-	.	ID=gene-KBNAB1_3904;Name=KBNAB1_3904;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3904
+CP013925.1	Genbank	CDS	21658	21945	.	-	0	ID=cds-ALY01410.1;Parent=gene-KBNAB1_3904;Dbxref=NCBI_GP:ALY01410.1;Name=ALY01410.1;Note=Pfam:pfam07178 TraL protein;gbkey=CDS;locus_tag=KBNAB1_3904;product=Type IV conjugative transfer system protein TraL;protein_id=ALY01410.1;transl_table=11
+CP013925.1	Genbank	gene	21977	22333	.	-	.	ID=gene-KBNAB1_3905;Name=KBNAB1_3905;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3905
+CP013925.1	Genbank	CDS	21977	22333	.	-	0	ID=cds-ALY01411.1;Parent=gene-KBNAB1_3905;Dbxref=NCBI_GP:ALY01411.1;Name=ALY01411.1;gbkey=CDS;locus_tag=KBNAB1_3905;product=hypothetical protein;protein_id=ALY01411.1;transl_table=11
+CP013925.1	Genbank	signal_peptide_region_of_CDS	22196	22333	.	-	.	ID=id-ALY01411.1:1..46;Parent=cds-ALY01411.1;gbkey=Prot
+CP013925.1	Genbank	gene	22410	22718	.	-	.	ID=gene-KBNAB1_3906;Name=KBNAB1_3906;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3906
+CP013925.1	Genbank	CDS	22410	22718	.	-	0	ID=cds-ALY01412.1;Parent=gene-KBNAB1_3906;Dbxref=NCBI_GP:ALY01412.1;Name=ALY01412.1;gbkey=CDS;locus_tag=KBNAB1_3906;product=hypothetical protein;protein_id=ALY01412.1;transl_table=11
+CP013925.1	Genbank	signal_peptide_region_of_CDS	22653	22718	.	-	.	ID=id-ALY01412.1:1..22;Parent=cds-ALY01412.1;gbkey=Prot
+CP013925.1	Genbank	gene	22742	23368	.	-	.	ID=gene-KBNAB1_3907;Name=KBNAB1_3907;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3907
+CP013925.1	Genbank	CDS	22742	23368	.	-	0	ID=cds-ALY01413.1;Parent=gene-KBNAB1_3907;Dbxref=NCBI_GP:ALY01413.1;Name=ALY01413.1;Note=Pfam:pfam01464 Transglycosylase SLT domain;gbkey=CDS;locus_tag=KBNAB1_3907;product=hypothetical protein;protein_id=ALY01413.1;transl_table=11
+CP013925.1	Genbank	gene	23548	23835	.	-	.	ID=gene-KBNAB1_3908;Name=KBNAB1_3908;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3908
+CP013925.1	Genbank	CDS	23548	23835	.	-	0	ID=cds-ALY01414.1;Parent=gene-KBNAB1_3908;Dbxref=NCBI_GP:ALY01414.1;Name=ALY01414.1;Note=Pfam:pfam07178 TraL protein;gbkey=CDS;locus_tag=KBNAB1_3908;product=Type IV conjugative transfer system protein TraL;protein_id=ALY01414.1;transl_table=11
+CP013925.1	Genbank	gene	23867	24223	.	-	.	ID=gene-KBNAB1_3909;Name=KBNAB1_3909;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3909
+CP013925.1	Genbank	CDS	23867	24223	.	-	0	ID=cds-ALY01415.1;Parent=gene-KBNAB1_3909;Dbxref=NCBI_GP:ALY01415.1;Name=ALY01415.1;gbkey=CDS;locus_tag=KBNAB1_3909;product=hypothetical protein;protein_id=ALY01415.1;transl_table=11
+CP013925.1	Genbank	signal_peptide_region_of_CDS	24086	24223	.	-	.	ID=id-ALY01415.1:1..46;Parent=cds-ALY01415.1;gbkey=Prot
+CP013925.1	Genbank	gene	24944	25384	.	-	.	ID=gene-KBNAB1_3911;Name=KBNAB1_3911;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3911
+CP013925.1	Genbank	CDS	24944	25384	.	-	0	ID=cds-ALY01416.1;Parent=gene-KBNAB1_3911;Dbxref=NCBI_GP:ALY01416.1;Name=ALY01416.1;gbkey=CDS;locus_tag=KBNAB1_3911;product=hypothetical protein;protein_id=ALY01416.1;transl_table=11
+CP013925.1	Genbank	gene	25496	28774	.	-	.	ID=gene-KBNAB1_3912;Name=KBNAB1_3912;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3912
+CP013925.1	Genbank	CDS	25496	28774	.	-	0	ID=cds-ALY01417.1;Parent=gene-KBNAB1_3912;Dbxref=NCBI_GP:ALY01417.1;Name=ALY01417.1;Note=Pfam:pfam08751 TrwC relaxase;gbkey=CDS;locus_tag=KBNAB1_3912;product=Conjugative relaxase domain protein;protein_id=ALY01417.1;transl_table=11
+CP013925.1	Genbank	gene	28777	30906	.	-	.	ID=gene-KBNAB1_3913;Name=KBNAB1_3913;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3913
+CP013925.1	Genbank	CDS	28777	30906	.	-	0	ID=cds-ALY01418.1;Parent=gene-KBNAB1_3913;Dbxref=NCBI_GP:ALY01418.1;Name=ALY01418.1;Note=Pfam:pfam10412 Type IV secretion-system coupling protein DNA-binding domain;gbkey=CDS;locus_tag=KBNAB1_3913;product=Type IV conjugative transfer system coupling protein TraD;protein_id=ALY01418.1;transl_table=11
+CP013925.1	Genbank	gene	30903	31289	.	-	.	ID=gene-KBNAB1_3914;Name=KBNAB1_3914;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3914
+CP013925.1	Genbank	CDS	30903	31289	.	-	0	ID=cds-ALY01419.1;Parent=gene-KBNAB1_3914;Dbxref=NCBI_GP:ALY01419.1;Name=ALY01419.1;gbkey=CDS;locus_tag=KBNAB1_3914;product=hypothetical protein;protein_id=ALY01419.1;transl_table=11
+CP013925.1	Genbank	gene	31786	32154	.	+	.	ID=gene-KBNAB1_3915;Name=KBNAB1_3915;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3915
+CP013925.1	Genbank	CDS	31786	32154	.	+	0	ID=cds-ALY01420.1;Parent=gene-KBNAB1_3915;Dbxref=NCBI_GP:ALY01420.1;Name=ALY01420.1;gbkey=CDS;locus_tag=KBNAB1_3915;product=hypothetical protein;protein_id=ALY01420.1;transl_table=11
+CP013925.1	Genbank	gene	32203	32490	.	-	.	ID=gene-KBNAB1_3916;Name=KBNAB1_3916;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3916
+CP013925.1	Genbank	CDS	32203	32490	.	-	0	ID=cds-ALY01421.1;Parent=gene-KBNAB1_3916;Dbxref=NCBI_GP:ALY01421.1;Name=ALY01421.1;gbkey=CDS;locus_tag=KBNAB1_3916;product=hypothetical protein;protein_id=ALY01421.1;transl_table=11
+CP013925.1	Genbank	gene	33345	33575	.	+	.	ID=gene-KBNAB1_3917;Name=KBNAB1_3917;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3917
+CP013925.1	Genbank	CDS	33345	33575	.	+	0	ID=cds-ALY01422.1;Parent=gene-KBNAB1_3917;Dbxref=NCBI_GP:ALY01422.1;Name=ALY01422.1;gbkey=CDS;locus_tag=KBNAB1_3917;product=hypothetical protein;protein_id=ALY01422.1;transl_table=11
+CP013925.1	Genbank	gene	33637	34449	.	-	.	ID=gene-KBNAB1_3918;Name=KBNAB1_3918;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3918
+CP013925.1	Genbank	CDS	33637	34449	.	-	0	ID=cds-ALY01423.1;Parent=gene-KBNAB1_3918;Dbxref=NCBI_GP:ALY01423.1;Name=ALY01423.1;gbkey=CDS;locus_tag=KBNAB1_3918;product=hypothetical protein;protein_id=ALY01423.1;transl_table=11
+CP013925.1	Genbank	gene	34567	34914	.	-	.	ID=gene-KBNAB1_3919;Name=KBNAB1_3919;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3919
+CP013925.1	Genbank	CDS	34567	34914	.	-	0	ID=cds-ALY01424.1;Parent=gene-KBNAB1_3919;Dbxref=NCBI_GP:ALY01424.1;Name=ALY01424.1;gbkey=CDS;locus_tag=KBNAB1_3919;product=hypothetical protein;protein_id=ALY01424.1;transl_table=11
+CP013925.1	Genbank	gene	34932	35963	.	-	.	ID=gene-KBNAB1_3920;Name=KBNAB1_3920;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3920
+CP013925.1	Genbank	CDS	34932	35963	.	-	0	ID=cds-ALY01425.1;Parent=gene-KBNAB1_3920;Dbxref=NCBI_GP:ALY01425.1;Name=ALY01425.1;gbkey=CDS;locus_tag=KBNAB1_3920;product=hypothetical protein;protein_id=ALY01425.1;transl_table=11
+CP013925.1	Genbank	gene	36097	36837	.	-	.	ID=gene-KBNAB1_3921;Name=KBNAB1_3921;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3921
+CP013925.1	Genbank	CDS	36097	36837	.	-	0	ID=cds-ALY01426.1;Parent=gene-KBNAB1_3921;Dbxref=NCBI_GP:ALY01426.1;Name=ALY01426.1;gbkey=CDS;locus_tag=KBNAB1_3921;product=hypothetical protein;protein_id=ALY01426.1;transl_table=11
+CP013925.1	Genbank	gene	36864	37556	.	-	.	ID=gene-KBNAB1_3922;Name=KBNAB1_3922;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3922
+CP013925.1	Genbank	CDS	36864	37556	.	-	0	ID=cds-ALY01427.1;Parent=gene-KBNAB1_3922;Dbxref=NCBI_GP:ALY01427.1;Name=ALY01427.1;Note=Pfam:pfam00239 Resolvase%2C N terminal domain;gbkey=CDS;locus_tag=KBNAB1_3922;product=hypothetical protein;protein_id=ALY01427.1;transl_table=11
+CP013925.1	Genbank	gene	37562	37762	.	-	.	ID=gene-KBNAB1_3923;Name=KBNAB1_3923;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3923
+CP013925.1	Genbank	CDS	37562	37762	.	-	0	ID=cds-ALY01428.1;Parent=gene-KBNAB1_3923;Dbxref=NCBI_GP:ALY01428.1;Name=ALY01428.1;gbkey=CDS;locus_tag=KBNAB1_3923;product=hypothetical protein;protein_id=ALY01428.1;transl_table=11
+CP013925.1	Genbank	gene	38034	38228	.	+	.	ID=gene-KBNAB1_3924;Name=KBNAB1_3924;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3924
+CP013925.1	Genbank	CDS	38034	38228	.	+	0	ID=cds-ALY01429.1;Parent=gene-KBNAB1_3924;Dbxref=NCBI_GP:ALY01429.1;Name=ALY01429.1;gbkey=CDS;locus_tag=KBNAB1_3924;product=hypothetical protein;protein_id=ALY01429.1;transl_table=11
+CP013925.1	Genbank	gene	38244	38750	.	+	.	ID=gene-KBNAB1_3925;Name=KBNAB1_3925;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3925
+CP013925.1	Genbank	CDS	38244	38750	.	+	0	ID=cds-ALY01430.1;Parent=gene-KBNAB1_3925;Dbxref=NCBI_GP:ALY01430.1;Name=ALY01430.1;gbkey=CDS;locus_tag=KBNAB1_3925;product=hypothetical protein;protein_id=ALY01430.1;transl_table=11
+CP013925.1	Genbank	gene	38851	39264	.	+	.	ID=gene-KBNAB1_3926;Name=KBNAB1_3926;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3926
+CP013925.1	Genbank	CDS	38851	39264	.	+	0	ID=cds-ALY01431.1;Parent=gene-KBNAB1_3926;Dbxref=NCBI_GP:ALY01431.1;Name=ALY01431.1;gbkey=CDS;locus_tag=KBNAB1_3926;product=hypothetical protein;protein_id=ALY01431.1;transl_table=11
+CP013925.1	Genbank	gene	39267	39470	.	+	.	ID=gene-KBNAB1_3927;Name=KBNAB1_3927;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3927
+CP013925.1	Genbank	CDS	39267	39470	.	+	0	ID=cds-ALY01432.1;Parent=gene-KBNAB1_3927;Dbxref=NCBI_GP:ALY01432.1;Name=ALY01432.1;gbkey=CDS;locus_tag=KBNAB1_3927;product=hypothetical protein;protein_id=ALY01432.1;transl_table=11
+CP013925.1	Genbank	gene	39623	39826	.	+	.	ID=gene-KBNAB1_3928;Name=KBNAB1_3928;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3928
+CP013925.1	Genbank	CDS	39623	39826	.	+	0	ID=cds-ALY01433.1;Parent=gene-KBNAB1_3928;Dbxref=NCBI_GP:ALY01433.1;Name=ALY01433.1;gbkey=CDS;locus_tag=KBNAB1_3928;product=hypothetical protein;protein_id=ALY01433.1;transl_table=11
+CP013925.1	Genbank	gene	39823	40266	.	-	.	ID=gene-KBNAB1_3929;Name=KBNAB1_3929;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3929
+CP013925.1	Genbank	CDS	39823	40266	.	-	0	ID=cds-ALY01434.1;Parent=gene-KBNAB1_3929;Dbxref=NCBI_GP:ALY01434.1;Name=ALY01434.1;gbkey=CDS;locus_tag=KBNAB1_3929;product=hypothetical protein;protein_id=ALY01434.1;transl_table=11
+CP013925.1	Genbank	gene	40283	40633	.	-	.	ID=gene-KBNAB1_3930;Name=KBNAB1_3930;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3930
+CP013925.1	Genbank	CDS	40283	40633	.	-	0	ID=cds-ALY01435.1;Parent=gene-KBNAB1_3930;Dbxref=NCBI_GP:ALY01435.1;Name=ALY01435.1;gbkey=CDS;locus_tag=KBNAB1_3930;product=hypothetical protein;protein_id=ALY01435.1;transl_table=11
+CP013925.1	Genbank	gene	41118	41318	.	-	.	ID=gene-KBNAB1_3931;Name=KBNAB1_3931;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3931
+CP013925.1	Genbank	CDS	41118	41318	.	-	0	ID=cds-ALY01436.1;Parent=gene-KBNAB1_3931;Dbxref=NCBI_GP:ALY01436.1;Name=ALY01436.1;gbkey=CDS;locus_tag=KBNAB1_3931;product=hypothetical protein;protein_id=ALY01436.1;transl_table=11
+CP013925.1	Genbank	gene	41342	41794	.	-	.	ID=gene-KBNAB1_3932;Name=KBNAB1_3932;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3932
+CP013925.1	Genbank	CDS	41342	41794	.	-	0	ID=cds-ALY01437.1;Parent=gene-KBNAB1_3932;Dbxref=NCBI_GP:ALY01437.1;Name=ALY01437.1;gbkey=CDS;locus_tag=KBNAB1_3932;product=hypothetical protein;protein_id=ALY01437.1;transl_table=11
+CP013925.1	Genbank	gene	41804	42322	.	-	.	ID=gene-KBNAB1_3933;Name=KBNAB1_3933;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3933
+CP013925.1	Genbank	CDS	41804	42322	.	-	0	ID=cds-ALY01438.1;Parent=gene-KBNAB1_3933;Dbxref=NCBI_GP:ALY01438.1;Name=ALY01438.1;gbkey=CDS;locus_tag=KBNAB1_3933;product=hypothetical protein;protein_id=ALY01438.1;transl_table=11
+CP013925.1	Genbank	gene	42363	43691	.	-	.	ID=gene-KBNAB1_3934;Name=KBNAB1_3934;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3934
+CP013925.1	Genbank	CDS	42363	43691	.	-	0	ID=cds-ALY01439.1;Parent=gene-KBNAB1_3934;Dbxref=NCBI_GP:ALY01439.1;Name=ALY01439.1;Note=Pfam:pfam08535 KorB domain;gbkey=CDS;locus_tag=KBNAB1_3934;product=hypothetical protein;protein_id=ALY01439.1;transl_table=11
+CP013925.1	Genbank	gene	43697	44461	.	-	.	ID=gene-KBNAB1_3935;Name=KBNAB1_3935;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3935
+CP013925.1	Genbank	CDS	43697	44461	.	-	0	ID=cds-ALY01440.1;Parent=gene-KBNAB1_3935;Dbxref=NCBI_GP:ALY01440.1;Name=ALY01440.1;Note=Pfam:pfam01656 CobQ/CobB/MinD/ParA nucleotide binding domain;gbkey=CDS;locus_tag=KBNAB1_3935;product=hypothetical protein;protein_id=ALY01440.1;transl_table=11
+CP013925.1	Genbank	gene	44584	44898	.	-	.	ID=gene-KBNAB1_3936;Name=KBNAB1_3936;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3936
+CP013925.1	Genbank	CDS	44584	44898	.	-	0	ID=cds-ALY01441.1;Parent=gene-KBNAB1_3936;Dbxref=NCBI_GP:ALY01441.1;Name=ALY01441.1;gbkey=CDS;locus_tag=KBNAB1_3936;product=hypothetical protein;protein_id=ALY01441.1;transl_table=11
+CP013925.1	Genbank	gene	44908	45072	.	-	.	ID=gene-KBNAB1_3937;Name=KBNAB1_3937;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3937
+CP013925.1	Genbank	CDS	44908	45072	.	-	0	ID=cds-ALY01442.1;Parent=gene-KBNAB1_3937;Dbxref=NCBI_GP:ALY01442.1;Name=ALY01442.1;gbkey=CDS;locus_tag=KBNAB1_3937;product=hypothetical protein;protein_id=ALY01442.1;transl_table=11
+CP013925.1	Genbank	gene	45122	45316	.	-	.	ID=gene-KBNAB1_3938;Name=KBNAB1_3938;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3938
+CP013925.1	Genbank	CDS	45122	45316	.	-	0	ID=cds-ALY01443.1;Parent=gene-KBNAB1_3938;Dbxref=NCBI_GP:ALY01443.1;Name=ALY01443.1;gbkey=CDS;locus_tag=KBNAB1_3938;product=hypothetical protein;protein_id=ALY01443.1;transl_table=11
+CP013925.1	Genbank	gene	45679	46050	.	-	.	ID=gene-KBNAB1_3939;Name=KBNAB1_3939;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3939
+CP013925.1	Genbank	CDS	45679	46050	.	-	0	ID=cds-ALY01444.1;Parent=gene-KBNAB1_3939;Dbxref=NCBI_GP:ALY01444.1;Name=ALY01444.1;gbkey=CDS;locus_tag=KBNAB1_3939;product=hypothetical protein;protein_id=ALY01444.1;transl_table=11
+CP013925.1	Genbank	gene	46174	46551	.	-	.	ID=gene-KBNAB1_3940;Name=KBNAB1_3940;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3940
+CP013925.1	Genbank	CDS	46174	46551	.	-	0	ID=cds-ALY01445.1;Parent=gene-KBNAB1_3940;Dbxref=NCBI_GP:ALY01445.1;Name=ALY01445.1;gbkey=CDS;locus_tag=KBNAB1_3940;product=hypothetical protein;protein_id=ALY01445.1;transl_table=11
+CP013925.1	Genbank	gene	46584	47090	.	-	.	ID=gene-KBNAB1_3941;Name=KBNAB1_3941;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3941
+CP013925.1	Genbank	CDS	46584	47090	.	-	0	ID=cds-ALY01446.1;Parent=gene-KBNAB1_3941;Dbxref=NCBI_GP:ALY01446.1;Name=ALY01446.1;gbkey=CDS;locus_tag=KBNAB1_3941;product=hypothetical protein;protein_id=ALY01446.1;transl_table=11
+CP013925.1	Genbank	gene	47100	48290	.	-	.	ID=gene-KBNAB1_3942;Name=KBNAB1_3942;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3942
+CP013925.1	Genbank	CDS	47100	48290	.	-	0	ID=cds-ALY01447.1;Parent=gene-KBNAB1_3942;Dbxref=NCBI_GP:ALY01447.1;Name=ALY01447.1;Note=Pfam:pfam06666 Protein of unknown function (DUF1173);gbkey=CDS;locus_tag=KBNAB1_3942;product=hypothetical protein;protein_id=ALY01447.1;transl_table=11
+CP013925.1	Genbank	gene	48293	49459	.	-	.	ID=gene-KBNAB1_3943;Name=KBNAB1_3943;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3943
+CP013925.1	Genbank	CDS	48293	49459	.	-	0	ID=cds-ALY01448.1;Parent=gene-KBNAB1_3943;Dbxref=NCBI_GP:ALY01448.1;Name=ALY01448.1;Note=Pfam:pfam06414 Zeta toxin;gbkey=CDS;locus_tag=KBNAB1_3943;product=hypothetical protein;protein_id=ALY01448.1;transl_table=11
+CP013925.1	Genbank	gene	49449	49709	.	-	.	ID=gene-KBNAB1_3944;Name=KBNAB1_3944;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3944
+CP013925.1	Genbank	CDS	49449	49709	.	-	0	ID=cds-ALY01449.1;Parent=gene-KBNAB1_3944;Dbxref=NCBI_GP:ALY01449.1;Name=ALY01449.1;gbkey=CDS;locus_tag=KBNAB1_3944;product=hypothetical protein;protein_id=ALY01449.1;transl_table=11
+CP013925.1	Genbank	gene	49957	51255	.	-	.	ID=gene-KBNAB1_3945;Name=KBNAB1_3945;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3945
+CP013925.1	Genbank	CDS	49957	51255	.	-	0	ID=cds-ALY01450.1;Parent=gene-KBNAB1_3945;Dbxref=NCBI_GP:ALY01450.1;Name=ALY01450.1;Note=Pfam:pfam03090 Replicase family;gbkey=CDS;locus_tag=KBNAB1_3945;product=Replicase family protein;protein_id=ALY01450.1;transl_table=11
+CP013925.1	Genbank	gene	51906	52181	.	+	.	ID=gene-KBNAB1_3946;Name=KBNAB1_3946;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3946
+CP013925.1	Genbank	CDS	51906	52181	.	+	0	ID=cds-ALY01451.1;Parent=gene-KBNAB1_3946;Dbxref=NCBI_GP:ALY01451.1;Name=ALY01451.1;gbkey=CDS;locus_tag=KBNAB1_3946;product=hypothetical protein;protein_id=ALY01451.1;transl_table=11
+CP013925.1	Genbank	signal_peptide_region_of_CDS	51906	51998	.	+	.	ID=id-ALY01451.1:1..31;Parent=cds-ALY01451.1;gbkey=Prot
+CP013925.1	Genbank	gene	52227	52505	.	+	.	ID=gene-KBNAB1_3947;Name=KBNAB1_3947;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KBNAB1_3947
+CP013925.1	Genbank	CDS	52227	52505	.	+	0	ID=cds-ALY01452.1;Parent=gene-KBNAB1_3947;Dbxref=NCBI_GP:ALY01452.1;Name=ALY01452.1;gbkey=CDS;locus_tag=KBNAB1_3947;product=hypothetical protein;protein_id=ALY01452.1;transl_table=11
+

@@ -1,0 +1,28 @@
+##sequence-region CP010400.1 1 9327
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP010400.1	Genbank	region	1	9327	.	+	.	ID=CP010400.1:1..9327;Dbxref=taxon:470;Is_circular=true;Name=p6200-9.327kb;collection-date=2012;country=Colombia;gbkey=Src;genome=plasmid;isolation-source=Bodily fluid;lat-lon=2.59 N 75.18 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=p6200-9.327kb;strain=6200
+CP010400.1	Genbank	gene	627	818	.	+	.	ID=gene-RU84_19330;Name=RU84_19330;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RU84_19330
+CP010400.1	Protein Homology	CDS	627	818	.	+	0	ID=cds-AJB69027.1;Parent=gene-RU84_19330;Dbxref=NCBI_GP:AJB69027.1;Name=AJB69027.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_004706315.1;locus_tag=RU84_19330;product=hypothetical protein;protein_id=AJB69027.1;transl_table=11
+CP010400.1	Genbank	gene	905	1756	.	-	.	ID=gene-RU84_19335;Name=RU84_19335;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RU84_19335
+CP010400.1	Protein Homology	CDS	905	1756	.	-	0	ID=cds-AJB69028.1;Parent=gene-RU84_19335;Dbxref=NCBI_GP:AJB69028.1;Name=AJB69028.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000034568.1;locus_tag=RU84_19335;product=universal stress protein;protein_id=AJB69028.1;transl_table=11
+CP010400.1	Genbank	gene	1769	3256	.	-	.	ID=gene-RU84_19340;Name=RU84_19340;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RU84_19340
+CP010400.1	Protein Homology	CDS	1769	3256	.	-	0	ID=cds-AJB69029.1;Parent=gene-RU84_19340;Dbxref=NCBI_GP:AJB69029.1;Name=AJB69029.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000953322.1;locus_tag=RU84_19340;product=sulfate transporter;protein_id=AJB69029.1;transl_table=11
+CP010400.1	Genbank	gene	4064	4420	.	+	.	ID=gene-RU84_19345;Name=RU84_19345;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RU84_19345
+CP010400.1	Protein Homology	CDS	4064	4420	.	+	0	ID=cds-AJB69030.1;Parent=gene-RU84_19345;Dbxref=NCBI_GP:AJB69030.1;Name=AJB69030.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_004967307.1;locus_tag=RU84_19345;product=toxin RelE;protein_id=AJB69030.1;transl_table=11
+CP010400.1	Genbank	gene	4413	4715	.	+	.	ID=gene-RU84_19350;Name=RU84_19350;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RU84_19350
+CP010400.1	Protein Homology	CDS	4413	4715	.	+	0	ID=cds-AJB69031.1;Parent=gene-RU84_19350;Dbxref=NCBI_GP:AJB69031.1;Name=AJB69031.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_001140618.1;locus_tag=RU84_19350;product=Cro/Cl family transcriptional regulator;protein_id=AJB69031.1;transl_table=11
+CP010400.1	Genbank	gene	4708	4917	.	+	.	ID=gene-RU84_19355;Name=RU84_19355;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RU84_19355
+CP010400.1	Protein Homology	CDS	4708	4917	.	+	0	ID=cds-AJB69032.1;Parent=gene-RU84_19355;Dbxref=NCBI_GP:AJB69032.1;Name=AJB69032.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_018680077.1;locus_tag=RU84_19355;product=hypothetical protein;protein_id=AJB69032.1;transl_table=11
+CP010400.1	Genbank	gene	5092	5610	.	+	.	ID=gene-RU84_19360;Name=RU84_19360;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RU84_19360
+CP010400.1	Protein Homology	CDS	5092	5610	.	+	0	ID=cds-AJB69033.1;Parent=gene-RU84_19360;Dbxref=NCBI_GP:AJB69033.1;Name=AJB69033.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=RU84_19360;product=Sel1 repeat protein;protein_id=AJB69033.1;transl_table=11
+CP010400.1	Genbank	gene	5649	6161	.	+	.	ID=gene-RU84_19365;Name=RU84_19365;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RU84_19365
+CP010400.1	Protein Homology	CDS	5649	6161	.	+	0	ID=cds-AJB69034.1;Parent=gene-RU84_19365;Dbxref=NCBI_GP:AJB69034.1;Name=AJB69034.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_019767798.1;locus_tag=RU84_19365;product=hypothetical protein;protein_id=AJB69034.1;transl_table=11
+CP010400.1	Genbank	gene	6268	6585	.	-	.	ID=gene-RU84_19370;Name=RU84_19370;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RU84_19370
+CP010400.1	Protein Homology	CDS	6268	6585	.	-	0	ID=cds-AJB69035.1;Parent=gene-RU84_19370;Dbxref=NCBI_GP:AJB69035.1;Name=AJB69035.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_005065053.1;locus_tag=RU84_19370;product=hypothetical protein;protein_id=AJB69035.1;transl_table=11
+CP010400.1	Genbank	gene	7014	7538	.	-	.	ID=gene-RU84_19375;Name=RU84_19375;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RU84_19375
+CP010400.1	Protein Homology	CDS	7014	7538	.	-	0	ID=cds-AJB69036.1;Parent=gene-RU84_19375;Dbxref=NCBI_GP:AJB69036.1;Name=AJB69036.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_008307689.1;locus_tag=RU84_19375;product=DNA replication protein;protein_id=AJB69036.1;transl_table=11
+CP010400.1	Genbank	gene	7617	8546	.	-	.	ID=gene-RU84_19380;Name=RU84_19380;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RU84_19380
+CP010400.1	Protein Homology	CDS	7617	8546	.	-	0	ID=cds-AJB69037.1;Parent=gene-RU84_19380;Dbxref=NCBI_GP:AJB69037.1;Name=AJB69037.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_005133531.1;locus_tag=RU84_19380;product=DNA replication protein;protein_id=AJB69037.1;transl_table=11
+CP010400.1	Genbank	gene	9273	9491	.	+	.	ID=gene-RU84_19325;Name=RU84_19325;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RU84_19325
+CP010400.1	Protein Homology	CDS	9273	9491	.	+	0	ID=cds-AJB69026.1;Parent=gene-RU84_19325;Dbxref=NCBI_GP:AJB69026.1;Name=AJB69026.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_001005328.1;locus_tag=RU84_19325;product=hypothetical protein;protein_id=AJB69026.1;transl_table=11
+

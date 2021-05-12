@@ -1,0 +1,45 @@
+##sequence-region CP045109.1 1 9540
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP045109.1	Genbank	region	1	9540	.	+	.	ID=CP045109.1:1..9540;Dbxref=taxon:470;Is_circular=true;Name=p2ATCC19606;collection-date=1948;country=USA:Georgia%2C Atlanta;culture-collection=ATCC:19606;gbkey=Src;genome=plasmid;isolation-source=urine;lat-lon=33.7490 N 84.3880 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=p2ATCC19606;strain=ATCC 19606;type-material=type strain of Acinetobacter baumannii
+CP045109.1	Genbank	sequence_feature	1	185	.	+	.	ID=id-CP045109.1:1..185;Note=iteron region;gbkey=misc_feature
+CP045109.1	Genbank	direct_repeat	1	21	.	+	.	ID=id-CP045109.1:1..21;Note=iteron 1;gbkey=repeat_region;rpt_type=direct;rpt_unit_seq=ataaaactaggtttatcgacc
+CP045109.1	Genbank	direct_repeat	23	43	.	+	.	ID=id-CP045109.1:23..43;Note=iteron 2;gbkey=repeat_region;rpt_type=direct;rpt_unit_seq=ataaaactaggtttatcgacc
+CP045109.1	Genbank	direct_repeat	45	65	.	+	.	ID=id-CP045109.1:45..65;Note=iteron 3;gbkey=repeat_region;rpt_type=direct;rpt_unit_seq=ataaaactaggtttatcgacc
+CP045109.1	Genbank	direct_repeat	67	87	.	+	.	ID=id-CP045109.1:67..87;Note=iteron 4;gbkey=repeat_region;rpt_type=direct;rpt_unit_seq=ataaaactaggtttatcgacc
+CP045109.1	Genbank	direct_repeat	89	108	.	+	.	ID=id-CP045109.1:89..108;Note=iteron 5;gbkey=repeat_region;rpt_type=direct;rpt_unit_seq=taaagctaggtttatcgacc
+CP045109.1	Genbank	gene	186	1121	.	+	.	ID=gene-FQU82_p200001;Name=repAci9;gbkey=Gene;gene=repAci9;gene_biotype=protein_coding;locus_tag=FQU82_p200001
+CP045109.1	Genbank	CDS	186	1121	.	+	0	ID=cds-QFQ03455.1;Parent=gene-FQU82_p200001;Dbxref=NCBI_GP:QFQ03455.1;Name=QFQ03455.1;Note=Replication initiation protein;gbkey=CDS;gene=repAci9;inference=similar to AA sequence:UniProtKB:P03856;locus_tag=FQU82_p200001;product=RepAci9;protein_id=QFQ03455.1;transl_table=11
+CP045109.1	Genbank	gene	1199	1717	.	+	.	ID=gene-FQU82_p200002;Name=FQU82_p200002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FQU82_p200002
+CP045109.1	Genbank	CDS	1199	1717	.	+	0	ID=cds-QFQ03456.1;Parent=gene-FQU82_p200002;Dbxref=NCBI_GP:QFQ03456.1;Name=QFQ03456.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=FQU82_p200002;product=hypothetical protein;protein_id=QFQ03456.1;transl_table=11
+CP045109.1	Genbank	recombination_feature	1868	1895	.	+	.	ID=id-CP045109.1:1868..1895;Note=pdiff site%3B XerC/XerD binding site;gbkey=misc_recomb
+CP045109.1	Genbank	gene	2166	2501	.	+	.	ID=gene-FQU82_p200003;Name=FQU82_p200003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FQU82_p200003
+CP045109.1	Genbank	CDS	2166	2501	.	+	0	ID=cds-QFQ03457.1;Parent=gene-FQU82_p200003;Dbxref=NCBI_GP:QFQ03457.1;Name=QFQ03457.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=FQU82_p200003;product=hypothetical protein;protein_id=QFQ03457.1;transl_table=11
+CP045109.1	Genbank	recombination_feature	2510	2537	.	-	.	ID=id-CP045109.1:2510..2537;Note=pdiff site%3B XerD/XerC binding site;gbkey=misc_recomb
+CP045109.1	Genbank	gene	3043	3399	.	+	.	ID=gene-FQU82_p200004;Name=higB2;gbkey=Gene;gene=higB2;gene_biotype=protein_coding;locus_tag=FQU82_p200004
+CP045109.1	Genbank	CDS	3043	3399	.	+	0	ID=cds-QFQ03458.1;Parent=gene-FQU82_p200004;Dbxref=NCBI_GP:QFQ03458.1;Name=QFQ03458.1;gbkey=CDS;gene=higB2;inference=similar to AA sequence:UniProtKB:O53468;locus_tag=FQU82_p200004;product=Putative toxin HigB2;protein_id=QFQ03458.1;transl_table=11
+CP045109.1	Genbank	gene	3392	3694	.	+	.	ID=gene-FQU82_p200005;Name=higA1;gbkey=Gene;gene=higA1;gene_biotype=protein_coding;locus_tag=FQU82_p200005
+CP045109.1	Genbank	CDS	3392	3694	.	+	0	ID=cds-QFQ03459.1;Parent=gene-FQU82_p200005;Dbxref=NCBI_GP:QFQ03459.1;Name=QFQ03459.1;gbkey=CDS;gene=higA1;inference=similar to AA sequence:UniProtKB:P9WJA7;locus_tag=FQU82_p200005;product=Antitoxin HigA1;protein_id=QFQ03459.1;transl_table=11
+CP045109.1	Genbank	gene	3687	3896	.	+	.	ID=gene-FQU82_p200006;Name=FQU82_p200006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FQU82_p200006
+CP045109.1	Genbank	CDS	3687	3896	.	+	0	ID=cds-QFQ03460.1;Parent=gene-FQU82_p200006;Dbxref=NCBI_GP:QFQ03460.1;Name=QFQ03460.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=FQU82_p200006;product=hypothetical protein;protein_id=QFQ03460.1;transl_table=11
+CP045109.1	Genbank	gene	4047	4589	.	+	.	ID=gene-FQU82_p200007;Name=sel1;gbkey=Gene;gene=sel1;gene_biotype=protein_coding;locus_tag=FQU82_p200007
+CP045109.1	Genbank	CDS	4047	4589	.	+	0	ID=cds-QFQ03461.1;Parent=gene-FQU82_p200007;Dbxref=NCBI_GP:QFQ03461.1;Name=QFQ03461.1;Note=Cytochrome c oxidase;gbkey=CDS;gene=sel1;inference=similar to AA sequence:UniProtKB:A0A0H2VDN9;locus_tag=FQU82_p200007;product=Sel1;protein_id=QFQ03461.1;transl_table=11
+CP045109.1	Genbank	gene	4628	5140	.	+	.	ID=gene-FQU82_p200008;Name=FQU82_p200008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FQU82_p200008
+CP045109.1	Genbank	CDS	4628	5140	.	+	0	ID=cds-QFQ03462.1;Parent=gene-FQU82_p200008;Dbxref=NCBI_GP:QFQ03462.1;Name=QFQ03462.1;Note=involved in the regulation of 1%2C3-beta-glucan synthase activity and cell-wall formation;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=FQU82_p200008;product=SMI1;protein_id=QFQ03462.1;transl_table=11
+CP045109.1	Genbank	recombination_feature	5226	5253	.	+	.	ID=id-CP045109.1:5226..5253;Note=pdiff site%3B XerD/XerC binding site;gbkey=misc_recomb
+CP045109.1	Genbank	gene	5338	5766	.	+	.	ID=gene-FQU82_p200009;Name=osmC;gbkey=Gene;gene=osmC;gene_biotype=protein_coding;locus_tag=FQU82_p200009
+CP045109.1	Genbank	CDS	5338	5766	.	+	0	ID=cds-QFQ03463.1;Parent=gene-FQU82_p200009;Dbxref=NCBI_GP:QFQ03463.1;Name=QFQ03463.1;Note=Osmotically inducible stress protein C;gbkey=CDS;gene=osmC;inference=similar to AA sequence:UniProtKB:P80242;locus_tag=FQU82_p200009;product=OsmC;protein_id=QFQ03463.1;transl_table=11
+CP045109.1	Genbank	gene	5773	6204	.	+	.	ID=gene-FQU82_p200010;Name=merR;gbkey=Gene;gene=merR;gene_biotype=protein_coding;locus_tag=FQU82_p200010
+CP045109.1	Genbank	CDS	5773	6204	.	+	0	ID=cds-QFQ03464.1;Parent=gene-FQU82_p200010;Dbxref=NCBI_GP:QFQ03464.1;Name=QFQ03464.1;Note=transcriptional regulator;gbkey=CDS;gene=merR;inference=similar to AA sequence:UniProtKB:O34777;locus_tag=FQU82_p200010;product=MerR;protein_id=QFQ03464.1;transl_table=11
+CP045109.1	Genbank	recombination_feature	6264	6291	.	-	.	ID=id-CP045109.1:6264..6291;Note=pdiff site%3B XerD/XerC binding site;gbkey=misc_recomb
+CP045109.1	Genbank	gene	6437	6700	.	-	.	ID=gene-FQU82_p200011;Name=FQU82_p200011;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FQU82_p200011
+CP045109.1	Genbank	CDS	6437	6700	.	-	0	ID=cds-QFQ03465.1;Parent=gene-FQU82_p200011;Dbxref=NCBI_GP:QFQ03465.1;Name=QFQ03465.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=FQU82_p200011;product=hypothetical protein;protein_id=QFQ03465.1;transl_table=11
+CP045109.1	Genbank	recombination_feature	6809	6836	.	-	.	ID=id-CP045109.1:6809..6836;Note=pdiff site%3B XerD/XerC binding site;gbkey=misc_recomb
+CP045109.1	Genbank	gene	6894	7766	.	-	.	ID=gene-FQU82_p200012;Name=FQU82_p200012;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FQU82_p200012
+CP045109.1	Genbank	CDS	6894	7766	.	-	0	ID=cds-QFQ03466.1;Parent=gene-FQU82_p200012;Dbxref=NCBI_GP:QFQ03466.1;Name=QFQ03466.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=FQU82_p200012;product=hypothetical protein;protein_id=QFQ03466.1;transl_table=11
+CP045109.1	Genbank	gene	8038	9129	.	+	.	ID=gene-FQU82_p200013;Name=mobA;gbkey=Gene;gene=mobA;gene_biotype=protein_coding;locus_tag=FQU82_p200013
+CP045109.1	Genbank	CDS	8038	9129	.	+	0	ID=cds-QFQ03467.1;Parent=gene-FQU82_p200013;Dbxref=NCBI_GP:QFQ03467.1;Name=QFQ03467.1;gbkey=CDS;gene=mobA;inference=similar to AA sequence:UniProtKB:P07112;locus_tag=FQU82_p200013;product=Mobilization protein A;protein_id=QFQ03467.1;transl_table=11
+CP045109.1	Genbank	gene	9104	9313	.	+	.	ID=gene-FQU82_p200014;Name=FQU82_p200014;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FQU82_p200014
+CP045109.1	Genbank	CDS	9104	9313	.	+	0	ID=cds-QFQ03468.1;Parent=gene-FQU82_p200014;Dbxref=NCBI_GP:QFQ03468.1;Name=QFQ03468.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=FQU82_p200014;product=hypothetical protein;protein_id=QFQ03468.1;transl_table=11
+CP045109.1	Genbank	gene	9279	9458	.	-	.	ID=gene-FQU82_p200015;Name=FQU82_p200015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FQU82_p200015
+CP045109.1	Genbank	CDS	9279	9458	.	-	0	ID=cds-QFQ03469.1;Parent=gene-FQU82_p200015;Dbxref=NCBI_GP:QFQ03469.1;Name=QFQ03469.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=FQU82_p200015;product=hypothetical protein;protein_id=QFQ03469.1;transl_table=11
+

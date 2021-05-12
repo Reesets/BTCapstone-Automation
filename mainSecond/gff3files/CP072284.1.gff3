@@ -1,0 +1,20 @@
+##sequence-region CP072284.1 1 5679
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP072284.1	Genbank	region	1	5679	.	+	.	ID=CP072284.1:1..5679;Dbxref=taxon:470;Is_circular=true;Name=p4KSK10;collected-by=Jawaharlal Nehru University;collection-date=2020;country=India: New Delhi;gbkey=Src;genome=plasmid;isolation-source=Respiratory specimen;lat-lon=28.5402 N 77.1662 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=p4KSK10;strain=KSK10
+CP072284.1	Genbank	gene	1104	1319	.	-	.	ID=gene-J6F37_21255;Name=J6F37_21255;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6F37_21255
+CP072284.1	Protein Homology	CDS	1104	1319	.	-	0	ID=cds-QTK54013.1;Parent=gene-J6F37_21255;Dbxref=NCBI_GP:QTK54013.1;Name=QTK54013.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_002011639.1;locus_tag=J6F37_21255;product=hypothetical protein;protein_id=QTK54013.1;transl_table=11
+CP072284.1	Genbank	gene	1309	1605	.	-	.	ID=gene-J6F37_21260;Name=J6F37_21260;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6F37_21260
+CP072284.1	Protein Homology	CDS	1309	1605	.	-	0	ID=cds-QTK54014.1;Parent=gene-J6F37_21260;Dbxref=NCBI_GP:QTK54014.1;Name=QTK54014.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004282231.1;locus_tag=J6F37_21260;product=BrnT family toxin;protein_id=QTK54014.1;transl_table=11
+CP072284.1	Genbank	gene	1646	2146	.	-	.	ID=gene-J6F37_21265;Name=J6F37_21265;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6F37_21265
+CP072284.1	Protein Homology	CDS	1646	2146	.	-	0	ID=cds-QTK54015.1;Parent=gene-J6F37_21265;Dbxref=NCBI_GP:QTK54015.1;Name=QTK54015.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_018680098.1;locus_tag=J6F37_21265;product=hypothetical protein;protein_id=QTK54015.1;transl_table=11
+CP072284.1	Genbank	gene	2143	3066	.	-	.	ID=gene-J6F37_21270;Name=J6F37_21270;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6F37_21270
+CP072284.1	Protein Homology	CDS	2143	3066	.	-	0	ID=cds-QTK54016.1;Parent=gene-J6F37_21270;Dbxref=NCBI_GP:QTK54016.1;Name=QTK54016.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005249378.1;locus_tag=J6F37_21270;product=MobA/MobL family protein;protein_id=QTK54016.1;transl_table=11
+CP072284.1	Genbank	gene	3066	3221	.	-	.	ID=gene-J6F37_21275;Name=J6F37_21275;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6F37_21275
+CP072284.1	Protein Homology	CDS	3066	3221	.	-	0	ID=cds-QTK54010.1;Parent=gene-J6F37_21275;Dbxref=NCBI_GP:QTK54010.1;Name=QTK54010.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005098410.1;locus_tag=J6F37_21275;product=heme exporter protein CcmD;protein_id=QTK54010.1;transl_table=11
+CP072284.1	Genbank	gene	3502	3918	.	+	.	ID=gene-J6F37_21280;Name=J6F37_21280;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6F37_21280
+CP072284.1	Protein Homology	CDS	3502	3918	.	+	0	ID=cds-QTK54011.1;Parent=gene-J6F37_21280;Dbxref=NCBI_GP:QTK54011.1;Name=QTK54011.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_002061210.1;locus_tag=J6F37_21280;product=conjugal transfer protein TraD;protein_id=QTK54011.1;transl_table=11
+CP072284.1	Genbank	gene	4079	4576	.	+	.	ID=gene-J6F37_21285;Name=J6F37_21285;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6F37_21285
+CP072284.1	GeneMarkS-2+	CDS	4079	4576	.	+	0	ID=cds-QTK54017.1;Parent=gene-J6F37_21285;Dbxref=NCBI_GP:QTK54017.1;Name=QTK54017.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=J6F37_21285;product=hypothetical protein;protein_id=QTK54017.1;transl_table=11
+CP072284.1	Genbank	gene	5068	5847	.	-	.	ID=gene-J6F37_21250;Name=J6F37_21250;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6F37_21250
+CP072284.1	Protein Homology	CDS	5068	5847	.	-	0	ID=cds-QTK54012.1;Parent=gene-J6F37_21250;Dbxref=NCBI_GP:QTK54012.1;Name=QTK54012.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000422636.1;locus_tag=J6F37_21250;product=APH(3')-VI family aminoglycoside O-phosphotransferase;protein_id=QTK54012.1;transl_table=11
+

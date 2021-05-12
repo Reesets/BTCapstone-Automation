@@ -1,0 +1,10 @@
+##sequence-region NZ_CP050394.1 1 3383
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_CP050394.1	RefSeq	region	1	3383	.	+	.	ID=NZ_CP050394.1:1..3383;Dbxref=taxon:470;Is_circular=true;Name=pVB11737_3;collected-by=Christian Medical College;collection-date=2019;country=India;gbkey=Src;genome=plasmid;isolation-source=blood;lat-lon=12.9246 N 79.1348 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pVB11737_3;strain=VB11737
+NZ_CP050394.1	RefSeq	pseudogene	1	501	.	-	.	ID=gene-HBM80_RS00505;Name=HBM80_RS00505;gbkey=Gene;gene_biotype=pseudogene;locus_tag=HBM80_RS00505;old_locus_tag=HBM80_00505;partial=true;pseudo=true;start_range=.,1
+NZ_CP050394.1	Protein Homology	CDS	1	501	.	-	0	ID=cds-HBM80_RS00505;Parent=gene-HBM80_RS00505;Note=incomplete%3B partial in the middle of a contig%3B missing C-terminus;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_016654430.1;locus_tag=HBM80_RS00505;partial=true;product=AAA family ATPase;pseudo=true;start_range=.,1;transl_table=11
+NZ_CP050394.1	RefSeq	gene	506	2416	.	-	.	ID=gene-HBM80_RS00510;Name=HBM80_RS00510;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBM80_RS00510;old_locus_tag=HBM80_00510
+NZ_CP050394.1	Protein Homology	CDS	506	2416	.	-	0	ID=cds-WP_000573060.1;Parent=gene-HBM80_RS00510;Dbxref=Genbank:WP_000573060.1;Name=WP_000573060.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_016654431.1;locus_tag=HBM80_RS00510;product=DDE-type integrase/transposase/recombinase;protein_id=WP_000573060.1;transl_table=11
+NZ_CP050394.1	RefSeq	gene	2417	3127	.	-	.	ID=gene-HBM80_RS00515;Name=HBM80_RS00515;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBM80_RS00515;old_locus_tag=HBM80_00515
+NZ_CP050394.1	Protein Homology	CDS	2417	3127	.	-	0	ID=cds-WP_000736396.1;Parent=gene-HBM80_RS00515;Dbxref=Genbank:WP_000736396.1;Name=WP_000736396.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000736393.1;locus_tag=HBM80_RS00515;product=heteromeric transposase endonuclease subunit TnsA;protein_id=WP_000736396.1;transl_table=11
+

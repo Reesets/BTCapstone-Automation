@@ -1,0 +1,168 @@
+##sequence-region CP042842.1 1 67023
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP042842.1	Genbank	region	1	67023	.	+	.	ID=CP042842.1:1..67023;Dbxref=taxon:470;Is_circular=true;Name=unnamed;collected-by=R Clark;collection-date=2008;country=USA:DC;culture-collection=ATCC:BAA-1790;gbkey=Src;genome=plasmid;isolation-source=sputum;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=unnamed;strain=ATCC BAA-1790
+CP042842.1	Genbank	gene	1	627	.	+	.	ID=gene-BAA1790NC_3670;Name=lagB;gbkey=Gene;gene=lagB;gene_biotype=protein_coding;locus_tag=BAA1790NC_3670
+CP042842.1	Genbank	CDS	1	627	.	+	0	ID=cds-QEE59126.1;Parent=gene-BAA1790NC_3670;Dbxref=NCBI_GP:QEE59126.1;Name=QEE59126.1;gbkey=CDS;gene=lagB;locus_tag=BAA1790NC_3670;product=Conjugative transfer transglycosylase;protein_id=QEE59126.1;transl_table=11
+CP042842.1	Genbank	gene	644	880	.	+	.	ID=gene-BAA1790NC_3671;Name=BAA1790NC_3671;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3671
+CP042842.1	Genbank	CDS	644	880	.	+	0	ID=cds-QEE59127.1;Parent=gene-BAA1790NC_3671;Dbxref=NCBI_GP:QEE59127.1;Name=QEE59127.1;gbkey=CDS;locus_tag=BAA1790NC_3671;product=hypothetical protein;protein_id=QEE59127.1;transl_table=11
+CP042842.1	Genbank	gene	931	1284	.	+	.	ID=gene-BAA1790NC_3672;Name=BAA1790NC_3672;Note=Conserved hypothetical protein;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3672
+CP042842.1	Genbank	CDS	931	1284	.	+	0	ID=cds-QEE59128.1;Parent=gene-BAA1790NC_3672;Dbxref=NCBI_GP:QEE59128.1;Name=QEE59128.1;gbkey=CDS;locus_tag=BAA1790NC_3672;product=hypothetical protein;protein_id=QEE59128.1;transl_table=11
+CP042842.1	Genbank	gene	1306	1599	.	+	.	ID=gene-BAA1790NC_3673;Name=traL;gbkey=Gene;gene=traL;gene_biotype=protein_coding;locus_tag=BAA1790NC_3673
+CP042842.1	Genbank	CDS	1306	1599	.	+	0	ID=cds-QEE59129.1;Parent=gene-BAA1790NC_3673;Dbxref=NCBI_GP:QEE59129.1;Name=QEE59129.1;gbkey=CDS;gene=traL;locus_tag=BAA1790NC_3673;product=type IV conjugative transfer system protein TraL;protein_id=QEE59129.1;transl_table=11
+CP042842.1	Genbank	gene	1604	2182	.	+	.	ID=gene-BAA1790NC_3674;Name=traE;gbkey=Gene;gene=traE;gene_biotype=protein_coding;locus_tag=BAA1790NC_3674
+CP042842.1	Genbank	CDS	1604	2182	.	+	0	ID=cds-QEE59130.1;Parent=gene-BAA1790NC_3674;Dbxref=NCBI_GP:QEE59130.1;Name=QEE59130.1;gbkey=CDS;gene=traE;locus_tag=BAA1790NC_3674;product=conjugal transfer protein TraE;protein_id=QEE59130.1;transl_table=11
+CP042842.1	Genbank	gene	2163	2885	.	+	.	ID=gene-BAA1790NC_3675;Name=traK;gbkey=Gene;gene=traK;gene_biotype=protein_coding;locus_tag=BAA1790NC_3675
+CP042842.1	Genbank	CDS	2163	2885	.	+	0	ID=cds-QEE59131.1;Parent=gene-BAA1790NC_3675;Dbxref=NCBI_GP:QEE59131.1;Name=QEE59131.1;gbkey=CDS;gene=traK;locus_tag=BAA1790NC_3675;product=conjugal transfer protein TraK;protein_id=QEE59131.1;transl_table=11
+CP042842.1	Genbank	gene	2895	4211	.	+	.	ID=gene-BAA1790NC_3676;Name=traB;gbkey=Gene;gene=traB;gene_biotype=protein_coding;locus_tag=BAA1790NC_3676
+CP042842.1	Genbank	CDS	2895	4211	.	+	0	ID=cds-QEE59132.1;Parent=gene-BAA1790NC_3676;Dbxref=NCBI_GP:QEE59132.1;Name=QEE59132.1;gbkey=CDS;gene=traB;locus_tag=BAA1790NC_3676;product=conjugal transfer protein TraB;protein_id=QEE59132.1;transl_table=11
+CP042842.1	Genbank	gene	4213	4935	.	+	.	ID=gene-BAA1790NC_3677;Name=dsbC;gbkey=Gene;gene=dsbC;gene_biotype=protein_coding;locus_tag=BAA1790NC_3677
+CP042842.1	Genbank	CDS	4213	4935	.	+	0	ID=cds-QEE59133.1;Parent=gene-BAA1790NC_3677;Dbxref=NCBI_GP:QEE59133.1;Name=QEE59133.1;gbkey=CDS;gene=dsbC;locus_tag=BAA1790NC_3677;product=Thiol:disulfide interchange protein DsbC;protein_id=QEE59133.1;transl_table=11
+CP042842.1	Genbank	gene	4978	5238	.	+	.	ID=gene-BAA1790NC_3678;Name=BAA1790NC_3678;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3678
+CP042842.1	Genbank	CDS	4978	5238	.	+	0	ID=cds-QEE59134.1;Parent=gene-BAA1790NC_3678;Dbxref=NCBI_GP:QEE59134.1;Name=QEE59134.1;gbkey=CDS;locus_tag=BAA1790NC_3678;product=hypothetical protein;protein_id=QEE59134.1;transl_table=11
+CP042842.1	Genbank	gene	5239	5883	.	+	.	ID=gene-BAA1790NC_3679;Name=traV;gbkey=Gene;gene=traV;gene_biotype=protein_coding;locus_tag=BAA1790NC_3679
+CP042842.1	Genbank	CDS	5239	5883	.	+	0	ID=cds-QEE59135.1;Parent=gene-BAA1790NC_3679;Dbxref=NCBI_GP:QEE59135.1;Name=QEE59135.1;gbkey=CDS;gene=traV;locus_tag=BAA1790NC_3679;product=type IV conjugative transfer system lipoprotein TraV;protein_id=QEE59135.1;transl_table=11
+CP042842.1	Genbank	gene	5893	8619	.	+	.	ID=gene-BAA1790NC_3680;Name=traC;gbkey=Gene;gene=traC;gene_biotype=protein_coding;locus_tag=BAA1790NC_3680
+CP042842.1	Genbank	CDS	5893	8619	.	+	0	ID=cds-QEE59136.1;Parent=gene-BAA1790NC_3680;Dbxref=NCBI_GP:QEE59136.1;Name=QEE59136.1;gbkey=CDS;gene=traC;locus_tag=BAA1790NC_3680;product=type IV secretion system protein TraC;protein_id=QEE59136.1;transl_table=11
+CP042842.1	Genbank	gene	9546	10184	.	+	.	ID=gene-BAA1790NC_3681;Name=traW;gbkey=Gene;gene=traW;gene_biotype=protein_coding;locus_tag=BAA1790NC_3681
+CP042842.1	Genbank	CDS	9546	10184	.	+	0	ID=cds-QEE59137.1;Parent=gene-BAA1790NC_3681;Dbxref=NCBI_GP:QEE59137.1;Name=QEE59137.1;gbkey=CDS;gene=traW;locus_tag=BAA1790NC_3681;product=type-F conjugative transfer system protein TraW;protein_id=QEE59137.1;transl_table=11
+CP042842.1	Genbank	gene	10181	11224	.	+	.	ID=gene-BAA1790NC_3682;Name=traU;gbkey=Gene;gene=traU;gene_biotype=protein_coding;locus_tag=BAA1790NC_3682
+CP042842.1	Genbank	CDS	10181	11224	.	+	0	ID=cds-QEE59138.1;Parent=gene-BAA1790NC_3682;Dbxref=NCBI_GP:QEE59138.1;Name=QEE59138.1;gbkey=CDS;gene=traU;locus_tag=BAA1790NC_3682;product=conjugal transfer protein TraU;protein_id=QEE59138.1;transl_table=11
+CP042842.1	Genbank	gene	11239	11946	.	+	.	ID=gene-BAA1790NC_3683;Name=trbC;gbkey=Gene;gene=trbC;gene_biotype=protein_coding;locus_tag=BAA1790NC_3683
+CP042842.1	Genbank	CDS	11239	11946	.	+	0	ID=cds-QEE59139.1;Parent=gene-BAA1790NC_3683;Dbxref=NCBI_GP:QEE59139.1;Name=QEE59139.1;gbkey=CDS;gene=trbC;locus_tag=BAA1790NC_3683;product=type-F conjugative transfer system pilin assembly protein TrbC;protein_id=QEE59139.1;transl_table=11
+CP042842.1	Genbank	gene	11943	14000	.	+	.	ID=gene-BAA1790NC_3684;Name=traN;gbkey=Gene;gene=traN;gene_biotype=protein_coding;locus_tag=BAA1790NC_3684
+CP042842.1	Genbank	CDS	11943	14000	.	+	0	ID=cds-QEE59140.1;Parent=gene-BAA1790NC_3684;Dbxref=NCBI_GP:QEE59140.1;Name=QEE59140.1;gbkey=CDS;gene=traN;locus_tag=BAA1790NC_3684;product=conjugal transfer protein TraN;protein_id=QEE59140.1;transl_table=11
+CP042842.1	Genbank	gene	13993	14805	.	+	.	ID=gene-BAA1790NC_3685;Name=traF;gbkey=Gene;gene=traF;gene_biotype=protein_coding;locus_tag=BAA1790NC_3685
+CP042842.1	Genbank	CDS	13993	14805	.	+	0	ID=cds-QEE59141.1;Parent=gene-BAA1790NC_3685;Dbxref=NCBI_GP:QEE59141.1;Name=QEE59141.1;gbkey=CDS;gene=traF;locus_tag=BAA1790NC_3685;product=conjugal transfer protein TraF;protein_id=QEE59141.1;transl_table=11
+CP042842.1	Genbank	gene	14844	15173	.	+	.	ID=gene-BAA1790NC_3686;Name=BAA1790NC_3686;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3686
+CP042842.1	Genbank	CDS	14844	15173	.	+	0	ID=cds-QEE59142.1;Parent=gene-BAA1790NC_3686;Dbxref=NCBI_GP:QEE59142.1;Name=QEE59142.1;gbkey=CDS;locus_tag=BAA1790NC_3686;product=hypothetical protein;protein_id=QEE59142.1;transl_table=11
+CP042842.1	Genbank	gene	15207	16634	.	+	.	ID=gene-BAA1790NC_3687;Name=traH;gbkey=Gene;gene=traH;gene_biotype=protein_coding;locus_tag=BAA1790NC_3687
+CP042842.1	Genbank	CDS	15207	16634	.	+	0	ID=cds-QEE59143.1;Parent=gene-BAA1790NC_3687;Dbxref=NCBI_GP:QEE59143.1;Name=QEE59143.1;gbkey=CDS;gene=traH;locus_tag=BAA1790NC_3687;product=conjugal transfer protein TraH;protein_id=QEE59143.1;transl_table=11
+CP042842.1	Genbank	gene	16650	19652	.	+	.	ID=gene-BAA1790NC_3688;Name=traG;gbkey=Gene;gene=traG;gene_biotype=protein_coding;locus_tag=BAA1790NC_3688
+CP042842.1	Genbank	CDS	16650	19652	.	+	0	ID=cds-QEE59144.1;Parent=gene-BAA1790NC_3688;Dbxref=NCBI_GP:QEE59144.1;Name=QEE59144.1;gbkey=CDS;gene=traG;locus_tag=BAA1790NC_3688;product=conjugal transfer protein TraG;protein_id=QEE59144.1;transl_table=11
+CP042842.1	Genbank	gene	19724	20242	.	+	.	ID=gene-BAA1790NC_3689;Name=BAA1790NC_3689;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3689
+CP042842.1	Genbank	CDS	19724	20242	.	+	0	ID=cds-QEE59145.1;Parent=gene-BAA1790NC_3689;Dbxref=NCBI_GP:QEE59145.1;Name=QEE59145.1;gbkey=CDS;locus_tag=BAA1790NC_3689;product=Transglycosylase;protein_id=QEE59145.1;transl_table=11
+CP042842.1	Genbank	gene	20274	21266	.	-	.	ID=gene-BAA1790NC_3690;Name=BAA1790NC_3690;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3690
+CP042842.1	Genbank	CDS	20274	21266	.	-	0	ID=cds-QEE59146.1;Parent=gene-BAA1790NC_3690;Dbxref=NCBI_GP:QEE59146.1;Name=QEE59146.1;gbkey=CDS;locus_tag=BAA1790NC_3690;product=hypothetical protein;protein_id=QEE59146.1;transl_table=11
+CP042842.1	Genbank	gene	21433	22725	.	+	.	ID=gene-BAA1790NC_3691;Name=polY;gbkey=Gene;gene=polY;gene_biotype=protein_coding;locus_tag=BAA1790NC_3691
+CP042842.1	Genbank	CDS	21433	22725	.	+	0	ID=cds-QEE59147.1;Parent=gene-BAA1790NC_3691;Dbxref=NCBI_GP:QEE59147.1;Name=QEE59147.1;gbkey=CDS;gene=polY;locus_tag=BAA1790NC_3691;product=Y-family DNA polymerase;protein_id=QEE59147.1;transl_table=11
+CP042842.1	Genbank	gene	22999	24039	.	+	.	ID=gene-BAA1790NC_3692;Name=BAA1790NC_3692;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3692
+CP042842.1	Genbank	CDS	22999	24039	.	+	0	ID=cds-QEE59148.1;Parent=gene-BAA1790NC_3692;Dbxref=NCBI_GP:QEE59148.1;Name=QEE59148.1;gbkey=CDS;locus_tag=BAA1790NC_3692;product=conserved membrane hypothetical protein;protein_id=QEE59148.1;transl_table=11
+CP042842.1	Genbank	gene	24284	24535	.	-	.	ID=gene-BAA1790NC_3693;Name=BAA1790NC_3693;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3693
+CP042842.1	Genbank	CDS	24284	24535	.	-	0	ID=cds-QEE59149.1;Parent=gene-BAA1790NC_3693;Dbxref=NCBI_GP:QEE59149.1;Name=QEE59149.1;gbkey=CDS;locus_tag=BAA1790NC_3693;product=hypothetical protein;protein_id=QEE59149.1;transl_table=11
+CP042842.1	Genbank	gene	24603	24836	.	-	.	ID=gene-BAA1790NC_3694;Name=BAA1790NC_3694;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3694
+CP042842.1	Genbank	CDS	24603	24836	.	-	0	ID=cds-QEE59150.1;Parent=gene-BAA1790NC_3694;Dbxref=NCBI_GP:QEE59150.1;Name=QEE59150.1;gbkey=CDS;locus_tag=BAA1790NC_3694;product=hypothetical protein;protein_id=QEE59150.1;transl_table=11
+CP042842.1	Genbank	gene	25325	26500	.	+	.	ID=gene-BAA1790NC_3695;Name=priCT;gbkey=Gene;gene=priCT;gene_biotype=protein_coding;locus_tag=BAA1790NC_3695
+CP042842.1	Genbank	CDS	25325	26500	.	+	0	ID=cds-QEE59151.1;Parent=gene-BAA1790NC_3695;Dbxref=NCBI_GP:QEE59151.1;Name=QEE59151.1;gbkey=CDS;gene=priCT;locus_tag=BAA1790NC_3695;product=plasmid replicase;protein_id=QEE59151.1;transl_table=11
+CP042842.1	Genbank	gene	26572	26811	.	+	.	ID=gene-BAA1790NC_3696;Name=BAA1790NC_3696;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3696
+CP042842.1	Genbank	CDS	26572	26811	.	+	0	ID=cds-QEE59152.1;Parent=gene-BAA1790NC_3696;Dbxref=NCBI_GP:QEE59152.1;Name=QEE59152.1;gbkey=CDS;locus_tag=BAA1790NC_3696;product=hypothetical protein;protein_id=QEE59152.1;transl_table=11
+CP042842.1	Genbank	gene	26798	27880	.	+	.	ID=gene-BAA1790NC_3697;Name=BAA1790NC_3697;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3697
+CP042842.1	Genbank	CDS	26798	27880	.	+	0	ID=cds-QEE59153.1;Parent=gene-BAA1790NC_3697;Dbxref=NCBI_GP:QEE59153.1;Name=QEE59153.1;gbkey=CDS;locus_tag=BAA1790NC_3697;product=Zeta toxin family protein;protein_id=QEE59153.1;transl_table=11
+CP042842.1	Genbank	gene	27896	29161	.	+	.	ID=gene-BAA1790NC_3698;Name=BAA1790NC_3698;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3698
+CP042842.1	Genbank	CDS	27896	29161	.	+	0	ID=cds-QEE59154.1;Parent=gene-BAA1790NC_3698;Dbxref=NCBI_GP:QEE59154.1;Name=QEE59154.1;gbkey=CDS;locus_tag=BAA1790NC_3698;product=Uncharacterized protein;protein_id=QEE59154.1;transl_table=11
+CP042842.1	Genbank	gene	29127	29651	.	+	.	ID=gene-BAA1790NC_3699;Name=BAA1790NC_3699;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3699
+CP042842.1	Genbank	CDS	29127	29651	.	+	0	ID=cds-QEE59155.1;Parent=gene-BAA1790NC_3699;Dbxref=NCBI_GP:QEE59155.1;Name=QEE59155.1;gbkey=CDS;locus_tag=BAA1790NC_3699;product=hypothetical protein;protein_id=QEE59155.1;transl_table=11
+CP042842.1	Genbank	gene	29697	30077	.	+	.	ID=gene-BAA1790NC_3700;Name=hicB;gbkey=Gene;gene=hicB;gene_biotype=protein_coding;locus_tag=BAA1790NC_3700
+CP042842.1	Genbank	CDS	29697	30077	.	+	0	ID=cds-QEE59156.1;Parent=gene-BAA1790NC_3700;Dbxref=NCBI_GP:QEE59156.1;Name=QEE59156.1;gbkey=CDS;gene=hicB;locus_tag=BAA1790NC_3700;product=antitoxin of type II toxin-antitixin system;protein_id=QEE59156.1;transl_table=11
+CP042842.1	Genbank	gene	30231	30605	.	+	.	ID=gene-BAA1790NC_3701;Name=BAA1790NC_3701;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3701
+CP042842.1	Genbank	CDS	30231	30605	.	+	0	ID=cds-QEE59157.1;Parent=gene-BAA1790NC_3701;Dbxref=NCBI_GP:QEE59157.1;Name=QEE59157.1;gbkey=CDS;locus_tag=BAA1790NC_3701;product=hypothetical protein;protein_id=QEE59157.1;transl_table=11
+CP042842.1	Genbank	gene	30777	31373	.	+	.	ID=gene-BAA1790NC_3702;Name=BAA1790NC_3702;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3702
+CP042842.1	Genbank	CDS	30777	31373	.	+	0	ID=cds-QEE59158.1;Parent=gene-BAA1790NC_3702;Dbxref=NCBI_GP:QEE59158.1;Name=QEE59158.1;gbkey=CDS;locus_tag=BAA1790NC_3702;product=hypothetical protein;protein_id=QEE59158.1;transl_table=11
+CP042842.1	Genbank	gene	32012	32488	.	+	.	ID=gene-BAA1790NC_3703;Name=yncB;gbkey=Gene;gene=yncB;gene_biotype=protein_coding;locus_tag=BAA1790NC_3703
+CP042842.1	Genbank	CDS	32012	32488	.	+	0	ID=cds-QEE59159.1;Parent=gene-BAA1790NC_3703;Dbxref=NCBI_GP:QEE59159.1;Name=QEE59159.1;gbkey=CDS;gene=yncB;locus_tag=BAA1790NC_3703;product=thermonuclease family protein;protein_id=QEE59159.1;transl_table=11
+CP042842.1	Genbank	gene	32554	32880	.	+	.	ID=gene-BAA1790NC_3704;Name=BAA1790NC_3704;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3704
+CP042842.1	Genbank	CDS	32554	32880	.	+	0	ID=cds-QEE59160.1;Parent=gene-BAA1790NC_3704;Dbxref=NCBI_GP:QEE59160.1;Name=QEE59160.1;gbkey=CDS;locus_tag=BAA1790NC_3704;product=DNA binding protein;protein_id=QEE59160.1;transl_table=11
+CP042842.1	Genbank	gene	32893	33081	.	+	.	ID=gene-BAA1790NC_3705;Name=BAA1790NC_3705;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3705
+CP042842.1	Genbank	CDS	32893	33081	.	+	0	ID=cds-QEE59161.1;Parent=gene-BAA1790NC_3705;Dbxref=NCBI_GP:QEE59161.1;Name=QEE59161.1;gbkey=CDS;locus_tag=BAA1790NC_3705;product=hypothetical protein;protein_id=QEE59161.1;transl_table=11
+CP042842.1	Genbank	gene	33149	33445	.	+	.	ID=gene-BAA1790NC_3706;Name=BAA1790NC_3706;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3706
+CP042842.1	Genbank	CDS	33149	33445	.	+	0	ID=cds-QEE59162.1;Parent=gene-BAA1790NC_3706;Dbxref=NCBI_GP:QEE59162.1;Name=QEE59162.1;gbkey=CDS;locus_tag=BAA1790NC_3706;product=hypothetical protein;protein_id=QEE59162.1;transl_table=11
+CP042842.1	Genbank	gene	33442	33774	.	+	.	ID=gene-BAA1790NC_3707;Name=BAA1790NC_3707;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3707
+CP042842.1	Genbank	CDS	33442	33774	.	+	0	ID=cds-QEE59163.1;Parent=gene-BAA1790NC_3707;Dbxref=NCBI_GP:QEE59163.1;Name=QEE59163.1;gbkey=CDS;locus_tag=BAA1790NC_3707;product=hypothetical protein;protein_id=QEE59163.1;transl_table=11
+CP042842.1	Genbank	gene	33788	34192	.	+	.	ID=gene-BAA1790NC_3708;Name=BAA1790NC_3708;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3708
+CP042842.1	Genbank	CDS	33788	34192	.	+	0	ID=cds-QEE59164.1;Parent=gene-BAA1790NC_3708;Dbxref=NCBI_GP:QEE59164.1;Name=QEE59164.1;gbkey=CDS;locus_tag=BAA1790NC_3708;product=hypothetical protein;protein_id=QEE59164.1;transl_table=11
+CP042842.1	Genbank	gene	34311	35000	.	+	.	ID=gene-BAA1790NC_3709;Name=BAA1790NC_3709;Note=Conserved hypothetical protein;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3709
+CP042842.1	Genbank	CDS	34311	35000	.	+	0	ID=cds-QEE59165.1;Parent=gene-BAA1790NC_3709;Dbxref=NCBI_GP:QEE59165.1;Name=QEE59165.1;gbkey=CDS;locus_tag=BAA1790NC_3709;product=hypothetical protein;protein_id=QEE59165.1;transl_table=11
+CP042842.1	Genbank	gene	35005	35241	.	+	.	ID=gene-BAA1790NC_3710;Name=BAA1790NC_3710;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3710
+CP042842.1	Genbank	CDS	35005	35241	.	+	0	ID=cds-QEE59166.1;Parent=gene-BAA1790NC_3710;Dbxref=NCBI_GP:QEE59166.1;Name=QEE59166.1;gbkey=CDS;locus_tag=BAA1790NC_3710;product=hypothetical protein;protein_id=QEE59166.1;transl_table=11
+CP042842.1	Genbank	gene	35247	35453	.	-	.	ID=gene-BAA1790NC_3711;Name=BAA1790NC_3711;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3711
+CP042842.1	Genbank	CDS	35247	35453	.	-	0	ID=cds-QEE59167.1;Parent=gene-BAA1790NC_3711;Dbxref=NCBI_GP:QEE59167.1;Name=QEE59167.1;gbkey=CDS;locus_tag=BAA1790NC_3711;product=hypothetical protein;protein_id=QEE59167.1;transl_table=11
+CP042842.1	Genbank	gene	35981	36478	.	+	.	ID=gene-BAA1790NC_3712;Name=BAA1790NC_3712;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3712
+CP042842.1	Genbank	CDS	35981	36478	.	+	0	ID=cds-QEE59168.1;Parent=gene-BAA1790NC_3712;Dbxref=NCBI_GP:QEE59168.1;Name=QEE59168.1;gbkey=CDS;locus_tag=BAA1790NC_3712;product=hypothetical protein;protein_id=QEE59168.1;transl_table=11
+CP042842.1	Genbank	gene	36507	36917	.	+	.	ID=gene-BAA1790NC_3713;Name=BAA1790NC_3713;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3713
+CP042842.1	Genbank	CDS	36507	36917	.	+	0	ID=cds-QEE59169.1;Parent=gene-BAA1790NC_3713;Dbxref=NCBI_GP:QEE59169.1;Name=QEE59169.1;gbkey=CDS;locus_tag=BAA1790NC_3713;product=SAM-dependent DNA methyltransferase;protein_id=QEE59169.1;transl_table=11
+CP042842.1	Genbank	gene	37474	38247	.	+	.	ID=gene-BAA1790NC_3714;Name=BAA1790NC_3714;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3714
+CP042842.1	Genbank	CDS	37474	38247	.	+	0	ID=cds-QEE59170.1;Parent=gene-BAA1790NC_3714;Dbxref=NCBI_GP:QEE59170.1;Name=QEE59170.1;gbkey=CDS;locus_tag=BAA1790NC_3714;product=ParA family protein;protein_id=QEE59170.1;transl_table=11
+CP042842.1	Genbank	gene	38251	39507	.	+	.	ID=gene-BAA1790NC_3715;Name=BAA1790NC_3715;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3715
+CP042842.1	Genbank	CDS	38251	39507	.	+	0	ID=cds-QEE59171.1;Parent=gene-BAA1790NC_3715;Dbxref=NCBI_GP:QEE59171.1;Name=QEE59171.1;gbkey=CDS;locus_tag=BAA1790NC_3715;product=ParB/RepB/SpoOJ family partition protein;protein_id=QEE59171.1;transl_table=11
+CP042842.1	Genbank	gene	39643	40872	.	+	.	ID=gene-BAA1790NC_3716;Name=BAA1790NC_3716;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3716
+CP042842.1	Genbank	CDS	39643	40872	.	+	0	ID=cds-QEE59172.1;Parent=gene-BAA1790NC_3716;Dbxref=NCBI_GP:QEE59172.1;Name=QEE59172.1;gbkey=CDS;locus_tag=BAA1790NC_3716;product=hypothetical protein;protein_id=QEE59172.1;transl_table=11
+CP042842.1	Genbank	gene	40887	41120	.	+	.	ID=gene-BAA1790NC_3717;Name=BAA1790NC_3717;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3717
+CP042842.1	Genbank	CDS	40887	41120	.	+	0	ID=cds-QEE59173.1;Parent=gene-BAA1790NC_3717;Dbxref=NCBI_GP:QEE59173.1;Name=QEE59173.1;gbkey=CDS;locus_tag=BAA1790NC_3717;product=hypothetical protein;protein_id=QEE59173.1;transl_table=11
+CP042842.1	Genbank	gene	41159	41428	.	+	.	ID=gene-BAA1790NC_3718;Name=BAA1790NC_3718;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3718
+CP042842.1	Genbank	CDS	41159	41428	.	+	0	ID=cds-QEE59174.1;Parent=gene-BAA1790NC_3718;Dbxref=NCBI_GP:QEE59174.1;Name=QEE59174.1;gbkey=CDS;locus_tag=BAA1790NC_3718;product=hypothetical protein;protein_id=QEE59174.1;transl_table=11
+CP042842.1	Genbank	gene	41469	42572	.	+	.	ID=gene-BAA1790NC_3719;Name=telA;gbkey=Gene;gene=telA;gene_biotype=protein_coding;locus_tag=BAA1790NC_3719
+CP042842.1	Genbank	CDS	41469	42572	.	+	0	ID=cds-QEE59175.1;Parent=gene-BAA1790NC_3719;Dbxref=NCBI_GP:QEE59175.1;Name=QEE59175.1;gbkey=CDS;gene=telA;locus_tag=BAA1790NC_3719;product=toxic anion resistance protein;protein_id=QEE59175.1;transl_table=11
+CP042842.1	Genbank	gene	42585	43865	.	+	.	ID=gene-BAA1790NC_3720;Name=BAA1790NC_3720;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3720
+CP042842.1	Genbank	CDS	42585	43865	.	+	0	ID=cds-QEE59176.1;Parent=gene-BAA1790NC_3720;Dbxref=NCBI_GP:QEE59176.1;Name=QEE59176.1;gbkey=CDS;locus_tag=BAA1790NC_3720;product=hypothetical protein;protein_id=QEE59176.1;transl_table=11
+CP042842.1	Genbank	gene	44232	44804	.	+	.	ID=gene-BAA1790NC_3721;Name=BAA1790NC_3721;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3721
+CP042842.1	Genbank	CDS	44232	44804	.	+	0	ID=cds-QEE59177.1;Parent=gene-BAA1790NC_3721;Dbxref=NCBI_GP:QEE59177.1;Name=QEE59177.1;gbkey=CDS;locus_tag=BAA1790NC_3721;product=hypothetical protein;protein_id=QEE59177.1;transl_table=11
+CP042842.1	Genbank	gene	44976	45605	.	+	.	ID=gene-BAA1790NC_3722;Name=BAA1790NC_3722;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3722
+CP042842.1	Genbank	CDS	44976	45605	.	+	0	ID=cds-QEE59178.1;Parent=gene-BAA1790NC_3722;Dbxref=NCBI_GP:QEE59178.1;Name=QEE59178.1;gbkey=CDS;locus_tag=BAA1790NC_3722;product=cement precursor protein 3B variant 2;protein_id=QEE59178.1;transl_table=11
+CP042842.1	Genbank	gene	45645	45863	.	+	.	ID=gene-BAA1790NC_3723;Name=BAA1790NC_3723;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3723
+CP042842.1	Genbank	CDS	45645	45863	.	+	0	ID=cds-QEE59179.1;Parent=gene-BAA1790NC_3723;Dbxref=NCBI_GP:QEE59179.1;Name=QEE59179.1;gbkey=CDS;locus_tag=BAA1790NC_3723;product=hypothetical protein;protein_id=QEE59179.1;transl_table=11
+CP042842.1	Genbank	gene	45883	46437	.	+	.	ID=gene-BAA1790NC_3724;Name=BAA1790NC_3724;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3724
+CP042842.1	Genbank	CDS	45883	46437	.	+	0	ID=cds-QEE59180.1;Parent=gene-BAA1790NC_3724;Dbxref=NCBI_GP:QEE59180.1;Name=QEE59180.1;gbkey=CDS;locus_tag=BAA1790NC_3724;product=hypothetical protein;protein_id=QEE59180.1;transl_table=11
+CP042842.1	Genbank	gene	46487	47023	.	+	.	ID=gene-BAA1790NC_3725;Name=BAA1790NC_3725;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3725
+CP042842.1	Genbank	CDS	46487	47023	.	+	0	ID=cds-QEE59181.1;Parent=gene-BAA1790NC_3725;Dbxref=NCBI_GP:QEE59181.1;Name=QEE59181.1;gbkey=CDS;locus_tag=BAA1790NC_3725;product=putative lipoprotein;protein_id=QEE59181.1;transl_table=11
+CP042842.1	Genbank	gene	47561	47860	.	-	.	ID=gene-BAA1790NC_3726;Name=BAA1790NC_3726;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3726
+CP042842.1	Genbank	CDS	47561	47860	.	-	0	ID=cds-QEE59182.1;Parent=gene-BAA1790NC_3726;Dbxref=NCBI_GP:QEE59182.1;Name=QEE59182.1;gbkey=CDS;locus_tag=BAA1790NC_3726;product=helix-turn-helix transcriptional regulator;protein_id=QEE59182.1;transl_table=11
+CP042842.1	Genbank	gene	47860	48219	.	-	.	ID=gene-BAA1790NC_3727;Name=BAA1790NC_3727;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3727
+CP042842.1	Genbank	CDS	47860	48219	.	-	0	ID=cds-QEE59183.1;Parent=gene-BAA1790NC_3727;Dbxref=NCBI_GP:QEE59183.1;Name=QEE59183.1;gbkey=CDS;locus_tag=BAA1790NC_3727;product=type II toxin-antitoxin system RelE/ParE family toxin;protein_id=QEE59183.1;transl_table=11
+CP042842.1	Genbank	gene	48402	48986	.	+	.	ID=gene-BAA1790NC_3728;Name=BAA1790NC_3728;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3728
+CP042842.1	Genbank	CDS	48402	48986	.	+	0	ID=cds-QEE59184.1;Parent=gene-BAA1790NC_3728;Dbxref=NCBI_GP:QEE59184.1;Name=QEE59184.1;gbkey=CDS;locus_tag=BAA1790NC_3728;product=hypothetical protein;protein_id=QEE59184.1;transl_table=11
+CP042842.1	Genbank	gene	49035	49217	.	+	.	ID=gene-BAA1790NC_3729;Name=BAA1790NC_3729;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3729
+CP042842.1	Genbank	CDS	49035	49217	.	+	0	ID=cds-QEE59185.1;Parent=gene-BAA1790NC_3729;Dbxref=NCBI_GP:QEE59185.1;Name=QEE59185.1;gbkey=CDS;locus_tag=BAA1790NC_3729;product=hypothetical protein;protein_id=QEE59185.1;transl_table=11
+CP042842.1	Genbank	gene	49284	49982	.	+	.	ID=gene-BAA1790NC_3730;Name=BAA1790NC_3730;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3730
+CP042842.1	Genbank	CDS	49284	49982	.	+	0	ID=cds-QEE59186.1;Parent=gene-BAA1790NC_3730;Dbxref=NCBI_GP:QEE59186.1;Name=QEE59186.1;gbkey=CDS;locus_tag=BAA1790NC_3730;product=hypothetical protein;protein_id=QEE59186.1;transl_table=11
+CP042842.1	Genbank	gene	50109	50504	.	+	.	ID=gene-BAA1790NC_3731;Name=BAA1790NC_3731;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3731
+CP042842.1	Genbank	CDS	50109	50504	.	+	0	ID=cds-QEE59187.1;Parent=gene-BAA1790NC_3731;Dbxref=NCBI_GP:QEE59187.1;Name=QEE59187.1;gbkey=CDS;locus_tag=BAA1790NC_3731;product=hypothetical protein;protein_id=QEE59187.1;transl_table=11
+CP042842.1	Genbank	gene	50571	51329	.	+	.	ID=gene-BAA1790NC_3732;Name=BAA1790NC_3732;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3732
+CP042842.1	Genbank	CDS	50571	51329	.	+	0	ID=cds-QEE59188.1;Parent=gene-BAA1790NC_3732;Dbxref=NCBI_GP:QEE59188.1;Name=QEE59188.1;gbkey=CDS;locus_tag=BAA1790NC_3732;product=hypothetical protein;protein_id=QEE59188.1;transl_table=11
+CP042842.1	Genbank	gene	51423	51554	.	+	.	ID=gene-BAA1790NC_3733;Name=BAA1790NC_3733;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3733
+CP042842.1	Genbank	CDS	51423	51554	.	+	0	ID=cds-QEE59189.1;Parent=gene-BAA1790NC_3733;Dbxref=NCBI_GP:QEE59189.1;Name=QEE59189.1;gbkey=CDS;locus_tag=BAA1790NC_3733;product=putative membrane protein;protein_id=QEE59189.1;transl_table=11
+CP042842.1	Genbank	gene	52384	52698	.	+	.	ID=gene-BAA1790NC_3734;Name=BAA1790NC_3734;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3734
+CP042842.1	Genbank	CDS	52384	52698	.	+	0	ID=cds-QEE59190.1;Parent=gene-BAA1790NC_3734;Dbxref=NCBI_GP:QEE59190.1;Name=QEE59190.1;gbkey=CDS;locus_tag=BAA1790NC_3734;product=hypothetical protein;protein_id=QEE59190.1;transl_table=11
+CP042842.1	Genbank	gene	52734	53231	.	+	.	ID=gene-BAA1790NC_3735;Name=BAA1790NC_3735;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3735
+CP042842.1	Genbank	CDS	52734	53231	.	+	0	ID=cds-QEE59191.1;Parent=gene-BAA1790NC_3735;Dbxref=NCBI_GP:QEE59191.1;Name=QEE59191.1;gbkey=CDS;locus_tag=BAA1790NC_3735;product=DnaJ-class molecular chaperone;protein_id=QEE59191.1;transl_table=11
+CP042842.1	Genbank	gene	53375	53659	.	+	.	ID=gene-BAA1790NC_3736;Name=BAA1790NC_3736;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3736
+CP042842.1	Genbank	CDS	53375	53659	.	+	0	ID=cds-QEE59192.1;Parent=gene-BAA1790NC_3736;Dbxref=NCBI_GP:QEE59192.1;Name=QEE59192.1;gbkey=CDS;locus_tag=BAA1790NC_3736;product=hypothetical protein;protein_id=QEE59192.1;transl_table=11
+CP042842.1	Genbank	gene	53804	54136	.	+	.	ID=gene-BAA1790NC_3737;Name=BAA1790NC_3737;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3737
+CP042842.1	Genbank	CDS	53804	54136	.	+	0	ID=cds-QEE59193.1;Parent=gene-BAA1790NC_3737;Dbxref=NCBI_GP:QEE59193.1;Name=QEE59193.1;gbkey=CDS;locus_tag=BAA1790NC_3737;product=hypothetical protein;protein_id=QEE59193.1;transl_table=11
+CP042842.1	Genbank	gene	54152	54346	.	+	.	ID=gene-BAA1790NC_3738;Name=BAA1790NC_3738;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3738
+CP042842.1	Genbank	CDS	54152	54346	.	+	0	ID=cds-QEE59194.1;Parent=gene-BAA1790NC_3738;Dbxref=NCBI_GP:QEE59194.1;Name=QEE59194.1;gbkey=CDS;locus_tag=BAA1790NC_3738;product=hypothetical protein;protein_id=QEE59194.1;transl_table=11
+CP042842.1	Genbank	gene	54376	54705	.	-	.	ID=gene-BAA1790NC_3739;Name=BAA1790NC_3739;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3739
+CP042842.1	Genbank	CDS	54376	54705	.	-	0	ID=cds-QEE59195.1;Parent=gene-BAA1790NC_3739;Dbxref=NCBI_GP:QEE59195.1;Name=QEE59195.1;gbkey=CDS;locus_tag=BAA1790NC_3739;product=heat shock protein%2C GrpE family;protein_id=QEE59195.1;transl_table=11
+CP042842.1	Genbank	gene	55283	55753	.	+	.	ID=gene-BAA1790NC_3740;Name=BAA1790NC_3740;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3740
+CP042842.1	Genbank	CDS	55283	55753	.	+	0	ID=cds-QEE59196.1;Parent=gene-BAA1790NC_3740;Dbxref=NCBI_GP:QEE59196.1;Name=QEE59196.1;gbkey=CDS;locus_tag=BAA1790NC_3740;product=hypothetical protein;protein_id=QEE59196.1;transl_table=11
+CP042842.1	Genbank	gene	55758	57917	.	+	.	ID=gene-BAA1790NC_3741;Name=virD4;gbkey=Gene;gene=virD4;gene_biotype=protein_coding;locus_tag=BAA1790NC_3741
+CP042842.1	Genbank	CDS	55758	57917	.	+	0	ID=cds-QEE59197.1;Parent=gene-BAA1790NC_3741;Dbxref=NCBI_GP:QEE59197.1;Name=QEE59197.1;gbkey=CDS;gene=virD4;locus_tag=BAA1790NC_3741;product=type IV secretion protein VirD4;protein_id=QEE59197.1;transl_table=11
+CP042842.1	Genbank	gene	57929	61204	.	+	.	ID=gene-BAA1790NC_3742;Name=trwC;gbkey=Gene;gene=trwC;gene_biotype=protein_coding;locus_tag=BAA1790NC_3742
+CP042842.1	Genbank	CDS	57929	61204	.	+	0	ID=cds-QEE59198.1;Parent=gene-BAA1790NC_3742;Dbxref=NCBI_GP:QEE59198.1;Name=QEE59198.1;gbkey=CDS;gene=trwC;locus_tag=BAA1790NC_3742;product=conjugative relaxase;protein_id=QEE59198.1;transl_table=11
+CP042842.1	Genbank	gene	61295	61720	.	+	.	ID=gene-BAA1790NC_3743;Name=BAA1790NC_3743;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3743
+CP042842.1	Genbank	CDS	61295	61720	.	+	0	ID=cds-QEE59199.1;Parent=gene-BAA1790NC_3743;Dbxref=NCBI_GP:QEE59199.1;Name=QEE59199.1;gbkey=CDS;locus_tag=BAA1790NC_3743;product=hypothetical protein;protein_id=QEE59199.1;transl_table=11
+CP042842.1	Genbank	gene	61774	62100	.	-	.	ID=gene-BAA1790NC_3744;Name=BAA1790NC_3744;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3744
+CP042842.1	Genbank	CDS	61774	62100	.	-	0	ID=cds-QEE59200.1;Parent=gene-BAA1790NC_3744;Dbxref=NCBI_GP:QEE59200.1;Name=QEE59200.1;gbkey=CDS;locus_tag=BAA1790NC_3744;product=hypothetical protein;protein_id=QEE59200.1;transl_table=11
+CP042842.1	Genbank	gene	62138	62704	.	-	.	ID=gene-BAA1790NC_3745;Name=BAA1790NC_3745;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3745
+CP042842.1	Genbank	CDS	62138	62704	.	-	0	ID=cds-QEE59201.1;Parent=gene-BAA1790NC_3745;Dbxref=NCBI_GP:QEE59201.1;Name=QEE59201.1;gbkey=CDS;locus_tag=BAA1790NC_3745;product=hypothetical protein;protein_id=QEE59201.1;transl_table=11
+CP042842.1	Genbank	gene	63240	63692	.	-	.	ID=gene-BAA1790NC_3746;Name=BAA1790NC_3746;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3746
+CP042842.1	Genbank	CDS	63240	63692	.	-	0	ID=cds-QEE59202.1;Parent=gene-BAA1790NC_3746;Dbxref=NCBI_GP:QEE59202.1;Name=QEE59202.1;gbkey=CDS;locus_tag=BAA1790NC_3746;product=hypothetical protein;protein_id=QEE59202.1;transl_table=11
+CP042842.1	Genbank	gene	63740	63910	.	-	.	ID=gene-BAA1790NC_3747;Name=BAA1790NC_3747;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3747
+CP042842.1	Genbank	CDS	63740	63910	.	-	0	ID=cds-QEE59203.1;Parent=gene-BAA1790NC_3747;Dbxref=NCBI_GP:QEE59203.1;Name=QEE59203.1;gbkey=CDS;locus_tag=BAA1790NC_3747;product=hypothetical protein;protein_id=QEE59203.1;transl_table=11
+CP042842.1	Genbank	gene	64405	65064	.	-	.	ID=gene-BAA1790NC_3748;Name=tauE;gbkey=Gene;gene=tauE;gene_biotype=protein_coding;locus_tag=BAA1790NC_3748
+CP042842.1	Genbank	CDS	64405	65064	.	-	0	ID=cds-QEE59204.1;Parent=gene-BAA1790NC_3748;Dbxref=NCBI_GP:QEE59204.1;Name=QEE59204.1;gbkey=CDS;gene=tauE;locus_tag=BAA1790NC_3748;product=anion permease;protein_id=QEE59204.1;transl_table=11
+CP042842.1	Genbank	gene	65321	65959	.	+	.	ID=gene-BAA1790NC_3749;Name=pinE;gbkey=Gene;gene=pinE;gene_biotype=protein_coding;locus_tag=BAA1790NC_3749
+CP042842.1	Genbank	CDS	65321	65959	.	+	0	ID=cds-QEE59205.1;Parent=gene-BAA1790NC_3749;Dbxref=NCBI_GP:QEE59205.1;Name=QEE59205.1;gbkey=CDS;gene=pinE;locus_tag=BAA1790NC_3749;product=putative resolvase;protein_id=QEE59205.1;transl_table=11
+CP042842.1	Genbank	gene	66001	66432	.	-	.	ID=gene-BAA1790NC_3750;Name=BAA1790NC_3750;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3750
+CP042842.1	Genbank	CDS	66001	66432	.	-	0	ID=cds-QEE59206.1;Parent=gene-BAA1790NC_3750;Dbxref=NCBI_GP:QEE59206.1;Name=QEE59206.1;gbkey=CDS;locus_tag=BAA1790NC_3750;product=hypothetical protein;protein_id=QEE59206.1;transl_table=11
+CP042842.1	Genbank	gene	66458	66793	.	-	.	ID=gene-BAA1790NC_3751;Name=BAA1790NC_3751;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_3751
+CP042842.1	Genbank	CDS	66458	66793	.	-	0	ID=cds-QEE59207.1;Parent=gene-BAA1790NC_3751;Dbxref=NCBI_GP:QEE59207.1;Name=QEE59207.1;gbkey=CDS;locus_tag=BAA1790NC_3751;product=hypothetical protein;protein_id=QEE59207.1;transl_table=11
+

@@ -1,0 +1,226 @@
+##sequence-region CP024125.1 1 110967
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP024125.1	Genbank	region	1	110967	.	+	.	ID=CP024125.1:1..110967;Dbxref=taxon:470;Is_circular=true;Name=pAYP-A2;collected-by=Alfred Health;collection-date=11-Oct-2013;country=Australia: Melbourne;gbkey=Src;genome=plasmid;isolation-source=wound;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pAYP-A2;strain=AYP-A2
+CP024125.1	Genbank	gene	1426	1668	.	-	.	ID=gene-AYP_003882;Name=AYP_003882;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003882
+CP024125.1	Genbank	CDS	1426	1668	.	-	0	ID=cds-ATU25108.1;Parent=gene-AYP_003882;Dbxref=SEED:fig|470.3543.peg.3801,NCBI_GP:ATU25108.1;Name=ATU25108.1;gbkey=CDS;locus_tag=AYP_003882;product=hypothetical protein;protein_id=ATU25108.1;transl_table=11
+CP024125.1	Genbank	gene	1763	2386	.	-	.	ID=gene-AYP_003883;Name=AYP_003883;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003883
+CP024125.1	Genbank	CDS	1763	2386	.	-	0	ID=cds-ATU25109.1;Parent=gene-AYP_003883;Dbxref=SEED:fig|470.3543.peg.3802,NCBI_GP:ATU25109.1;Name=ATU25109.1;gbkey=CDS;locus_tag=AYP_003883;product=hypothetical protein;protein_id=ATU25109.1;transl_table=11
+CP024125.1	Genbank	gene	2460	3230	.	-	.	ID=gene-AYP_003884;Name=AYP_003884;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003884
+CP024125.1	Genbank	CDS	2460	3230	.	-	0	ID=cds-ATU25110.1;Parent=gene-AYP_003884;Dbxref=SEED:fig|470.3543.peg.3803,NCBI_GP:ATU25110.1;Name=ATU25110.1;gbkey=CDS;locus_tag=AYP_003884;product=hypothetical protein;protein_id=ATU25110.1;transl_table=11
+CP024125.1	Genbank	gene	3237	3731	.	-	.	ID=gene-AYP_003885;Name=AYP_003885;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003885
+CP024125.1	Genbank	CDS	3237	3731	.	-	0	ID=cds-ATU25111.1;Parent=gene-AYP_003885;Dbxref=SEED:fig|470.3543.peg.3804,NCBI_GP:ATU25111.1;Name=ATU25111.1;gbkey=CDS;locus_tag=AYP_003885;product=hypothetical protein;protein_id=ATU25111.1;transl_table=11
+CP024125.1	Genbank	gene	3870	4772	.	-	.	ID=gene-AYP_003886;Name=AYP_003886;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003886
+CP024125.1	Genbank	CDS	3870	4772	.	-	0	ID=cds-ATU25112.1;Parent=gene-AYP_003886;Dbxref=SEED:fig|470.3543.peg.3805,NCBI_GP:ATU25112.1;Name=ATU25112.1;Note=FIG01220982;gbkey=CDS;locus_tag=AYP_003886;product=hypothetical protein;protein_id=ATU25112.1;transl_table=11
+CP024125.1	Genbank	gene	4908	5786	.	-	.	ID=gene-AYP_003887;Name=AYP_003887;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003887
+CP024125.1	Genbank	CDS	4908	5786	.	-	0	ID=cds-ATU25113.1;Parent=gene-AYP_003887;Dbxref=SEED:fig|470.3543.peg.3806,NCBI_GP:ATU25113.1;Name=ATU25113.1;Note=FIG01220709;gbkey=CDS;locus_tag=AYP_003887;product=hypothetical protein;protein_id=ATU25113.1;transl_table=11
+CP024125.1	Genbank	gene	5830	7500	.	-	.	ID=gene-AYP_003888;Name=AYP_003888;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003888
+CP024125.1	Genbank	CDS	5830	7500	.	-	0	ID=cds-ATU25114.1;Parent=gene-AYP_003888;Dbxref=SEED:fig|470.3543.peg.3807,NCBI_GP:ATU25114.1;Name=ATU25114.1;Note=FIG01220862;gbkey=CDS;locus_tag=AYP_003888;product=hypothetical protein;protein_id=ATU25114.1;transl_table=11
+CP024125.1	Genbank	gene	7546	8790	.	-	.	ID=gene-AYP_003889;Name=AYP_003889;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003889
+CP024125.1	Genbank	CDS	7546	8790	.	-	0	ID=cds-ATU25115.1;Parent=gene-AYP_003889;Dbxref=SEED:fig|470.3543.peg.3808,NCBI_GP:ATU25115.1;Name=ATU25115.1;gbkey=CDS;locus_tag=AYP_003889;product=may containing ATP/GTP binding motif;protein_id=ATU25115.1;transl_table=11
+CP024125.1	Genbank	gene	8800	9405	.	-	.	ID=gene-AYP_003890;Name=AYP_003890;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003890
+CP024125.1	Genbank	CDS	8800	9405	.	-	0	ID=cds-ATU25116.1;Parent=gene-AYP_003890;Dbxref=SEED:fig|470.3543.peg.3809,NCBI_GP:ATU25116.1;Name=ATU25116.1;Note=FIG01221212;gbkey=CDS;locus_tag=AYP_003890;product=hypothetical protein;protein_id=ATU25116.1;transl_table=11
+CP024125.1	Genbank	gene	10071	10466	.	-	.	ID=gene-AYP_003891;Name=AYP_003891;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003891
+CP024125.1	Genbank	CDS	10071	10466	.	-	0	ID=cds-ATU25117.1;Parent=gene-AYP_003891;Dbxref=SEED:fig|470.3543.peg.3810,NCBI_GP:ATU25117.1;Name=ATU25117.1;gbkey=CDS;locus_tag=AYP_003891;product=hypothetical protein;protein_id=ATU25117.1;transl_table=11
+CP024125.1	Genbank	gene	10848	11801	.	-	.	ID=gene-AYP_003892;Name=AYP_003892;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003892
+CP024125.1	Genbank	CDS	10848	11801	.	-	0	ID=cds-ATU25118.1;Parent=gene-AYP_003892;Dbxref=SEED:fig|470.3543.peg.3811,NCBI_GP:ATU25118.1;Name=ATU25118.1;gbkey=CDS;locus_tag=AYP_003892;product=hypothetical protein;protein_id=ATU25118.1;transl_table=11
+CP024125.1	Genbank	gene	11840	12262	.	-	.	ID=gene-AYP_003893;Name=AYP_003893;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003893
+CP024125.1	Genbank	CDS	11840	12262	.	-	0	ID=cds-ATU25119.1;Parent=gene-AYP_003893;Dbxref=SEED:fig|470.3543.peg.3812,NCBI_GP:ATU25119.1;Name=ATU25119.1;gbkey=CDS;locus_tag=AYP_003893;product=hypothetical protein;protein_id=ATU25119.1;transl_table=11
+CP024125.1	Genbank	gene	12259	12915	.	-	.	ID=gene-AYP_003894;Name=AYP_003894;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003894
+CP024125.1	Genbank	CDS	12259	12915	.	-	0	ID=cds-ATU25120.1;Parent=gene-AYP_003894;Dbxref=SEED:fig|470.3543.peg.3813,NCBI_GP:ATU25120.1;Name=ATU25120.1;gbkey=CDS;locus_tag=AYP_003894;product=putative ABC transporter ATP-binding protein;protein_id=ATU25120.1;transl_table=11
+CP024125.1	Genbank	gene	12915	13565	.	-	.	ID=gene-AYP_003895;Name=AYP_003895;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003895
+CP024125.1	Genbank	CDS	12915	13565	.	-	0	ID=cds-ATU25121.1;Parent=gene-AYP_003895;Dbxref=SEED:fig|470.3543.peg.3814,NCBI_GP:ATU25121.1;Name=ATU25121.1;gbkey=CDS;locus_tag=AYP_003895;product=Phage tail fiber protein;protein_id=ATU25121.1;transl_table=11
+CP024125.1	Genbank	gene	13562	14164	.	-	.	ID=gene-AYP_003896;Name=AYP_003896;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003896
+CP024125.1	Genbank	CDS	13562	14164	.	-	0	ID=cds-ATU25122.1;Parent=gene-AYP_003896;Dbxref=SEED:fig|470.3543.peg.3815,NCBI_GP:ATU25122.1;Name=ATU25122.1;gbkey=CDS;locus_tag=AYP_003896;product=hypothetical protein;protein_id=ATU25122.1;transl_table=11
+CP024125.1	Genbank	gene	14193	14831	.	-	.	ID=gene-AYP_003897;Name=AYP_003897;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003897
+CP024125.1	Genbank	CDS	14193	14831	.	-	0	ID=cds-ATU25123.1;Parent=gene-AYP_003897;Dbxref=SEED:fig|470.3543.peg.3816,NCBI_GP:ATU25123.1;Name=ATU25123.1;gbkey=CDS;locus_tag=AYP_003897;product=Chromosome (plasmid) partitioning protein ParB;protein_id=ATU25123.1;transl_table=11
+CP024125.1	Genbank	gene	14910	16619	.	+	.	ID=gene-AYP_003898;Name=AYP_003898;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003898
+CP024125.1	Genbank	CDS	14910	16619	.	+	0	ID=cds-ATU25124.1;Parent=gene-AYP_003898;Dbxref=SEED:fig|470.3543.peg.3817,NCBI_GP:ATU25124.1;Name=ATU25124.1;gbkey=CDS;locus_tag=AYP_003898;product=putative helicase;protein_id=ATU25124.1;transl_table=11
+CP024125.1	Genbank	gene	16745	17038	.	+	.	ID=gene-AYP_003899;Name=AYP_003899;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003899
+CP024125.1	Genbank	CDS	16745	17038	.	+	0	ID=cds-ATU25125.1;Parent=gene-AYP_003899;Dbxref=SEED:fig|470.3543.peg.3818,NCBI_GP:ATU25125.1;Name=ATU25125.1;gbkey=CDS;locus_tag=AYP_003899;product=hypothetical protein;protein_id=ATU25125.1;transl_table=11
+CP024125.1	Genbank	gene	17102	17380	.	-	.	ID=gene-AYP_003900;Name=AYP_003900;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003900
+CP024125.1	Genbank	CDS	17102	17380	.	-	0	ID=cds-ATU25126.1;Parent=gene-AYP_003900;Dbxref=SEED:fig|470.3543.peg.3819,NCBI_GP:ATU25126.1;Name=ATU25126.1;gbkey=CDS;locus_tag=AYP_003900;product=hypothetical protein;protein_id=ATU25126.1;transl_table=11
+CP024125.1	Genbank	gene	17415	17984	.	-	.	ID=gene-AYP_003901;Name=AYP_003901;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003901
+CP024125.1	Genbank	CDS	17415	17984	.	-	0	ID=cds-ATU25127.1;Parent=gene-AYP_003901;Dbxref=SEED:fig|470.3543.peg.3820,NCBI_GP:ATU25127.1;Name=ATU25127.1;gbkey=CDS;locus_tag=AYP_003901;product=hypothetical protein;protein_id=ATU25127.1;transl_table=11
+CP024125.1	Genbank	gene	18378	19178	.	-	.	ID=gene-AYP_003902;Name=AYP_003902;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003902
+CP024125.1	Genbank	CDS	18378	19178	.	-	0	ID=cds-ATU25128.1;Parent=gene-AYP_003902;Dbxref=SEED:fig|470.3543.peg.3821,NCBI_GP:ATU25128.1;Name=ATU25128.1;gbkey=CDS;locus_tag=AYP_003902;product=hypothetical protein;protein_id=ATU25128.1;transl_table=11
+CP024125.1	Genbank	gene	19619	20044	.	-	.	ID=gene-AYP_003903;Name=AYP_003903;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003903
+CP024125.1	Genbank	CDS	19619	20044	.	-	0	ID=cds-ATU25129.1;Parent=gene-AYP_003903;Dbxref=SEED:fig|470.3543.peg.3822,NCBI_GP:ATU25129.1;Name=ATU25129.1;gbkey=CDS;locus_tag=AYP_003903;product=hypothetical protein;protein_id=ATU25129.1;transl_table=11
+CP024125.1	Genbank	gene	20633	20746	.	+	.	ID=gene-AYP_003904;Name=AYP_003904;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003904
+CP024125.1	Genbank	CDS	20633	20746	.	+	0	ID=cds-ATU25130.1;Parent=gene-AYP_003904;Dbxref=SEED:fig|470.3543.peg.3823,NCBI_GP:ATU25130.1;Name=ATU25130.1;gbkey=CDS;locus_tag=AYP_003904;product=hypothetical protein;protein_id=ATU25130.1;transl_table=11
+CP024125.1	Genbank	gene	20777	20950	.	-	.	ID=gene-AYP_003905;Name=AYP_003905;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003905
+CP024125.1	Genbank	CDS	20777	20950	.	-	0	ID=cds-ATU25131.1;Parent=gene-AYP_003905;Dbxref=SEED:fig|470.3543.peg.3824,NCBI_GP:ATU25131.1;Name=ATU25131.1;gbkey=CDS;locus_tag=AYP_003905;product=hypothetical protein;protein_id=ATU25131.1;transl_table=11
+CP024125.1	Genbank	gene	22310	22645	.	+	.	ID=gene-AYP_003906;Name=AYP_003906;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003906
+CP024125.1	Genbank	CDS	22310	22645	.	+	0	ID=cds-ATU25132.1;Parent=gene-AYP_003906;Dbxref=SEED:fig|470.3543.peg.3825,NCBI_GP:ATU25132.1;Name=ATU25132.1;Note=FIG00351766;gbkey=CDS;locus_tag=AYP_003906;product=hypothetical protein;protein_id=ATU25132.1;transl_table=11
+CP024125.1	Genbank	gene	22709	22927	.	+	.	ID=gene-AYP_003907;Name=AYP_003907;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003907
+CP024125.1	Genbank	CDS	22709	22927	.	+	0	ID=cds-ATU25133.1;Parent=gene-AYP_003907;Dbxref=SEED:fig|470.3543.peg.3826,NCBI_GP:ATU25133.1;Name=ATU25133.1;gbkey=CDS;locus_tag=AYP_003907;product=hypothetical protein;protein_id=ATU25133.1;transl_table=11
+CP024125.1	Genbank	gene	23435	23683	.	+	.	ID=gene-AYP_003908;Name=AYP_003908;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003908
+CP024125.1	Genbank	CDS	23435	23683	.	+	0	ID=cds-ATU25134.1;Parent=gene-AYP_003908;Dbxref=SEED:fig|470.3543.peg.3827,NCBI_GP:ATU25134.1;Name=ATU25134.1;gbkey=CDS;locus_tag=AYP_003908;product=hypothetical protein;protein_id=ATU25134.1;transl_table=11
+CP024125.1	Genbank	gene	23759	24481	.	-	.	ID=gene-AYP_003909;Name=AYP_003909;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003909
+CP024125.1	Genbank	CDS	23759	24481	.	-	0	ID=cds-ATU25135.1;Parent=gene-AYP_003909;Dbxref=SEED:fig|470.3543.peg.3828,NCBI_GP:ATU25135.1;Name=ATU25135.1;gbkey=CDS;locus_tag=AYP_003909;product=hypothetical protein;protein_id=ATU25135.1;transl_table=11
+CP024125.1	Genbank	gene	24497	24823	.	-	.	ID=gene-AYP_003910;Name=AYP_003910;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003910
+CP024125.1	Genbank	CDS	24497	24823	.	-	0	ID=cds-ATU25136.1;Parent=gene-AYP_003910;Dbxref=SEED:fig|470.3543.peg.3829,NCBI_GP:ATU25136.1;Name=ATU25136.1;gbkey=CDS;locus_tag=AYP_003910;product=hypothetical protein;protein_id=ATU25136.1;transl_table=11
+CP024125.1	Genbank	gene	25057	25278	.	-	.	ID=gene-AYP_003911;Name=AYP_003911;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003911
+CP024125.1	Genbank	CDS	25057	25278	.	-	0	ID=cds-ATU25137.1;Parent=gene-AYP_003911;Dbxref=SEED:fig|470.3543.peg.3830,NCBI_GP:ATU25137.1;Name=ATU25137.1;gbkey=CDS;locus_tag=AYP_003911;product=hypothetical protein;protein_id=ATU25137.1;transl_table=11
+CP024125.1	Genbank	gene	25340	25415	.	-	.	ID=gene-AYP_003993;Name=AYP_003993;gbkey=Gene;gene_biotype=tRNA;locus_tag=AYP_003993
+CP024125.1	Genbank	tRNA	25340	25415	.	-	.	ID=rna-AYP_003993;Parent=gene-AYP_003993;Dbxref=SEED:fig|470.3543.rna.90;Note=tRNA-Asn-GTT;gbkey=tRNA;locus_tag=AYP_003993;product=tRNA-Asn
+CP024125.1	Genbank	exon	25340	25415	.	-	.	ID=exon-AYP_003993-1;Parent=rna-AYP_003993;Dbxref=SEED:fig|470.3543.rna.90;Note=tRNA-Asn-GTT;gbkey=tRNA;locus_tag=AYP_003993;product=tRNA-Asn
+CP024125.1	Genbank	gene	26032	26592	.	+	.	ID=gene-AYP_003912;Name=AYP_003912;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003912
+CP024125.1	Genbank	CDS	26032	26592	.	+	0	ID=cds-ATU25138.1;Parent=gene-AYP_003912;Dbxref=SEED:fig|470.3543.peg.3831,NCBI_GP:ATU25138.1;Name=ATU25138.1;gbkey=CDS;locus_tag=AYP_003912;product=Mobile element protein;protein_id=ATU25138.1;transl_table=11
+CP024125.1	Genbank	gene	26726	27889	.	-	.	ID=gene-AYP_003913;Name=AYP_003913;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003913
+CP024125.1	Genbank	CDS	26726	27889	.	-	0	ID=cds-ATU25139.1;Parent=gene-AYP_003913;Dbxref=SEED:fig|470.3543.peg.3832,NCBI_GP:ATU25139.1;Name=ATU25139.1;gbkey=CDS;locus_tag=AYP_003913;product=putative zinc-type alcohol dehydrogenase-like protein ybdR;protein_id=ATU25139.1;transl_table=11
+CP024125.1	Genbank	gene	28137	28421	.	-	.	ID=gene-AYP_003914;Name=AYP_003914;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003914
+CP024125.1	Genbank	CDS	28137	28421	.	-	0	ID=cds-ATU25140.1;Parent=gene-AYP_003914;Dbxref=SEED:fig|470.3543.peg.3833,NCBI_GP:ATU25140.1;Name=ATU25140.1;gbkey=CDS;locus_tag=AYP_003914;product=hypothetical protein;protein_id=ATU25140.1;transl_table=11
+CP024125.1	Genbank	gene	28691	29044	.	+	.	ID=gene-AYP_003915;Name=AYP_003915;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003915
+CP024125.1	Genbank	CDS	28691	29044	.	+	0	ID=cds-ATU25141.1;Parent=gene-AYP_003915;Dbxref=SEED:fig|470.3543.peg.3834,NCBI_GP:ATU25141.1;Name=ATU25141.1;gbkey=CDS;locus_tag=AYP_003915;product=Mobile element protein;protein_id=ATU25141.1;transl_table=11
+CP024125.1	Genbank	gene	29001	29855	.	+	.	ID=gene-AYP_003916;Name=AYP_003916;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003916
+CP024125.1	Genbank	CDS	29001	29855	.	+	0	ID=cds-ATU25142.1;Parent=gene-AYP_003916;Dbxref=SEED:fig|470.3543.peg.3835,NCBI_GP:ATU25142.1;Name=ATU25142.1;gbkey=CDS;locus_tag=AYP_003916;product=Mobile element protein;protein_id=ATU25142.1;transl_table=11
+CP024125.1	Genbank	gene	30046	30321	.	+	.	ID=gene-AYP_003917;Name=AYP_003917;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003917
+CP024125.1	Genbank	CDS	30046	30321	.	+	0	ID=cds-ATU25143.1;Parent=gene-AYP_003917;Dbxref=SEED:fig|470.3543.peg.3836,NCBI_GP:ATU25143.1;Name=ATU25143.1;gbkey=CDS;locus_tag=AYP_003917;product=FrmR: Negative transcriptional regulator of formaldehyde detoxification operon;protein_id=ATU25143.1;transl_table=11
+CP024125.1	Genbank	gene	30343	31455	.	+	.	ID=gene-AYP_003918;Name=AYP_003918;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003918
+CP024125.1	Genbank	CDS	30343	31455	.	+	0	ID=cds-ATU25144.1;Parent=gene-AYP_003918;Dbxref=SEED:fig|470.3543.peg.3837,NCBI_GP:ATU25144.1;Name=ATU25144.1;gbkey=CDS;locus_tag=AYP_003918;product=S-(hydroxymethyl)glutathione dehydrogenase;protein_id=ATU25144.1;transl_table=11
+CP024125.1	Genbank	gene	31684	32523	.	+	.	ID=gene-AYP_003919;Name=AYP_003919;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003919
+CP024125.1	Genbank	CDS	31684	32523	.	+	0	ID=cds-ATU25145.1;Parent=gene-AYP_003919;Dbxref=SEED:fig|470.3543.peg.3838,NCBI_GP:ATU25145.1;Name=ATU25145.1;gbkey=CDS;locus_tag=AYP_003919;product=S-formylglutathione hydrolase;protein_id=ATU25145.1;transl_table=11
+CP024125.1	Genbank	gene	32847	33149	.	+	.	ID=gene-AYP_003920;Name=AYP_003920;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003920
+CP024125.1	Genbank	CDS	32847	33149	.	+	0	ID=cds-ATU25146.1;Parent=gene-AYP_003920;Dbxref=SEED:fig|470.3543.peg.3839,NCBI_GP:ATU25146.1;Name=ATU25146.1;Note=FIG00350640;gbkey=CDS;locus_tag=AYP_003920;product=hypothetical protein;protein_id=ATU25146.1;transl_table=11
+CP024125.1	Genbank	gene	33746	34903	.	+	.	ID=gene-AYP_003921;Name=AYP_003921;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003921
+CP024125.1	Genbank	CDS	33746	34903	.	+	0	ID=cds-ATU25147.1;Parent=gene-AYP_003921;Dbxref=SEED:fig|470.3543.peg.3840,NCBI_GP:ATU25147.1;Name=ATU25147.1;gbkey=CDS;locus_tag=AYP_003921;product=putative oxidoreductase YqhD;protein_id=ATU25147.1;transl_table=11
+CP024125.1	Genbank	gene	34988	35665	.	+	.	ID=gene-AYP_003922;Name=AYP_003922;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003922
+CP024125.1	Genbank	CDS	34988	35665	.	+	0	ID=cds-ATU25148.1;Parent=gene-AYP_003922;Dbxref=SEED:fig|470.3543.peg.3841,NCBI_GP:ATU25148.1;Name=ATU25148.1;gbkey=CDS;locus_tag=AYP_003922;product=ThiJ/PfpI family protein;protein_id=ATU25148.1;transl_table=11
+CP024125.1	Genbank	gene	35866	36993	.	+	.	ID=gene-AYP_003923;Name=AYP_003923;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003923
+CP024125.1	Genbank	CDS	35866	36993	.	+	0	ID=cds-ATU25149.1;Parent=gene-AYP_003923;Dbxref=SEED:fig|470.3543.peg.3842,NCBI_GP:ATU25149.1;Name=ATU25149.1;gbkey=CDS;locus_tag=AYP_003923;product=N-ethylmaleimide reductase;protein_id=ATU25149.1;transl_table=11
+CP024125.1	Genbank	gene	37077	37307	.	-	.	ID=gene-AYP_003924;Name=AYP_003924;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003924
+CP024125.1	Genbank	CDS	37077	37307	.	-	0	ID=cds-ATU25150.1;Parent=gene-AYP_003924;Dbxref=SEED:fig|470.3543.peg.3843,NCBI_GP:ATU25150.1;Name=ATU25150.1;Note=FIG00352115;gbkey=CDS;locus_tag=AYP_003924;product=hypothetical protein;protein_id=ATU25150.1;transl_table=11
+CP024125.1	Genbank	gene	37412	38020	.	-	.	ID=gene-AYP_003925;Name=AYP_003925;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003925
+CP024125.1	Genbank	CDS	37412	38020	.	-	0	ID=cds-ATU25151.1;Parent=gene-AYP_003925;Dbxref=SEED:fig|470.3543.peg.3844,NCBI_GP:ATU25151.1;Name=ATU25151.1;gbkey=CDS;locus_tag=AYP_003925;product=Transcriptional regulator%2C TetR family;protein_id=ATU25151.1;transl_table=11
+CP024125.1	Genbank	pseudogene	38157	38699	.	+	.	ID=gene-AYP_003926;Name=AYP_003926;Note=Putative oxidoreductase YncB;gbkey=Gene;gene_biotype=pseudogene;locus_tag=AYP_003926;pseudo=true
+CP024125.1	Genbank	gene	38678	39430	.	-	.	ID=gene-AYP_003928;Name=AYP_003928;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003928
+CP024125.1	Genbank	CDS	38678	39430	.	-	0	ID=cds-ATU25152.1;Parent=gene-AYP_003928;Dbxref=SEED:fig|470.3543.peg.3847,NCBI_GP:ATU25152.1;Name=ATU25152.1;gbkey=CDS;locus_tag=AYP_003928;product=Mobile element protein;protein_id=ATU25152.1;transl_table=11
+CP024125.1	Genbank	gene	39971	40834	.	-	.	ID=gene-AYP_003929;Name=AYP_003929;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003929
+CP024125.1	Genbank	CDS	39971	40834	.	-	0	ID=cds-ATU25153.1;Parent=gene-AYP_003929;Dbxref=SEED:fig|470.3543.peg.3848,NCBI_GP:ATU25153.1;Name=ATU25153.1;gbkey=CDS;locus_tag=AYP_003929;product=hypothetical protein;protein_id=ATU25153.1;transl_table=11
+CP024125.1	Genbank	gene	41513	41935	.	-	.	ID=gene-AYP_003930;Name=AYP_003930;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003930
+CP024125.1	Genbank	CDS	41513	41935	.	-	0	ID=cds-ATU25154.1;Parent=gene-AYP_003930;Dbxref=SEED:fig|470.3543.peg.3849,NCBI_GP:ATU25154.1;Name=ATU25154.1;gbkey=CDS;locus_tag=AYP_003930;product=hypothetical protein;protein_id=ATU25154.1;transl_table=11
+CP024125.1	Genbank	gene	41989	42750	.	-	.	ID=gene-AYP_003931;Name=AYP_003931;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003931
+CP024125.1	Genbank	CDS	41989	42750	.	-	0	ID=cds-ATU25155.1;Parent=gene-AYP_003931;Dbxref=SEED:fig|470.3543.peg.3850,NCBI_GP:ATU25155.1;Name=ATU25155.1;gbkey=CDS;locus_tag=AYP_003931;product=hypothetical protein;protein_id=ATU25155.1;transl_table=11
+CP024125.1	Genbank	gene	43506	43826	.	-	.	ID=gene-AYP_003932;Name=AYP_003932;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003932
+CP024125.1	Genbank	CDS	43506	43826	.	-	0	ID=cds-ATU25156.1;Parent=gene-AYP_003932;Dbxref=SEED:fig|470.3543.peg.3851,NCBI_GP:ATU25156.1;Name=ATU25156.1;gbkey=CDS;locus_tag=AYP_003932;product=hypothetical protein;protein_id=ATU25156.1;transl_table=11
+CP024125.1	Genbank	gene	44062	44601	.	-	.	ID=gene-AYP_003933;Name=AYP_003933;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003933
+CP024125.1	Genbank	CDS	44062	44601	.	-	0	ID=cds-ATU25157.1;Parent=gene-AYP_003933;Dbxref=GO:0003887,SEED:fig|470.3543.peg.3852,NCBI_GP:ATU25157.1;Name=ATU25157.1;gbkey=CDS;locus_tag=AYP_003933;product=DNA polymerase III epsilon subunit;protein_id=ATU25157.1;transl_table=11
+CP024125.1	Genbank	gene	44760	44921	.	-	.	ID=gene-AYP_003934;Name=AYP_003934;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003934
+CP024125.1	Genbank	CDS	44760	44921	.	-	0	ID=cds-ATU25158.1;Parent=gene-AYP_003934;Dbxref=SEED:fig|470.3543.peg.3853,NCBI_GP:ATU25158.1;Name=ATU25158.1;gbkey=CDS;locus_tag=AYP_003934;product=hypothetical protein;protein_id=ATU25158.1;transl_table=11
+CP024125.1	Genbank	gene	44926	45072	.	-	.	ID=gene-AYP_003935;Name=AYP_003935;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003935
+CP024125.1	Genbank	CDS	44926	45072	.	-	0	ID=cds-ATU25159.1;Parent=gene-AYP_003935;Dbxref=SEED:fig|470.3543.peg.3854,NCBI_GP:ATU25159.1;Name=ATU25159.1;gbkey=CDS;locus_tag=AYP_003935;product=hypothetical protein;protein_id=ATU25159.1;transl_table=11
+CP024125.1	Genbank	gene	45264	45935	.	-	.	ID=gene-AYP_003936;Name=AYP_003936;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003936
+CP024125.1	Genbank	CDS	45264	45935	.	-	0	ID=cds-ATU25160.1;Parent=gene-AYP_003936;Dbxref=SEED:fig|470.3543.peg.3855,NCBI_GP:ATU25160.1;Name=ATU25160.1;gbkey=CDS;locus_tag=AYP_003936;product=hypothetical protein;protein_id=ATU25160.1;transl_table=11
+CP024125.1	Genbank	gene	45932	46297	.	-	.	ID=gene-AYP_003937;Name=AYP_003937;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003937
+CP024125.1	Genbank	CDS	45932	46297	.	-	0	ID=cds-ATU25161.1;Parent=gene-AYP_003937;Dbxref=SEED:fig|470.3543.peg.3856,NCBI_GP:ATU25161.1;Name=ATU25161.1;gbkey=CDS;locus_tag=AYP_003937;product=Phage protein;protein_id=ATU25161.1;transl_table=11
+CP024125.1	Genbank	gene	46290	46547	.	-	.	ID=gene-AYP_003938;Name=AYP_003938;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003938
+CP024125.1	Genbank	CDS	46290	46547	.	-	0	ID=cds-ATU25162.1;Parent=gene-AYP_003938;Dbxref=SEED:fig|470.3543.peg.3857,NCBI_GP:ATU25162.1;Name=ATU25162.1;Note=FIG00351955;gbkey=CDS;locus_tag=AYP_003938;product=hypothetical protein;protein_id=ATU25162.1;transl_table=11
+CP024125.1	Genbank	gene	46578	46733	.	-	.	ID=gene-AYP_003939;Name=AYP_003939;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003939
+CP024125.1	Genbank	CDS	46578	46733	.	-	0	ID=cds-ATU25163.1;Parent=gene-AYP_003939;Dbxref=SEED:fig|470.3543.peg.3858,NCBI_GP:ATU25163.1;Name=ATU25163.1;gbkey=CDS;locus_tag=AYP_003939;product=hypothetical protein;protein_id=ATU25163.1;transl_table=11
+CP024125.1	Genbank	gene	46805	47089	.	-	.	ID=gene-AYP_003940;Name=AYP_003940;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003940
+CP024125.1	Genbank	CDS	46805	47089	.	-	0	ID=cds-ATU25164.1;Parent=gene-AYP_003940;Dbxref=SEED:fig|470.3543.peg.3859,NCBI_GP:ATU25164.1;Name=ATU25164.1;gbkey=CDS;locus_tag=AYP_003940;product=hypothetical protein;protein_id=ATU25164.1;transl_table=11
+CP024125.1	Genbank	gene	47093	48004	.	-	.	ID=gene-AYP_003941;Name=AYP_003941;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003941
+CP024125.1	Genbank	CDS	47093	48004	.	-	0	ID=cds-ATU25165.1;Parent=gene-AYP_003941;Dbxref=SEED:fig|470.3543.peg.3860,NCBI_GP:ATU25165.1;Name=ATU25165.1;gbkey=CDS;locus_tag=AYP_003941;product=Phage protein;protein_id=ATU25165.1;transl_table=11
+CP024125.1	Genbank	gene	48017	48946	.	-	.	ID=gene-AYP_003942;Name=AYP_003942;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003942
+CP024125.1	Genbank	CDS	48017	48946	.	-	0	ID=cds-ATU25166.1;Parent=gene-AYP_003942;Dbxref=GO:0004748,SEED:fig|470.3543.peg.3861,NCBI_GP:ATU25166.1;Name=ATU25166.1;gbkey=CDS;locus_tag=AYP_003942;product=Ribonucleotide reductase of class Ia (aerobic)%2C beta subunit;protein_id=ATU25166.1;transl_table=11
+CP024125.1	Genbank	gene	49104	51476	.	-	.	ID=gene-AYP_003943;Name=AYP_003943;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003943
+CP024125.1	Genbank	CDS	49104	51476	.	-	0	ID=cds-ATU25167.1;Parent=gene-AYP_003943;Dbxref=GO:0004748,SEED:fig|470.3543.peg.3862,NCBI_GP:ATU25167.1;Name=ATU25167.1;gbkey=CDS;locus_tag=AYP_003943;product=Ribonucleotide reductase of class Ia (aerobic)%2C alpha subunit;protein_id=ATU25167.1;transl_table=11
+CP024125.1	Genbank	gene	51498	51824	.	-	.	ID=gene-AYP_003944;Name=AYP_003944;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003944
+CP024125.1	Genbank	CDS	51498	51824	.	-	0	ID=cds-ATU25168.1;Parent=gene-AYP_003944;Dbxref=SEED:fig|470.3543.peg.3863,NCBI_GP:ATU25168.1;Name=ATU25168.1;gbkey=CDS;locus_tag=AYP_003944;product=hypothetical protein;protein_id=ATU25168.1;transl_table=11
+CP024125.1	Genbank	gene	51952	52554	.	-	.	ID=gene-AYP_003945;Name=AYP_003945;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003945
+CP024125.1	Genbank	CDS	51952	52554	.	-	0	ID=cds-ATU25169.1;Parent=gene-AYP_003945;Dbxref=SEED:fig|470.3543.peg.3864,NCBI_GP:ATU25169.1;Name=ATU25169.1;gbkey=CDS;locus_tag=AYP_003945;product=hypothetical protein;protein_id=ATU25169.1;transl_table=11
+CP024125.1	Genbank	gene	52686	53522	.	-	.	ID=gene-AYP_003946;Name=AYP_003946;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003946
+CP024125.1	Genbank	CDS	52686	53522	.	-	0	ID=cds-ATU25170.1;Parent=gene-AYP_003946;Dbxref=SEED:fig|470.3543.peg.3865,NCBI_GP:ATU25170.1;Name=ATU25170.1;gbkey=CDS;locus_tag=AYP_003946;product=hypothetical protein;protein_id=ATU25170.1;transl_table=11
+CP024125.1	Genbank	gene	53615	55555	.	-	.	ID=gene-AYP_003947;Name=AYP_003947;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003947
+CP024125.1	Genbank	CDS	53615	55555	.	-	0	ID=cds-ATU25171.1;Parent=gene-AYP_003947;Dbxref=SEED:fig|470.3543.peg.3866,NCBI_GP:ATU25171.1;Name=ATU25171.1;gbkey=CDS;locus_tag=AYP_003947;product=Phage recombination related exonuclease;protein_id=ATU25171.1;transl_table=11
+CP024125.1	Genbank	gene	55555	56670	.	-	.	ID=gene-AYP_003948;Name=AYP_003948;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003948
+CP024125.1	Genbank	CDS	55555	56670	.	-	0	ID=cds-ATU25172.1;Parent=gene-AYP_003948;Dbxref=SEED:fig|470.3543.peg.3867,NCBI_GP:ATU25172.1;Name=ATU25172.1;gbkey=CDS;locus_tag=AYP_003948;product=Phage exonuclease;protein_id=ATU25172.1;transl_table=11
+CP024125.1	Genbank	gene	57393	57854	.	-	.	ID=gene-AYP_003949;Name=AYP_003949;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003949
+CP024125.1	Genbank	CDS	57393	57854	.	-	0	ID=cds-ATU25173.1;Parent=gene-AYP_003949;Dbxref=SEED:fig|470.3543.peg.3868,NCBI_GP:ATU25173.1;Name=ATU25173.1;gbkey=CDS;locus_tag=AYP_003949;product=hypothetical protein;protein_id=ATU25173.1;transl_table=11
+CP024125.1	Genbank	gene	57851	58111	.	-	.	ID=gene-AYP_003950;Name=AYP_003950;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003950
+CP024125.1	Genbank	CDS	57851	58111	.	-	0	ID=cds-ATU25174.1;Parent=gene-AYP_003950;Dbxref=SEED:fig|470.3543.peg.3869,NCBI_GP:ATU25174.1;Name=ATU25174.1;gbkey=CDS;locus_tag=AYP_003950;product=hypothetical protein;protein_id=ATU25174.1;transl_table=11
+CP024125.1	Genbank	gene	58298	60496	.	-	.	ID=gene-AYP_003951;Name=AYP_003951;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003951
+CP024125.1	Genbank	CDS	58298	60496	.	-	0	ID=cds-ATU25175.1;Parent=gene-AYP_003951;Dbxref=SEED:fig|470.3543.peg.3870,NCBI_GP:ATU25175.1;Name=ATU25175.1;gbkey=CDS;locus_tag=AYP_003951;product=RecA protein;protein_id=ATU25175.1;transl_table=11
+CP024125.1	Genbank	gene	60499	61536	.	-	.	ID=gene-AYP_003952;Name=AYP_003952;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003952
+CP024125.1	Genbank	CDS	60499	61536	.	-	0	ID=cds-ATU25176.1;Parent=gene-AYP_003952;Dbxref=GO:0003887,SEED:fig|470.3543.peg.3871,NCBI_GP:ATU25176.1;Name=ATU25176.1;gbkey=CDS;locus_tag=AYP_003952;product=DNA polymerase I;protein_id=ATU25176.1;transl_table=11
+CP024125.1	Genbank	gene	61599	62459	.	-	.	ID=gene-AYP_003953;Name=AYP_003953;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003953
+CP024125.1	Genbank	CDS	61599	62459	.	-	0	ID=cds-ATU25177.1;Parent=gene-AYP_003953;Dbxref=SEED:fig|470.3543.peg.3872,NCBI_GP:ATU25177.1;Name=ATU25177.1;Note=FIG01363442;gbkey=CDS;locus_tag=AYP_003953;product=putative membrane protein;protein_id=ATU25177.1;transl_table=11
+CP024125.1	Genbank	gene	62602	63690	.	-	.	ID=gene-AYP_003954;Name=AYP_003954;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003954
+CP024125.1	Genbank	CDS	62602	63690	.	-	0	ID=cds-ATU25178.1;Parent=gene-AYP_003954;Dbxref=SEED:fig|470.3543.peg.3873,NCBI_GP:ATU25178.1;Name=ATU25178.1;gbkey=CDS;locus_tag=AYP_003954;product=MJ0042 family finger-like protein;protein_id=ATU25178.1;transl_table=11
+CP024125.1	Genbank	gene	63780	65045	.	-	.	ID=gene-AYP_003955;Name=AYP_003955;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003955
+CP024125.1	Genbank	CDS	63780	65045	.	-	0	ID=cds-ATU25179.1;Parent=gene-AYP_003955;Dbxref=GO:0003887,SEED:fig|470.3543.peg.3874,NCBI_GP:ATU25179.1;Name=ATU25179.1;gbkey=CDS;locus_tag=AYP_003955;product=DNA polymerase III alpha subunit;protein_id=ATU25179.1;transl_table=11
+CP024125.1	Genbank	gene	65042	65617	.	-	.	ID=gene-AYP_003956;Name=AYP_003956;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003956
+CP024125.1	Genbank	CDS	65042	65617	.	-	0	ID=cds-ATU25180.1;Parent=gene-AYP_003956;Dbxref=SEED:fig|470.3543.peg.3875,NCBI_GP:ATU25180.1;Name=ATU25180.1;gbkey=CDS;locus_tag=AYP_003956;product=HNH homing endonuclease;protein_id=ATU25180.1;transl_table=11
+CP024125.1	Genbank	gene	65666	68023	.	-	.	ID=gene-AYP_003957;Name=AYP_003957;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003957
+CP024125.1	Genbank	CDS	65666	68023	.	-	0	ID=cds-ATU25181.1;Parent=gene-AYP_003957;Dbxref=GO:0003887,SEED:fig|470.3543.peg.3876,NCBI_GP:ATU25181.1;Name=ATU25181.1;gbkey=CDS;locus_tag=AYP_003957;product=DNA polymerase III alpha subunit;protein_id=ATU25181.1;transl_table=11
+CP024125.1	Genbank	gene	68069	68749	.	-	.	ID=gene-AYP_003958;Name=AYP_003958;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003958
+CP024125.1	Genbank	CDS	68069	68749	.	-	0	ID=cds-ATU25182.1;Parent=gene-AYP_003958;Dbxref=SEED:fig|470.3543.peg.3877,NCBI_GP:ATU25182.1;Name=ATU25182.1;gbkey=CDS;locus_tag=AYP_003958;product=hypothetical protein;protein_id=ATU25182.1;transl_table=11
+CP024125.1	Genbank	gene	68800	69465	.	-	.	ID=gene-AYP_003959;Name=AYP_003959;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003959
+CP024125.1	Genbank	CDS	68800	69465	.	-	0	ID=cds-ATU25183.1;Parent=gene-AYP_003959;Dbxref=SEED:fig|470.3543.peg.3878,NCBI_GP:ATU25183.1;Name=ATU25183.1;gbkey=CDS;locus_tag=AYP_003959;product=hypothetical protein;protein_id=ATU25183.1;transl_table=11
+CP024125.1	Genbank	gene	69490	70734	.	-	.	ID=gene-AYP_003960;Name=AYP_003960;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003960
+CP024125.1	Genbank	CDS	69490	70734	.	-	0	ID=cds-ATU25184.1;Parent=gene-AYP_003960;Dbxref=SEED:fig|470.3543.peg.3879,NCBI_GP:ATU25184.1;Name=ATU25184.1;gbkey=CDS;locus_tag=AYP_003960;product=putative porphyrin biosynthetic protein;protein_id=ATU25184.1;transl_table=11
+CP024125.1	Genbank	gene	70879	72801	.	-	.	ID=gene-AYP_003961;Name=AYP_003961;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003961
+CP024125.1	Genbank	CDS	70879	72801	.	-	0	ID=cds-ATU25185.1;Parent=gene-AYP_003961;Dbxref=SEED:fig|470.3543.peg.3880,NCBI_GP:ATU25185.1;Name=ATU25185.1;gbkey=CDS;locus_tag=AYP_003961;product=putative cobalamin biosynthesis protein%2C CobT;protein_id=ATU25185.1;transl_table=11
+CP024125.1	Genbank	gene	73042	73236	.	-	.	ID=gene-AYP_003962;Name=AYP_003962;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003962
+CP024125.1	Genbank	CDS	73042	73236	.	-	0	ID=cds-ATU25186.1;Parent=gene-AYP_003962;Dbxref=SEED:fig|470.3543.peg.3881,NCBI_GP:ATU25186.1;Name=ATU25186.1;gbkey=CDS;locus_tag=AYP_003962;product=hypothetical protein;protein_id=ATU25186.1;transl_table=11
+CP024125.1	Genbank	gene	73658	74077	.	+	.	ID=gene-AYP_003963;Name=AYP_003963;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003963
+CP024125.1	Genbank	CDS	73658	74077	.	+	0	ID=cds-ATU25187.1;Parent=gene-AYP_003963;Dbxref=SEED:fig|470.3543.peg.3882,NCBI_GP:ATU25187.1;Name=ATU25187.1;gbkey=CDS;locus_tag=AYP_003963;product=hypothetical protein;protein_id=ATU25187.1;transl_table=11
+CP024125.1	Genbank	gene	74074	74217	.	-	.	ID=gene-AYP_003964;Name=AYP_003964;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003964
+CP024125.1	Genbank	CDS	74074	74217	.	-	0	ID=cds-ATU25188.1;Parent=gene-AYP_003964;Dbxref=SEED:fig|470.3543.peg.3883,NCBI_GP:ATU25188.1;Name=ATU25188.1;gbkey=CDS;locus_tag=AYP_003964;product=hypothetical protein;protein_id=ATU25188.1;transl_table=11
+CP024125.1	Genbank	gene	74417	75001	.	+	.	ID=gene-AYP_003965;Name=AYP_003965;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003965
+CP024125.1	Genbank	CDS	74417	75001	.	+	0	ID=cds-ATU25189.1;Parent=gene-AYP_003965;Dbxref=SEED:fig|470.3543.peg.3884,NCBI_GP:ATU25189.1;Name=ATU25189.1;gbkey=CDS;locus_tag=AYP_003965;product=Integrase/recombinase (XerC/CodV family);protein_id=ATU25189.1;transl_table=11
+CP024125.1	Genbank	gene	75006	75413	.	-	.	ID=gene-AYP_003966;Name=AYP_003966;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003966
+CP024125.1	Genbank	CDS	75006	75413	.	-	0	ID=cds-ATU25190.1;Parent=gene-AYP_003966;Dbxref=SEED:fig|470.3543.peg.3885,NCBI_GP:ATU25190.1;Name=ATU25190.1;gbkey=CDS;locus_tag=AYP_003966;product=hypothetical protein;protein_id=ATU25190.1;transl_table=11
+CP024125.1	Genbank	gene	75616	76293	.	+	.	ID=gene-AYP_003967;Name=AYP_003967;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003967
+CP024125.1	Genbank	CDS	75616	76293	.	+	0	ID=cds-ATU25191.1;Parent=gene-AYP_003967;Dbxref=SEED:fig|470.3543.peg.3886,NCBI_GP:ATU25191.1;Name=ATU25191.1;gbkey=CDS;locus_tag=AYP_003967;product=plasmid partition protein A;protein_id=ATU25191.1;transl_table=11
+CP024125.1	Genbank	gene	76290	76718	.	+	.	ID=gene-AYP_003968;Name=AYP_003968;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003968
+CP024125.1	Genbank	CDS	76290	76718	.	+	0	ID=cds-ATU25192.1;Parent=gene-AYP_003968;Dbxref=SEED:fig|470.3543.peg.3887,NCBI_GP:ATU25192.1;Name=ATU25192.1;gbkey=CDS;locus_tag=AYP_003968;product=hypothetical protein;protein_id=ATU25192.1;transl_table=11
+CP024125.1	Genbank	gene	76706	77326	.	-	.	ID=gene-AYP_003969;Name=AYP_003969;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003969
+CP024125.1	Genbank	CDS	76706	77326	.	-	0	ID=cds-ATU25193.1;Parent=gene-AYP_003969;Dbxref=SEED:fig|470.3543.peg.3888,NCBI_GP:ATU25193.1;Name=ATU25193.1;gbkey=CDS;locus_tag=AYP_003969;product=hypothetical protein;protein_id=ATU25193.1;transl_table=11
+CP024125.1	Genbank	gene	77399	77971	.	-	.	ID=gene-AYP_003970;Name=AYP_003970;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003970
+CP024125.1	Genbank	CDS	77399	77971	.	-	0	ID=cds-ATU25194.1;Parent=gene-AYP_003970;Dbxref=GO:0004385,SEED:fig|470.3543.peg.3889,NCBI_GP:ATU25194.1;Name=ATU25194.1;gbkey=CDS;locus_tag=AYP_003970;product=Guanylate kinase;protein_id=ATU25194.1;transl_table=11
+CP024125.1	Genbank	gene	78011	79714	.	-	.	ID=gene-AYP_003971;Name=AYP_003971;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003971
+CP024125.1	Genbank	CDS	78011	79714	.	-	0	ID=cds-ATU25195.1;Parent=gene-AYP_003971;Dbxref=SEED:fig|470.3543.peg.3890,NCBI_GP:ATU25195.1;Name=ATU25195.1;gbkey=CDS;locus_tag=AYP_003971;product=DNA ligase (ATP);protein_id=ATU25195.1;transl_table=11
+CP024125.1	Genbank	gene	79727	80236	.	-	.	ID=gene-AYP_003972;Name=AYP_003972;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003972
+CP024125.1	Genbank	CDS	79727	80236	.	-	0	ID=cds-ATU25196.1;Parent=gene-AYP_003972;Dbxref=SEED:fig|470.3543.peg.3891,NCBI_GP:ATU25196.1;Name=ATU25196.1;gbkey=CDS;locus_tag=AYP_003972;product=hypothetical protein;protein_id=ATU25196.1;transl_table=11
+CP024125.1	Genbank	gene	80233	80841	.	-	.	ID=gene-AYP_003973;Name=AYP_003973;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003973
+CP024125.1	Genbank	CDS	80233	80841	.	-	0	ID=cds-ATU25197.1;Parent=gene-AYP_003973;Dbxref=SEED:fig|470.3543.peg.3892,NCBI_GP:ATU25197.1;Name=ATU25197.1;gbkey=CDS;locus_tag=AYP_003973;product=hypothetical protein;protein_id=ATU25197.1;transl_table=11
+CP024125.1	Genbank	gene	80835	81287	.	-	.	ID=gene-AYP_003974;Name=AYP_003974;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003974
+CP024125.1	Genbank	CDS	80835	81287	.	-	0	ID=cds-ATU25198.1;Parent=gene-AYP_003974;Dbxref=SEED:fig|470.3543.peg.3893,NCBI_GP:ATU25198.1;Name=ATU25198.1;gbkey=CDS;locus_tag=AYP_003974;product=hypothetical protein;protein_id=ATU25198.1;transl_table=11
+CP024125.1	Genbank	gene	81326	81880	.	-	.	ID=gene-AYP_003975;Name=AYP_003975;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003975
+CP024125.1	Genbank	CDS	81326	81880	.	-	0	ID=cds-ATU25199.1;Parent=gene-AYP_003975;Dbxref=SEED:fig|470.3543.peg.3894,NCBI_GP:ATU25199.1;Name=ATU25199.1;gbkey=CDS;locus_tag=AYP_003975;product=hypothetical protein;protein_id=ATU25199.1;transl_table=11
+CP024125.1	Genbank	gene	81944	83038	.	-	.	ID=gene-AYP_003976;Name=AYP_003976;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003976
+CP024125.1	Genbank	CDS	81944	83038	.	-	0	ID=cds-ATU25200.1;Parent=gene-AYP_003976;Dbxref=GO:0003676,GO:0003677,GO:0003896,GO:0006260,GO:0006304,GO:0008270,SEED:fig|470.3543.peg.3895,NCBI_GP:ATU25200.1;Name=ATU25200.1;gbkey=CDS;locus_tag=AYP_003976;product=DNA primase;protein_id=ATU25200.1;transl_table=11
+CP024125.1	Genbank	gene	83126	84529	.	-	.	ID=gene-AYP_003977;Name=AYP_003977;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003977
+CP024125.1	Genbank	CDS	83126	84529	.	-	0	ID=cds-ATU25201.1;Parent=gene-AYP_003977;Dbxref=SEED:fig|470.3543.peg.3896,NCBI_GP:ATU25201.1;Name=ATU25201.1;gbkey=CDS;locus_tag=AYP_003977;product=putative DNA helicase;protein_id=ATU25201.1;transl_table=11
+CP024125.1	Genbank	gene	84566	84997	.	-	.	ID=gene-AYP_003978;Name=AYP_003978;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003978
+CP024125.1	Genbank	CDS	84566	84997	.	-	0	ID=cds-ATU25202.1;Parent=gene-AYP_003978;Dbxref=SEED:fig|470.3543.peg.3897,NCBI_GP:ATU25202.1;Name=ATU25202.1;gbkey=CDS;locus_tag=AYP_003978;product=hypothetical protein;protein_id=ATU25202.1;transl_table=11
+CP024125.1	Genbank	gene	85085	85816	.	-	.	ID=gene-AYP_003979;Name=AYP_003979;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003979
+CP024125.1	Genbank	CDS	85085	85816	.	-	0	ID=cds-ATU25203.1;Parent=gene-AYP_003979;Dbxref=SEED:fig|470.3543.peg.3898,NCBI_GP:ATU25203.1;Name=ATU25203.1;gbkey=CDS;locus_tag=AYP_003979;product=hypothetical protein;protein_id=ATU25203.1;transl_table=11
+CP024125.1	Genbank	gene	85933	87054	.	-	.	ID=gene-AYP_003980;Name=AYP_003980;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003980
+CP024125.1	Genbank	CDS	85933	87054	.	-	0	ID=cds-ATU25204.1;Parent=gene-AYP_003980;Dbxref=SEED:fig|470.3543.peg.3899,NCBI_GP:ATU25204.1;Name=ATU25204.1;gbkey=CDS;locus_tag=AYP_003980;product=Replication protein;protein_id=ATU25204.1;transl_table=11
+CP024125.1	Genbank	gene	88058	88696	.	-	.	ID=gene-AYP_003981;Name=AYP_003981;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003981
+CP024125.1	Genbank	CDS	88058	88696	.	-	0	ID=cds-ATU25205.1;Parent=gene-AYP_003981;Dbxref=SEED:fig|470.3543.peg.3900,NCBI_GP:ATU25205.1;Name=ATU25205.1;gbkey=CDS;locus_tag=AYP_003981;product=Gifsy-2 prophage lysozyme;protein_id=ATU25205.1;transl_table=11
+CP024125.1	Genbank	gene	88696	89088	.	-	.	ID=gene-AYP_003982;Name=AYP_003982;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003982
+CP024125.1	Genbank	CDS	88696	89088	.	-	0	ID=cds-ATU25206.1;Parent=gene-AYP_003982;Dbxref=SEED:fig|470.3543.peg.3901,NCBI_GP:ATU25206.1;Name=ATU25206.1;Note=FIG00350821;gbkey=CDS;locus_tag=AYP_003982;product=hypothetical protein;protein_id=ATU25206.1;transl_table=11
+CP024125.1	Genbank	gene	89212	89415	.	+	.	ID=gene-AYP_003983;Name=AYP_003983;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003983
+CP024125.1	Genbank	CDS	89212	89415	.	+	0	ID=cds-ATU25207.1;Parent=gene-AYP_003983;Dbxref=SEED:fig|470.3543.peg.3902,NCBI_GP:ATU25207.1;Name=ATU25207.1;gbkey=CDS;locus_tag=AYP_003983;product=hypothetical protein;protein_id=ATU25207.1;transl_table=11
+CP024125.1	Genbank	gene	89548	89682	.	-	.	ID=gene-AYP_003984;Name=AYP_003984;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003984
+CP024125.1	Genbank	CDS	89548	89682	.	-	0	ID=cds-ATU25208.1;Parent=gene-AYP_003984;Dbxref=SEED:fig|470.3543.peg.3903,NCBI_GP:ATU25208.1;Name=ATU25208.1;gbkey=CDS;locus_tag=AYP_003984;product=hypothetical protein;protein_id=ATU25208.1;transl_table=11
+CP024125.1	Genbank	gene	89809	90618	.	-	.	ID=gene-AYP_003985;Name=AYP_003985;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003985
+CP024125.1	Genbank	CDS	89809	90618	.	-	0	ID=cds-ATU25209.1;Parent=gene-AYP_003985;Dbxref=SEED:fig|470.3543.peg.3904,NCBI_GP:ATU25209.1;Name=ATU25209.1;gbkey=CDS;locus_tag=AYP_003985;product=hypothetical protein;protein_id=ATU25209.1;transl_table=11
+CP024125.1	Genbank	gene	90872	102055	.	-	.	ID=gene-AYP_003986;Name=AYP_003986;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003986
+CP024125.1	Genbank	CDS	90872	102055	.	-	0	ID=cds-ATU25210.1;Parent=gene-AYP_003986;Dbxref=SEED:fig|470.3543.peg.3905,NCBI_GP:ATU25210.1;Name=ATU25210.1;gbkey=CDS;locus_tag=AYP_003986;product=Phage tail fiber protein;protein_id=ATU25210.1;transl_table=11
+CP024125.1	Genbank	gene	102079	102657	.	-	.	ID=gene-AYP_003987;Name=AYP_003987;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003987
+CP024125.1	Genbank	CDS	102079	102657	.	-	0	ID=cds-ATU25211.1;Parent=gene-AYP_003987;Dbxref=SEED:fig|470.3543.peg.3906,NCBI_GP:ATU25211.1;Name=ATU25211.1;gbkey=CDS;locus_tag=AYP_003987;product=putative phage tail protein;protein_id=ATU25211.1;transl_table=11
+CP024125.1	Genbank	gene	102651	103400	.	-	.	ID=gene-AYP_003988;Name=AYP_003988;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003988
+CP024125.1	Genbank	CDS	102651	103400	.	-	0	ID=cds-ATU25212.1;Parent=gene-AYP_003988;Dbxref=SEED:fig|470.3543.peg.3907,NCBI_GP:ATU25212.1;Name=ATU25212.1;gbkey=CDS;locus_tag=AYP_003988;product=Phage tail assembly protein;protein_id=ATU25212.1;transl_table=11
+CP024125.1	Genbank	gene	103397	104092	.	-	.	ID=gene-AYP_003989;Name=AYP_003989;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003989
+CP024125.1	Genbank	CDS	103397	104092	.	-	0	ID=cds-ATU25213.1;Parent=gene-AYP_003989;Dbxref=SEED:fig|470.3543.peg.3908,NCBI_GP:ATU25213.1;Name=ATU25213.1;gbkey=CDS;locus_tag=AYP_003989;product=Phage minor tail protein;protein_id=ATU25213.1;transl_table=11
+CP024125.1	Genbank	gene	104092	104394	.	-	.	ID=gene-AYP_003990;Name=AYP_003990;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003990
+CP024125.1	Genbank	CDS	104092	104394	.	-	0	ID=cds-ATU25214.1;Parent=gene-AYP_003990;Dbxref=SEED:fig|470.3543.peg.3909,NCBI_GP:ATU25214.1;Name=ATU25214.1;gbkey=CDS;locus_tag=AYP_003990;product=Phage minor tail protein;protein_id=ATU25214.1;transl_table=11
+CP024125.1	Genbank	gene	104491	110079	.	-	.	ID=gene-AYP_003991;Name=AYP_003991;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003991
+CP024125.1	Genbank	CDS	104491	110079	.	-	0	ID=cds-ATU25215.1;Parent=gene-AYP_003991;Dbxref=SEED:fig|470.3543.peg.3910,NCBI_GP:ATU25215.1;Name=ATU25215.1;gbkey=CDS;locus_tag=AYP_003991;product=Phage tail length tape-measure protein 1;protein_id=ATU25215.1;transl_table=11
+CP024125.1	Genbank	gene	110435	110788	.	-	.	ID=gene-AYP_003992;Name=AYP_003992;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AYP_003992
+CP024125.1	Genbank	CDS	110435	110788	.	-	0	ID=cds-ATU25216.1;Parent=gene-AYP_003992;Dbxref=SEED:fig|470.3543.peg.3911,NCBI_GP:ATU25216.1;Name=ATU25216.1;gbkey=CDS;locus_tag=AYP_003992;product=hypothetical protein;protein_id=ATU25216.1;transl_table=11
+

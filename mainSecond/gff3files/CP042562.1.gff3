@@ -1,0 +1,16 @@
+##sequence-region CP042562.1 1 5039
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP042562.1	Genbank	region	1	5039	.	+	.	ID=CP042562.1:1..5039;Dbxref=taxon:470;Is_circular=true;Name=pE47_006;collected-by=Concord Repatriation Hospital Sydney Australia;collection-date=08-Feb-2013;country=Australia: Sydney;gbkey=Src;genome=plasmid;isolation-source=Room 7;mol_type=genomic DNA;plasmid-name=pE47_006;strain=E47
+CP042562.1	Genbank	gene	374	784	.	-	.	ID=gene-FR761_20720;Name=FR761_20720;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20720
+CP042562.1	Protein Homology	CDS	374	784	.	-	0	ID=cds-QFH47712.1;Parent=gene-FR761_20720;Dbxref=NCBI_GP:QFH47712.1;Name=QFH47712.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_017482451.1;locus_tag=FR761_20720;product=MobC family plasmid mobilization relaxosome protein;protein_id=QFH47712.1;transl_table=11
+CP042562.1	Genbank	gene	1942	2304	.	+	.	ID=gene-FR761_20725;Name=FR761_20725;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20725
+CP042562.1	Protein Homology	CDS	1942	2304	.	+	0	ID=cds-QFH47713.1;Parent=gene-FR761_20725;Dbxref=NCBI_GP:QFH47713.1;Name=QFH47713.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:PF08681.9;locus_tag=FR761_20725;product=DUF1778 domain-containing protein;protein_id=QFH47713.1;transl_table=11
+CP042562.1	Genbank	gene	2216	2752	.	+	.	ID=gene-FR761_20730;Name=FR761_20730;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20730
+CP042562.1	Protein Homology	CDS	2216	2752	.	+	0	ID=cds-QFH47714.1;Parent=gene-FR761_20730;Dbxref=NCBI_GP:QFH47714.1;Name=QFH47714.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:PF00583.23;locus_tag=FR761_20730;product=GNAT family N-acetyltransferase;protein_id=QFH47714.1;transl_table=11
+CP042562.1	Genbank	gene	2809	3216	.	-	.	ID=gene-FR761_20735;Name=FR761_20735;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20735
+CP042562.1	GeneMarkS-2+	CDS	2809	3216	.	-	0	ID=cds-QFH47715.1;Parent=gene-FR761_20735;Dbxref=NCBI_GP:QFH47715.1;Name=QFH47715.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=FR761_20735;product=hypothetical protein;protein_id=QFH47715.1;transl_table=11
+CP042562.1	Genbank	gene	3217	3534	.	-	.	ID=gene-FR761_20740;Name=FR761_20740;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20740
+CP042562.1	GeneMarkS-2+	CDS	3217	3534	.	-	0	ID=cds-QFH47716.1;Parent=gene-FR761_20740;Dbxref=NCBI_GP:QFH47716.1;Name=QFH47716.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=FR761_20740;product=hypothetical protein;protein_id=QFH47716.1;transl_table=11
+CP042562.1	Genbank	gene	3609	5423	.	-	.	ID=gene-FR761_20715;Name=FR761_20715;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20715
+CP042562.1	Protein Homology	CDS	3609	5423	.	-	0	ID=cds-QFH47711.1;Parent=gene-FR761_20715;Dbxref=NCBI_GP:QFH47711.1;Name=QFH47711.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000634474.1;locus_tag=FR761_20715;product=mobilization protein;protein_id=QFH47711.1;transl_table=11
+

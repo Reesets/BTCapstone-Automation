@@ -1,0 +1,24 @@
+##sequence-region CP060014.1 1 8731
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP060014.1	Genbank	region	1	8731	.	+	.	ID=CP060014.1:1..8731;Dbxref=taxon:470;Is_circular=true;Name=pTP3A;collected-by=Sharon L. Reed;collection-date=2016;country=USA;gbkey=Src;genome=plasmid;isolation-source=human clinical sample;lat-lon=32.71 N 117.16 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pTP3A;strain=TP3
+CP060014.1	Genbank	gene	1	951	.	+	.	ID=gene-H5028_18285;Name=H5028_18285;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H5028_18285
+CP060014.1	Protein Homology	CDS	1	951	.	+	0	ID=cds-QPO05067.1;Parent=gene-H5028_18285;Dbxref=NCBI_GP:QPO05067.1;Name=QPO05067.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=H5028_18285;product=replication initiation protein;protein_id=QPO05067.1;transl_table=11
+CP060014.1	Genbank	gene	944	1519	.	+	.	ID=gene-H5028_18290;Name=H5028_18290;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H5028_18290
+CP060014.1	Protein Homology	CDS	944	1519	.	+	0	ID=cds-QPO05068.1;Parent=gene-H5028_18290;Dbxref=NCBI_GP:QPO05068.1;Name=QPO05068.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=H5028_18290;product=helix-turn-helix domain-containing protein;protein_id=QPO05068.1;transl_table=11
+CP060014.1	Genbank	gene	1539	1682	.	+	.	ID=gene-H5028_18295;Name=H5028_18295;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H5028_18295
+CP060014.1	Protein Homology	CDS	1539	1682	.	+	0	ID=cds-QPO05069.1;Parent=gene-H5028_18295;Dbxref=NCBI_GP:QPO05069.1;Name=QPO05069.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786602.1;locus_tag=H5028_18295;product=hypothetical protein;protein_id=QPO05069.1;transl_table=11
+CP060014.1	Genbank	gene	1871	2389	.	-	.	ID=gene-H5028_18300;Name=H5028_18300;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H5028_18300
+CP060014.1	Protein Homology	CDS	1871	2389	.	-	0	ID=cds-QPO05073.1;Parent=gene-H5028_18300;Dbxref=NCBI_GP:QPO05073.1;Name=QPO05073.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=H5028_18300;product=sel1 repeat family protein;protein_id=QPO05073.1;transl_table=11
+CP060014.1	Genbank	gene	2762	3049	.	+	.	ID=gene-H5028_18305;Name=H5028_18305;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H5028_18305
+CP060014.1	Protein Homology	CDS	2762	3049	.	+	0	ID=cds-QPO05070.1;Parent=gene-H5028_18305;Dbxref=NCBI_GP:QPO05070.1;Name=QPO05070.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=H5028_18305;product=BrnT family toxin;protein_id=QPO05070.1;transl_table=11
+CP060014.1	Genbank	gene	3036	3350	.	+	.	ID=gene-H5028_18310;Name=H5028_18310;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H5028_18310
+CP060014.1	Protein Homology	CDS	3036	3350	.	+	0	ID=cds-QPO05071.1;Parent=gene-H5028_18310;Dbxref=NCBI_GP:QPO05071.1;Name=QPO05071.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_006582675.1;locus_tag=H5028_18310;product=BrnA antitoxin family protein;protein_id=QPO05071.1;transl_table=11
+CP060014.1	Genbank	gene	3478	5889	.	+	.	ID=gene-H5028_18315;Name=H5028_18315;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H5028_18315
+CP060014.1	Protein Homology	CDS	3478	5889	.	+	0	ID=cds-QPO05072.1;Parent=gene-H5028_18315;Dbxref=NCBI_GP:QPO05072.1;Name=QPO05072.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=H5028_18315;product=TonB-dependent receptor;protein_id=QPO05072.1;transl_table=11
+CP060014.1	Genbank	gene	6194	6655	.	+	.	ID=gene-H5028_18320;Name=H5028_18320;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H5028_18320
+CP060014.1	Protein Homology	CDS	6194	6655	.	+	0	ID=cds-QPO05064.1;Parent=gene-H5028_18320;Dbxref=NCBI_GP:QPO05064.1;Name=QPO05064.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004781077.1;locus_tag=H5028_18320;product=DIP1984 family protein;protein_id=QPO05064.1;transl_table=11
+CP060014.1	Genbank	gene	6978	7151	.	-	.	ID=gene-H5028_18325;Name=H5028_18325;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H5028_18325
+CP060014.1	Protein Homology	CDS	6978	7151	.	-	0	ID=cds-QPO05065.1;Parent=gene-H5028_18325;Dbxref=NCBI_GP:QPO05065.1;Name=QPO05065.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001282484.1;locus_tag=H5028_18325;product=hypothetical protein;protein_id=QPO05065.1;transl_table=11
+CP060014.1	Genbank	gene	7151	7522	.	-	.	ID=gene-H5028_18330;Name=H5028_18330;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H5028_18330
+CP060014.1	Protein Homology	CDS	7151	7522	.	-	0	ID=cds-QPO05066.1;Parent=gene-H5028_18330;Dbxref=NCBI_GP:QPO05066.1;Name=QPO05066.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=H5028_18330;product=hypothetical protein;protein_id=QPO05066.1;transl_table=11
+

@@ -1,0 +1,4 @@
+##sequence-region CP030083.1 1 3911735
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP030083.1	Genbank	region	1	3911735	.	+	.	ID=CP030083.1:1..3911735;Dbxref=taxon:470;Is_circular=true;Name=ANONYMOUS;collection-date=30-Aug-2016;country=China: Beijing;gbkey=Src;genome=chromosome;mol_type=genomic DNA;nat-host=Homo sapiens;strain=Aba
+

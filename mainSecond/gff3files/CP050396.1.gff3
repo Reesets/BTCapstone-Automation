@@ -1,0 +1,10 @@
+##sequence-region CP050396.1 1 1359
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP050396.1	Genbank	region	1	1359	.	+	.	ID=CP050396.1:1..1359;Dbxref=taxon:470;Is_circular=true;Name=pVB11737_5;collected-by=Christian Medical College;collection-date=2019;country=India;gbkey=Src;genome=plasmid;isolation-source=blood;lat-lon=12.9246 N 79.1348 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pVB11737_5;strain=VB11737
+CP050396.1	Genbank	gene	20	835	.	+	.	ID=gene-HBM80_00535;Name=sul2;gbkey=Gene;gene=sul2;gene_biotype=protein_coding;locus_tag=HBM80_00535
+CP050396.1	Protein Homology	CDS	20	835	.	+	0	ID=cds-QJH08926.1;Parent=gene-HBM80_00535;Dbxref=NCBI_GP:QJH08926.1;Name=QJH08926.1;gbkey=CDS;gene=sul2;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001043260.1;locus_tag=HBM80_00535;product=sulfonamide-resistant dihydropteroate synthase Sul2;protein_id=QJH08926.1;transl_table=11
+CP050396.1	Genbank	gene	922	1224	.	+	.	ID=gene-HBM80_00540;Name=HBM80_00540;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBM80_00540
+CP050396.1	Protein Homology	CDS	922	1224	.	+	0	ID=cds-QJH08927.1;Parent=gene-HBM80_00540;Dbxref=NCBI_GP:QJH08927.1;Name=QJH08927.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_017831680.1;locus_tag=HBM80_00540;product=phosphoglucosamine mutase;protein_id=QJH08927.1;transl_table=11
+CP050396.1	Genbank	gene	1118	1384	.	-	.	ID=gene-HBM80_00530;Name=HBM80_00530;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBM80_00530
+CP050396.1	Protein Homology	CDS	1118	1384	.	-	0	ID=cds-QJH08928.1;Parent=gene-HBM80_00530;Dbxref=NCBI_GP:QJH08928.1;Name=QJH08928.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001445143.1;locus_tag=HBM80_00530;product=hypothetical protein;protein_id=QJH08928.1;transl_table=11
+

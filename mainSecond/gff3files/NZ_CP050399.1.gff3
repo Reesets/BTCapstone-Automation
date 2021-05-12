@@ -1,0 +1,6 @@
+##sequence-region NZ_CP050399.1 1 359
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_CP050399.1	RefSeq	region	1	359	.	+	.	ID=NZ_CP050399.1:1..359;Dbxref=taxon:470;Is_circular=true;Name=pVB11737_8;collected-by=Christian Medical College;collection-date=2019;country=India;gbkey=Src;genome=plasmid;isolation-source=blood;lat-lon=12.9246 N 79.1348 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pVB11737_8;strain=VB11737
+NZ_CP050399.1	RefSeq	pseudogene	1	138	.	+	.	ID=gene-HBM80_RS00555;Name=HBM80_RS00555;gbkey=Gene;gene_biotype=pseudogene;locus_tag=HBM80_RS00555;old_locus_tag=HBM80_00555;partial=true;pseudo=true;start_range=.,1
+NZ_CP050399.1	Protein Homology	CDS	1	138	.	+	0	ID=cds-HBM80_RS00555;Parent=gene-HBM80_RS00555;Note=incomplete%3B partial in the middle of a contig%3B missing N-terminus;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_017724844.1;locus_tag=HBM80_RS00555;partial=true;product=transposase;pseudo=true;start_range=.,1;transl_table=11
+

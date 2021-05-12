@@ -1,0 +1,22 @@
+##sequence-region CP008850.1 1 8737
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP008850.1	Genbank	region	1	8737	.	+	.	ID=CP008850.1:1..8737;Dbxref=taxon:470;Is_circular=true;Name=pAC29a;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=pAC29a;strain=AC29
+CP008850.1	Genbank	gene	884	1402	.	-	.	ID=gene-BL01_p0010;Name=BL01_p0010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BL01_p0010
+CP008850.1	Genbank	CDS	884	1402	.	-	0	ID=cds-AKB09302.1;Parent=gene-BL01_p0010;Dbxref=NCBI_GP:AKB09302.1;Name=AKB09302.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=BL01_p0010;product=Sel1 repeat protein;protein_id=AKB09302.1;transl_table=11
+CP008850.1	Genbank	gene	1775	2062	.	+	.	ID=gene-BL01_p0015;Name=BL01_p0015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BL01_p0015
+CP008850.1	Genbank	CDS	1775	2062	.	+	0	ID=cds-AKB09303.1;Parent=gene-BL01_p0015;Dbxref=NCBI_GP:AKB09303.1;Name=AKB09303.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=BL01_p0015;product=membrane protein;protein_id=AKB09303.1;transl_table=11
+CP008850.1	Genbank	gene	2049	2363	.	+	.	ID=gene-BL01_p0020;Name=BL01_p0020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BL01_p0020
+CP008850.1	Genbank	CDS	2049	2363	.	+	0	ID=cds-AKB09304.1;Parent=gene-BL01_p0020;Dbxref=NCBI_GP:AKB09304.1;Name=AKB09304.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000252858.1;locus_tag=BL01_p0020;product=toxin-antitoxin system%2C antitoxin component;protein_id=AKB09304.1;transl_table=11
+CP008850.1	Genbank	gene	2491	4902	.	+	.	ID=gene-BL01_p0025;Name=BL01_p0025;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BL01_p0025
+CP008850.1	Genbank	CDS	2491	4902	.	+	0	ID=cds-AKB09305.1;Parent=gene-BL01_p0025;Dbxref=NCBI_GP:AKB09305.1;Name=AKB09305.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=BL01_p0025;product=membrane protein;protein_id=AKB09305.1;transl_table=11
+CP008850.1	Genbank	gene	5207	5668	.	+	.	ID=gene-BL01_p0030;Name=BL01_p0030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BL01_p0030
+CP008850.1	Genbank	CDS	5207	5668	.	+	0	ID=cds-AKB09306.1;Parent=gene-BL01_p0030;Dbxref=NCBI_GP:AKB09306.1;Name=AKB09306.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_017397838.1;locus_tag=BL01_p0030;product=septicolysin;protein_id=AKB09306.1;transl_table=11
+CP008850.1	Genbank	gene	6164	6535	.	-	.	ID=gene-BL01_p0035;Name=BL01_p0035;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BL01_p0035
+CP008850.1	Genbank	CDS	6164	6535	.	-	0	ID=cds-AKB09307.1;Parent=gene-BL01_p0035;Dbxref=NCBI_GP:AKB09307.1;Name=AKB09307.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=BL01_p0035;product=hypothetical protein;protein_id=AKB09307.1;transl_table=11
+CP008850.1	Genbank	gene	6807	7061	.	-	.	ID=gene-BL01_p0040;Name=BL01_p0040;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BL01_p0040
+CP008850.1	Genbank	CDS	6807	7061	.	-	0	ID=cds-AKB09308.1;Parent=gene-BL01_p0040;Dbxref=NCBI_GP:AKB09308.1;Name=AKB09308.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_001014301.1;locus_tag=BL01_p0040;product=hypothetical protein;protein_id=AKB09308.1;transl_table=11
+CP008850.1	Genbank	gene	7745	8695	.	+	.	ID=gene-BL01_p0045;Name=BL01_p0045;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BL01_p0045
+CP008850.1	Genbank	CDS	7745	8695	.	+	0	ID=cds-AKB09309.1;Parent=gene-BL01_p0045;Dbxref=NCBI_GP:AKB09309.1;Name=AKB09309.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_014462896.1;locus_tag=BL01_p0045;product=DNA replication protein;protein_id=AKB09309.1;transl_table=11
+CP008850.1	Genbank	gene	8688	9269	.	+	.	ID=gene-BL01_p0005;Name=BL01_p0005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BL01_p0005
+CP008850.1	Genbank	CDS	8688	9269	.	+	0	ID=cds-AKB09301.1;Parent=gene-BL01_p0005;Dbxref=NCBI_GP:AKB09301.1;Name=AKB09301.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=BL01_p0005;product=DNA replication protein;protein_id=AKB09301.1;transl_table=11
+

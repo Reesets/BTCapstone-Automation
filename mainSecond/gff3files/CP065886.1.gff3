@@ -1,0 +1,28 @@
+##sequence-region CP065886.1 1 9540
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP065886.1	Genbank	region	1	9540	.	+	.	ID=CP065886.1:1..9540;Dbxref=taxon:470;Is_circular=true;Name=unnamed1;collected-by=NIST<ATCC;culture-collection=FDA:FDAARGOS_917;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=unnamed1;strain=FDAARGOS_917
+CP065886.1	Genbank	gene	423	779	.	+	.	ID=gene-I6G74_00005;Name=I6G74_00005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_00005
+CP065886.1	Protein Homology	CDS	423	779	.	+	0	ID=cds-QQA24592.1;Parent=gene-I6G74_00005;Dbxref=NCBI_GP:QQA24592.1;Name=QQA24592.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005194067.1;locus_tag=I6G74_00005;product=type II toxin-antitoxin system RelE/ParE family toxin;protein_id=QQA24592.1;transl_table=11
+CP065886.1	Genbank	gene	772	1074	.	+	.	ID=gene-I6G74_00010;Name=I6G74_00010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_00010
+CP065886.1	Protein Homology	CDS	772	1074	.	+	0	ID=cds-QQA24593.1;Parent=gene-I6G74_00010;Dbxref=NCBI_GP:QQA24593.1;Name=QQA24593.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001140617.1;locus_tag=I6G74_00010;product=helix-turn-helix transcriptional regulator;protein_id=QQA24593.1;transl_table=11
+CP065886.1	Genbank	gene	1067	1276	.	+	.	ID=gene-I6G74_00015;Name=I6G74_00015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_00015
+CP065886.1	Protein Homology	CDS	1067	1276	.	+	0	ID=cds-QQA24594.1;Parent=gene-I6G74_00015;Dbxref=NCBI_GP:QQA24594.1;Name=QQA24594.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_018680077.1;locus_tag=I6G74_00015;product=hypothetical protein;protein_id=QQA24594.1;transl_table=11
+CP065886.1	Genbank	gene	1451	1969	.	+	.	ID=gene-I6G74_00020;Name=I6G74_00020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_00020
+CP065886.1	Protein Homology	CDS	1451	1969	.	+	0	ID=cds-QQA24599.1;Parent=gene-I6G74_00020;Dbxref=NCBI_GP:QQA24599.1;Name=QQA24599.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=I6G74_00020;product=sel1 repeat family protein;protein_id=QQA24599.1;transl_table=11
+CP065886.1	Genbank	gene	2008	2520	.	+	.	ID=gene-I6G74_00025;Name=I6G74_00025;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_00025
+CP065886.1	Protein Homology	CDS	2008	2520	.	+	0	ID=cds-QQA24595.1;Parent=gene-I6G74_00025;Dbxref=NCBI_GP:QQA24595.1;Name=QQA24595.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_019767798.1;locus_tag=I6G74_00025;product=SMI1/KNR4 family protein;protein_id=QQA24595.1;transl_table=11
+CP065886.1	Genbank	gene	2718	3146	.	+	.	ID=gene-I6G74_00030;Name=I6G74_00030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_00030
+CP065886.1	Protein Homology	CDS	2718	3146	.	+	0	ID=cds-QQA24596.1;Parent=gene-I6G74_00030;Dbxref=NCBI_GP:QQA24596.1;Name=QQA24596.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_010116199.1;locus_tag=I6G74_00030;product=organic hydroperoxide resistance protein;protein_id=QQA24596.1;transl_table=11
+CP065886.1	Genbank	gene	3153	3584	.	+	.	ID=gene-I6G74_00035;Name=I6G74_00035;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_00035
+CP065886.1	Protein Homology	CDS	3153	3584	.	+	0	ID=cds-QQA24597.1;Parent=gene-I6G74_00035;Dbxref=NCBI_GP:QQA24597.1;Name=QQA24597.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005401805.1;locus_tag=I6G74_00035;product=MarR family transcriptional regulator;protein_id=QQA24597.1;transl_table=11
+CP065886.1	Genbank	gene	3817	4044	.	-	.	ID=gene-I6G74_00040;Name=I6G74_00040;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_00040
+CP065886.1	Protein Homology	CDS	3817	4044	.	-	0	ID=cds-QQA24598.1;Parent=gene-I6G74_00040;Dbxref=NCBI_GP:QQA24598.1;Name=QQA24598.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000555568.1;locus_tag=I6G74_00040;product=hypothetical protein;protein_id=QQA24598.1;transl_table=11
+CP065886.1	Genbank	gene	4274	5035	.	-	.	ID=gene-I6G74_00045;Name=I6G74_00045;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_00045
+CP065886.1	Protein Homology	CDS	4274	5035	.	-	0	ID=cds-QQA24600.1;Parent=gene-I6G74_00045;Dbxref=NCBI_GP:QQA24600.1;Name=QQA24600.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_017393773.1;locus_tag=I6G74_00045;product=hypothetical protein;protein_id=QQA24600.1;transl_table=11
+CP065886.1	Genbank	gene	5340	6509	.	+	.	ID=gene-I6G74_00050;Name=I6G74_00050;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_00050
+CP065886.1	Protein Homology	CDS	5340	6509	.	+	0	ID=cds-QQA24589.1;Parent=gene-I6G74_00050;Dbxref=NCBI_GP:QQA24589.1;Name=QQA24589.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_002011489.1;locus_tag=I6G74_00050;product=MobA/MobL family protein;protein_id=QQA24589.1;transl_table=11
+CP065886.1	Genbank	gene	7106	8041	.	+	.	ID=gene-I6G74_00055;Name=I6G74_00055;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_00055
+CP065886.1	Protein Homology	CDS	7106	8041	.	+	0	ID=cds-QQA24590.1;Parent=gene-I6G74_00055;Dbxref=NCBI_GP:QQA24590.1;Name=QQA24590.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005065049.1;locus_tag=I6G74_00055;product=replication initiation protein;protein_id=QQA24590.1;transl_table=11
+CP065886.1	Genbank	gene	8119	8637	.	+	.	ID=gene-I6G74_00060;Name=I6G74_00060;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6G74_00060
+CP065886.1	Protein Homology	CDS	8119	8637	.	+	0	ID=cds-QQA24591.1;Parent=gene-I6G74_00060;Dbxref=NCBI_GP:QQA24591.1;Name=QQA24591.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000839337.1;locus_tag=I6G74_00060;product=DNA-binding protein;protein_id=QQA24591.1;transl_table=11
+

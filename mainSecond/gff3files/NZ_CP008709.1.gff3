@@ -1,0 +1,8 @@
+##sequence-region NZ_CP008709.1 1 1967
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_CP008709.1	RefSeq	region	1	1967	.	+	.	ID=NZ_CP008709.1:1..1967;Dbxref=taxon:470;Is_circular=true;Name=p3AB5075;collected-by=Dan Zurawski%2C WRAIR;collection-date=2008;country=USA: Walter Reed Army Medical Center;gbkey=Src;genome=plasmid;isolation-source=tibia/osteomyelitis of diabetes patient;lat-lon=38.976556 N 77.02875 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=p3AB5075;strain=AB5075-UW
+NZ_CP008709.1	RefSeq	gene	1	1182	.	+	.	ID=gene-ABUW_RS19635;Name=ABUW_RS19635;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABUW_RS19635;old_locus_tag=ABUW_6001
+NZ_CP008709.1	Protein Homology	CDS	1	1182	.	+	0	ID=cds-WP_000271233.1;Parent=gene-ABUW_RS19635;Dbxref=Genbank:WP_000271233.1;Name=WP_000271233.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000271233.1;locus_tag=ABUW_RS19635;product=protein rep;protein_id=WP_000271233.1;transl_table=11
+NZ_CP008709.1	RefSeq	gene	1642	1893	.	+	.	ID=gene-ABUW_RS19645;Name=ABUW_RS19645;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABUW_RS19645;old_locus_tag=ABUW_6003
+NZ_CP008709.1	Protein Homology	CDS	1642	1893	.	+	0	ID=cds-WP_000290587.1;Parent=gene-ABUW_RS19645;Dbxref=Genbank:WP_000290587.1;Name=WP_000290587.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000290587.1;locus_tag=ABUW_RS19645;product=hypothetical protein;protein_id=WP_000290587.1;transl_table=11
+

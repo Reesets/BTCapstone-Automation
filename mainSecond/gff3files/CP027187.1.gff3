@@ -1,0 +1,16 @@
+##sequence-region CP027187.1 1 6078
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP027187.1	Genbank	region	1	6078	.	+	.	ID=CP027187.1:1..6078;Dbxref=taxon:470;Is_circular=true;Name=unnamed3;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=unnamed3;strain=AR_0052
+CP027187.1	Genbank	gene	143	688	.	-	.	ID=gene-CSB68_0001;Name=CSB68_0001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_0001
+CP027187.1	Genbank	CDS	143	688	.	-	0	ID=cds-AVI39528.1;Parent=gene-CSB68_0001;Dbxref=NCBI_GP:AVI39528.1;Name=AVI39528.1;gbkey=CDS;locus_tag=CSB68_0001;product=aminoglycoside-2''-adenylyltransferase family protein;protein_id=AVI39528.1;transl_table=11
+CP027187.1	Genbank	gene	767	1453	.	-	.	ID=gene-CSB68_0002;Name=CSB68_0002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_0002
+CP027187.1	Genbank	CDS	767	1453	.	-	0	ID=cds-AVI39529.1;Parent=gene-CSB68_0002;Dbxref=NCBI_GP:AVI39529.1;Name=AVI39529.1;gbkey=CDS;locus_tag=CSB68_0002;product=pentapeptide repeats family protein;protein_id=AVI39529.1;transl_table=11
+CP027187.1	Genbank	gene	2456	2863	.	+	.	ID=gene-CSB68_0003;Name=CSB68_0003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_0003
+CP027187.1	Genbank	CDS	2456	2863	.	+	0	ID=cds-AVI39530.1;Parent=gene-CSB68_0003;Dbxref=NCBI_GP:AVI39530.1;Name=AVI39530.1;gbkey=CDS;locus_tag=CSB68_0003;product=bacterial mobilization family protein;protein_id=AVI39530.1;transl_table=11
+CP027187.1	Genbank	gene	2853	4667	.	+	.	ID=gene-CSB68_0004;Name=CSB68_0004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_0004
+CP027187.1	Genbank	CDS	2853	4667	.	+	0	ID=cds-AVI39531.1;Parent=gene-CSB68_0004;Dbxref=NCBI_GP:AVI39531.1;Name=AVI39531.1;gbkey=CDS;locus_tag=CSB68_0004;product=putative mobA;protein_id=AVI39531.1;transl_table=11
+CP027187.1	Genbank	gene	4716	5261	.	+	.	ID=gene-CSB68_0005;Name=CSB68_0005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_0005
+CP027187.1	Genbank	CDS	4716	5261	.	+	0	ID=cds-AVI39532.1;Parent=gene-CSB68_0005;Dbxref=NCBI_GP:AVI39532.1;Name=AVI39532.1;gbkey=CDS;locus_tag=CSB68_0005;product=hypothetical protein;protein_id=AVI39532.1;transl_table=11
+CP027187.1	Genbank	gene	5415	6062	.	+	.	ID=gene-CSB68_0006;Name=CSB68_0006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_0006
+CP027187.1	Genbank	CDS	5415	6062	.	+	0	ID=cds-AVI39533.1;Parent=gene-CSB68_0006;Dbxref=NCBI_GP:AVI39533.1;Name=AVI39533.1;gbkey=CDS;locus_tag=CSB68_0006;product=abi-like family protein;protein_id=AVI39533.1;transl_table=11
+

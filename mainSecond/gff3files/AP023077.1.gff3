@@ -1,0 +1,4 @@
+##sequence-region AP023077.1 1 3992063
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+AP023077.1	DDBJ	region	1	3992063	.	+	.	ID=AP023077.1:1..3992063;Dbxref=taxon:470;Is_circular=true;collection-date=2015-12-19;country=Japan:Osaka;gbkey=Src;isolation-source=Tracheal aspirate from a hospitalized patient;mol_type=genomic DNA;nat-host=Homo sapiens;strain=OCU_Ac16a
+

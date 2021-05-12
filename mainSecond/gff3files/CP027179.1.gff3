@@ -1,0 +1,102 @@
+##sequence-region CP027179.1 1 39535
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP027179.1	Genbank	region	1	39535	.	+	.	ID=CP027179.1:1..39535;Dbxref=taxon:470;Is_circular=true;Name=unnamed1;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=unnamed1;strain=AR_0070
+CP027179.1	Genbank	gene	9	221	.	+	.	ID=gene-CSB70_4269;Name=CSB70_4269;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4269
+CP027179.1	Genbank	CDS	9	221	.	+	0	ID=cds-AVI35063.1;Parent=gene-CSB70_4269;Dbxref=NCBI_GP:AVI35063.1;Name=AVI35063.1;gbkey=CDS;locus_tag=CSB70_4269;product=hypothetical protein;protein_id=AVI35063.1;transl_table=11
+CP027179.1	Genbank	gene	325	687	.	+	.	ID=gene-CSB70_4270;Name=CSB70_4270;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4270
+CP027179.1	Genbank	CDS	325	687	.	+	0	ID=cds-AVI35073.1;Parent=gene-CSB70_4270;Dbxref=NCBI_GP:AVI35073.1;Name=AVI35073.1;gbkey=CDS;locus_tag=CSB70_4270;product=HTH-like domain protein;protein_id=AVI35073.1;transl_table=11
+CP027179.1	Genbank	gene	831	1226	.	+	.	ID=gene-CSB70_4271;Name=CSB70_4271;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4271
+CP027179.1	Genbank	CDS	831	1226	.	+	0	ID=cds-AVI35074.1;Parent=gene-CSB70_4271;Dbxref=NCBI_GP:AVI35074.1;Name=AVI35074.1;gbkey=CDS;locus_tag=CSB70_4271;product=integrase core domain protein;protein_id=AVI35074.1;transl_table=11
+CP027179.1	Genbank	gene	1414	2256	.	+	.	ID=gene-CSB70_4272;Name=CSB70_4272;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4272
+CP027179.1	Genbank	CDS	1414	2256	.	+	0	ID=cds-AVI35069.1;Parent=gene-CSB70_4272;Dbxref=NCBI_GP:AVI35069.1;Name=AVI35069.1;gbkey=CDS;locus_tag=CSB70_4272;product=penicillin binding transpeptidase domain protein;protein_id=AVI35069.1;transl_table=11
+CP027179.1	Genbank	gene	2347	2784	.	+	.	ID=gene-CSB70_4273;Name=CSB70_4273;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4273
+CP027179.1	Genbank	CDS	2347	2784	.	+	0	ID=cds-AVI35092.1;Parent=gene-CSB70_4273;Dbxref=NCBI_GP:AVI35092.1;Name=AVI35092.1;gbkey=CDS;locus_tag=CSB70_4273;product=insA N-terminal domain protein;protein_id=AVI35092.1;transl_table=11
+CP027179.1	Genbank	gene	2788	3099	.	+	.	ID=gene-CSB70_4274;Name=CSB70_4274;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4274
+CP027179.1	Genbank	CDS	2788	3099	.	+	0	ID=cds-AVI35058.1;Parent=gene-CSB70_4274;Dbxref=NCBI_GP:AVI35058.1;Name=AVI35058.1;gbkey=CDS;locus_tag=CSB70_4274;product=putative transposase;protein_id=AVI35058.1;transl_table=11
+CP027179.1	Genbank	gene	3227	4009	.	+	.	ID=gene-CSB70_4275;Name=CSB70_4275;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4275
+CP027179.1	Genbank	CDS	3227	4009	.	+	0	ID=cds-AVI35072.1;Parent=gene-CSB70_4275;Dbxref=NCBI_GP:AVI35072.1;Name=AVI35072.1;gbkey=CDS;locus_tag=CSB70_4275;product=araC-like ligand binding domain protein;protein_id=AVI35072.1;transl_table=11
+CP027179.1	Genbank	gene	4077	4742	.	+	.	ID=gene-CSB70_4276;Name=CSB70_4276;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4276
+CP027179.1	Genbank	CDS	4077	4742	.	+	0	ID=cds-AVI35093.1;Parent=gene-CSB70_4276;Dbxref=NCBI_GP:AVI35093.1;Name=AVI35093.1;gbkey=CDS;locus_tag=CSB70_4276;product=putative p12 protein;protein_id=AVI35093.1;transl_table=11
+CP027179.1	Genbank	gene	4877	5191	.	-	.	ID=gene-CSB70_4277;Name=CSB70_4277;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4277
+CP027179.1	Genbank	CDS	4877	5191	.	-	0	ID=cds-AVI35066.1;Parent=gene-CSB70_4277;Dbxref=NCBI_GP:AVI35066.1;Name=AVI35066.1;gbkey=CDS;locus_tag=CSB70_4277;product=hypothetical protein;protein_id=AVI35066.1;transl_table=11
+CP027179.1	Genbank	gene	5194	5607	.	-	.	ID=gene-CSB70_4278;Name=CSB70_4278;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4278
+CP027179.1	Genbank	CDS	5194	5607	.	-	0	ID=cds-AVI35070.1;Parent=gene-CSB70_4278;Dbxref=NCBI_GP:AVI35070.1;Name=AVI35070.1;gbkey=CDS;locus_tag=CSB70_4278;product=putative membrane protein;protein_id=AVI35070.1;transl_table=11
+CP027179.1	Genbank	gene	5713	5976	.	-	.	ID=gene-CSB70_4279;Name=CSB70_4279;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4279
+CP027179.1	Genbank	CDS	5713	5976	.	-	0	ID=cds-AVI35100.1;Parent=gene-CSB70_4279;Dbxref=NCBI_GP:AVI35100.1;Name=AVI35100.1;gbkey=CDS;locus_tag=CSB70_4279;product=putative transposase;protein_id=AVI35100.1;transl_table=11
+CP027179.1	Genbank	gene	6143	6460	.	+	.	ID=gene-CSB70_4280;Name=CSB70_4280;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4280
+CP027179.1	Genbank	CDS	6143	6460	.	+	0	ID=cds-AVI35087.1;Parent=gene-CSB70_4280;Dbxref=NCBI_GP:AVI35087.1;Name=AVI35087.1;gbkey=CDS;locus_tag=CSB70_4280;product=hypothetical protein;protein_id=AVI35087.1;transl_table=11
+CP027179.1	Genbank	gene	6460	7362	.	+	.	ID=gene-CSB70_4281;Name=CSB70_4281;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4281
+CP027179.1	Genbank	CDS	6460	7362	.	+	0	ID=cds-AVI35099.1;Parent=gene-CSB70_4281;Dbxref=NCBI_GP:AVI35099.1;Name=AVI35099.1;gbkey=CDS;locus_tag=CSB70_4281;product=DDE domain protein;protein_id=AVI35099.1;transl_table=11
+CP027179.1	Genbank	gene	7551	8393	.	+	.	ID=gene-CSB70_4282;Name=CSB70_4282;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4282
+CP027179.1	Genbank	CDS	7551	8393	.	+	0	ID=cds-AVI35062.1;Parent=gene-CSB70_4282;Dbxref=NCBI_GP:AVI35062.1;Name=AVI35062.1;gbkey=CDS;locus_tag=CSB70_4282;product=penicillin binding transpeptidase domain protein;protein_id=AVI35062.1;transl_table=11
+CP027179.1	Genbank	gene	8484	8921	.	+	.	ID=gene-CSB70_4283;Name=CSB70_4283;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4283
+CP027179.1	Genbank	CDS	8484	8921	.	+	0	ID=cds-AVI35060.1;Parent=gene-CSB70_4283;Dbxref=NCBI_GP:AVI35060.1;Name=AVI35060.1;gbkey=CDS;locus_tag=CSB70_4283;product=insA N-terminal domain protein;protein_id=AVI35060.1;transl_table=11
+CP027179.1	Genbank	gene	8925	9236	.	+	.	ID=gene-CSB70_4284;Name=CSB70_4284;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4284
+CP027179.1	Genbank	CDS	8925	9236	.	+	0	ID=cds-AVI35085.1;Parent=gene-CSB70_4284;Dbxref=NCBI_GP:AVI35085.1;Name=AVI35085.1;gbkey=CDS;locus_tag=CSB70_4284;product=putative transposase;protein_id=AVI35085.1;transl_table=11
+CP027179.1	Genbank	gene	9364	10146	.	+	.	ID=gene-CSB70_4285;Name=CSB70_4285;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4285
+CP027179.1	Genbank	CDS	9364	10146	.	+	0	ID=cds-AVI35077.1;Parent=gene-CSB70_4285;Dbxref=NCBI_GP:AVI35077.1;Name=AVI35077.1;gbkey=CDS;locus_tag=CSB70_4285;product=araC-like ligand binding domain protein;protein_id=AVI35077.1;transl_table=11
+CP027179.1	Genbank	gene	10214	12640	.	+	.	ID=gene-CSB70_4286;Name=CSB70_4286;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4286
+CP027179.1	Genbank	CDS	10214	12640	.	+	0	ID=cds-AVI35065.1;Parent=gene-CSB70_4286;Dbxref=NCBI_GP:AVI35065.1;Name=AVI35065.1;gbkey=CDS;locus_tag=CSB70_4286;product=tn3 transposase DDE domain protein;protein_id=AVI35065.1;transl_table=11
+CP027179.1	Genbank	gene	13528	15102	.	-	.	ID=gene-CSB70_4287;Name=CSB70_4287;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4287
+CP027179.1	Genbank	CDS	13528	15102	.	-	0	ID=cds-AVI35101.1;Parent=gene-CSB70_4287;Dbxref=NCBI_GP:AVI35101.1;Name=AVI35101.1;gbkey=CDS;locus_tag=CSB70_4287;product=type I restriction-modification system%2C M subunit;protein_id=AVI35101.1;transl_table=11
+CP027179.1	Genbank	gene	15238	16140	.	-	.	ID=gene-CSB70_4288;Name=CSB70_4288;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4288
+CP027179.1	Genbank	CDS	15238	16140	.	-	0	ID=cds-AVI35103.1;Parent=gene-CSB70_4288;Dbxref=NCBI_GP:AVI35103.1;Name=AVI35103.1;gbkey=CDS;locus_tag=CSB70_4288;product=reverse transcriptase family protein;protein_id=AVI35103.1;transl_table=11
+CP027179.1	Genbank	gene	16130	16423	.	-	.	ID=gene-CSB70_4289;Name=CSB70_4289;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4289
+CP027179.1	Genbank	CDS	16130	16423	.	-	0	ID=cds-AVI35061.1;Parent=gene-CSB70_4289;Dbxref=NCBI_GP:AVI35061.1;Name=AVI35061.1;gbkey=CDS;locus_tag=CSB70_4289;product=helix-turn-helix family protein;protein_id=AVI35061.1;transl_table=11
+CP027179.1	Genbank	gene	17055	17216	.	+	.	ID=gene-CSB70_4290;Name=CSB70_4290;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4290
+CP027179.1	Genbank	CDS	17055	17216	.	+	0	ID=cds-AVI35067.1;Parent=gene-CSB70_4290;Dbxref=NCBI_GP:AVI35067.1;Name=AVI35067.1;gbkey=CDS;locus_tag=CSB70_4290;product=hypothetical protein;protein_id=AVI35067.1;transl_table=11
+CP027179.1	Genbank	gene	17219	17716	.	+	.	ID=gene-CSB70_4291;Name=CSB70_4291;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4291
+CP027179.1	Genbank	CDS	17219	17716	.	+	0	ID=cds-AVI35088.1;Parent=gene-CSB70_4291;Dbxref=NCBI_GP:AVI35088.1;Name=AVI35088.1;gbkey=CDS;locus_tag=CSB70_4291;product=toxin YafO%2C type II toxin-antitoxin system family protein;protein_id=AVI35088.1;transl_table=11
+CP027179.1	Genbank	gene	17950	21504	.	-	.	ID=gene-CSB70_4292;Name=CSB70_4292;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4292
+CP027179.1	Genbank	CDS	17950	21504	.	-	0	ID=cds-AVI35068.1;Parent=gene-CSB70_4292;Dbxref=NCBI_GP:AVI35068.1;Name=AVI35068.1;gbkey=CDS;locus_tag=CSB70_4292;product=origin of replication binding family protein;protein_id=AVI35068.1;transl_table=11
+CP027179.1	Genbank	gene	22064	22270	.	-	.	ID=gene-CSB70_4293;Name=CSB70_4293;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4293
+CP027179.1	Genbank	CDS	22064	22270	.	-	0	ID=cds-AVI35097.1;Parent=gene-CSB70_4293;Dbxref=NCBI_GP:AVI35097.1;Name=AVI35097.1;gbkey=CDS;locus_tag=CSB70_4293;product=replicase domain protein;protein_id=AVI35097.1;transl_table=11
+CP027179.1	Genbank	gene	22283	22591	.	+	.	ID=gene-CSB70_4294;Name=CSB70_4294;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4294
+CP027179.1	Genbank	CDS	22283	22591	.	+	0	ID=cds-AVI35104.1;Parent=gene-CSB70_4294;Dbxref=NCBI_GP:AVI35104.1;Name=AVI35104.1;gbkey=CDS;locus_tag=CSB70_4294;product=hypothetical protein;protein_id=AVI35104.1;transl_table=11
+CP027179.1	Genbank	gene	22796	23743	.	-	.	ID=gene-CSB70_4295;Name=CSB70_4295;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4295
+CP027179.1	Genbank	CDS	22796	23743	.	-	0	ID=cds-AVI35083.1;Parent=gene-CSB70_4295;Dbxref=NCBI_GP:AVI35083.1;Name=AVI35083.1;gbkey=CDS;locus_tag=CSB70_4295;product=initiator Replication family protein;protein_id=AVI35083.1;transl_table=11
+CP027179.1	Genbank	gene	24168	24797	.	+	.	ID=gene-CSB70_4296;Name=CSB70_4296;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4296
+CP027179.1	Genbank	CDS	24168	24797	.	+	0	ID=cds-AVI35084.1;Parent=gene-CSB70_4296;Dbxref=NCBI_GP:AVI35084.1;Name=AVI35084.1;gbkey=CDS;locus_tag=CSB70_4296;product=cobQ/CobB/MinD/ParA nucleotide binding domain protein;protein_id=AVI35084.1;transl_table=11
+CP027179.1	Genbank	gene	24794	25030	.	+	.	ID=gene-CSB70_4297;Name=CSB70_4297;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4297
+CP027179.1	Genbank	CDS	24794	25030	.	+	0	ID=cds-AVI35098.1;Parent=gene-CSB70_4297;Dbxref=NCBI_GP:AVI35098.1;Name=AVI35098.1;gbkey=CDS;locus_tag=CSB70_4297;product=ribbon-helix-helix%2C copG family protein;protein_id=AVI35098.1;transl_table=11
+CP027179.1	Genbank	gene	25297	25722	.	+	.	ID=gene-CSB70_4298;Name=CSB70_4298;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4298
+CP027179.1	Genbank	CDS	25297	25722	.	+	0	ID=cds-AVI35094.1;Parent=gene-CSB70_4298;Dbxref=NCBI_GP:AVI35094.1;Name=AVI35094.1;gbkey=CDS;locus_tag=CSB70_4298;product=hypothetical protein;protein_id=AVI35094.1;transl_table=11
+CP027179.1	Genbank	gene	25725	25973	.	+	.	ID=gene-CSB70_4299;Name=CSB70_4299;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4299
+CP027179.1	Genbank	CDS	25725	25973	.	+	0	ID=cds-AVI35096.1;Parent=gene-CSB70_4299;Dbxref=NCBI_GP:AVI35096.1;Name=AVI35096.1;gbkey=CDS;locus_tag=CSB70_4299;product=prevent-host-death family protein;protein_id=AVI35096.1;transl_table=11
+CP027179.1	Genbank	gene	25963	26250	.	+	.	ID=gene-CSB70_4300;Name=relE;gbkey=Gene;gene=relE;gene_biotype=protein_coding;locus_tag=CSB70_4300
+CP027179.1	Genbank	CDS	25963	26250	.	+	0	ID=cds-AVI35105.1;Parent=gene-CSB70_4300;Dbxref=NCBI_GP:AVI35105.1;Name=AVI35105.1;gbkey=CDS;gene=relE;locus_tag=CSB70_4300;product=mRNA interferase RelE;protein_id=AVI35105.1;transl_table=11
+CP027179.1	Genbank	gene	26522	26635	.	+	.	ID=gene-CSB70_4301;Name=CSB70_4301;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4301
+CP027179.1	Genbank	CDS	26522	26635	.	+	0	ID=cds-AVI35064.1;Parent=gene-CSB70_4301;Dbxref=NCBI_GP:AVI35064.1;Name=AVI35064.1;gbkey=CDS;locus_tag=CSB70_4301;product=putative transposase;protein_id=AVI35064.1;transl_table=11
+CP027179.1	Genbank	gene	26605	26853	.	+	.	ID=gene-CSB70_4302;Name=CSB70_4302;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4302
+CP027179.1	Genbank	CDS	26605	26853	.	+	0	ID=cds-AVI35080.1;Parent=gene-CSB70_4302;Dbxref=NCBI_GP:AVI35080.1;Name=AVI35080.1;gbkey=CDS;locus_tag=CSB70_4302;product=putative transposase;protein_id=AVI35080.1;transl_table=11
+CP027179.1	Genbank	gene	26853	27176	.	+	.	ID=gene-CSB70_4303;Name=CSB70_4303;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4303
+CP027179.1	Genbank	CDS	26853	27176	.	+	0	ID=cds-AVI35091.1;Parent=gene-CSB70_4303;Dbxref=NCBI_GP:AVI35091.1;Name=AVI35091.1;gbkey=CDS;locus_tag=CSB70_4303;product=HTH-like domain protein;protein_id=AVI35091.1;transl_table=11
+CP027179.1	Genbank	gene	27377	27772	.	+	.	ID=gene-CSB70_4304;Name=CSB70_4304;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4304
+CP027179.1	Genbank	CDS	27377	27772	.	+	0	ID=cds-AVI35082.1;Parent=gene-CSB70_4304;Dbxref=NCBI_GP:AVI35082.1;Name=AVI35082.1;gbkey=CDS;locus_tag=CSB70_4304;product=integrase core domain protein;protein_id=AVI35082.1;transl_table=11
+CP027179.1	Genbank	gene	28409	28975	.	+	.	ID=gene-CSB70_4305;Name=CSB70_4305;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4305
+CP027179.1	Genbank	CDS	28409	28975	.	+	0	ID=cds-AVI35102.1;Parent=gene-CSB70_4305;Dbxref=NCBI_GP:AVI35102.1;Name=AVI35102.1;gbkey=CDS;locus_tag=CSB70_4305;product=resolvase%2C N terminal domain protein;protein_id=AVI35102.1;transl_table=11
+CP027179.1	Genbank	gene	29177	29491	.	-	.	ID=gene-CSB70_4306;Name=CSB70_4306;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4306
+CP027179.1	Genbank	CDS	29177	29491	.	-	0	ID=cds-AVI35078.1;Parent=gene-CSB70_4306;Dbxref=NCBI_GP:AVI35078.1;Name=AVI35078.1;gbkey=CDS;locus_tag=CSB70_4306;product=hypothetical protein;protein_id=AVI35078.1;transl_table=11
+CP027179.1	Genbank	gene	29494	29907	.	-	.	ID=gene-CSB70_4307;Name=CSB70_4307;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4307
+CP027179.1	Genbank	CDS	29494	29907	.	-	0	ID=cds-AVI35081.1;Parent=gene-CSB70_4307;Dbxref=NCBI_GP:AVI35081.1;Name=AVI35081.1;gbkey=CDS;locus_tag=CSB70_4307;product=putative membrane protein;protein_id=AVI35081.1;transl_table=11
+CP027179.1	Genbank	gene	30013	30276	.	-	.	ID=gene-CSB70_4308;Name=CSB70_4308;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4308
+CP027179.1	Genbank	CDS	30013	30276	.	-	0	ID=cds-AVI35089.1;Parent=gene-CSB70_4308;Dbxref=NCBI_GP:AVI35089.1;Name=AVI35089.1;gbkey=CDS;locus_tag=CSB70_4308;product=putative transposase;protein_id=AVI35089.1;transl_table=11
+CP027179.1	Genbank	gene	30443	30760	.	+	.	ID=gene-CSB70_4309;Name=CSB70_4309;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4309
+CP027179.1	Genbank	CDS	30443	30760	.	+	0	ID=cds-AVI35086.1;Parent=gene-CSB70_4309;Dbxref=NCBI_GP:AVI35086.1;Name=AVI35086.1;gbkey=CDS;locus_tag=CSB70_4309;product=hypothetical protein;protein_id=AVI35086.1;transl_table=11
+CP027179.1	Genbank	gene	30760	31662	.	+	.	ID=gene-CSB70_4310;Name=CSB70_4310;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4310
+CP027179.1	Genbank	CDS	30760	31662	.	+	0	ID=cds-AVI35095.1;Parent=gene-CSB70_4310;Dbxref=NCBI_GP:AVI35095.1;Name=AVI35095.1;gbkey=CDS;locus_tag=CSB70_4310;product=DDE domain protein;protein_id=AVI35095.1;transl_table=11
+CP027179.1	Genbank	gene	31851	32693	.	+	.	ID=gene-CSB70_4311;Name=CSB70_4311;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4311
+CP027179.1	Genbank	CDS	31851	32693	.	+	0	ID=cds-AVI35076.1;Parent=gene-CSB70_4311;Dbxref=NCBI_GP:AVI35076.1;Name=AVI35076.1;gbkey=CDS;locus_tag=CSB70_4311;product=penicillin binding transpeptidase domain protein;protein_id=AVI35076.1;transl_table=11
+CP027179.1	Genbank	gene	32784	33221	.	+	.	ID=gene-CSB70_4312;Name=CSB70_4312;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4312
+CP027179.1	Genbank	CDS	32784	33221	.	+	0	ID=cds-AVI35059.1;Parent=gene-CSB70_4312;Dbxref=NCBI_GP:AVI35059.1;Name=AVI35059.1;gbkey=CDS;locus_tag=CSB70_4312;product=insA N-terminal domain protein;protein_id=AVI35059.1;transl_table=11
+CP027179.1	Genbank	gene	33225	33536	.	+	.	ID=gene-CSB70_4313;Name=CSB70_4313;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4313
+CP027179.1	Genbank	CDS	33225	33536	.	+	0	ID=cds-AVI35090.1;Parent=gene-CSB70_4313;Dbxref=NCBI_GP:AVI35090.1;Name=AVI35090.1;gbkey=CDS;locus_tag=CSB70_4313;product=putative transposase;protein_id=AVI35090.1;transl_table=11
+CP027179.1	Genbank	gene	33664	34446	.	+	.	ID=gene-CSB70_4314;Name=CSB70_4314;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4314
+CP027179.1	Genbank	CDS	33664	34446	.	+	0	ID=cds-AVI35071.1;Parent=gene-CSB70_4314;Dbxref=NCBI_GP:AVI35071.1;Name=AVI35071.1;gbkey=CDS;locus_tag=CSB70_4314;product=araC-like ligand binding domain protein;protein_id=AVI35071.1;transl_table=11
+CP027179.1	Genbank	gene	34514	36940	.	+	.	ID=gene-CSB70_4315;Name=CSB70_4315;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4315
+CP027179.1	Genbank	CDS	34514	36940	.	+	0	ID=cds-AVI35075.1;Parent=gene-CSB70_4315;Dbxref=NCBI_GP:AVI35075.1;Name=AVI35075.1;gbkey=CDS;locus_tag=CSB70_4315;product=tn3 transposase DDE domain protein;protein_id=AVI35075.1;transl_table=11
+CP027179.1	Genbank	gene	37828	38691	.	-	.	ID=gene-CSB70_4316;Name=CSB70_4316;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4316
+CP027179.1	Genbank	CDS	37828	38691	.	-	0	ID=cds-AVI35079.1;Parent=gene-CSB70_4316;Dbxref=NCBI_GP:AVI35079.1;Name=AVI35079.1;gbkey=CDS;locus_tag=CSB70_4316;product=type I restriction-modification system%2C M subunit;protein_id=AVI35079.1;transl_table=11
+CP027179.1	Genbank	gene	38676	39377	.	-	.	ID=gene-CSB70_4317;Name=CSB70_4317;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4317
+CP027179.1	Genbank	CDS	38676	39377	.	-	0	ID=cds-AVI35106.1;Parent=gene-CSB70_4317;Dbxref=NCBI_GP:AVI35106.1;Name=AVI35106.1;gbkey=CDS;locus_tag=CSB70_4317;product=hsdM N-terminal domain protein;protein_id=AVI35106.1;transl_table=11
+

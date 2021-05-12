@@ -1,0 +1,18 @@
+##sequence-region CP039521.1 1 5602
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP039521.1	Genbank	region	1	5602	.	+	.	ID=CP039521.1:1..5602;Dbxref=taxon:470;Is_circular=true;Name=pTG22627;collected-by=LSA;collection-date=2011-10-15;country=USA: Arizona;gbkey=Src;genome=plasmid;isolation-source=trach asp;lat-lon=34.0489 N 111.0936 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pTG22627;strain=TG22627
+CP039521.1	Genbank	gene	1	951	.	+	.	ID=gene-EA714_018850;Name=EA714_018850;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EA714_018850
+CP039521.1	Protein Homology	CDS	1	951	.	+	0	ID=cds-QCH38679.1;Parent=gene-EA714_018850;Dbxref=NCBI_GP:QCH38679.1;Name=QCH38679.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=EA714_018850;product=replication initiation protein;protein_id=QCH38679.1;transl_table=11
+CP039521.1	Genbank	gene	944	1519	.	+	.	ID=gene-EA714_018855;Name=EA714_018855;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EA714_018855
+CP039521.1	Protein Homology	CDS	944	1519	.	+	0	ID=cds-QCH38680.1;Parent=gene-EA714_018855;Dbxref=NCBI_GP:QCH38680.1;Name=QCH38680.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=EA714_018855;product=helix-turn-helix domain-containing protein;protein_id=QCH38680.1;transl_table=11
+CP039521.1	Genbank	gene	1962	3341	.	+	.	ID=gene-EA714_018860;Name=EA714_018860;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EA714_018860
+CP039521.1	Protein Homology	CDS	1962	3341	.	+	0	ID=cds-QCH38681.1;Parent=gene-EA714_018860;Dbxref=NCBI_GP:QCH38681.1;Name=QCH38681.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:PF13304.4;locus_tag=EA714_018860;product=ATP-binding protein;protein_id=QCH38681.1;transl_table=11
+CP039521.1	Genbank	gene	3334	3771	.	+	.	ID=gene-EA714_018865;Name=EA714_018865;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EA714_018865
+CP039521.1	GeneMarkS-2+	CDS	3334	3771	.	+	0	ID=cds-QCH38682.1;Parent=gene-EA714_018865;Dbxref=NCBI_GP:QCH38682.1;Name=QCH38682.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=EA714_018865;product=hypothetical protein;protein_id=QCH38682.1;transl_table=11
+CP039521.1	Genbank	gene	4021	4392	.	-	.	ID=gene-EA714_018870;Name=EA714_018870;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EA714_018870
+CP039521.1	Protein Homology	CDS	4021	4392	.	-	0	ID=cds-QCH38683.1;Parent=gene-EA714_018870;Dbxref=NCBI_GP:QCH38683.1;Name=QCH38683.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=EA714_018870;product=hypothetical protein;protein_id=QCH38683.1;transl_table=11
+CP039521.1	Genbank	gene	4663	4917	.	-	.	ID=gene-EA714_018875;Name=EA714_018875;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EA714_018875
+CP039521.1	Protein Homology	CDS	4663	4917	.	-	0	ID=cds-QCH38684.1;Parent=gene-EA714_018875;Dbxref=NCBI_GP:QCH38684.1;Name=QCH38684.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001014301.1;locus_tag=EA714_018875;product=hypothetical protein;protein_id=QCH38684.1;transl_table=11
+CP039521.1	Genbank	pseudogene	5201	5402	.	+	.	ID=gene-EA714_018880;Name=EA714_018880;gbkey=Gene;gene_biotype=pseudogene;locus_tag=EA714_018880;pseudo=true
+CP039521.1	Protein Homology	CDS	5201	5402	.	+	0	ID=cds-EA714_018880;Parent=gene-EA714_018880;Note=frameshifted%3B internal stop;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004641946.1;locus_tag=EA714_018880;product=hypothetical protein;pseudo=true;transl_table=11
+

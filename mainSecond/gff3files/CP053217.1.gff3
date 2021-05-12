@@ -1,0 +1,12 @@
+##sequence-region CP053217.1 1 3968
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP053217.1	Genbank	region	1	3968	.	+	.	ID=CP053217.1:1..3968;Dbxref=taxon:470;Is_circular=true;Name=unnamed2;collected-by=Dr Joel Manyahi;collection-date=Oct-2017;country=Tanzania: Dar es Salaam;gbkey=Src;genome=plasmid;lat-lon=6.49 S 39.16 E;mol_type=genomic DNA;nat-host=Homo sapiens;note=clinical sample;plasmid-name=unnamed2;strain=DT0544C
+CP053217.1	Genbank	gene	385	795	.	-	.	ID=gene-HLG75_19270;Name=HLG75_19270;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HLG75_19270
+CP053217.1	Protein Homology	CDS	385	795	.	-	0	ID=cds-QLI38236.1;Parent=gene-HLG75_19270;Dbxref=NCBI_GP:QLI38236.1;Name=QLI38236.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004846786.1;locus_tag=HLG75_19270;product=conjugal transfer protein TraD;protein_id=QLI38236.1;transl_table=11
+CP053217.1	Genbank	gene	1078	2007	.	+	.	ID=gene-HLG75_19275;Name=HLG75_19275;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HLG75_19275
+CP053217.1	Protein Homology	CDS	1078	2007	.	+	0	ID=cds-QLI38237.1;Parent=gene-HLG75_19275;Dbxref=NCBI_GP:QLI38237.1;Name=QLI38237.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005249378.1;locus_tag=HLG75_19275;product=MobA/MobL family protein;protein_id=QLI38237.1;transl_table=11
+CP053217.1	Genbank	gene	2004	2504	.	+	.	ID=gene-HLG75_19280;Name=HLG75_19280;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HLG75_19280
+CP053217.1	Protein Homology	CDS	2004	2504	.	+	0	ID=cds-QLI38238.1;Parent=gene-HLG75_19280;Dbxref=NCBI_GP:QLI38238.1;Name=QLI38238.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_018680098.1;locus_tag=HLG75_19280;product=hypothetical protein;protein_id=QLI38238.1;transl_table=11
+CP053217.1	Genbank	gene	3286	3939	.	-	.	ID=gene-HLG75_19285;Name=HLG75_19285;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HLG75_19285
+CP053217.1	GeneMarkS-2+	CDS	3286	3939	.	-	0	ID=cds-QLI38239.1;Parent=gene-HLG75_19285;Dbxref=NCBI_GP:QLI38239.1;Name=QLI38239.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HLG75_19285;product=hypothetical protein;protein_id=QLI38239.1;transl_table=11
+

@@ -1,0 +1,20 @@
+##sequence-region CP072289.1 1 5679
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP072289.1	Genbank	region	1	5679	.	+	.	ID=CP072289.1:1..5679;Dbxref=taxon:470;Is_circular=true;Name=p4KSK11;collected-by=Jawaharlal Nehru University;collection-date=2020;country=India: New Delhi;gbkey=Src;genome=plasmid;isolation-source=Respiratory specimen;lat-lon=28.5402 N 77.1662 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=p4KSK11;strain=KSK11
+CP072289.1	Genbank	gene	1104	1319	.	-	.	ID=gene-J6I33_21175;Name=J6I33_21175;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6I33_21175
+CP072289.1	Protein Homology	CDS	1104	1319	.	-	0	ID=cds-QTK58089.1;Parent=gene-J6I33_21175;Dbxref=NCBI_GP:QTK58089.1;Name=QTK58089.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_002011639.1;locus_tag=J6I33_21175;product=hypothetical protein;protein_id=QTK58089.1;transl_table=11
+CP072289.1	Genbank	gene	1309	1605	.	-	.	ID=gene-J6I33_21180;Name=J6I33_21180;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6I33_21180
+CP072289.1	Protein Homology	CDS	1309	1605	.	-	0	ID=cds-QTK58090.1;Parent=gene-J6I33_21180;Dbxref=NCBI_GP:QTK58090.1;Name=QTK58090.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004282231.1;locus_tag=J6I33_21180;product=BrnT family toxin;protein_id=QTK58090.1;transl_table=11
+CP072289.1	Genbank	gene	1646	2146	.	-	.	ID=gene-J6I33_21185;Name=J6I33_21185;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6I33_21185
+CP072289.1	Protein Homology	CDS	1646	2146	.	-	0	ID=cds-QTK58091.1;Parent=gene-J6I33_21185;Dbxref=NCBI_GP:QTK58091.1;Name=QTK58091.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_018680098.1;locus_tag=J6I33_21185;product=hypothetical protein;protein_id=QTK58091.1;transl_table=11
+CP072289.1	Genbank	gene	2143	3066	.	-	.	ID=gene-J6I33_21190;Name=J6I33_21190;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6I33_21190
+CP072289.1	Protein Homology	CDS	2143	3066	.	-	0	ID=cds-QTK58092.1;Parent=gene-J6I33_21190;Dbxref=NCBI_GP:QTK58092.1;Name=QTK58092.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005249378.1;locus_tag=J6I33_21190;product=MobA/MobL family protein;protein_id=QTK58092.1;transl_table=11
+CP072289.1	Genbank	gene	3066	3221	.	-	.	ID=gene-J6I33_21195;Name=J6I33_21195;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6I33_21195
+CP072289.1	Protein Homology	CDS	3066	3221	.	-	0	ID=cds-QTK58086.1;Parent=gene-J6I33_21195;Dbxref=NCBI_GP:QTK58086.1;Name=QTK58086.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005098410.1;locus_tag=J6I33_21195;product=heme exporter protein CcmD;protein_id=QTK58086.1;transl_table=11
+CP072289.1	Genbank	gene	3502	3918	.	+	.	ID=gene-J6I33_21200;Name=J6I33_21200;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6I33_21200
+CP072289.1	Protein Homology	CDS	3502	3918	.	+	0	ID=cds-QTK58087.1;Parent=gene-J6I33_21200;Dbxref=NCBI_GP:QTK58087.1;Name=QTK58087.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_002061210.1;locus_tag=J6I33_21200;product=conjugal transfer protein TraD;protein_id=QTK58087.1;transl_table=11
+CP072289.1	Genbank	gene	4079	4576	.	+	.	ID=gene-J6I33_21205;Name=J6I33_21205;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6I33_21205
+CP072289.1	GeneMarkS-2+	CDS	4079	4576	.	+	0	ID=cds-QTK58093.1;Parent=gene-J6I33_21205;Dbxref=NCBI_GP:QTK58093.1;Name=QTK58093.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=J6I33_21205;product=hypothetical protein;protein_id=QTK58093.1;transl_table=11
+CP072289.1	Genbank	gene	5068	5847	.	-	.	ID=gene-J6I33_21170;Name=J6I33_21170;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6I33_21170
+CP072289.1	Protein Homology	CDS	5068	5847	.	-	0	ID=cds-QTK58088.1;Parent=gene-J6I33_21170;Dbxref=NCBI_GP:QTK58088.1;Name=QTK58088.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000422636.1;locus_tag=J6I33_21170;product=APH(3')-VI family aminoglycoside O-phosphotransferase;protein_id=QTK58088.1;transl_table=11
+

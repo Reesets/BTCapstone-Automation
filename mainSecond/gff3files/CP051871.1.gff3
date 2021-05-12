@@ -1,0 +1,24 @@
+##sequence-region CP051871.1 1 8495
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP051871.1	Genbank	region	1	8495	.	+	.	ID=CP051871.1:1..8495;Dbxref=taxon:470;Is_circular=true;Name=pAb-D10a-a_2;collection-date=Mar-2016;country=Ghana: Sekondi-Takoradi;gbkey=Src;genome=plasmid;isolation-source=cerebrospinal fluid;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pAb-D10a-a_2;strain=Ab-D10a-a
+CP051871.1	Genbank	pseudogene	216	350	.	+	.	ID=gene-HIN87_20170;Name=HIN87_20170;gbkey=Gene;gene_biotype=pseudogene;locus_tag=HIN87_20170;pseudo=true
+CP051871.1	Protein Homology	CDS	216	350	.	+	0	ID=cds-HIN87_20170;Parent=gene-HIN87_20170;Note=incomplete%3B partial on complete genome%3B missing N-terminus;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004733157.1;locus_tag=HIN87_20170;product=cysteine hydrolase;pseudo=true;transl_table=11
+CP051871.1	Genbank	gene	546	1091	.	-	.	ID=gene-HIN87_20175;Name=HIN87_20175;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN87_20175
+CP051871.1	Protein Homology	CDS	546	1091	.	-	0	ID=cds-QJF33702.1;Parent=gene-HIN87_20175;Dbxref=NCBI_GP:QJF33702.1;Name=QJF33702.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004282068.1;locus_tag=HIN87_20175;product=DNA-binding protein;protein_id=QJF33702.1;transl_table=11
+CP051871.1	Genbank	gene	1155	2048	.	-	.	ID=gene-HIN87_20180;Name=HIN87_20180;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN87_20180
+CP051871.1	Protein Homology	CDS	1155	2048	.	-	0	ID=cds-QJF33703.1;Parent=gene-HIN87_20180;Dbxref=NCBI_GP:QJF33703.1;Name=QJF33703.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001038666.1;locus_tag=HIN87_20180;product=replication initiation protein;protein_id=QJF33703.1;transl_table=11
+CP051871.1	Genbank	gene	3253	3624	.	+	.	ID=gene-HIN87_20185;Name=HIN87_20185;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN87_20185
+CP051871.1	Protein Homology	CDS	3253	3624	.	+	0	ID=cds-QJF33704.1;Parent=gene-HIN87_20185;Dbxref=NCBI_GP:QJF33704.1;Name=QJF33704.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005174618.1;locus_tag=HIN87_20185;product=hypothetical protein;protein_id=QJF33704.1;transl_table=11
+CP051871.1	Genbank	gene	3627	3797	.	+	.	ID=gene-HIN87_20190;Name=HIN87_20190;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN87_20190
+CP051871.1	Protein Homology	CDS	3627	3797	.	+	0	ID=cds-QJF33705.1;Parent=gene-HIN87_20190;Dbxref=NCBI_GP:QJF33705.1;Name=QJF33705.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_002067611.1;locus_tag=HIN87_20190;product=hypothetical protein;protein_id=QJF33705.1;transl_table=11
+CP051871.1	Genbank	gene	4120	4581	.	-	.	ID=gene-HIN87_20195;Name=HIN87_20195;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN87_20195
+CP051871.1	Protein Homology	CDS	4120	4581	.	-	0	ID=cds-QJF33706.1;Parent=gene-HIN87_20195;Dbxref=NCBI_GP:QJF33706.1;Name=QJF33706.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004781077.1;locus_tag=HIN87_20195;product=DIP1984 family protein;protein_id=QJF33706.1;transl_table=11
+CP051871.1	Genbank	gene	4886	7297	.	-	.	ID=gene-HIN87_20200;Name=HIN87_20200;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN87_20200
+CP051871.1	Protein Homology	CDS	4886	7297	.	-	0	ID=cds-QJF33707.1;Parent=gene-HIN87_20200;Dbxref=NCBI_GP:QJF33707.1;Name=QJF33707.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=HIN87_20200;product=TonB-dependent receptor;protein_id=QJF33707.1;transl_table=11
+CP051871.1	Genbank	gene	7425	7739	.	-	.	ID=gene-HIN87_20205;Name=HIN87_20205;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN87_20205
+CP051871.1	Protein Homology	CDS	7425	7739	.	-	0	ID=cds-QJF33708.1;Parent=gene-HIN87_20205;Dbxref=NCBI_GP:QJF33708.1;Name=QJF33708.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_006582675.1;locus_tag=HIN87_20205;product=BrnA antitoxin family protein;protein_id=QJF33708.1;transl_table=11
+CP051871.1	Genbank	gene	7726	8013	.	-	.	ID=gene-HIN87_20210;Name=HIN87_20210;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN87_20210
+CP051871.1	Protein Homology	CDS	7726	8013	.	-	0	ID=cds-QJF33709.1;Parent=gene-HIN87_20210;Dbxref=NCBI_GP:QJF33709.1;Name=QJF33709.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=HIN87_20210;product=BrnT family toxin;protein_id=QJF33709.1;transl_table=11
+CP051871.1	Genbank	gene	8257	8592	.	-	.	ID=gene-HIN87_20165;Name=HIN87_20165;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN87_20165
+CP051871.1	Protein Homology	CDS	8257	8592	.	-	0	ID=cds-QJF33701.1;Parent=gene-HIN87_20165;Dbxref=NCBI_GP:QJF33701.1;Name=QJF33701.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001061698.1;locus_tag=HIN87_20165;product=hypothetical protein;protein_id=QJF33701.1;transl_table=11
+

@@ -1,0 +1,10 @@
+##sequence-region NZ_CP030108.1 1 2359
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_CP030108.1	RefSeq	region	1	2359	.	+	.	ID=NZ_CP030108.1:1..2359;Dbxref=taxon:470;Is_circular=true;Name=pDA33382-2;country=Germany;gbkey=Src;genome=plasmid;isolation-source=Tracheal secretion;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pDA33382-2;serotype=ST1567;strain=DA33382
+NZ_CP030108.1	RefSeq	gene	53	253	.	+	.	ID=gene-DPV67_RS19225;Name=DPV67_RS19225;gbkey=Gene;gene_biotype=protein_coding;locus_tag=DPV67_RS19225;old_locus_tag=DPV67_19225
+NZ_CP030108.1	GeneMarkS-2+	CDS	53	253	.	+	0	ID=cds-WP_064847544.1;Parent=gene-DPV67_RS19225;Dbxref=Genbank:WP_064847544.1;Name=WP_064847544.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=DPV67_RS19225;product=hypothetical protein;protein_id=WP_064847544.1;transl_table=11
+NZ_CP030108.1	RefSeq	gene	790	1974	.	+	.	ID=gene-DPV67_RS19235;Name=DPV67_RS19235;gbkey=Gene;gene_biotype=protein_coding;locus_tag=DPV67_RS19235;old_locus_tag=DPV67_19235
+NZ_CP030108.1	Protein Homology	CDS	790	1974	.	+	0	ID=cds-WP_064847543.1;Parent=gene-DPV67_RS19235;Dbxref=Genbank:WP_064847543.1;Name=WP_064847543.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_003115284.1;locus_tag=DPV67_RS19235;product=protein rep;protein_id=WP_064847543.1;transl_table=11
+NZ_CP030108.1	RefSeq	gene	2040	2195	.	+	.	ID=gene-DPV67_RS19240;Name=DPV67_RS19240;gbkey=Gene;gene_biotype=protein_coding;locus_tag=DPV67_RS19240
+NZ_CP030108.1	GeneMarkS-2+	CDS	2040	2195	.	+	0	ID=cds-WP_153565175.1;Parent=gene-DPV67_RS19240;Dbxref=Genbank:WP_153565175.1;Name=WP_153565175.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=DPV67_RS19240;product=hypothetical protein;protein_id=WP_153565175.1;transl_table=11
+

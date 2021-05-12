@@ -1,0 +1,10 @@
+##sequence-region CP042564.1 1 3065
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP042564.1	Genbank	region	1	3065	.	+	.	ID=CP042564.1:1..3065;Dbxref=taxon:470;Is_circular=true;Name=pE47_008;collected-by=Concord Repatriation Hospital Sydney Australia;collection-date=08-Feb-2013;country=Australia: Sydney;gbkey=Src;genome=plasmid;isolation-source=Room 7;mol_type=genomic DNA;plasmid-name=pE47_008;strain=E47
+CP042564.1	Genbank	gene	841	1974	.	-	.	ID=gene-FR761_20780;Name=FR761_20780;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20780
+CP042564.1	Protein Homology	CDS	841	1974	.	-	0	ID=cds-QFH47723.1;Parent=gene-FR761_20780;Dbxref=NCBI_GP:QFH47723.1;Name=QFH47723.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005080191.1;locus_tag=FR761_20780;product=hypothetical protein;protein_id=QFH47723.1;transl_table=11
+CP042564.1	Genbank	gene	2126	2317	.	-	.	ID=gene-FR761_20785;Name=FR761_20785;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20785
+CP042564.1	Protein Homology	CDS	2126	2317	.	-	0	ID=cds-QFH47724.1;Parent=gene-FR761_20785;Dbxref=NCBI_GP:QFH47724.1;Name=QFH47724.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005080189.1;locus_tag=FR761_20785;product=hypothetical protein;protein_id=QFH47724.1;transl_table=11
+CP042564.1	Genbank	gene	2314	3252	.	-	.	ID=gene-FR761_20775;Name=FR761_20775;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20775
+CP042564.1	Protein Homology	CDS	2314	3252	.	-	0	ID=cds-QFH47722.1;Parent=gene-FR761_20775;Dbxref=NCBI_GP:QFH47722.1;Name=QFH47722.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005080187.1;locus_tag=FR761_20775;product=replication initiation protein;protein_id=QFH47722.1;transl_table=11
+

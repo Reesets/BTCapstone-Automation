@@ -1,0 +1,16 @@
+##sequence-region NZ_CP027181.1 1 6078
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_CP027181.1	RefSeq	region	1	6078	.	+	.	ID=NZ_CP027181.1:1..6078;Dbxref=taxon:470;Is_circular=true;Name=unnamed3;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=unnamed3;strain=AR_0070
+NZ_CP027181.1	RefSeq	gene	4	672	.	-	.	ID=gene-CSB70_RS20890;Name=CSB70_RS20890;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_RS20890;old_locus_tag=CSB70_0001
+NZ_CP027181.1	Protein Homology	CDS	4	672	.	-	0	ID=cds-WP_000423610.1;Parent=gene-CSB70_RS20890;Dbxref=Genbank:WP_000423610.1;Name=WP_000423610.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000423610.1;locus_tag=CSB70_RS20890;product=Abi family protein;protein_id=WP_000423610.1;transl_table=11
+NZ_CP027181.1	RefSeq	gene	805	1350	.	-	.	ID=gene-CSB70_RS20895;Name=CSB70_RS20895;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_RS20895;old_locus_tag=CSB70_0002
+NZ_CP027181.1	Protein Homology	CDS	805	1350	.	-	0	ID=cds-WP_000472319.1;Parent=gene-CSB70_RS20895;Dbxref=Genbank:WP_000472319.1;Name=WP_000472319.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_010589060.1;locus_tag=CSB70_RS20895;product=hypothetical protein;protein_id=WP_000472319.1;transl_table=11
+NZ_CP027181.1	RefSeq	gene	1399	3213	.	-	.	ID=gene-CSB70_RS20900;Name=CSB70_RS20900;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_RS20900;old_locus_tag=CSB70_0003
+NZ_CP027181.1	Protein Homology	CDS	1399	3213	.	-	0	ID=cds-WP_000634474.1;Parent=gene-CSB70_RS20900;Dbxref=Genbank:WP_000634474.1;Name=WP_000634474.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000634474.1;locus_tag=CSB70_RS20900;product=hypothetical protein;protein_id=WP_000634474.1;transl_table=11
+NZ_CP027181.1	RefSeq	gene	3203	3610	.	-	.	ID=gene-CSB70_RS20905;Name=CSB70_RS20905;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_RS20905;old_locus_tag=CSB70_0004
+NZ_CP027181.1	Protein Homology	CDS	3203	3610	.	-	0	ID=cds-WP_000016535.1;Parent=gene-CSB70_RS20905;Dbxref=Genbank:WP_000016535.1;Name=WP_000016535.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000016535.1;locus_tag=CSB70_RS20905;product=MobC family plasmid mobilization relaxosome protein;protein_id=WP_000016535.1;transl_table=11
+NZ_CP027181.1	RefSeq	gene	4613	5299	.	+	.	ID=gene-CSB70_RS20910;Name=CSB70_RS20910;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_RS20910;old_locus_tag=CSB70_0005
+NZ_CP027181.1	Protein Homology	CDS	4613	5299	.	+	0	ID=cds-WP_002011386.1;Parent=gene-CSB70_RS20910;Dbxref=Genbank:WP_002011386.1;Name=WP_002011386.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004986708.1;locus_tag=CSB70_RS20910;product=pentapeptide repeat-containing protein;protein_id=WP_002011386.1;transl_table=11
+NZ_CP027181.1	RefSeq	gene	5390	5923	.	+	.	ID=gene-CSB70_RS20915;Name=aadB;gbkey=Gene;gene=aadB;gene_biotype=protein_coding;locus_tag=CSB70_RS20915;old_locus_tag=CSB70_0006
+NZ_CP027181.1	Protein Homology	CDS	5390	5923	.	+	0	ID=cds-WP_010883707.1;Parent=gene-CSB70_RS20915;Dbxref=Genbank:WP_010883707.1;Name=WP_010883707.1;gbkey=CDS;gene=aadB;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000381802.1;locus_tag=CSB70_RS20915;product=aminoglycoside nucleotidyltransferase ANT(2'')-Ia;protein_id=WP_010883707.1;transl_table=11
+

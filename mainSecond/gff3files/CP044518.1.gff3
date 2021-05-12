@@ -1,0 +1,16 @@
+##sequence-region CP044518.1 1 6099
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP044518.1	Genbank	region	1	6099	.	+	.	ID=CP044518.1:1..6099;Dbxref=taxon:470;Is_circular=true;Name=p31FS3-2-1;collected-by=Chong Chen;collection-date=Jun-2017;country=China:Guangdong;gbkey=Src;genome=plasmid;isolation-source=feces;lat-lon=23.02 N 113.12 E;mol_type=genomic DNA;nat-host=duck;plasmid-name=p31FS3-2-1;strain=31FS3-2
+CP044518.1	Genbank	gene	314	1018	.	-	.	ID=gene-F7R97_18995;Name=F7R97_18995;gbkey=Gene;gene_biotype=protein_coding;locus_tag=F7R97_18995
+CP044518.1	Protein Homology	CDS	314	1018	.	-	0	ID=cds-QLF08689.1;Parent=gene-F7R97_18995;Dbxref=NCBI_GP:QLF08689.1;Name=QLF08689.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004856453.1;locus_tag=F7R97_18995;product=TetR family transcriptional regulator;protein_id=QLF08689.1;transl_table=11
+CP044518.1	Genbank	gene	1021	2208	.	+	.	ID=gene-F7R97_19000;Name=tet;gbkey=Gene;gene=tet;gene_biotype=protein_coding;locus_tag=F7R97_19000
+CP044518.1	Protein Homology	CDS	1021	2208	.	+	0	ID=cds-QLF08690.1;Parent=gene-F7R97_19000;Dbxref=NCBI_GP:QLF08690.1;Name=QLF08690.1;gbkey=CDS;gene=tet;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004856455.1;locus_tag=F7R97_19000;product=Tet(A)/Tet(B)/Tet(C) family tetracycline efflux MFS transporter;protein_id=QLF08690.1;transl_table=11
+CP044518.1	Genbank	gene	3056	3997	.	+	.	ID=gene-F7R97_19005;Name=F7R97_19005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=F7R97_19005
+CP044518.1	Protein Homology	CDS	3056	3997	.	+	0	ID=cds-QLF08691.1;Parent=gene-F7R97_19005;Dbxref=NCBI_GP:QLF08691.1;Name=QLF08691.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004729701.1;locus_tag=F7R97_19005;product=replication initiation protein;protein_id=QLF08691.1;transl_table=11
+CP044518.1	Genbank	gene	3987	4256	.	-	.	ID=gene-F7R97_19010;Name=F7R97_19010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=F7R97_19010
+CP044518.1	Protein Homology	CDS	3987	4256	.	-	0	ID=cds-QLF08692.1;Parent=gene-F7R97_19010;Dbxref=NCBI_GP:QLF08692.1;Name=QLF08692.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004896757.1;locus_tag=F7R97_19010;product=mobilization protein;protein_id=QLF08692.1;transl_table=11
+CP044518.1	Genbank	gene	4463	5416	.	+	.	ID=gene-F7R97_19015;Name=F7R97_19015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=F7R97_19015
+CP044518.1	Protein Homology	CDS	4463	5416	.	+	0	ID=cds-QLF08693.1;Parent=gene-F7R97_19015;Dbxref=NCBI_GP:QLF08693.1;Name=QLF08693.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004870957.1;locus_tag=F7R97_19015;product=mobilization protein;protein_id=QLF08693.1;transl_table=11
+CP044518.1	Genbank	gene	5413	5883	.	+	.	ID=gene-F7R97_19020;Name=F7R97_19020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=F7R97_19020
+CP044518.1	Protein Homology	CDS	5413	5883	.	+	0	ID=cds-QLF08694.1;Parent=gene-F7R97_19020;Dbxref=NCBI_GP:QLF08694.1;Name=QLF08694.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004811700.1;locus_tag=F7R97_19020;product=hypothetical protein;protein_id=QLF08694.1;transl_table=11
+

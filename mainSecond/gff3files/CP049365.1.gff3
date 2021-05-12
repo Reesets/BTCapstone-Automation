@@ -1,0 +1,4 @@
+##sequence-region CP049365.1 1 8031
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP049365.1	Genbank	region	1	8031	.	+	.	ID=CP049365.1:1..8031;Dbxref=taxon:470;Is_circular=true;Name=pAB2;collected-by=National Culture Collection;collection-date=2011-01-01;country=South Korea: Seoul;culture-collection=ATCC:17978;gbkey=Src;genome=plasmid;isolation-source=urine;lat-lon=37 N 126 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pAB2;strain=ATCC 17978
+

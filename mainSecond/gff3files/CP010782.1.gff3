@@ -1,0 +1,30 @@
+##sequence-region CP010782.1 1 8731
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP010782.1	Genbank	region	1	8731	.	+	.	ID=CP010782.1:1..8731;Dbxref=taxon:470;Is_circular=true;Name=pA1-1;collection-date=1982;country=United Kingdom: Nottingham;gbkey=Src;genome=plasmid;genotype=GC1;lat-lon=52.9 N 1.1 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pA1-1;strain=A1
+CP010782.1	Genbank	sequence_feature	1	138	.	+	.	ID=id-CP010782.1:1..138;Note=iteron region;gbkey=misc_feature
+CP010782.1	Genbank	sequence_feature	1	22	.	+	.	ID=id-CP010782.1:1..22;Note=iteron 1;gbkey=misc_feature
+CP010782.1	Genbank	sequence_feature	23	44	.	+	.	ID=id-CP010782.1:23..44;Note=iteron 2;gbkey=misc_feature
+CP010782.1	Genbank	sequence_feature	45	66	.	+	.	ID=id-CP010782.1:45..66;Note=iteron 3;gbkey=misc_feature
+CP010782.1	Genbank	sequence_feature	67	85	.	+	.	ID=id-CP010782.1:67..85;Note=iteron 4;gbkey=misc_feature
+CP010782.1	Genbank	gene	139	1089	.	+	.	ID=gene-ABA1_5000;Name=repAci1;gbkey=Gene;gene=repAci1;gene_biotype=protein_coding;locus_tag=ABA1_5000
+CP010782.1	Genbank	CDS	139	1089	.	+	0	ID=cds-AJF83584.1;Parent=gene-ABA1_5000;Dbxref=NCBI_GP:AJF83584.1;Name=AJF83584.1;Note=putative replication initiation protein;gbkey=CDS;gene=repAci1;locus_tag=ABA1_5000;product=RepAcil;protein_id=AJF83584.1;transl_table=11
+CP010782.1	Genbank	gene	1082	1657	.	+	.	ID=gene-ABA1_5001;Name=ABA1_5001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABA1_5001
+CP010782.1	Genbank	CDS	1082	1657	.	+	0	ID=cds-AJF83585.1;Parent=gene-ABA1_5001;Dbxref=NCBI_GP:AJF83585.1;Name=AJF83585.1;gbkey=CDS;locus_tag=ABA1_5001;product=Hypothetical protein;protein_id=AJF83585.1;transl_table=11
+CP010782.1	Genbank	recombination_feature	1965	1992	.	+	.	ID=id-CP010782.1:1965..1992;Note=XerD/XerC binding site;gbkey=misc_recomb
+CP010782.1	Genbank	gene	2009	2551	.	-	.	ID=gene-ABA1_5002;Name=ABA1_5002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABA1_5002
+CP010782.1	Genbank	CDS	2009	2551	.	-	0	ID=cds-AJF83586.1;Parent=gene-ABA1_5002;Dbxref=NCBI_GP:AJF83586.1;Name=AJF83586.1;gbkey=CDS;locus_tag=ABA1_5002;product=Hypothetical protein;protein_id=AJF83586.1;transl_table=11
+CP010782.1	Genbank	recombination_feature	2665	2692	.	+	.	ID=id-CP010782.1:2665..2692;Note=XerD/XerC binding site;gbkey=misc_recomb
+CP010782.1	Genbank	gene	2891	3187	.	+	.	ID=gene-ABA1_5003;Name=ABA1_5003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABA1_5003
+CP010782.1	Genbank	CDS	2891	3187	.	+	0	ID=cds-AJF83587.1;Parent=gene-ABA1_5003;Dbxref=NCBI_GP:AJF83587.1;Name=AJF83587.1;gbkey=CDS;locus_tag=ABA1_5003;product=Hypothetical protein;protein_id=AJF83587.1;transl_table=11
+CP010782.1	Genbank	gene	3105	3488	.	+	.	ID=gene-ABA1_5004;Name=ABA1_5004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABA1_5004
+CP010782.1	Genbank	CDS	3105	3488	.	+	0	ID=cds-AJF83588.1;Parent=gene-ABA1_5004;Dbxref=NCBI_GP:AJF83588.1;Name=AJF83588.1;gbkey=CDS;locus_tag=ABA1_5004;product=Hypothetical protein;protein_id=AJF83588.1;transl_table=11
+CP010782.1	Genbank	gene	3616	6027	.	+	.	ID=gene-ABA1_5005;Name=ABA1_5005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABA1_5005
+CP010782.1	Genbank	CDS	3616	6027	.	+	0	ID=cds-AJF83589.1;Parent=gene-ABA1_5005;Dbxref=NCBI_GP:AJF83589.1;Name=AJF83589.1;gbkey=CDS;locus_tag=ABA1_5005;product=TonB-dependent receptor protein;protein_id=AJF83589.1;transl_table=11
+CP010782.1	Genbank	gene	6332	6793	.	+	.	ID=gene-ABA1_5006;Name=ABA1_5006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABA1_5006
+CP010782.1	Genbank	CDS	6332	6793	.	+	0	ID=cds-AJF83590.1;Parent=gene-ABA1_5006;Dbxref=NCBI_GP:AJF83590.1;Name=AJF83590.1;gbkey=CDS;locus_tag=ABA1_5006;product=Hypothetical protein;protein_id=AJF83590.1;transl_table=11
+CP010782.1	Genbank	recombination_feature	7083	7110	.	+	.	ID=id-CP010782.1:7083..7110;Note=XerC/XerD binding site;gbkey=misc_recomb
+CP010782.1	Genbank	gene	7289	7660	.	-	.	ID=gene-ABA1_5007;Name=ABA1_5007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABA1_5007
+CP010782.1	Genbank	CDS	7289	7660	.	-	0	ID=cds-AJF83591.1;Parent=gene-ABA1_5007;Dbxref=NCBI_GP:AJF83591.1;Name=AJF83591.1;gbkey=CDS;locus_tag=ABA1_5007;product=Hypothetical protein;protein_id=AJF83591.1;transl_table=11
+CP010782.1	Genbank	gene	8308	8646	.	-	.	ID=gene-ABA1_5008;Name=ABA1_5008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABA1_5008
+CP010782.1	Genbank	CDS	8308	8646	.	-	0	ID=cds-AJF83592.1;Parent=gene-ABA1_5008;Dbxref=NCBI_GP:AJF83592.1;Name=AJF83592.1;gbkey=CDS;locus_tag=ABA1_5008;product=Hypothetical protein;protein_id=AJF83592.1;transl_table=11
+

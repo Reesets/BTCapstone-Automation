@@ -1,0 +1,12 @@
+##sequence-region CP062923.1 1 5242
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP062923.1	Genbank	region	1	5242	.	+	.	ID=CP062923.1:1..5242;Dbxref=taxon:470;Is_circular=true;Name=unnamednovel_2;collected-by=Agriculture and Agri-Food Canada;collection-date=17-Jan-2018;country=Canada: Quebec;gbkey=Src;genome=plasmid;isolation-source=swab;mol_type=genomic DNA;nat-host=Sus scrofa domesticus;plasmid-name=unnamednovel_2;strain=Res13-Abat-PEA21-P4-01-A
+CP062923.1	Genbank	gene	710	1642	.	-	.	ID=gene-IMO23_19255;Name=IMO23_19255;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IMO23_19255
+CP062923.1	Protein Homology	CDS	710	1642	.	-	0	ID=cds-QPF15413.1;Parent=gene-IMO23_19255;Dbxref=NCBI_GP:QPF15413.1;Name=QPF15413.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005265321.1;locus_tag=IMO23_19255;product=replication initiation protein;protein_id=QPF15413.1;transl_table=11
+CP062923.1	Genbank	gene	2276	2842	.	+	.	ID=gene-IMO23_19260;Name=IMO23_19260;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IMO23_19260
+CP062923.1	Protein Homology	CDS	2276	2842	.	+	0	ID=cds-QPF15414.1;Parent=gene-IMO23_19260;Dbxref=NCBI_GP:QPF15414.1;Name=QPF15414.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004871860.1;locus_tag=IMO23_19260;product=hypothetical protein;protein_id=QPF15414.1;transl_table=11
+CP062923.1	Genbank	gene	2871	3053	.	-	.	ID=gene-IMO23_19265;Name=IMO23_19265;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IMO23_19265
+CP062923.1	Protein Homology	CDS	2871	3053	.	-	0	ID=cds-QPF15411.1;Parent=gene-IMO23_19265;Dbxref=NCBI_GP:QPF15411.1;Name=QPF15411.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005134116.1;locus_tag=IMO23_19265;product=hypothetical protein;protein_id=QPF15411.1;transl_table=11
+CP062923.1	Genbank	gene	3361	4521	.	-	.	ID=gene-IMO23_19270;Name=IMO23_19270;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IMO23_19270
+CP062923.1	Protein Homology	CDS	3361	4521	.	-	0	ID=cds-QPF15412.1;Parent=gene-IMO23_19270;Dbxref=NCBI_GP:QPF15412.1;Name=QPF15412.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004854577.1;locus_tag=IMO23_19270;product=replication initiation protein;protein_id=QPF15412.1;transl_table=11
+

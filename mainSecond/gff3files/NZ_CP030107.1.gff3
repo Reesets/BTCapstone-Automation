@@ -1,0 +1,6 @@
+##sequence-region NZ_CP030107.1 1 2372
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_CP030107.1	RefSeq	region	1	2372	.	+	.	ID=NZ_CP030107.1:1..2372;Dbxref=taxon:470;Is_circular=true;Name=pDA33382-2-2;country=Germany;gbkey=Src;genome=plasmid;isolation-source=Tracheal secretion;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pDA33382-2-2;serotype=ST1567;strain=DA33382
+NZ_CP030107.1	RefSeq	gene	573	1514	.	+	.	ID=gene-DPV67_RS19220;Name=DPV67_RS19220;gbkey=Gene;gene_biotype=protein_coding;locus_tag=DPV67_RS19220;old_locus_tag=DPV67_19220
+NZ_CP030107.1	Protein Homology	CDS	573	1514	.	+	0	ID=cds-WP_073820198.1;Parent=gene-DPV67_RS19220;Dbxref=Genbank:WP_073820198.1;Name=WP_073820198.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005198814.1;locus_tag=DPV67_RS19220;product=replication initiation protein RepM;protein_id=WP_073820198.1;transl_table=11
+

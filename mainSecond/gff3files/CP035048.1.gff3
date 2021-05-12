@@ -1,0 +1,28 @@
+##sequence-region CP035048.1 1 10945
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP035048.1	Genbank	region	1	10945	.	+	.	ID=CP035048.1:1..10945;Dbxref=taxon:470;Is_circular=true;Name=p10.9Kbp;collected-by=JCVI;collection-date=2015-11-08;gbkey=Src;genome=plasmid;lat-lon=40.5 N 82.5 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=p10.9Kbp;strain=ABUH793
+CP035048.1	Genbank	gene	1	951	.	+	.	ID=gene-EP560_20045;Name=EP560_20045;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EP560_20045
+CP035048.1	Protein Homology	CDS	1	951	.	+	0	ID=cds-QAS99819.1;Parent=gene-EP560_20045;Dbxref=NCBI_GP:QAS99819.1;Name=QAS99819.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=EP560_20045;product=RepB family plasmid replication initiator protein;protein_id=QAS99819.1;transl_table=11
+CP035048.1	Genbank	gene	944	1519	.	+	.	ID=gene-EP560_20050;Name=EP560_20050;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EP560_20050
+CP035048.1	Protein Homology	CDS	944	1519	.	+	0	ID=cds-QAS99820.1;Parent=gene-EP560_20050;Dbxref=NCBI_GP:QAS99820.1;Name=QAS99820.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=EP560_20050;product=DNA-binding protein;protein_id=QAS99820.1;transl_table=11
+CP035048.1	Genbank	gene	1871	2389	.	-	.	ID=gene-EP560_20055;Name=EP560_20055;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EP560_20055
+CP035048.1	Protein Homology	CDS	1871	2389	.	-	0	ID=cds-QAS99828.1;Parent=gene-EP560_20055;Dbxref=NCBI_GP:QAS99828.1;Name=QAS99828.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=EP560_20055;product=sel1 repeat family protein;protein_id=QAS99828.1;transl_table=11
+CP035048.1	Genbank	gene	2762	3049	.	+	.	ID=gene-EP560_20060;Name=EP560_20060;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EP560_20060
+CP035048.1	Protein Homology	CDS	2762	3049	.	+	0	ID=cds-QAS99821.1;Parent=gene-EP560_20060;Dbxref=NCBI_GP:QAS99821.1;Name=QAS99821.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=EP560_20060;product=BrnT family toxin;protein_id=QAS99821.1;transl_table=11
+CP035048.1	Genbank	gene	3036	3350	.	+	.	ID=gene-EP560_20065;Name=EP560_20065;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EP560_20065
+CP035048.1	Protein Homology	CDS	3036	3350	.	+	0	ID=cds-QAS99822.1;Parent=gene-EP560_20065;Dbxref=NCBI_GP:QAS99822.1;Name=QAS99822.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_006582675.1;locus_tag=EP560_20065;product=toxin-antitoxin system%2C antitoxin component;protein_id=QAS99822.1;transl_table=11
+CP035048.1	Genbank	gene	3478	5889	.	+	.	ID=gene-EP560_20070;Name=EP560_20070;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EP560_20070
+CP035048.1	Protein Homology	CDS	3478	5889	.	+	0	ID=cds-QAS99823.1;Parent=gene-EP560_20070;Dbxref=NCBI_GP:QAS99823.1;Name=QAS99823.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=EP560_20070;product=TonB-dependent receptor;protein_id=QAS99823.1;transl_table=11
+CP035048.1	Genbank	gene	6194	6655	.	+	.	ID=gene-EP560_20075;Name=EP560_20075;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EP560_20075
+CP035048.1	Protein Homology	CDS	6194	6655	.	+	0	ID=cds-QAS99824.1;Parent=gene-EP560_20075;Dbxref=NCBI_GP:QAS99824.1;Name=QAS99824.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004781077.1;locus_tag=EP560_20075;product=septicolysin;protein_id=QAS99824.1;transl_table=11
+CP035048.1	Genbank	gene	7091	8116	.	-	.	ID=gene-EP560_20080;Name=EP560_20080;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EP560_20080
+CP035048.1	Protein Homology	CDS	7091	8116	.	-	0	ID=cds-QAS99825.1;Parent=gene-EP560_20080;Dbxref=NCBI_GP:QAS99825.1;Name=QAS99825.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004729405.1;locus_tag=EP560_20080;product=IS30-like element ISAba125 family transposase;protein_id=QAS99825.1;transl_table=11
+CP035048.1	Genbank	gene	8161	8493	.	-	.	ID=gene-EP560_20085;Name=EP560_20085;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EP560_20085
+CP035048.1	Protein Homology	CDS	8161	8493	.	-	0	ID=cds-QAS99826.1;Parent=gene-EP560_20085;Dbxref=NCBI_GP:QAS99826.1;Name=QAS99826.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000390243.1;locus_tag=EP560_20085;product=hypothetical protein;protein_id=QAS99826.1;transl_table=11
+CP035048.1	Genbank	gene	8511	8777	.	-	.	ID=gene-EP560_20090;Name=EP560_20090;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EP560_20090
+CP035048.1	Protein Homology	CDS	8511	8777	.	-	0	ID=cds-QAS99829.1;Parent=gene-EP560_20090;Dbxref=NCBI_GP:QAS99829.1;Name=QAS99829.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005098300.1;locus_tag=EP560_20090;product=mobilization protein;protein_id=QAS99829.1;transl_table=11
+CP035048.1	Genbank	gene	8987	10423	.	+	.	ID=gene-EP560_20095;Name=EP560_20095;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EP560_20095
+CP035048.1	Protein Homology	CDS	8987	10423	.	+	0	ID=cds-QAS99827.1;Parent=gene-EP560_20095;Dbxref=NCBI_GP:QAS99827.1;Name=QAS99827.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005248576.1;locus_tag=EP560_20095;product=nickase;protein_id=QAS99827.1;transl_table=11
+CP035048.1	Genbank	gene	10553	10735	.	-	.	ID=gene-EP560_20100;Name=EP560_20100;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EP560_20100
+CP035048.1	Protein Homology	CDS	10553	10735	.	-	0	ID=cds-QAS99830.1;Parent=gene-EP560_20100;Dbxref=NCBI_GP:QAS99830.1;Name=QAS99830.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005173935.1;locus_tag=EP560_20100;product=hypothetical protein;protein_id=QAS99830.1;transl_table=11
+

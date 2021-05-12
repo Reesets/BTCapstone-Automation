@@ -1,0 +1,24 @@
+##sequence-region CP027609.1 1 8731
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP027609.1	Genbank	region	1	8731	.	+	.	ID=CP027609.1:1..8731;Dbxref=taxon:470;Is_circular=true;Name=unnamed2;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=unnamed2;strain=AR_0102
+CP027609.1	Genbank	pseudogene	984	1203	.	-	.	ID=gene-AM481_19770;Name=AM481_19770;gbkey=Gene;gene_biotype=pseudogene;locus_tag=AM481_19770;pseudo=true
+CP027609.1	Protein Homology	CDS	984	1203	.	-	0	ID=cds-AM481_19770;Parent=gene-AM481_19770;Note=frameshifted%3B internal stop;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004641946.1;locus_tag=AM481_19770;product=hypothetical protein;pseudo=true;transl_table=11
+CP027609.1	Genbank	gene	1487	1741	.	+	.	ID=gene-AM481_19775;Name=AM481_19775;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AM481_19775
+CP027609.1	Protein Homology	CDS	1487	1741	.	+	0	ID=cds-AVO89364.1;Parent=gene-AM481_19775;Dbxref=NCBI_GP:AVO89364.1;Name=AVO89364.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001014301.1;locus_tag=AM481_19775;product=hypothetical protein;protein_id=AVO89364.1;transl_table=11
+CP027609.1	Genbank	gene	2013	2384	.	+	.	ID=gene-AM481_19780;Name=AM481_19780;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AM481_19780
+CP027609.1	Protein Homology	CDS	2013	2384	.	+	0	ID=cds-AVO89365.1;Parent=gene-AM481_19780;Dbxref=NCBI_GP:AVO89365.1;Name=AVO89365.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=AM481_19780;product=hypothetical protein;protein_id=AVO89365.1;transl_table=11
+CP027609.1	Genbank	gene	2880	3341	.	-	.	ID=gene-AM481_19785;Name=AM481_19785;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AM481_19785
+CP027609.1	Protein Homology	CDS	2880	3341	.	-	0	ID=cds-AVO89366.1;Parent=gene-AM481_19785;Dbxref=NCBI_GP:AVO89366.1;Name=AVO89366.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004781077.1;locus_tag=AM481_19785;product=septicolysin;protein_id=AVO89366.1;transl_table=11
+CP027609.1	Genbank	gene	3646	6057	.	-	.	ID=gene-AM481_19790;Name=AM481_19790;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AM481_19790
+CP027609.1	Protein Homology	CDS	3646	6057	.	-	0	ID=cds-AVO89367.1;Parent=gene-AM481_19790;Dbxref=NCBI_GP:AVO89367.1;Name=AVO89367.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=AM481_19790;product=TonB-dependent receptor;protein_id=AVO89367.1;transl_table=11
+CP027609.1	Genbank	gene	6185	6499	.	-	.	ID=gene-AM481_19795;Name=AM481_19795;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AM481_19795
+CP027609.1	Protein Homology	CDS	6185	6499	.	-	0	ID=cds-AVO89368.1;Parent=gene-AM481_19795;Dbxref=NCBI_GP:AVO89368.1;Name=AVO89368.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_006582675.1;locus_tag=AM481_19795;product=toxin-antitoxin system%2C antitoxin component;protein_id=AVO89368.1;transl_table=11
+CP027609.1	Genbank	gene	6486	6773	.	-	.	ID=gene-AM481_19800;Name=AM481_19800;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AM481_19800
+CP027609.1	Protein Homology	CDS	6486	6773	.	-	0	ID=cds-AVO89369.1;Parent=gene-AM481_19800;Dbxref=NCBI_GP:AVO89369.1;Name=AVO89369.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=AM481_19800;product=BrnT family toxin;protein_id=AVO89369.1;transl_table=11
+CP027609.1	Genbank	gene	7146	7664	.	+	.	ID=gene-AM481_19805;Name=AM481_19805;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AM481_19805
+CP027609.1	Protein Homology	CDS	7146	7664	.	+	0	ID=cds-AVO89370.1;Parent=gene-AM481_19805;Dbxref=NCBI_GP:AVO89370.1;Name=AVO89370.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=AM481_19805;product=sel1 repeat family protein;protein_id=AVO89370.1;transl_table=11
+CP027609.1	Genbank	gene	8016	8591	.	-	.	ID=gene-AM481_19810;Name=AM481_19810;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AM481_19810
+CP027609.1	Protein Homology	CDS	8016	8591	.	-	0	ID=cds-AVO89371.1;Parent=gene-AM481_19810;Dbxref=NCBI_GP:AVO89371.1;Name=AVO89371.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=AM481_19810;product=DNA-binding protein;protein_id=AVO89371.1;transl_table=11
+CP027609.1	Genbank	gene	8584	9534	.	-	.	ID=gene-AM481_19765;Name=AM481_19765;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AM481_19765
+CP027609.1	Protein Homology	CDS	8584	9534	.	-	0	ID=cds-AVO89372.1;Parent=gene-AM481_19765;Dbxref=NCBI_GP:AVO89372.1;Name=AVO89372.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=AM481_19765;product=RepB family plasmid replication initiator protein;protein_id=AVO89372.1;transl_table=11
+

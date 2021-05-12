@@ -1,0 +1,240 @@
+##sequence-region CP027180.1 1 73018
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP027180.1	Genbank	region	1	73018	.	+	.	ID=CP027180.1:1..73018;Dbxref=taxon:470;Is_circular=true;Name=unnamed2;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=unnamed2;strain=AR_0070
+CP027180.1	Genbank	gene	66	386	.	+	.	ID=gene-CSB70_4151;Name=CSB70_4151;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4151
+CP027180.1	Genbank	CDS	66	386	.	+	0	ID=cds-AVI35107.1;Parent=gene-CSB70_4151;Dbxref=NCBI_GP:AVI35107.1;Name=AVI35107.1;gbkey=CDS;locus_tag=CSB70_4151;product=hypothetical protein;protein_id=AVI35107.1;transl_table=11
+CP027180.1	Genbank	gene	379	651	.	+	.	ID=gene-CSB70_4152;Name=CSB70_4152;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4152
+CP027180.1	Genbank	CDS	379	651	.	+	0	ID=cds-AVI35108.1;Parent=gene-CSB70_4152;Dbxref=NCBI_GP:AVI35108.1;Name=AVI35108.1;gbkey=CDS;locus_tag=CSB70_4152;product=helix-turn-helix family protein;protein_id=AVI35108.1;transl_table=11
+CP027180.1	Genbank	gene	1221	1421	.	+	.	ID=gene-CSB70_4153;Name=CSB70_4153;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4153
+CP027180.1	Genbank	CDS	1221	1421	.	+	0	ID=cds-AVI35109.1;Parent=gene-CSB70_4153;Dbxref=NCBI_GP:AVI35109.1;Name=AVI35109.1;gbkey=CDS;locus_tag=CSB70_4153;product=putative organic hydroperoxide resistance protein;protein_id=AVI35109.1;transl_table=11
+CP027180.1	Genbank	gene	1506	1649	.	+	.	ID=gene-CSB70_4154;Name=CSB70_4154;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4154
+CP027180.1	Genbank	CDS	1506	1649	.	+	0	ID=cds-AVI35110.1;Parent=gene-CSB70_4154;Dbxref=NCBI_GP:AVI35110.1;Name=AVI35110.1;gbkey=CDS;locus_tag=CSB70_4154;product=osmC-like family protein;protein_id=AVI35110.1;transl_table=11
+CP027180.1	Genbank	gene	1655	2086	.	+	.	ID=gene-CSB70_4155;Name=CSB70_4155;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4155
+CP027180.1	Genbank	CDS	1655	2086	.	+	0	ID=cds-AVI35111.1;Parent=gene-CSB70_4155;Dbxref=NCBI_GP:AVI35111.1;Name=AVI35111.1;gbkey=CDS;locus_tag=CSB70_4155;product=winged helix DNA-binding domain protein;protein_id=AVI35111.1;transl_table=11
+CP027180.1	Genbank	gene	2313	2843	.	-	.	ID=gene-CSB70_4156;Name=CSB70_4156;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4156
+CP027180.1	Genbank	CDS	2313	2843	.	-	0	ID=cds-AVI35112.1;Parent=gene-CSB70_4156;Dbxref=NCBI_GP:AVI35112.1;Name=AVI35112.1;gbkey=CDS;locus_tag=CSB70_4156;product=putative dNA replication protein;protein_id=AVI35112.1;transl_table=11
+CP027180.1	Genbank	gene	2938	3105	.	-	.	ID=gene-CSB70_4157;Name=CSB70_4157;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4157
+CP027180.1	Genbank	CDS	2938	3105	.	-	0	ID=cds-AVI35113.1;Parent=gene-CSB70_4157;Dbxref=NCBI_GP:AVI35113.1;Name=AVI35113.1;gbkey=CDS;locus_tag=CSB70_4157;product=putative dNA replication protein;protein_id=AVI35113.1;transl_table=11
+CP027180.1	Genbank	gene	3160	3852	.	-	.	ID=gene-CSB70_4158;Name=CSB70_4158;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4158
+CP027180.1	Genbank	CDS	3160	3852	.	-	0	ID=cds-AVI35114.1;Parent=gene-CSB70_4158;Dbxref=NCBI_GP:AVI35114.1;Name=AVI35114.1;gbkey=CDS;locus_tag=CSB70_4158;product=initiator Replication family protein;protein_id=AVI35114.1;transl_table=11
+CP027180.1	Genbank	gene	4448	4744	.	-	.	ID=gene-CSB70_4159;Name=CSB70_4159;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4159
+CP027180.1	Genbank	CDS	4448	4744	.	-	0	ID=cds-AVI35115.1;Parent=gene-CSB70_4159;Dbxref=NCBI_GP:AVI35115.1;Name=AVI35115.1;gbkey=CDS;locus_tag=CSB70_4159;product=putative mobA;protein_id=AVI35115.1;transl_table=11
+CP027180.1	Genbank	gene	4909	5472	.	-	.	ID=gene-CSB70_4160;Name=CSB70_4160;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4160
+CP027180.1	Genbank	CDS	4909	5472	.	-	0	ID=cds-AVI35116.1;Parent=gene-CSB70_4160;Dbxref=NCBI_GP:AVI35116.1;Name=AVI35116.1;gbkey=CDS;locus_tag=CSB70_4160;product=mobA/MobL family protein;protein_id=AVI35116.1;transl_table=11
+CP027180.1	Genbank	gene	5491	5658	.	+	.	ID=gene-CSB70_4161;Name=CSB70_4161;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4161
+CP027180.1	Genbank	CDS	5491	5658	.	+	0	ID=cds-AVI35117.1;Parent=gene-CSB70_4161;Dbxref=NCBI_GP:AVI35117.1;Name=AVI35117.1;gbkey=CDS;locus_tag=CSB70_4161;product=hypothetical protein;protein_id=AVI35117.1;transl_table=11
+CP027180.1	Genbank	gene	5810	6682	.	+	.	ID=gene-CSB70_4162;Name=CSB70_4162;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4162
+CP027180.1	Genbank	CDS	5810	6682	.	+	0	ID=cds-AVI35118.1;Parent=gene-CSB70_4162;Dbxref=NCBI_GP:AVI35118.1;Name=AVI35118.1;gbkey=CDS;locus_tag=CSB70_4162;product=hypothetical protein;protein_id=AVI35118.1;transl_table=11
+CP027180.1	Genbank	gene	6829	7260	.	-	.	ID=gene-CSB70_4163;Name=CSB70_4163;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4163
+CP027180.1	Genbank	CDS	6829	7260	.	-	0	ID=cds-AVI35119.1;Parent=gene-CSB70_4163;Dbxref=NCBI_GP:AVI35119.1;Name=AVI35119.1;gbkey=CDS;locus_tag=CSB70_4163;product=winged helix DNA-binding domain protein;protein_id=AVI35119.1;transl_table=11
+CP027180.1	Genbank	gene	7267	7695	.	-	.	ID=gene-CSB70_4164;Name=CSB70_4164;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4164
+CP027180.1	Genbank	CDS	7267	7695	.	-	0	ID=cds-AVI35120.1;Parent=gene-CSB70_4164;Dbxref=NCBI_GP:AVI35120.1;Name=AVI35120.1;gbkey=CDS;locus_tag=CSB70_4164;product=peroxiredoxin%2C Ohr subfamily protein;protein_id=AVI35120.1;transl_table=11
+CP027180.1	Genbank	gene	8313	8669	.	+	.	ID=gene-CSB70_4165;Name=CSB70_4165;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4165
+CP027180.1	Genbank	CDS	8313	8669	.	+	0	ID=cds-AVI35121.1;Parent=gene-CSB70_4165;Dbxref=NCBI_GP:AVI35121.1;Name=AVI35121.1;gbkey=CDS;locus_tag=CSB70_4165;product=hypothetical protein;protein_id=AVI35121.1;transl_table=11
+CP027180.1	Genbank	gene	8662	8964	.	+	.	ID=gene-CSB70_4166;Name=CSB70_4166;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4166
+CP027180.1	Genbank	CDS	8662	8964	.	+	0	ID=cds-AVI35122.1;Parent=gene-CSB70_4166;Dbxref=NCBI_GP:AVI35122.1;Name=AVI35122.1;gbkey=CDS;locus_tag=CSB70_4166;product=helix-turn-helix domain protein;protein_id=AVI35122.1;transl_table=11
+CP027180.1	Genbank	gene	9499	9714	.	+	.	ID=gene-CSB70_4167;Name=CSB70_4167;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4167
+CP027180.1	Genbank	CDS	9499	9714	.	+	0	ID=cds-AVI35123.1;Parent=gene-CSB70_4167;Dbxref=NCBI_GP:AVI35123.1;Name=AVI35123.1;gbkey=CDS;locus_tag=CSB70_4167;product=cold-shock DNA-binding domain protein;protein_id=AVI35123.1;transl_table=11
+CP027180.1	Genbank	gene	9810	10037	.	+	.	ID=gene-CSB70_4168;Name=CSB70_4168;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4168
+CP027180.1	Genbank	CDS	9810	10037	.	+	0	ID=cds-AVI35124.1;Parent=gene-CSB70_4168;Dbxref=NCBI_GP:AVI35124.1;Name=AVI35124.1;gbkey=CDS;locus_tag=CSB70_4168;product=hypothetical protein;protein_id=AVI35124.1;transl_table=11
+CP027180.1	Genbank	gene	10017	10214	.	-	.	ID=gene-CSB70_4169;Name=CSB70_4169;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4169
+CP027180.1	Genbank	CDS	10017	10214	.	-	0	ID=cds-AVI35125.1;Parent=gene-CSB70_4169;Dbxref=NCBI_GP:AVI35125.1;Name=AVI35125.1;gbkey=CDS;locus_tag=CSB70_4169;product=hypothetical protein;protein_id=AVI35125.1;transl_table=11
+CP027180.1	Genbank	gene	10488	10808	.	+	.	ID=gene-CSB70_4170;Name=CSB70_4170;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4170
+CP027180.1	Genbank	CDS	10488	10808	.	+	0	ID=cds-AVI35126.1;Parent=gene-CSB70_4170;Dbxref=NCBI_GP:AVI35126.1;Name=AVI35126.1;gbkey=CDS;locus_tag=CSB70_4170;product=hypothetical protein;protein_id=AVI35126.1;transl_table=11
+CP027180.1	Genbank	gene	10801	11073	.	+	.	ID=gene-CSB70_4171;Name=CSB70_4171;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4171
+CP027180.1	Genbank	CDS	10801	11073	.	+	0	ID=cds-AVI35127.1;Parent=gene-CSB70_4171;Dbxref=NCBI_GP:AVI35127.1;Name=AVI35127.1;gbkey=CDS;locus_tag=CSB70_4171;product=helix-turn-helix family protein;protein_id=AVI35127.1;transl_table=11
+CP027180.1	Genbank	gene	11645	12073	.	+	.	ID=gene-CSB70_4172;Name=CSB70_4172;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4172
+CP027180.1	Genbank	CDS	11645	12073	.	+	0	ID=cds-AVI35128.1;Parent=gene-CSB70_4172;Dbxref=NCBI_GP:AVI35128.1;Name=AVI35128.1;gbkey=CDS;locus_tag=CSB70_4172;product=peroxiredoxin%2C Ohr subfamily protein;protein_id=AVI35128.1;transl_table=11
+CP027180.1	Genbank	gene	12080	12511	.	+	.	ID=gene-CSB70_4173;Name=CSB70_4173;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4173
+CP027180.1	Genbank	CDS	12080	12511	.	+	0	ID=cds-AVI35129.1;Parent=gene-CSB70_4173;Dbxref=NCBI_GP:AVI35129.1;Name=AVI35129.1;gbkey=CDS;locus_tag=CSB70_4173;product=winged helix DNA-binding domain protein;protein_id=AVI35129.1;transl_table=11
+CP027180.1	Genbank	gene	12657	13529	.	-	.	ID=gene-CSB70_4174;Name=CSB70_4174;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4174
+CP027180.1	Genbank	CDS	12657	13529	.	-	0	ID=cds-AVI35130.1;Parent=gene-CSB70_4174;Dbxref=NCBI_GP:AVI35130.1;Name=AVI35130.1;gbkey=CDS;locus_tag=CSB70_4174;product=hypothetical protein;protein_id=AVI35130.1;transl_table=11
+CP027180.1	Genbank	gene	13680	13847	.	-	.	ID=gene-CSB70_4175;Name=CSB70_4175;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4175
+CP027180.1	Genbank	CDS	13680	13847	.	-	0	ID=cds-AVI35131.1;Parent=gene-CSB70_4175;Dbxref=NCBI_GP:AVI35131.1;Name=AVI35131.1;gbkey=CDS;locus_tag=CSB70_4175;product=hypothetical protein;protein_id=AVI35131.1;transl_table=11
+CP027180.1	Genbank	gene	13866	14732	.	+	.	ID=gene-CSB70_4176;Name=CSB70_4176;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4176
+CP027180.1	Genbank	CDS	13866	14732	.	+	0	ID=cds-AVI35132.1;Parent=gene-CSB70_4176;Dbxref=NCBI_GP:AVI35132.1;Name=AVI35132.1;gbkey=CDS;locus_tag=CSB70_4176;product=mobA/MobL family protein;protein_id=AVI35132.1;transl_table=11
+CP027180.1	Genbank	gene	15487	16221	.	+	.	ID=gene-CSB70_4177;Name=CSB70_4177;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4177
+CP027180.1	Genbank	CDS	15487	16221	.	+	0	ID=cds-AVI35133.1;Parent=gene-CSB70_4177;Dbxref=NCBI_GP:AVI35133.1;Name=AVI35133.1;gbkey=CDS;locus_tag=CSB70_4177;product=initiator Replication family protein;protein_id=AVI35133.1;transl_table=11
+CP027180.1	Genbank	gene	16236	16466	.	+	.	ID=gene-CSB70_4178;Name=CSB70_4178;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4178
+CP027180.1	Genbank	CDS	16236	16466	.	+	0	ID=cds-AVI35134.1;Parent=gene-CSB70_4178;Dbxref=NCBI_GP:AVI35134.1;Name=AVI35134.1;gbkey=CDS;locus_tag=CSB70_4178;product=putative dNA replication protein;protein_id=AVI35134.1;transl_table=11
+CP027180.1	Genbank	gene	16497	16874	.	+	.	ID=gene-CSB70_4179;Name=CSB70_4179;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4179
+CP027180.1	Genbank	CDS	16497	16874	.	+	0	ID=cds-AVI35135.1;Parent=gene-CSB70_4179;Dbxref=NCBI_GP:AVI35135.1;Name=AVI35135.1;gbkey=CDS;locus_tag=CSB70_4179;product=putative dNA replication protein;protein_id=AVI35135.1;transl_table=11
+CP027180.1	Genbank	gene	16898	17014	.	+	.	ID=gene-CSB70_4180;Name=CSB70_4180;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4180
+CP027180.1	Genbank	CDS	16898	17014	.	+	0	ID=cds-AVI35136.1;Parent=gene-CSB70_4180;Dbxref=NCBI_GP:AVI35136.1;Name=AVI35136.1;gbkey=CDS;locus_tag=CSB70_4180;product=putative dNA replication protein;protein_id=AVI35136.1;transl_table=11
+CP027180.1	Genbank	gene	17254	17685	.	-	.	ID=gene-CSB70_4181;Name=CSB70_4181;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4181
+CP027180.1	Genbank	CDS	17254	17685	.	-	0	ID=cds-AVI35137.1;Parent=gene-CSB70_4181;Dbxref=NCBI_GP:AVI35137.1;Name=AVI35137.1;gbkey=CDS;locus_tag=CSB70_4181;product=winged helix DNA-binding domain protein;protein_id=AVI35137.1;transl_table=11
+CP027180.1	Genbank	gene	17692	18120	.	-	.	ID=gene-CSB70_4182;Name=CSB70_4182;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4182
+CP027180.1	Genbank	CDS	17692	18120	.	-	0	ID=cds-AVI35138.1;Parent=gene-CSB70_4182;Dbxref=NCBI_GP:AVI35138.1;Name=AVI35138.1;gbkey=CDS;locus_tag=CSB70_4182;product=peroxiredoxin%2C Ohr subfamily protein;protein_id=AVI35138.1;transl_table=11
+CP027180.1	Genbank	gene	18691	18963	.	-	.	ID=gene-CSB70_4183;Name=CSB70_4183;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4183
+CP027180.1	Genbank	CDS	18691	18963	.	-	0	ID=cds-AVI35139.1;Parent=gene-CSB70_4183;Dbxref=NCBI_GP:AVI35139.1;Name=AVI35139.1;gbkey=CDS;locus_tag=CSB70_4183;product=helix-turn-helix family protein;protein_id=AVI35139.1;transl_table=11
+CP027180.1	Genbank	gene	18956	19228	.	-	.	ID=gene-CSB70_4184;Name=CSB70_4184;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4184
+CP027180.1	Genbank	CDS	18956	19228	.	-	0	ID=cds-AVI35140.1;Parent=gene-CSB70_4184;Dbxref=NCBI_GP:AVI35140.1;Name=AVI35140.1;gbkey=CDS;locus_tag=CSB70_4184;product=hypothetical protein;protein_id=AVI35140.1;transl_table=11
+CP027180.1	Genbank	gene	19548	19745	.	+	.	ID=gene-CSB70_4185;Name=CSB70_4185;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4185
+CP027180.1	Genbank	CDS	19548	19745	.	+	0	ID=cds-AVI35141.1;Parent=gene-CSB70_4185;Dbxref=NCBI_GP:AVI35141.1;Name=AVI35141.1;gbkey=CDS;locus_tag=CSB70_4185;product=hypothetical protein;protein_id=AVI35141.1;transl_table=11
+CP027180.1	Genbank	gene	19725	19952	.	-	.	ID=gene-CSB70_4186;Name=CSB70_4186;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4186
+CP027180.1	Genbank	CDS	19725	19952	.	-	0	ID=cds-AVI35142.1;Parent=gene-CSB70_4186;Dbxref=NCBI_GP:AVI35142.1;Name=AVI35142.1;gbkey=CDS;locus_tag=CSB70_4186;product=hypothetical protein;protein_id=AVI35142.1;transl_table=11
+CP027180.1	Genbank	gene	20050	20265	.	-	.	ID=gene-CSB70_4187;Name=CSB70_4187;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4187
+CP027180.1	Genbank	CDS	20050	20265	.	-	0	ID=cds-AVI35143.1;Parent=gene-CSB70_4187;Dbxref=NCBI_GP:AVI35143.1;Name=AVI35143.1;gbkey=CDS;locus_tag=CSB70_4187;product=cold-shock DNA-binding domain protein;protein_id=AVI35143.1;transl_table=11
+CP027180.1	Genbank	gene	20801	21103	.	-	.	ID=gene-CSB70_4188;Name=CSB70_4188;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4188
+CP027180.1	Genbank	CDS	20801	21103	.	-	0	ID=cds-AVI35144.1;Parent=gene-CSB70_4188;Dbxref=NCBI_GP:AVI35144.1;Name=AVI35144.1;gbkey=CDS;locus_tag=CSB70_4188;product=helix-turn-helix domain protein;protein_id=AVI35144.1;transl_table=11
+CP027180.1	Genbank	gene	21096	21452	.	-	.	ID=gene-CSB70_4189;Name=CSB70_4189;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4189
+CP027180.1	Genbank	CDS	21096	21452	.	-	0	ID=cds-AVI35145.1;Parent=gene-CSB70_4189;Dbxref=NCBI_GP:AVI35145.1;Name=AVI35145.1;gbkey=CDS;locus_tag=CSB70_4189;product=hypothetical protein;protein_id=AVI35145.1;transl_table=11
+CP027180.1	Genbank	gene	22071	22499	.	+	.	ID=gene-CSB70_4190;Name=CSB70_4190;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4190
+CP027180.1	Genbank	CDS	22071	22499	.	+	0	ID=cds-AVI35146.1;Parent=gene-CSB70_4190;Dbxref=NCBI_GP:AVI35146.1;Name=AVI35146.1;gbkey=CDS;locus_tag=CSB70_4190;product=peroxiredoxin%2C Ohr subfamily protein;protein_id=AVI35146.1;transl_table=11
+CP027180.1	Genbank	gene	22506	22937	.	+	.	ID=gene-CSB70_4191;Name=CSB70_4191;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4191
+CP027180.1	Genbank	CDS	22506	22937	.	+	0	ID=cds-AVI35147.1;Parent=gene-CSB70_4191;Dbxref=NCBI_GP:AVI35147.1;Name=AVI35147.1;gbkey=CDS;locus_tag=CSB70_4191;product=winged helix DNA-binding domain protein;protein_id=AVI35147.1;transl_table=11
+CP027180.1	Genbank	gene	23177	23695	.	-	.	ID=gene-CSB70_4192;Name=CSB70_4192;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4192
+CP027180.1	Genbank	CDS	23177	23695	.	-	0	ID=cds-AVI35148.1;Parent=gene-CSB70_4192;Dbxref=NCBI_GP:AVI35148.1;Name=AVI35148.1;gbkey=CDS;locus_tag=CSB70_4192;product=putative dNA replication protein;protein_id=AVI35148.1;transl_table=11
+CP027180.1	Genbank	gene	23773	24708	.	-	.	ID=gene-CSB70_4193;Name=CSB70_4193;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4193
+CP027180.1	Genbank	CDS	23773	24708	.	-	0	ID=cds-AVI35149.1;Parent=gene-CSB70_4193;Dbxref=NCBI_GP:AVI35149.1;Name=AVI35149.1;gbkey=CDS;locus_tag=CSB70_4193;product=initiator Replication family protein;protein_id=AVI35149.1;transl_table=11
+CP027180.1	Genbank	gene	25304	26329	.	-	.	ID=gene-CSB70_4194;Name=CSB70_4194;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4194
+CP027180.1	Genbank	CDS	25304	26329	.	-	0	ID=cds-AVI35150.1;Parent=gene-CSB70_4194;Dbxref=NCBI_GP:AVI35150.1;Name=AVI35150.1;gbkey=CDS;locus_tag=CSB70_4194;product=mobA/MobL family protein;protein_id=AVI35150.1;transl_table=11
+CP027180.1	Genbank	gene	26348	26515	.	+	.	ID=gene-CSB70_4195;Name=CSB70_4195;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4195
+CP027180.1	Genbank	CDS	26348	26515	.	+	0	ID=cds-AVI35151.1;Parent=gene-CSB70_4195;Dbxref=NCBI_GP:AVI35151.1;Name=AVI35151.1;gbkey=CDS;locus_tag=CSB70_4195;product=hypothetical protein;protein_id=AVI35151.1;transl_table=11
+CP027180.1	Genbank	gene	26667	27539	.	+	.	ID=gene-CSB70_4196;Name=CSB70_4196;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4196
+CP027180.1	Genbank	CDS	26667	27539	.	+	0	ID=cds-AVI35152.1;Parent=gene-CSB70_4196;Dbxref=NCBI_GP:AVI35152.1;Name=AVI35152.1;gbkey=CDS;locus_tag=CSB70_4196;product=hypothetical protein;protein_id=AVI35152.1;transl_table=11
+CP027180.1	Genbank	gene	27686	28117	.	-	.	ID=gene-CSB70_4197;Name=CSB70_4197;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4197
+CP027180.1	Genbank	CDS	27686	28117	.	-	0	ID=cds-AVI35153.1;Parent=gene-CSB70_4197;Dbxref=NCBI_GP:AVI35153.1;Name=AVI35153.1;gbkey=CDS;locus_tag=CSB70_4197;product=winged helix DNA-binding domain protein;protein_id=AVI35153.1;transl_table=11
+CP027180.1	Genbank	gene	28124	28552	.	-	.	ID=gene-CSB70_4198;Name=CSB70_4198;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4198
+CP027180.1	Genbank	CDS	28124	28552	.	-	0	ID=cds-AVI35154.1;Parent=gene-CSB70_4198;Dbxref=NCBI_GP:AVI35154.1;Name=AVI35154.1;gbkey=CDS;locus_tag=CSB70_4198;product=peroxiredoxin%2C Ohr subfamily protein;protein_id=AVI35154.1;transl_table=11
+CP027180.1	Genbank	gene	29124	29396	.	-	.	ID=gene-CSB70_4199;Name=CSB70_4199;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4199
+CP027180.1	Genbank	CDS	29124	29396	.	-	0	ID=cds-AVI35155.1;Parent=gene-CSB70_4199;Dbxref=NCBI_GP:AVI35155.1;Name=AVI35155.1;gbkey=CDS;locus_tag=CSB70_4199;product=helix-turn-helix family protein;protein_id=AVI35155.1;transl_table=11
+CP027180.1	Genbank	gene	29389	29709	.	-	.	ID=gene-CSB70_4200;Name=CSB70_4200;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4200
+CP027180.1	Genbank	CDS	29389	29709	.	-	0	ID=cds-AVI35156.1;Parent=gene-CSB70_4200;Dbxref=NCBI_GP:AVI35156.1;Name=AVI35156.1;gbkey=CDS;locus_tag=CSB70_4200;product=hypothetical protein;protein_id=AVI35156.1;transl_table=11
+CP027180.1	Genbank	gene	29983	30180	.	+	.	ID=gene-CSB70_4201;Name=CSB70_4201;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4201
+CP027180.1	Genbank	CDS	29983	30180	.	+	0	ID=cds-AVI35157.1;Parent=gene-CSB70_4201;Dbxref=NCBI_GP:AVI35157.1;Name=AVI35157.1;gbkey=CDS;locus_tag=CSB70_4201;product=hypothetical protein;protein_id=AVI35157.1;transl_table=11
+CP027180.1	Genbank	gene	30160	30387	.	-	.	ID=gene-CSB70_4202;Name=CSB70_4202;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4202
+CP027180.1	Genbank	CDS	30160	30387	.	-	0	ID=cds-AVI35158.1;Parent=gene-CSB70_4202;Dbxref=NCBI_GP:AVI35158.1;Name=AVI35158.1;gbkey=CDS;locus_tag=CSB70_4202;product=hypothetical protein;protein_id=AVI35158.1;transl_table=11
+CP027180.1	Genbank	gene	30485	30700	.	-	.	ID=gene-CSB70_4203;Name=CSB70_4203;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4203
+CP027180.1	Genbank	CDS	30485	30700	.	-	0	ID=cds-AVI35159.1;Parent=gene-CSB70_4203;Dbxref=NCBI_GP:AVI35159.1;Name=AVI35159.1;gbkey=CDS;locus_tag=CSB70_4203;product=cold-shock DNA-binding domain protein;protein_id=AVI35159.1;transl_table=11
+CP027180.1	Genbank	gene	31236	31538	.	-	.	ID=gene-CSB70_4204;Name=CSB70_4204;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4204
+CP027180.1	Genbank	CDS	31236	31538	.	-	0	ID=cds-AVI35160.1;Parent=gene-CSB70_4204;Dbxref=NCBI_GP:AVI35160.1;Name=AVI35160.1;gbkey=CDS;locus_tag=CSB70_4204;product=helix-turn-helix domain protein;protein_id=AVI35160.1;transl_table=11
+CP027180.1	Genbank	gene	31531	31887	.	-	.	ID=gene-CSB70_4205;Name=CSB70_4205;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4205
+CP027180.1	Genbank	CDS	31531	31887	.	-	0	ID=cds-AVI35161.1;Parent=gene-CSB70_4205;Dbxref=NCBI_GP:AVI35161.1;Name=AVI35161.1;gbkey=CDS;locus_tag=CSB70_4205;product=hypothetical protein;protein_id=AVI35161.1;transl_table=11
+CP027180.1	Genbank	gene	32506	32934	.	+	.	ID=gene-CSB70_4206;Name=CSB70_4206;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4206
+CP027180.1	Genbank	CDS	32506	32934	.	+	0	ID=cds-AVI35162.1;Parent=gene-CSB70_4206;Dbxref=NCBI_GP:AVI35162.1;Name=AVI35162.1;gbkey=CDS;locus_tag=CSB70_4206;product=peroxiredoxin%2C Ohr subfamily protein;protein_id=AVI35162.1;transl_table=11
+CP027180.1	Genbank	gene	32941	33372	.	+	.	ID=gene-CSB70_4207;Name=CSB70_4207;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4207
+CP027180.1	Genbank	CDS	32941	33372	.	+	0	ID=cds-AVI35163.1;Parent=gene-CSB70_4207;Dbxref=NCBI_GP:AVI35163.1;Name=AVI35163.1;gbkey=CDS;locus_tag=CSB70_4207;product=winged helix DNA-binding domain protein;protein_id=AVI35163.1;transl_table=11
+CP027180.1	Genbank	gene	33612	34130	.	-	.	ID=gene-CSB70_4208;Name=CSB70_4208;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4208
+CP027180.1	Genbank	CDS	33612	34130	.	-	0	ID=cds-AVI35164.1;Parent=gene-CSB70_4208;Dbxref=NCBI_GP:AVI35164.1;Name=AVI35164.1;gbkey=CDS;locus_tag=CSB70_4208;product=putative dNA replication protein;protein_id=AVI35164.1;transl_table=11
+CP027180.1	Genbank	gene	34208	35143	.	-	.	ID=gene-CSB70_4209;Name=CSB70_4209;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4209
+CP027180.1	Genbank	CDS	34208	35143	.	-	0	ID=cds-AVI35165.1;Parent=gene-CSB70_4209;Dbxref=NCBI_GP:AVI35165.1;Name=AVI35165.1;gbkey=CDS;locus_tag=CSB70_4209;product=initiator Replication family protein;protein_id=AVI35165.1;transl_table=11
+CP027180.1	Genbank	gene	35740	36765	.	-	.	ID=gene-CSB70_4210;Name=CSB70_4210;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4210
+CP027180.1	Genbank	CDS	35740	36765	.	-	0	ID=cds-AVI35166.1;Parent=gene-CSB70_4210;Dbxref=NCBI_GP:AVI35166.1;Name=AVI35166.1;gbkey=CDS;locus_tag=CSB70_4210;product=mobA/MobL family protein;protein_id=AVI35166.1;transl_table=11
+CP027180.1	Genbank	gene	36784	36951	.	+	.	ID=gene-CSB70_4211;Name=CSB70_4211;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4211
+CP027180.1	Genbank	CDS	36784	36951	.	+	0	ID=cds-AVI35167.1;Parent=gene-CSB70_4211;Dbxref=NCBI_GP:AVI35167.1;Name=AVI35167.1;gbkey=CDS;locus_tag=CSB70_4211;product=hypothetical protein;protein_id=AVI35167.1;transl_table=11
+CP027180.1	Genbank	gene	37103	37975	.	+	.	ID=gene-CSB70_4212;Name=CSB70_4212;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4212
+CP027180.1	Genbank	CDS	37103	37975	.	+	0	ID=cds-AVI35168.1;Parent=gene-CSB70_4212;Dbxref=NCBI_GP:AVI35168.1;Name=AVI35168.1;gbkey=CDS;locus_tag=CSB70_4212;product=hypothetical protein;protein_id=AVI35168.1;transl_table=11
+CP027180.1	Genbank	gene	38122	38553	.	-	.	ID=gene-CSB70_4213;Name=CSB70_4213;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4213
+CP027180.1	Genbank	CDS	38122	38553	.	-	0	ID=cds-AVI35169.1;Parent=gene-CSB70_4213;Dbxref=NCBI_GP:AVI35169.1;Name=AVI35169.1;gbkey=CDS;locus_tag=CSB70_4213;product=winged helix DNA-binding domain protein;protein_id=AVI35169.1;transl_table=11
+CP027180.1	Genbank	gene	38560	38988	.	-	.	ID=gene-CSB70_4214;Name=CSB70_4214;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4214
+CP027180.1	Genbank	CDS	38560	38988	.	-	0	ID=cds-AVI35170.1;Parent=gene-CSB70_4214;Dbxref=NCBI_GP:AVI35170.1;Name=AVI35170.1;gbkey=CDS;locus_tag=CSB70_4214;product=peroxiredoxin%2C Ohr subfamily protein;protein_id=AVI35170.1;transl_table=11
+CP027180.1	Genbank	gene	39607	39963	.	+	.	ID=gene-CSB70_4215;Name=CSB70_4215;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4215
+CP027180.1	Genbank	CDS	39607	39963	.	+	0	ID=cds-AVI35171.1;Parent=gene-CSB70_4215;Dbxref=NCBI_GP:AVI35171.1;Name=AVI35171.1;gbkey=CDS;locus_tag=CSB70_4215;product=hypothetical protein;protein_id=AVI35171.1;transl_table=11
+CP027180.1	Genbank	gene	39956	40258	.	+	.	ID=gene-CSB70_4216;Name=CSB70_4216;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4216
+CP027180.1	Genbank	CDS	39956	40258	.	+	0	ID=cds-AVI35172.1;Parent=gene-CSB70_4216;Dbxref=NCBI_GP:AVI35172.1;Name=AVI35172.1;gbkey=CDS;locus_tag=CSB70_4216;product=helix-turn-helix domain protein;protein_id=AVI35172.1;transl_table=11
+CP027180.1	Genbank	gene	40794	41009	.	+	.	ID=gene-CSB70_4217;Name=CSB70_4217;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4217
+CP027180.1	Genbank	CDS	40794	41009	.	+	0	ID=cds-AVI35173.1;Parent=gene-CSB70_4217;Dbxref=NCBI_GP:AVI35173.1;Name=AVI35173.1;gbkey=CDS;locus_tag=CSB70_4217;product=cold-shock DNA-binding domain protein;protein_id=AVI35173.1;transl_table=11
+CP027180.1	Genbank	gene	41107	41334	.	+	.	ID=gene-CSB70_4218;Name=CSB70_4218;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4218
+CP027180.1	Genbank	CDS	41107	41334	.	+	0	ID=cds-AVI35174.1;Parent=gene-CSB70_4218;Dbxref=NCBI_GP:AVI35174.1;Name=AVI35174.1;gbkey=CDS;locus_tag=CSB70_4218;product=hypothetical protein;protein_id=AVI35174.1;transl_table=11
+CP027180.1	Genbank	gene	41314	41511	.	-	.	ID=gene-CSB70_4219;Name=CSB70_4219;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4219
+CP027180.1	Genbank	CDS	41314	41511	.	-	0	ID=cds-AVI35175.1;Parent=gene-CSB70_4219;Dbxref=NCBI_GP:AVI35175.1;Name=AVI35175.1;gbkey=CDS;locus_tag=CSB70_4219;product=hypothetical protein;protein_id=AVI35175.1;transl_table=11
+CP027180.1	Genbank	gene	41785	42105	.	+	.	ID=gene-CSB70_4220;Name=CSB70_4220;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4220
+CP027180.1	Genbank	CDS	41785	42105	.	+	0	ID=cds-AVI35176.1;Parent=gene-CSB70_4220;Dbxref=NCBI_GP:AVI35176.1;Name=AVI35176.1;gbkey=CDS;locus_tag=CSB70_4220;product=hypothetical protein;protein_id=AVI35176.1;transl_table=11
+CP027180.1	Genbank	gene	42098	42370	.	+	.	ID=gene-CSB70_4221;Name=CSB70_4221;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4221
+CP027180.1	Genbank	CDS	42098	42370	.	+	0	ID=cds-AVI35177.1;Parent=gene-CSB70_4221;Dbxref=NCBI_GP:AVI35177.1;Name=AVI35177.1;gbkey=CDS;locus_tag=CSB70_4221;product=helix-turn-helix family protein;protein_id=AVI35177.1;transl_table=11
+CP027180.1	Genbank	gene	42942	43370	.	+	.	ID=gene-CSB70_4222;Name=CSB70_4222;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4222
+CP027180.1	Genbank	CDS	42942	43370	.	+	0	ID=cds-AVI35178.1;Parent=gene-CSB70_4222;Dbxref=NCBI_GP:AVI35178.1;Name=AVI35178.1;gbkey=CDS;locus_tag=CSB70_4222;product=peroxiredoxin%2C Ohr subfamily protein;protein_id=AVI35178.1;transl_table=11
+CP027180.1	Genbank	gene	43377	43808	.	+	.	ID=gene-CSB70_4223;Name=CSB70_4223;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4223
+CP027180.1	Genbank	CDS	43377	43808	.	+	0	ID=cds-AVI35179.1;Parent=gene-CSB70_4223;Dbxref=NCBI_GP:AVI35179.1;Name=AVI35179.1;gbkey=CDS;locus_tag=CSB70_4223;product=winged helix DNA-binding domain protein;protein_id=AVI35179.1;transl_table=11
+CP027180.1	Genbank	gene	44048	44566	.	-	.	ID=gene-CSB70_4224;Name=CSB70_4224;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4224
+CP027180.1	Genbank	CDS	44048	44566	.	-	0	ID=cds-AVI35180.1;Parent=gene-CSB70_4224;Dbxref=NCBI_GP:AVI35180.1;Name=AVI35180.1;gbkey=CDS;locus_tag=CSB70_4224;product=putative dNA replication protein;protein_id=AVI35180.1;transl_table=11
+CP027180.1	Genbank	gene	44644	45579	.	-	.	ID=gene-CSB70_4225;Name=CSB70_4225;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4225
+CP027180.1	Genbank	CDS	44644	45579	.	-	0	ID=cds-AVI35181.1;Parent=gene-CSB70_4225;Dbxref=NCBI_GP:AVI35181.1;Name=AVI35181.1;gbkey=CDS;locus_tag=CSB70_4225;product=initiator Replication family protein;protein_id=AVI35181.1;transl_table=11
+CP027180.1	Genbank	gene	46176	46472	.	-	.	ID=gene-CSB70_4226;Name=CSB70_4226;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4226
+CP027180.1	Genbank	CDS	46176	46472	.	-	0	ID=cds-AVI35182.1;Parent=gene-CSB70_4226;Dbxref=NCBI_GP:AVI35182.1;Name=AVI35182.1;gbkey=CDS;locus_tag=CSB70_4226;product=putative mobA;protein_id=AVI35182.1;transl_table=11
+CP027180.1	Genbank	gene	46637	47200	.	-	.	ID=gene-CSB70_4227;Name=CSB70_4227;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4227
+CP027180.1	Genbank	CDS	46637	47200	.	-	0	ID=cds-AVI35183.1;Parent=gene-CSB70_4227;Dbxref=NCBI_GP:AVI35183.1;Name=AVI35183.1;gbkey=CDS;locus_tag=CSB70_4227;product=mobA/MobL family protein;protein_id=AVI35183.1;transl_table=11
+CP027180.1	Genbank	gene	47219	47386	.	+	.	ID=gene-CSB70_4228;Name=CSB70_4228;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4228
+CP027180.1	Genbank	CDS	47219	47386	.	+	0	ID=cds-AVI35184.1;Parent=gene-CSB70_4228;Dbxref=NCBI_GP:AVI35184.1;Name=AVI35184.1;gbkey=CDS;locus_tag=CSB70_4228;product=hypothetical protein;protein_id=AVI35184.1;transl_table=11
+CP027180.1	Genbank	gene	47538	48410	.	+	.	ID=gene-CSB70_4229;Name=CSB70_4229;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4229
+CP027180.1	Genbank	CDS	47538	48410	.	+	0	ID=cds-AVI35185.1;Parent=gene-CSB70_4229;Dbxref=NCBI_GP:AVI35185.1;Name=AVI35185.1;gbkey=CDS;locus_tag=CSB70_4229;product=hypothetical protein;protein_id=AVI35185.1;transl_table=11
+CP027180.1	Genbank	gene	48557	48988	.	-	.	ID=gene-CSB70_4230;Name=CSB70_4230;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4230
+CP027180.1	Genbank	CDS	48557	48988	.	-	0	ID=cds-AVI35186.1;Parent=gene-CSB70_4230;Dbxref=NCBI_GP:AVI35186.1;Name=AVI35186.1;gbkey=CDS;locus_tag=CSB70_4230;product=winged helix DNA-binding domain protein;protein_id=AVI35186.1;transl_table=11
+CP027180.1	Genbank	gene	48995	49423	.	-	.	ID=gene-CSB70_4231;Name=CSB70_4231;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4231
+CP027180.1	Genbank	CDS	48995	49423	.	-	0	ID=cds-AVI35187.1;Parent=gene-CSB70_4231;Dbxref=NCBI_GP:AVI35187.1;Name=AVI35187.1;gbkey=CDS;locus_tag=CSB70_4231;product=peroxiredoxin%2C Ohr subfamily protein;protein_id=AVI35187.1;transl_table=11
+CP027180.1	Genbank	gene	49993	50265	.	-	.	ID=gene-CSB70_4232;Name=CSB70_4232;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4232
+CP027180.1	Genbank	CDS	49993	50265	.	-	0	ID=cds-AVI35188.1;Parent=gene-CSB70_4232;Dbxref=NCBI_GP:AVI35188.1;Name=AVI35188.1;gbkey=CDS;locus_tag=CSB70_4232;product=helix-turn-helix family protein;protein_id=AVI35188.1;transl_table=11
+CP027180.1	Genbank	gene	50258	50578	.	-	.	ID=gene-CSB70_4233;Name=CSB70_4233;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4233
+CP027180.1	Genbank	CDS	50258	50578	.	-	0	ID=cds-AVI35189.1;Parent=gene-CSB70_4233;Dbxref=NCBI_GP:AVI35189.1;Name=AVI35189.1;gbkey=CDS;locus_tag=CSB70_4233;product=hypothetical protein;protein_id=AVI35189.1;transl_table=11
+CP027180.1	Genbank	gene	50852	51049	.	+	.	ID=gene-CSB70_4234;Name=CSB70_4234;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4234
+CP027180.1	Genbank	CDS	50852	51049	.	+	0	ID=cds-AVI35190.1;Parent=gene-CSB70_4234;Dbxref=NCBI_GP:AVI35190.1;Name=AVI35190.1;gbkey=CDS;locus_tag=CSB70_4234;product=hypothetical protein;protein_id=AVI35190.1;transl_table=11
+CP027180.1	Genbank	gene	51029	51256	.	-	.	ID=gene-CSB70_4235;Name=CSB70_4235;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4235
+CP027180.1	Genbank	CDS	51029	51256	.	-	0	ID=cds-AVI35191.1;Parent=gene-CSB70_4235;Dbxref=NCBI_GP:AVI35191.1;Name=AVI35191.1;gbkey=CDS;locus_tag=CSB70_4235;product=hypothetical protein;protein_id=AVI35191.1;transl_table=11
+CP027180.1	Genbank	gene	51354	51569	.	-	.	ID=gene-CSB70_4236;Name=CSB70_4236;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4236
+CP027180.1	Genbank	CDS	51354	51569	.	-	0	ID=cds-AVI35192.1;Parent=gene-CSB70_4236;Dbxref=NCBI_GP:AVI35192.1;Name=AVI35192.1;gbkey=CDS;locus_tag=CSB70_4236;product=cold-shock DNA-binding domain protein;protein_id=AVI35192.1;transl_table=11
+CP027180.1	Genbank	gene	52103	52405	.	-	.	ID=gene-CSB70_4237;Name=CSB70_4237;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4237
+CP027180.1	Genbank	CDS	52103	52405	.	-	0	ID=cds-AVI35193.1;Parent=gene-CSB70_4237;Dbxref=NCBI_GP:AVI35193.1;Name=AVI35193.1;gbkey=CDS;locus_tag=CSB70_4237;product=helix-turn-helix domain protein;protein_id=AVI35193.1;transl_table=11
+CP027180.1	Genbank	gene	52398	52754	.	-	.	ID=gene-CSB70_4238;Name=CSB70_4238;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4238
+CP027180.1	Genbank	CDS	52398	52754	.	-	0	ID=cds-AVI35194.1;Parent=gene-CSB70_4238;Dbxref=NCBI_GP:AVI35194.1;Name=AVI35194.1;gbkey=CDS;locus_tag=CSB70_4238;product=hypothetical protein;protein_id=AVI35194.1;transl_table=11
+CP027180.1	Genbank	gene	53373	53801	.	+	.	ID=gene-CSB70_4239;Name=CSB70_4239;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4239
+CP027180.1	Genbank	CDS	53373	53801	.	+	0	ID=cds-AVI35195.1;Parent=gene-CSB70_4239;Dbxref=NCBI_GP:AVI35195.1;Name=AVI35195.1;gbkey=CDS;locus_tag=CSB70_4239;product=peroxiredoxin%2C Ohr subfamily protein;protein_id=AVI35195.1;transl_table=11
+CP027180.1	Genbank	gene	53808	54239	.	+	.	ID=gene-CSB70_4240;Name=CSB70_4240;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4240
+CP027180.1	Genbank	CDS	53808	54239	.	+	0	ID=cds-AVI35196.1;Parent=gene-CSB70_4240;Dbxref=NCBI_GP:AVI35196.1;Name=AVI35196.1;gbkey=CDS;locus_tag=CSB70_4240;product=winged helix DNA-binding domain protein;protein_id=AVI35196.1;transl_table=11
+CP027180.1	Genbank	gene	54386	55258	.	-	.	ID=gene-CSB70_4241;Name=CSB70_4241;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4241
+CP027180.1	Genbank	CDS	54386	55258	.	-	0	ID=cds-AVI35197.1;Parent=gene-CSB70_4241;Dbxref=NCBI_GP:AVI35197.1;Name=AVI35197.1;gbkey=CDS;locus_tag=CSB70_4241;product=hypothetical protein;protein_id=AVI35197.1;transl_table=11
+CP027180.1	Genbank	gene	55410	55577	.	-	.	ID=gene-CSB70_4242;Name=CSB70_4242;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4242
+CP027180.1	Genbank	CDS	55410	55577	.	-	0	ID=cds-AVI35198.1;Parent=gene-CSB70_4242;Dbxref=NCBI_GP:AVI35198.1;Name=AVI35198.1;gbkey=CDS;locus_tag=CSB70_4242;product=hypothetical protein;protein_id=AVI35198.1;transl_table=11
+CP027180.1	Genbank	gene	55596	56621	.	+	.	ID=gene-CSB70_4243;Name=CSB70_4243;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4243
+CP027180.1	Genbank	CDS	55596	56621	.	+	0	ID=cds-AVI35199.1;Parent=gene-CSB70_4243;Dbxref=NCBI_GP:AVI35199.1;Name=AVI35199.1;gbkey=CDS;locus_tag=CSB70_4243;product=mobA/MobL family protein;protein_id=AVI35199.1;transl_table=11
+CP027180.1	Genbank	gene	57218	58153	.	+	.	ID=gene-CSB70_4244;Name=CSB70_4244;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4244
+CP027180.1	Genbank	CDS	57218	58153	.	+	0	ID=cds-AVI35200.1;Parent=gene-CSB70_4244;Dbxref=NCBI_GP:AVI35200.1;Name=AVI35200.1;gbkey=CDS;locus_tag=CSB70_4244;product=initiator Replication family protein;protein_id=AVI35200.1;transl_table=11
+CP027180.1	Genbank	gene	58231	58749	.	+	.	ID=gene-CSB70_4245;Name=CSB70_4245;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4245
+CP027180.1	Genbank	CDS	58231	58749	.	+	0	ID=cds-AVI35201.1;Parent=gene-CSB70_4245;Dbxref=NCBI_GP:AVI35201.1;Name=AVI35201.1;gbkey=CDS;locus_tag=CSB70_4245;product=putative dNA replication protein;protein_id=AVI35201.1;transl_table=11
+CP027180.1	Genbank	gene	58989	59420	.	-	.	ID=gene-CSB70_4246;Name=CSB70_4246;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4246
+CP027180.1	Genbank	CDS	58989	59420	.	-	0	ID=cds-AVI35202.1;Parent=gene-CSB70_4246;Dbxref=NCBI_GP:AVI35202.1;Name=AVI35202.1;gbkey=CDS;locus_tag=CSB70_4246;product=winged helix DNA-binding domain protein;protein_id=AVI35202.1;transl_table=11
+CP027180.1	Genbank	gene	59427	59855	.	-	.	ID=gene-CSB70_4247;Name=CSB70_4247;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4247
+CP027180.1	Genbank	CDS	59427	59855	.	-	0	ID=cds-AVI35203.1;Parent=gene-CSB70_4247;Dbxref=NCBI_GP:AVI35203.1;Name=AVI35203.1;gbkey=CDS;locus_tag=CSB70_4247;product=peroxiredoxin%2C Ohr subfamily protein;protein_id=AVI35203.1;transl_table=11
+CP027180.1	Genbank	gene	60474	60830	.	+	.	ID=gene-CSB70_4248;Name=CSB70_4248;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4248
+CP027180.1	Genbank	CDS	60474	60830	.	+	0	ID=cds-AVI35204.1;Parent=gene-CSB70_4248;Dbxref=NCBI_GP:AVI35204.1;Name=AVI35204.1;gbkey=CDS;locus_tag=CSB70_4248;product=hypothetical protein;protein_id=AVI35204.1;transl_table=11
+CP027180.1	Genbank	gene	60823	61125	.	+	.	ID=gene-CSB70_4249;Name=CSB70_4249;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4249
+CP027180.1	Genbank	CDS	60823	61125	.	+	0	ID=cds-AVI35205.1;Parent=gene-CSB70_4249;Dbxref=NCBI_GP:AVI35205.1;Name=AVI35205.1;gbkey=CDS;locus_tag=CSB70_4249;product=helix-turn-helix domain protein;protein_id=AVI35205.1;transl_table=11
+CP027180.1	Genbank	gene	61661	61876	.	+	.	ID=gene-CSB70_4250;Name=CSB70_4250;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4250
+CP027180.1	Genbank	CDS	61661	61876	.	+	0	ID=cds-AVI35206.1;Parent=gene-CSB70_4250;Dbxref=NCBI_GP:AVI35206.1;Name=AVI35206.1;gbkey=CDS;locus_tag=CSB70_4250;product=cold-shock DNA-binding domain protein;protein_id=AVI35206.1;transl_table=11
+CP027180.1	Genbank	gene	61974	62201	.	+	.	ID=gene-CSB70_4251;Name=CSB70_4251;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4251
+CP027180.1	Genbank	CDS	61974	62201	.	+	0	ID=cds-AVI35207.1;Parent=gene-CSB70_4251;Dbxref=NCBI_GP:AVI35207.1;Name=AVI35207.1;gbkey=CDS;locus_tag=CSB70_4251;product=hypothetical protein;protein_id=AVI35207.1;transl_table=11
+CP027180.1	Genbank	gene	62181	62378	.	-	.	ID=gene-CSB70_4252;Name=CSB70_4252;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4252
+CP027180.1	Genbank	CDS	62181	62378	.	-	0	ID=cds-AVI35208.1;Parent=gene-CSB70_4252;Dbxref=NCBI_GP:AVI35208.1;Name=AVI35208.1;gbkey=CDS;locus_tag=CSB70_4252;product=hypothetical protein;protein_id=AVI35208.1;transl_table=11
+CP027180.1	Genbank	gene	62652	62972	.	+	.	ID=gene-CSB70_4253;Name=CSB70_4253;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4253
+CP027180.1	Genbank	CDS	62652	62972	.	+	0	ID=cds-AVI35209.1;Parent=gene-CSB70_4253;Dbxref=NCBI_GP:AVI35209.1;Name=AVI35209.1;gbkey=CDS;locus_tag=CSB70_4253;product=hypothetical protein;protein_id=AVI35209.1;transl_table=11
+CP027180.1	Genbank	gene	62965	63237	.	+	.	ID=gene-CSB70_4254;Name=CSB70_4254;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4254
+CP027180.1	Genbank	CDS	62965	63237	.	+	0	ID=cds-AVI35210.1;Parent=gene-CSB70_4254;Dbxref=NCBI_GP:AVI35210.1;Name=AVI35210.1;gbkey=CDS;locus_tag=CSB70_4254;product=helix-turn-helix family protein;protein_id=AVI35210.1;transl_table=11
+CP027180.1	Genbank	gene	63809	64237	.	+	.	ID=gene-CSB70_4255;Name=CSB70_4255;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4255
+CP027180.1	Genbank	CDS	63809	64237	.	+	0	ID=cds-AVI35211.1;Parent=gene-CSB70_4255;Dbxref=NCBI_GP:AVI35211.1;Name=AVI35211.1;gbkey=CDS;locus_tag=CSB70_4255;product=peroxiredoxin%2C Ohr subfamily protein;protein_id=AVI35211.1;transl_table=11
+CP027180.1	Genbank	gene	64244	64675	.	+	.	ID=gene-CSB70_4256;Name=CSB70_4256;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4256
+CP027180.1	Genbank	CDS	64244	64675	.	+	0	ID=cds-AVI35212.1;Parent=gene-CSB70_4256;Dbxref=NCBI_GP:AVI35212.1;Name=AVI35212.1;gbkey=CDS;locus_tag=CSB70_4256;product=winged helix DNA-binding domain protein;protein_id=AVI35212.1;transl_table=11
+CP027180.1	Genbank	gene	64915	65433	.	-	.	ID=gene-CSB70_4257;Name=CSB70_4257;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4257
+CP027180.1	Genbank	CDS	64915	65433	.	-	0	ID=cds-AVI35213.1;Parent=gene-CSB70_4257;Dbxref=NCBI_GP:AVI35213.1;Name=AVI35213.1;gbkey=CDS;locus_tag=CSB70_4257;product=putative dNA replication protein;protein_id=AVI35213.1;transl_table=11
+CP027180.1	Genbank	gene	65511	66446	.	-	.	ID=gene-CSB70_4258;Name=CSB70_4258;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4258
+CP027180.1	Genbank	CDS	65511	66446	.	-	0	ID=cds-AVI35214.1;Parent=gene-CSB70_4258;Dbxref=NCBI_GP:AVI35214.1;Name=AVI35214.1;gbkey=CDS;locus_tag=CSB70_4258;product=initiator Replication family protein;protein_id=AVI35214.1;transl_table=11
+CP027180.1	Genbank	gene	67043	68068	.	-	.	ID=gene-CSB70_4259;Name=CSB70_4259;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4259
+CP027180.1	Genbank	CDS	67043	68068	.	-	0	ID=cds-AVI35215.1;Parent=gene-CSB70_4259;Dbxref=NCBI_GP:AVI35215.1;Name=AVI35215.1;gbkey=CDS;locus_tag=CSB70_4259;product=mobA/MobL family protein;protein_id=AVI35215.1;transl_table=11
+CP027180.1	Genbank	gene	68087	68254	.	+	.	ID=gene-CSB70_4260;Name=CSB70_4260;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4260
+CP027180.1	Genbank	CDS	68087	68254	.	+	0	ID=cds-AVI35216.1;Parent=gene-CSB70_4260;Dbxref=NCBI_GP:AVI35216.1;Name=AVI35216.1;gbkey=CDS;locus_tag=CSB70_4260;product=hypothetical protein;protein_id=AVI35216.1;transl_table=11
+CP027180.1	Genbank	gene	68406	69278	.	+	.	ID=gene-CSB70_4261;Name=CSB70_4261;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4261
+CP027180.1	Genbank	CDS	68406	69278	.	+	0	ID=cds-AVI35217.1;Parent=gene-CSB70_4261;Dbxref=NCBI_GP:AVI35217.1;Name=AVI35217.1;gbkey=CDS;locus_tag=CSB70_4261;product=hypothetical protein;protein_id=AVI35217.1;transl_table=11
+CP027180.1	Genbank	gene	69425	69856	.	-	.	ID=gene-CSB70_4262;Name=CSB70_4262;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4262
+CP027180.1	Genbank	CDS	69425	69856	.	-	0	ID=cds-AVI35218.1;Parent=gene-CSB70_4262;Dbxref=NCBI_GP:AVI35218.1;Name=AVI35218.1;gbkey=CDS;locus_tag=CSB70_4262;product=winged helix DNA-binding domain protein;protein_id=AVI35218.1;transl_table=11
+CP027180.1	Genbank	gene	69863	70291	.	-	.	ID=gene-CSB70_4263;Name=CSB70_4263;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4263
+CP027180.1	Genbank	CDS	69863	70291	.	-	0	ID=cds-AVI35219.1;Parent=gene-CSB70_4263;Dbxref=NCBI_GP:AVI35219.1;Name=AVI35219.1;gbkey=CDS;locus_tag=CSB70_4263;product=peroxiredoxin%2C Ohr subfamily protein;protein_id=AVI35219.1;transl_table=11
+CP027180.1	Genbank	gene	70910	71266	.	+	.	ID=gene-CSB70_4264;Name=CSB70_4264;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4264
+CP027180.1	Genbank	CDS	70910	71266	.	+	0	ID=cds-AVI35220.1;Parent=gene-CSB70_4264;Dbxref=NCBI_GP:AVI35220.1;Name=AVI35220.1;gbkey=CDS;locus_tag=CSB70_4264;product=hypothetical protein;protein_id=AVI35220.1;transl_table=11
+CP027180.1	Genbank	gene	71259	71561	.	+	.	ID=gene-CSB70_4265;Name=CSB70_4265;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4265
+CP027180.1	Genbank	CDS	71259	71561	.	+	0	ID=cds-AVI35221.1;Parent=gene-CSB70_4265;Dbxref=NCBI_GP:AVI35221.1;Name=AVI35221.1;gbkey=CDS;locus_tag=CSB70_4265;product=helix-turn-helix domain protein;protein_id=AVI35221.1;transl_table=11
+CP027180.1	Genbank	gene	72096	72311	.	+	.	ID=gene-CSB70_4266;Name=CSB70_4266;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4266
+CP027180.1	Genbank	CDS	72096	72311	.	+	0	ID=cds-AVI35222.1;Parent=gene-CSB70_4266;Dbxref=NCBI_GP:AVI35222.1;Name=AVI35222.1;gbkey=CDS;locus_tag=CSB70_4266;product=cold-shock DNA-binding domain protein;protein_id=AVI35222.1;transl_table=11
+CP027180.1	Genbank	gene	72485	72634	.	+	.	ID=gene-CSB70_4267;Name=CSB70_4267;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4267
+CP027180.1	Genbank	CDS	72485	72634	.	+	0	ID=cds-AVI35223.1;Parent=gene-CSB70_4267;Dbxref=NCBI_GP:AVI35223.1;Name=AVI35223.1;gbkey=CDS;locus_tag=CSB70_4267;product=hypothetical protein;protein_id=AVI35223.1;transl_table=11
+CP027180.1	Genbank	gene	72652	72810	.	-	.	ID=gene-CSB70_4268;Name=CSB70_4268;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB70_4268
+CP027180.1	Genbank	CDS	72652	72810	.	-	0	ID=cds-AVI35224.1;Parent=gene-CSB70_4268;Dbxref=NCBI_GP:AVI35224.1;Name=AVI35224.1;gbkey=CDS;locus_tag=CSB70_4268;product=hypothetical protein;protein_id=AVI35224.1;transl_table=11
+

@@ -1,0 +1,8 @@
+##sequence-region NZ_CP042565.1 1 2427
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_CP042565.1	RefSeq	region	1	2427	.	+	.	ID=NZ_CP042565.1:1..2427;Dbxref=taxon:470;Is_circular=true;Name=pE47_009;collected-by=Concord Repatriation Hospital Sydney Australia;collection-date=08-Feb-2013;country=Australia: Sydney;gbkey=Src;genome=plasmid;isolation-source=Room 7;mol_type=genomic DNA;plasmid-name=pE47_009;strain=E47
+NZ_CP042565.1	RefSeq	gene	1039	1218	.	-	.	ID=gene-FR761_RS20795;Name=FR761_RS20795;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_RS20795;old_locus_tag=FR761_20795
+NZ_CP042565.1	Protein Homology	CDS	1039	1218	.	-	0	ID=cds-WP_151532487.1;Parent=gene-FR761_RS20795;Dbxref=Genbank:WP_151532487.1;Name=WP_151532487.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005134116.1;locus_tag=FR761_RS20795;product=hypothetical protein;protein_id=WP_151532487.1;transl_table=11
+NZ_CP042565.1	RefSeq	pseudogene	1714	2874	.	-	.	ID=gene-FR761_RS20790;Name=FR761_RS20790;gbkey=Gene;gene_biotype=pseudogene;locus_tag=FR761_RS20790;old_locus_tag=FR761_20790;partial=true;pseudo=true
+NZ_CP042565.1	Protein Homology	CDS	1714	2874	.	-	0	ID=cds-FR761_RS20790;Parent=gene-FR761_RS20790;Note=incomplete%3B partial in the middle of a contig%3B missing N-terminus;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004854577.1;locus_tag=FR761_RS20790;partial=true;product=replication initiation protein;pseudo=true;transl_table=11
+

@@ -1,0 +1,4 @@
+##sequence-region CP030084.1 1 8732
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP030084.1	Genbank	region	1	8732	.	+	.	ID=CP030084.1:1..8732;Dbxref=taxon:470;Is_circular=true;Name=unnamed1;collection-date=30-Aug-2016;country=China: Beijing;gbkey=Src;genome=plasmid;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=unnamed1;strain=Aba
+

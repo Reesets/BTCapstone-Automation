@@ -1,0 +1,192 @@
+##sequence-region CP017651.1 1 70884
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP017651.1	Genbank	region	1	70884	.	+	.	ID=CP017651.1:1..70884;Dbxref=taxon:470;Is_circular=true;Name=unnamed;collection-date=2015-08-28;country=South Korea:Daegu;gbkey=Src;genome=plasmid;isolation-source=Blood;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=unnamed;strain=KAB05
+CP017651.1	Genbank	gene	633	932	.	-	.	ID=gene-KAB05_03894;Name=KAB05_03894;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03894
+CP017651.1	Genbank	CDS	633	932	.	-	0	ID=cds-AOX87226.1;Parent=gene-KAB05_03894;Dbxref=NCBI_GP:AOX87226.1;Name=AOX87226.1;gbkey=CDS;locus_tag=KAB05_03894;product=DNA-binding helix-turn-helix protein;protein_id=AOX87226.1;transl_table=11
+CP017651.1	Genbank	gene	932	1291	.	-	.	ID=gene-KAB05_03895;Name=KAB05_03895;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03895
+CP017651.1	Genbank	CDS	932	1291	.	-	0	ID=cds-AOX87227.1;Parent=gene-KAB05_03895;Dbxref=NCBI_GP:AOX87227.1;Name=AOX87227.1;gbkey=CDS;locus_tag=KAB05_03895;product=Gp49-like family protein;protein_id=AOX87227.1;transl_table=11
+CP017651.1	Genbank	gene	1474	2058	.	+	.	ID=gene-KAB05_03896;Name=KAB05_03896;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03896
+CP017651.1	Genbank	CDS	1474	2058	.	+	0	ID=cds-AOX87228.1;Parent=gene-KAB05_03896;Dbxref=NCBI_GP:AOX87228.1;Name=AOX87228.1;gbkey=CDS;locus_tag=KAB05_03896;product=hypothetical protein;protein_id=AOX87228.1;transl_table=11
+CP017651.1	Genbank	gene	2107	2289	.	+	.	ID=gene-KAB05_03897;Name=KAB05_03897;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03897
+CP017651.1	Genbank	CDS	2107	2289	.	+	0	ID=cds-AOX87229.1;Parent=gene-KAB05_03897;Dbxref=NCBI_GP:AOX87229.1;Name=AOX87229.1;gbkey=CDS;locus_tag=KAB05_03897;product=hypothetical protein;protein_id=AOX87229.1;transl_table=11
+CP017651.1	Genbank	gene	2356	3054	.	+	.	ID=gene-KAB05_03898;Name=KAB05_03898;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03898
+CP017651.1	Genbank	CDS	2356	3054	.	+	0	ID=cds-AOX87230.1;Parent=gene-KAB05_03898;Dbxref=NCBI_GP:AOX87230.1;Name=AOX87230.1;gbkey=CDS;locus_tag=KAB05_03898;product=hypothetical protein;protein_id=AOX87230.1;transl_table=11
+CP017651.1	Genbank	gene	3181	3576	.	+	.	ID=gene-KAB05_03899;Name=KAB05_03899;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03899
+CP017651.1	Genbank	CDS	3181	3576	.	+	0	ID=cds-AOX87231.1;Parent=gene-KAB05_03899;Dbxref=NCBI_GP:AOX87231.1;Name=AOX87231.1;gbkey=CDS;locus_tag=KAB05_03899;product=hypothetical protein;protein_id=AOX87231.1;transl_table=11
+CP017651.1	Genbank	gene	3643	4401	.	+	.	ID=gene-KAB05_03900;Name=KAB05_03900;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03900
+CP017651.1	Genbank	CDS	3643	4401	.	+	0	ID=cds-AOX87232.1;Parent=gene-KAB05_03900;Dbxref=NCBI_GP:AOX87232.1;Name=AOX87232.1;gbkey=CDS;locus_tag=KAB05_03900;product=hypothetical protein;protein_id=AOX87232.1;transl_table=11
+CP017651.1	Genbank	gene	4453	4788	.	+	.	ID=gene-KAB05_03901;Name=KAB05_03901;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03901
+CP017651.1	Genbank	CDS	4453	4788	.	+	0	ID=cds-AOX87233.1;Parent=gene-KAB05_03901;Dbxref=NCBI_GP:AOX87233.1;Name=AOX87233.1;gbkey=CDS;locus_tag=KAB05_03901;product=hypothetical protein;protein_id=AOX87233.1;transl_table=11
+CP017651.1	Genbank	gene	5657	6154	.	+	.	ID=gene-KAB05_03902;Name=KAB05_03902;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03902
+CP017651.1	Genbank	CDS	5657	6154	.	+	0	ID=cds-AOX87234.1;Parent=gene-KAB05_03902;Dbxref=NCBI_GP:AOX87234.1;Name=AOX87234.1;gbkey=CDS;locus_tag=KAB05_03902;product=hypothetical protein;protein_id=AOX87234.1;transl_table=11
+CP017651.1	Genbank	gene	6300	6584	.	+	.	ID=gene-KAB05_03903;Name=KAB05_03903;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03903
+CP017651.1	Genbank	CDS	6300	6584	.	+	0	ID=cds-AOX87235.1;Parent=gene-KAB05_03903;Dbxref=NCBI_GP:AOX87235.1;Name=AOX87235.1;gbkey=CDS;locus_tag=KAB05_03903;product=hypothetical protein;protein_id=AOX87235.1;transl_table=11
+CP017651.1	Genbank	gene	6728	7060	.	+	.	ID=gene-KAB05_03904;Name=KAB05_03904;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03904
+CP017651.1	Genbank	CDS	6728	7060	.	+	0	ID=cds-AOX87236.1;Parent=gene-KAB05_03904;Dbxref=NCBI_GP:AOX87236.1;Name=AOX87236.1;gbkey=CDS;locus_tag=KAB05_03904;product=hypothetical protein;protein_id=AOX87236.1;transl_table=11
+CP017651.1	Genbank	gene	7076	7270	.	+	.	ID=gene-KAB05_03905;Name=KAB05_03905;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03905
+CP017651.1	Genbank	CDS	7076	7270	.	+	0	ID=cds-AOX87237.1;Parent=gene-KAB05_03905;Dbxref=NCBI_GP:AOX87237.1;Name=AOX87237.1;gbkey=CDS;locus_tag=KAB05_03905;product=hypothetical protein;protein_id=AOX87237.1;transl_table=11
+CP017651.1	Genbank	gene	7300	7629	.	-	.	ID=gene-KAB05_03906;Name=KAB05_03906;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03906
+CP017651.1	Genbank	CDS	7300	7629	.	-	0	ID=cds-AOX87238.1;Parent=gene-KAB05_03906;Dbxref=NCBI_GP:AOX87238.1;Name=AOX87238.1;gbkey=CDS;locus_tag=KAB05_03906;product=hypothetical protein;protein_id=AOX87238.1;transl_table=11
+CP017651.1	Genbank	gene	8208	8678	.	+	.	ID=gene-KAB05_03907;Name=KAB05_03907;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03907
+CP017651.1	Genbank	CDS	8208	8678	.	+	0	ID=cds-AOX87239.1;Parent=gene-KAB05_03907;Dbxref=NCBI_GP:AOX87239.1;Name=AOX87239.1;gbkey=CDS;locus_tag=KAB05_03907;product=hypothetical protein;protein_id=AOX87239.1;transl_table=11
+CP017651.1	Genbank	gene	8683	10842	.	+	.	ID=gene-KAB05_03908;Name=KAB05_03908;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03908
+CP017651.1	Genbank	CDS	8683	10842	.	+	0	ID=cds-AOX87240.1;Parent=gene-KAB05_03908;Dbxref=NCBI_GP:AOX87240.1;Name=AOX87240.1;gbkey=CDS;locus_tag=KAB05_03908;product=Putative TraD;protein_id=AOX87240.1;transl_table=11
+CP017651.1	Genbank	gene	10854	14129	.	+	.	ID=gene-KAB05_03909;Name=trwC;gbkey=Gene;gene=trwC;gene_biotype=protein_coding;locus_tag=KAB05_03909
+CP017651.1	Genbank	CDS	10854	14129	.	+	0	ID=cds-AOX87241.1;Parent=gene-KAB05_03909;Dbxref=NCBI_GP:AOX87241.1;Name=AOX87241.1;gbkey=CDS;gene=trwC;locus_tag=KAB05_03909;product=Relaxase;protein_id=AOX87241.1;transl_table=11
+CP017651.1	Genbank	gene	14220	14645	.	+	.	ID=gene-KAB05_03910;Name=KAB05_03910;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03910
+CP017651.1	Genbank	CDS	14220	14645	.	+	0	ID=cds-AOX87242.1;Parent=gene-KAB05_03910;Dbxref=NCBI_GP:AOX87242.1;Name=AOX87242.1;gbkey=CDS;locus_tag=KAB05_03910;product=hypothetical protein;protein_id=AOX87242.1;transl_table=11
+CP017651.1	Genbank	gene	14699	15025	.	-	.	ID=gene-KAB05_03911;Name=KAB05_03911;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03911
+CP017651.1	Genbank	CDS	14699	15025	.	-	0	ID=cds-AOX87243.1;Parent=gene-KAB05_03911;Dbxref=NCBI_GP:AOX87243.1;Name=AOX87243.1;gbkey=CDS;locus_tag=KAB05_03911;product=hypothetical protein;protein_id=AOX87243.1;transl_table=11
+CP017651.1	Genbank	gene	15063	15629	.	-	.	ID=gene-KAB05_03912;Name=KAB05_03912;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03912
+CP017651.1	Genbank	CDS	15063	15629	.	-	0	ID=cds-AOX87244.1;Parent=gene-KAB05_03912;Dbxref=NCBI_GP:AOX87244.1;Name=AOX87244.1;gbkey=CDS;locus_tag=KAB05_03912;product=hypothetical protein;protein_id=AOX87244.1;transl_table=11
+CP017651.1	Genbank	gene	15873	16151	.	-	.	ID=gene-KAB05_03913;Name=KAB05_03913;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03913
+CP017651.1	Genbank	CDS	15873	16151	.	-	0	ID=cds-AOX87245.1;Parent=gene-KAB05_03913;Dbxref=NCBI_GP:AOX87245.1;Name=AOX87245.1;gbkey=CDS;locus_tag=KAB05_03913;product=hypothetical protein;protein_id=AOX87245.1;transl_table=11
+CP017651.1	Genbank	gene	16166	16615	.	-	.	ID=gene-KAB05_03914;Name=KAB05_03914;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03914
+CP017651.1	Genbank	CDS	16166	16615	.	-	0	ID=cds-AOX87246.1;Parent=gene-KAB05_03914;Dbxref=NCBI_GP:AOX87246.1;Name=AOX87246.1;gbkey=CDS;locus_tag=KAB05_03914;product=hypothetical protein;protein_id=AOX87246.1;transl_table=11
+CP017651.1	Genbank	gene	16841	17038	.	-	.	ID=gene-KAB05_03915;Name=KAB05_03915;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03915
+CP017651.1	Genbank	CDS	16841	17038	.	-	0	ID=cds-AOX87247.1;Parent=gene-KAB05_03915;Dbxref=NCBI_GP:AOX87247.1;Name=AOX87247.1;gbkey=CDS;locus_tag=KAB05_03915;product=hypothetical protein;protein_id=AOX87247.1;transl_table=11
+CP017651.1	Genbank	gene	17181	17840	.	-	.	ID=gene-KAB05_03916;Name=KAB05_03916;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03916
+CP017651.1	Genbank	CDS	17181	17840	.	-	0	ID=cds-AOX87248.1;Parent=gene-KAB05_03916;Dbxref=NCBI_GP:AOX87248.1;Name=AOX87248.1;gbkey=CDS;locus_tag=KAB05_03916;product=hypothetical protein;protein_id=AOX87248.1;transl_table=11
+CP017651.1	Genbank	gene	18097	18735	.	+	.	ID=gene-KAB05_03917;Name=KAB05_03917;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03917
+CP017651.1	Genbank	CDS	18097	18735	.	+	0	ID=cds-AOX87249.1;Parent=gene-KAB05_03917;Dbxref=NCBI_GP:AOX87249.1;Name=AOX87249.1;gbkey=CDS;locus_tag=KAB05_03917;product=hypothetical protein;protein_id=AOX87249.1;transl_table=11
+CP017651.1	Genbank	gene	18777	19208	.	-	.	ID=gene-KAB05_03918;Name=KAB05_03918;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03918
+CP017651.1	Genbank	CDS	18777	19208	.	-	0	ID=cds-AOX87250.1;Parent=gene-KAB05_03918;Dbxref=NCBI_GP:AOX87250.1;Name=AOX87250.1;gbkey=CDS;locus_tag=KAB05_03918;product=Putative membrane protein;protein_id=AOX87250.1;transl_table=11
+CP017651.1	Genbank	gene	19234	19569	.	-	.	ID=gene-KAB05_03919;Name=KAB05_03919;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03919
+CP017651.1	Genbank	CDS	19234	19569	.	-	0	ID=cds-AOX87251.1;Parent=gene-KAB05_03919;Dbxref=NCBI_GP:AOX87251.1;Name=AOX87251.1;gbkey=CDS;locus_tag=KAB05_03919;product=hypothetical protein;protein_id=AOX87251.1;transl_table=11
+CP017651.1	Genbank	gene	19800	20426	.	+	.	ID=gene-KAB05_03920;Name=KAB05_03920;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03920
+CP017651.1	Genbank	CDS	19800	20426	.	+	0	ID=cds-AOX87252.1;Parent=gene-KAB05_03920;Dbxref=NCBI_GP:AOX87252.1;Name=AOX87252.1;gbkey=CDS;locus_tag=KAB05_03920;product=Murein transglycosylase;protein_id=AOX87252.1;transl_table=11
+CP017651.1	Genbank	gene	20443	20679	.	+	.	ID=gene-KAB05_03921;Name=KAB05_03921;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03921
+CP017651.1	Genbank	CDS	20443	20679	.	+	0	ID=cds-AOX87253.1;Parent=gene-KAB05_03921;Dbxref=NCBI_GP:AOX87253.1;Name=AOX87253.1;gbkey=CDS;locus_tag=KAB05_03921;product=hypothetical protein;protein_id=AOX87253.1;transl_table=11
+CP017651.1	Genbank	gene	20730	21083	.	+	.	ID=gene-KAB05_03922;Name=KAB05_03922;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03922
+CP017651.1	Genbank	CDS	20730	21083	.	+	0	ID=cds-AOX87254.1;Parent=gene-KAB05_03922;Dbxref=NCBI_GP:AOX87254.1;Name=AOX87254.1;gbkey=CDS;locus_tag=KAB05_03922;product=hypothetical protein;protein_id=AOX87254.1;transl_table=11
+CP017651.1	Genbank	gene	21105	21398	.	+	.	ID=gene-KAB05_03923;Name=traL;gbkey=Gene;gene=traL;gene_biotype=protein_coding;locus_tag=KAB05_03923
+CP017651.1	Genbank	CDS	21105	21398	.	+	0	ID=cds-AOX87255.1;Parent=gene-KAB05_03923;Dbxref=NCBI_GP:AOX87255.1;Name=AOX87255.1;gbkey=CDS;gene=traL;locus_tag=KAB05_03923;product=Type IV conjugative transfer system protein TraL;protein_id=AOX87255.1;transl_table=11
+CP017651.1	Genbank	gene	21403	21981	.	+	.	ID=gene-KAB05_03924;Name=traE;gbkey=Gene;gene=traE;gene_biotype=protein_coding;locus_tag=KAB05_03924
+CP017651.1	Genbank	CDS	21403	21981	.	+	0	ID=cds-AOX87256.1;Parent=gene-KAB05_03924;Dbxref=NCBI_GP:AOX87256.1;Name=AOX87256.1;gbkey=CDS;gene=traE;locus_tag=KAB05_03924;product=Conjugal transfer protein TraE;protein_id=AOX87256.1;transl_table=11
+CP017651.1	Genbank	gene	21962	22684	.	+	.	ID=gene-KAB05_03925;Name=KAB05_03925;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03925
+CP017651.1	Genbank	CDS	21962	22684	.	+	0	ID=cds-AOX87257.1;Parent=gene-KAB05_03925;Dbxref=NCBI_GP:AOX87257.1;Name=AOX87257.1;gbkey=CDS;locus_tag=KAB05_03925;product=Putative type-F conjugative transfer system secretin TraK;protein_id=AOX87257.1;transl_table=11
+CP017651.1	Genbank	gene	22694	23110	.	+	.	ID=gene-KAB05_03926;Name=KAB05_03926;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03926
+CP017651.1	Genbank	CDS	22694	23110	.	+	0	ID=cds-AOX87258.1;Parent=gene-KAB05_03926;Dbxref=NCBI_GP:AOX87258.1;Name=AOX87258.1;gbkey=CDS;locus_tag=KAB05_03926;product=Bacterial conjugation TrbI-like protein;protein_id=AOX87258.1;transl_table=11
+CP017651.1	Genbank	gene	23146	24009	.	+	.	ID=gene-KAB05_03927;Name=KAB05_03927;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03927
+CP017651.1	Genbank	CDS	23146	24009	.	+	0	ID=cds-AOX87259.1;Parent=gene-KAB05_03927;Dbxref=NCBI_GP:AOX87259.1;Name=AOX87259.1;gbkey=CDS;locus_tag=KAB05_03927;product=Bacterial conjugation TrbI-like family protein;protein_id=AOX87259.1;transl_table=11
+CP017651.1	Genbank	gene	24011	24733	.	+	.	ID=gene-KAB05_03928;Name=KAB05_03928;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03928
+CP017651.1	Genbank	CDS	24011	24733	.	+	0	ID=cds-AOX87260.1;Parent=gene-KAB05_03928;Dbxref=NCBI_GP:AOX87260.1;Name=AOX87260.1;gbkey=CDS;locus_tag=KAB05_03928;product=hypothetical protein;protein_id=AOX87260.1;transl_table=11
+CP017651.1	Genbank	gene	24776	25036	.	+	.	ID=gene-KAB05_03929;Name=KAB05_03929;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03929
+CP017651.1	Genbank	CDS	24776	25036	.	+	0	ID=cds-AOX87261.1;Parent=gene-KAB05_03929;Dbxref=NCBI_GP:AOX87261.1;Name=AOX87261.1;gbkey=CDS;locus_tag=KAB05_03929;product=hypothetical protein;protein_id=AOX87261.1;transl_table=11
+CP017651.1	Genbank	gene	25037	25681	.	+	.	ID=gene-KAB05_03930;Name=traV;gbkey=Gene;gene=traV;gene_biotype=protein_coding;locus_tag=KAB05_03930
+CP017651.1	Genbank	CDS	25037	25681	.	+	0	ID=cds-AOX87262.1;Parent=gene-KAB05_03930;Dbxref=NCBI_GP:AOX87262.1;Name=AOX87262.1;gbkey=CDS;gene=traV;locus_tag=KAB05_03930;product=Type IV conjugative transfer system protein TraV;protein_id=AOX87262.1;transl_table=11
+CP017651.1	Genbank	gene	25691	28417	.	+	.	ID=gene-KAB05_03931;Name=traC;gbkey=Gene;gene=traC;gene_biotype=protein_coding;locus_tag=KAB05_03931
+CP017651.1	Genbank	CDS	25691	28417	.	+	0	ID=cds-AOX87263.1;Parent=gene-KAB05_03931;Dbxref=NCBI_GP:AOX87263.1;Name=AOX87263.1;gbkey=CDS;gene=traC;locus_tag=KAB05_03931;product=Type-IV secretion system protein TraC;protein_id=AOX87263.1;transl_table=11
+CP017651.1	Genbank	gene	28414	28809	.	+	.	ID=gene-KAB05_03932;Name=KAB05_03932;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03932
+CP017651.1	Genbank	CDS	28414	28809	.	+	0	ID=cds-AOX87264.1;Parent=gene-KAB05_03932;Dbxref=NCBI_GP:AOX87264.1;Name=AOX87264.1;gbkey=CDS;locus_tag=KAB05_03932;product=hypothetical protein;protein_id=AOX87264.1;transl_table=11
+CP017651.1	Genbank	gene	28857	29357	.	+	.	ID=gene-KAB05_03933;Name=lepB;gbkey=Gene;gene=lepB;gene_biotype=protein_coding;locus_tag=KAB05_03933
+CP017651.1	Genbank	CDS	28857	29357	.	+	0	ID=cds-AOX87265.1;Parent=gene-KAB05_03933;Dbxref=NCBI_GP:AOX87265.1;Name=AOX87265.1;gbkey=CDS;gene=lepB;locus_tag=KAB05_03933;product=Signal peptidase I;protein_id=AOX87265.1;transl_table=11
+CP017651.1	Genbank	gene	29344	29982	.	+	.	ID=gene-KAB05_03934;Name=traW;gbkey=Gene;gene=traW;gene_biotype=protein_coding;locus_tag=KAB05_03934
+CP017651.1	Genbank	CDS	29344	29982	.	+	0	ID=cds-AOX87266.1;Parent=gene-KAB05_03934;Dbxref=NCBI_GP:AOX87266.1;Name=AOX87266.1;gbkey=CDS;gene=traW;locus_tag=KAB05_03934;product=Type-F conjugative transfer system protein TraW;protein_id=AOX87266.1;transl_table=11
+CP017651.1	Genbank	gene	29979	31022	.	+	.	ID=gene-KAB05_03935;Name=KAB05_03935;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03935
+CP017651.1	Genbank	CDS	29979	31022	.	+	0	ID=cds-AOX87267.1;Parent=gene-KAB05_03935;Dbxref=NCBI_GP:AOX87267.1;Name=AOX87267.1;gbkey=CDS;locus_tag=KAB05_03935;product=TraU protein;protein_id=AOX87267.1;transl_table=11
+CP017651.1	Genbank	gene	31037	31744	.	+	.	ID=gene-KAB05_03936;Name=KAB05_03936;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03936
+CP017651.1	Genbank	CDS	31037	31744	.	+	0	ID=cds-AOX87268.1;Parent=gene-KAB05_03936;Dbxref=NCBI_GP:AOX87268.1;Name=AOX87268.1;gbkey=CDS;locus_tag=KAB05_03936;product=Putative TrbC;protein_id=AOX87268.1;transl_table=11
+CP017651.1	Genbank	gene	31741	32634	.	+	.	ID=gene-KAB05_03937;Name=traN;gbkey=Gene;gene=traN;gene_biotype=protein_coding;locus_tag=KAB05_03937
+CP017651.1	Genbank	CDS	31741	32634	.	+	0	ID=cds-AOX87269.1;Parent=gene-KAB05_03937;Dbxref=NCBI_GP:AOX87269.1;Name=AOX87269.1;gbkey=CDS;gene=traN;locus_tag=KAB05_03937;product=Conjugal transfer protein TraN;protein_id=AOX87269.1;transl_table=11
+CP017651.1	Genbank	gene	32625	33797	.	+	.	ID=gene-KAB05_03938;Name=traN;gbkey=Gene;gene=traN;gene_biotype=protein_coding;locus_tag=KAB05_03938
+CP017651.1	Genbank	CDS	32625	33797	.	+	0	ID=cds-AOX87270.1;Parent=gene-KAB05_03938;Dbxref=NCBI_GP:AOX87270.1;Name=AOX87270.1;gbkey=CDS;gene=traN;locus_tag=KAB05_03938;product=Conjugal transfer protein TraN;protein_id=AOX87270.1;transl_table=11
+CP017651.1	Genbank	gene	33790	34602	.	+	.	ID=gene-KAB05_03939;Name=KAB05_03939;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03939
+CP017651.1	Genbank	CDS	33790	34602	.	+	0	ID=cds-AOX87271.1;Parent=gene-KAB05_03939;Dbxref=NCBI_GP:AOX87271.1;Name=AOX87271.1;gbkey=CDS;locus_tag=KAB05_03939;product=Putative TraF-like protein;protein_id=AOX87271.1;transl_table=11
+CP017651.1	Genbank	gene	34637	34966	.	+	.	ID=gene-KAB05_03940;Name=KAB05_03940;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03940
+CP017651.1	Genbank	CDS	34637	34966	.	+	0	ID=cds-AOX87272.1;Parent=gene-KAB05_03940;Dbxref=NCBI_GP:AOX87272.1;Name=AOX87272.1;gbkey=CDS;locus_tag=KAB05_03940;product=hypothetical protein;protein_id=AOX87272.1;transl_table=11
+CP017651.1	Genbank	gene	35000	36427	.	+	.	ID=gene-KAB05_03941;Name=KAB05_03941;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03941
+CP017651.1	Genbank	CDS	35000	36427	.	+	0	ID=cds-AOX87273.1;Parent=gene-KAB05_03941;Dbxref=NCBI_GP:AOX87273.1;Name=AOX87273.1;gbkey=CDS;locus_tag=KAB05_03941;product=Conjugative relaxosome accessory transposon protein;protein_id=AOX87273.1;transl_table=11
+CP017651.1	Genbank	gene	36443	39445	.	+	.	ID=gene-KAB05_03942;Name=KAB05_03942;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03942
+CP017651.1	Genbank	CDS	36443	39445	.	+	0	ID=cds-AOX87274.1;Parent=gene-KAB05_03942;Dbxref=NCBI_GP:AOX87274.1;Name=AOX87274.1;gbkey=CDS;locus_tag=KAB05_03942;product=Putative TraG;protein_id=AOX87274.1;transl_table=11
+CP017651.1	Genbank	gene	39517	40035	.	+	.	ID=gene-KAB05_03943;Name=KAB05_03943;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03943
+CP017651.1	Genbank	CDS	39517	40035	.	+	0	ID=cds-AOX87275.1;Parent=gene-KAB05_03943;Dbxref=NCBI_GP:AOX87275.1;Name=AOX87275.1;gbkey=CDS;locus_tag=KAB05_03943;product=Transglycosylase SLT domain protein;protein_id=AOX87275.1;transl_table=11
+CP017651.1	Genbank	gene	40067	41059	.	-	.	ID=gene-KAB05_03944;Name=KAB05_03944;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03944
+CP017651.1	Genbank	CDS	40067	41059	.	-	0	ID=cds-AOX87276.1;Parent=gene-KAB05_03944;Dbxref=NCBI_GP:AOX87276.1;Name=AOX87276.1;gbkey=CDS;locus_tag=KAB05_03944;product=hypothetical protein;protein_id=AOX87276.1;transl_table=11
+CP017651.1	Genbank	gene	41225	42517	.	+	.	ID=gene-KAB05_03945;Name=KAB05_03945;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03945
+CP017651.1	Genbank	CDS	41225	42517	.	+	0	ID=cds-AOX87277.1;Parent=gene-KAB05_03945;Dbxref=NCBI_GP:AOX87277.1;Name=AOX87277.1;gbkey=CDS;locus_tag=KAB05_03945;product=Nucleotidyltransferase/DNA polymerase involved in DNA repair;protein_id=AOX87277.1;transl_table=11
+CP017651.1	Genbank	gene	42532	42816	.	-	.	ID=gene-KAB05_03946;Name=KAB05_03946;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03946
+CP017651.1	Genbank	CDS	42532	42816	.	-	0	ID=cds-AOX87278.1;Parent=gene-KAB05_03946;Dbxref=NCBI_GP:AOX87278.1;Name=AOX87278.1;gbkey=CDS;locus_tag=KAB05_03946;product=hypothetical protein;protein_id=AOX87278.1;transl_table=11
+CP017651.1	Genbank	gene	42842	43069	.	-	.	ID=gene-KAB05_03947;Name=KAB05_03947;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03947
+CP017651.1	Genbank	CDS	42842	43069	.	-	0	ID=cds-AOX87279.1;Parent=gene-KAB05_03947;Dbxref=NCBI_GP:AOX87279.1;Name=AOX87279.1;gbkey=CDS;locus_tag=KAB05_03947;product=hypothetical protein;protein_id=AOX87279.1;transl_table=11
+CP017651.1	Genbank	gene	43342	44367	.	+	.	ID=gene-KAB05_03948;Name=KAB05_03948;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03948
+CP017651.1	Genbank	CDS	43342	44367	.	+	0	ID=cds-AOX87280.1;Parent=gene-KAB05_03948;Dbxref=NCBI_GP:AOX87280.1;Name=AOX87280.1;gbkey=CDS;locus_tag=KAB05_03948;product=hypothetical protein;protein_id=AOX87280.1;transl_table=11
+CP017651.1	Genbank	gene	44529	45032	.	-	.	ID=gene-KAB05_03949;Name=KAB05_03949;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03949
+CP017651.1	Genbank	CDS	44529	45032	.	-	0	ID=cds-AOX87281.1;Parent=gene-KAB05_03949;Dbxref=NCBI_GP:AOX87281.1;Name=AOX87281.1;gbkey=CDS;locus_tag=KAB05_03949;product=hypothetical protein;protein_id=AOX87281.1;transl_table=11
+CP017651.1	Genbank	gene	45070	45735	.	-	.	ID=gene-KAB05_03950;Name=KAB05_03950;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03950
+CP017651.1	Genbank	CDS	45070	45735	.	-	0	ID=cds-AOX87282.1;Parent=gene-KAB05_03950;Dbxref=NCBI_GP:AOX87282.1;Name=AOX87282.1;gbkey=CDS;locus_tag=KAB05_03950;product=hypothetical protein;protein_id=AOX87282.1;transl_table=11
+CP017651.1	Genbank	gene	45777	46028	.	-	.	ID=gene-KAB05_03951;Name=KAB05_03951;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03951
+CP017651.1	Genbank	CDS	45777	46028	.	-	0	ID=cds-AOX87283.1;Parent=gene-KAB05_03951;Dbxref=NCBI_GP:AOX87283.1;Name=AOX87283.1;gbkey=CDS;locus_tag=KAB05_03951;product=hypothetical protein;protein_id=AOX87283.1;transl_table=11
+CP017651.1	Genbank	gene	46096	46329	.	-	.	ID=gene-KAB05_03952;Name=KAB05_03952;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03952
+CP017651.1	Genbank	CDS	46096	46329	.	-	0	ID=cds-AOX87284.1;Parent=gene-KAB05_03952;Dbxref=NCBI_GP:AOX87284.1;Name=AOX87284.1;gbkey=CDS;locus_tag=KAB05_03952;product=hypothetical protein;protein_id=AOX87284.1;transl_table=11
+CP017651.1	Genbank	gene	46818	47993	.	+	.	ID=gene-KAB05_03953;Name=repA;gbkey=Gene;gene=repA;gene_biotype=protein_coding;locus_tag=KAB05_03953
+CP017651.1	Genbank	CDS	46818	47993	.	+	0	ID=cds-AOX87285.1;Parent=gene-KAB05_03953;Dbxref=NCBI_GP:AOX87285.1;Name=AOX87285.1;gbkey=CDS;gene=repA;locus_tag=KAB05_03953;product=RepA;protein_id=AOX87285.1;transl_table=11
+CP017651.1	Genbank	gene	48291	49373	.	+	.	ID=gene-KAB05_03954;Name=KAB05_03954;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03954
+CP017651.1	Genbank	CDS	48291	49373	.	+	0	ID=cds-AOX87286.1;Parent=gene-KAB05_03954;Dbxref=NCBI_GP:AOX87286.1;Name=AOX87286.1;gbkey=CDS;locus_tag=KAB05_03954;product=Toxin;protein_id=AOX87286.1;transl_table=11
+CP017651.1	Genbank	gene	49389	50654	.	+	.	ID=gene-KAB05_03955;Name=KAB05_03955;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03955
+CP017651.1	Genbank	CDS	49389	50654	.	+	0	ID=cds-AOX87287.1;Parent=gene-KAB05_03955;Dbxref=NCBI_GP:AOX87287.1;Name=AOX87287.1;gbkey=CDS;locus_tag=KAB05_03955;product=hypothetical protein;protein_id=AOX87287.1;transl_table=11
+CP017651.1	Genbank	gene	50620	51144	.	+	.	ID=gene-KAB05_03956;Name=KAB05_03956;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03956
+CP017651.1	Genbank	CDS	50620	51144	.	+	0	ID=cds-AOX87288.1;Parent=gene-KAB05_03956;Dbxref=NCBI_GP:AOX87288.1;Name=AOX87288.1;gbkey=CDS;locus_tag=KAB05_03956;product=hypothetical protein;protein_id=AOX87288.1;transl_table=11
+CP017651.1	Genbank	gene	51190	51570	.	+	.	ID=gene-KAB05_03957;Name=KAB05_03957;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03957
+CP017651.1	Genbank	CDS	51190	51570	.	+	0	ID=cds-AOX87289.1;Parent=gene-KAB05_03957;Dbxref=NCBI_GP:AOX87289.1;Name=AOX87289.1;gbkey=CDS;locus_tag=KAB05_03957;product=hypothetical protein;protein_id=AOX87289.1;transl_table=11
+CP017651.1	Genbank	gene	51724	52098	.	+	.	ID=gene-KAB05_03958;Name=KAB05_03958;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03958
+CP017651.1	Genbank	CDS	51724	52098	.	+	0	ID=cds-AOX87290.1;Parent=gene-KAB05_03958;Dbxref=NCBI_GP:AOX87290.1;Name=AOX87290.1;gbkey=CDS;locus_tag=KAB05_03958;product=hypothetical protein;protein_id=AOX87290.1;transl_table=11
+CP017651.1	Genbank	gene	52270	52866	.	+	.	ID=gene-KAB05_03959;Name=KAB05_03959;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03959
+CP017651.1	Genbank	CDS	52270	52866	.	+	0	ID=cds-AOX87291.1;Parent=gene-KAB05_03959;Dbxref=NCBI_GP:AOX87291.1;Name=AOX87291.1;gbkey=CDS;locus_tag=KAB05_03959;product=hypothetical protein;protein_id=AOX87291.1;transl_table=11
+CP017651.1	Genbank	gene	52872	53063	.	+	.	ID=gene-KAB05_03960;Name=KAB05_03960;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03960
+CP017651.1	Genbank	CDS	52872	53063	.	+	0	ID=cds-AOX87292.1;Parent=gene-KAB05_03960;Dbxref=NCBI_GP:AOX87292.1;Name=AOX87292.1;gbkey=CDS;locus_tag=KAB05_03960;product=hypothetical protein;protein_id=AOX87292.1;transl_table=11
+CP017651.1	Genbank	gene	53085	53252	.	+	.	ID=gene-KAB05_03961;Name=KAB05_03961;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03961
+CP017651.1	Genbank	CDS	53085	53252	.	+	0	ID=cds-AOX87293.1;Parent=gene-KAB05_03961;Dbxref=NCBI_GP:AOX87293.1;Name=AOX87293.1;gbkey=CDS;locus_tag=KAB05_03961;product=hypothetical protein;protein_id=AOX87293.1;transl_table=11
+CP017651.1	Genbank	gene	53282	53497	.	+	.	ID=gene-KAB05_03962;Name=KAB05_03962;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03962
+CP017651.1	Genbank	CDS	53282	53497	.	+	0	ID=cds-AOX87294.1;Parent=gene-KAB05_03962;Dbxref=NCBI_GP:AOX87294.1;Name=AOX87294.1;gbkey=CDS;locus_tag=KAB05_03962;product=hypothetical protein;protein_id=AOX87294.1;transl_table=11
+CP017651.1	Genbank	gene	53502	53978	.	+	.	ID=gene-KAB05_03963;Name=KAB05_03963;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03963
+CP017651.1	Genbank	CDS	53502	53978	.	+	0	ID=cds-AOX87295.1;Parent=gene-KAB05_03963;Dbxref=NCBI_GP:AOX87295.1;Name=AOX87295.1;gbkey=CDS;locus_tag=KAB05_03963;product=Nuclease;protein_id=AOX87295.1;transl_table=11
+CP017651.1	Genbank	gene	54044	54370	.	+	.	ID=gene-KAB05_03964;Name=KAB05_03964;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03964
+CP017651.1	Genbank	CDS	54044	54370	.	+	0	ID=cds-AOX87296.1;Parent=gene-KAB05_03964;Dbxref=NCBI_GP:AOX87296.1;Name=AOX87296.1;gbkey=CDS;locus_tag=KAB05_03964;product=DNA-binding protein;protein_id=AOX87296.1;transl_table=11
+CP017651.1	Genbank	gene	54383	54571	.	+	.	ID=gene-KAB05_03965;Name=KAB05_03965;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03965
+CP017651.1	Genbank	CDS	54383	54571	.	+	0	ID=cds-AOX87297.1;Parent=gene-KAB05_03965;Dbxref=NCBI_GP:AOX87297.1;Name=AOX87297.1;gbkey=CDS;locus_tag=KAB05_03965;product=hypothetical protein;protein_id=AOX87297.1;transl_table=11
+CP017651.1	Genbank	gene	54674	55009	.	+	.	ID=gene-KAB05_03966;Name=KAB05_03966;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03966
+CP017651.1	Genbank	CDS	54674	55009	.	+	0	ID=cds-AOX87298.1;Parent=gene-KAB05_03966;Dbxref=NCBI_GP:AOX87298.1;Name=AOX87298.1;gbkey=CDS;locus_tag=KAB05_03966;product=hypothetical protein;protein_id=AOX87298.1;transl_table=11
+CP017651.1	Genbank	gene	54993	55436	.	+	.	ID=gene-KAB05_03967;Name=KAB05_03967;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03967
+CP017651.1	Genbank	CDS	54993	55436	.	+	0	ID=cds-AOX87299.1;Parent=gene-KAB05_03967;Dbxref=NCBI_GP:AOX87299.1;Name=AOX87299.1;gbkey=CDS;locus_tag=KAB05_03967;product=hypothetical protein;protein_id=AOX87299.1;transl_table=11
+CP017651.1	Genbank	gene	55527	56216	.	+	.	ID=gene-KAB05_03968;Name=KAB05_03968;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03968
+CP017651.1	Genbank	CDS	55527	56216	.	+	0	ID=cds-AOX87300.1;Parent=gene-KAB05_03968;Dbxref=NCBI_GP:AOX87300.1;Name=AOX87300.1;gbkey=CDS;locus_tag=KAB05_03968;product=hypothetical protein;protein_id=AOX87300.1;transl_table=11
+CP017651.1	Genbank	gene	56221	56457	.	+	.	ID=gene-KAB05_03969;Name=KAB05_03969;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03969
+CP017651.1	Genbank	CDS	56221	56457	.	+	0	ID=cds-AOX87301.1;Parent=gene-KAB05_03969;Dbxref=NCBI_GP:AOX87301.1;Name=AOX87301.1;gbkey=CDS;locus_tag=KAB05_03969;product=hypothetical protein;protein_id=AOX87301.1;transl_table=11
+CP017651.1	Genbank	gene	56463	56669	.	-	.	ID=gene-KAB05_03970;Name=KAB05_03970;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03970
+CP017651.1	Genbank	CDS	56463	56669	.	-	0	ID=cds-AOX87302.1;Parent=gene-KAB05_03970;Dbxref=NCBI_GP:AOX87302.1;Name=AOX87302.1;gbkey=CDS;locus_tag=KAB05_03970;product=hypothetical protein;protein_id=AOX87302.1;transl_table=11
+CP017651.1	Genbank	gene	57182	58273	.	+	.	ID=gene-KAB05_03971;Name=KAB05_03971;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03971
+CP017651.1	Genbank	CDS	57182	58273	.	+	0	ID=cds-AOX87303.1;Parent=gene-KAB05_03971;Dbxref=NCBI_GP:AOX87303.1;Name=AOX87303.1;gbkey=CDS;locus_tag=KAB05_03971;product=hypothetical protein;protein_id=AOX87303.1;transl_table=11
+CP017651.1	Genbank	gene	58313	59104	.	+	.	ID=gene-KAB05_03972;Name=KAB05_03972;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03972
+CP017651.1	Genbank	CDS	58313	59104	.	+	0	ID=cds-AOX87304.1;Parent=gene-KAB05_03972;Dbxref=NCBI_GP:AOX87304.1;Name=AOX87304.1;gbkey=CDS;locus_tag=KAB05_03972;product=hypothetical protein;protein_id=AOX87304.1;transl_table=11
+CP017651.1	Genbank	gene	59585	60082	.	+	.	ID=gene-KAB05_03973;Name=KAB05_03973;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03973
+CP017651.1	Genbank	CDS	59585	60082	.	+	0	ID=cds-AOX87305.1;Parent=gene-KAB05_03973;Dbxref=NCBI_GP:AOX87305.1;Name=AOX87305.1;gbkey=CDS;locus_tag=KAB05_03973;product=hypothetical protein;protein_id=AOX87305.1;transl_table=11
+CP017651.1	Genbank	gene	60111	60887	.	+	.	ID=gene-KAB05_03974;Name=KAB05_03974;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03974
+CP017651.1	Genbank	CDS	60111	60887	.	+	0	ID=cds-AOX87306.1;Parent=gene-KAB05_03974;Dbxref=NCBI_GP:AOX87306.1;Name=AOX87306.1;gbkey=CDS;locus_tag=KAB05_03974;product=hypothetical protein;protein_id=AOX87306.1;transl_table=11
+CP017651.1	Genbank	gene	61079	61852	.	+	.	ID=gene-KAB05_03975;Name=KAB05_03975;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03975
+CP017651.1	Genbank	CDS	61079	61852	.	+	0	ID=cds-AOX87307.1;Parent=gene-KAB05_03975;Dbxref=NCBI_GP:AOX87307.1;Name=AOX87307.1;gbkey=CDS;locus_tag=KAB05_03975;product=CobQ/CobB/MinD/ParA nucleotide binding domain protein;protein_id=AOX87307.1;transl_table=11
+CP017651.1	Genbank	gene	61856	63112	.	+	.	ID=gene-KAB05_03976;Name=KAB05_03976;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03976
+CP017651.1	Genbank	CDS	61856	63112	.	+	0	ID=cds-AOX87308.1;Parent=gene-KAB05_03976;Dbxref=NCBI_GP:AOX87308.1;Name=AOX87308.1;gbkey=CDS;locus_tag=KAB05_03976;product=ParB-like protein;protein_id=AOX87308.1;transl_table=11
+CP017651.1	Genbank	gene	63248	64477	.	+	.	ID=gene-KAB05_03977;Name=KAB05_03977;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03977
+CP017651.1	Genbank	CDS	63248	64477	.	+	0	ID=cds-AOX87309.1;Parent=gene-KAB05_03977;Dbxref=NCBI_GP:AOX87309.1;Name=AOX87309.1;gbkey=CDS;locus_tag=KAB05_03977;product=hypothetical protein;protein_id=AOX87309.1;transl_table=11
+CP017651.1	Genbank	gene	64492	64725	.	+	.	ID=gene-KAB05_03978;Name=KAB05_03978;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03978
+CP017651.1	Genbank	CDS	64492	64725	.	+	0	ID=cds-AOX87310.1;Parent=gene-KAB05_03978;Dbxref=NCBI_GP:AOX87310.1;Name=AOX87310.1;gbkey=CDS;locus_tag=KAB05_03978;product=hypothetical protein;protein_id=AOX87310.1;transl_table=11
+CP017651.1	Genbank	gene	64764	65033	.	+	.	ID=gene-KAB05_03979;Name=KAB05_03979;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03979
+CP017651.1	Genbank	CDS	64764	65033	.	+	0	ID=cds-AOX87311.1;Parent=gene-KAB05_03979;Dbxref=NCBI_GP:AOX87311.1;Name=AOX87311.1;gbkey=CDS;locus_tag=KAB05_03979;product=hypothetical protein;protein_id=AOX87311.1;transl_table=11
+CP017651.1	Genbank	gene	65074	66177	.	+	.	ID=gene-KAB05_03980;Name=KAB05_03980;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03980
+CP017651.1	Genbank	CDS	65074	66177	.	+	0	ID=cds-AOX87312.1;Parent=gene-KAB05_03980;Dbxref=NCBI_GP:AOX87312.1;Name=AOX87312.1;gbkey=CDS;locus_tag=KAB05_03980;product=Toxic anion resistance protein TelA;protein_id=AOX87312.1;transl_table=11
+CP017651.1	Genbank	gene	66190	67470	.	+	.	ID=gene-KAB05_03981;Name=KAB05_03981;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03981
+CP017651.1	Genbank	CDS	66190	67470	.	+	0	ID=cds-AOX87313.1;Parent=gene-KAB05_03981;Dbxref=NCBI_GP:AOX87313.1;Name=AOX87313.1;gbkey=CDS;locus_tag=KAB05_03981;product=hypothetical protein;protein_id=AOX87313.1;transl_table=11
+CP017651.1	Genbank	gene	67575	67832	.	+	.	ID=gene-KAB05_03982;Name=KAB05_03982;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03982
+CP017651.1	Genbank	CDS	67575	67832	.	+	0	ID=cds-AOX87314.1;Parent=gene-KAB05_03982;Dbxref=NCBI_GP:AOX87314.1;Name=AOX87314.1;gbkey=CDS;locus_tag=KAB05_03982;product=hypothetical protein;protein_id=AOX87314.1;transl_table=11
+CP017651.1	Genbank	gene	67837	68409	.	+	.	ID=gene-KAB05_03983;Name=KAB05_03983;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03983
+CP017651.1	Genbank	CDS	67837	68409	.	+	0	ID=cds-AOX87315.1;Parent=gene-KAB05_03983;Dbxref=NCBI_GP:AOX87315.1;Name=AOX87315.1;gbkey=CDS;locus_tag=KAB05_03983;product=hypothetical protein;protein_id=AOX87315.1;transl_table=11
+CP017651.1	Genbank	gene	68385	68564	.	+	.	ID=gene-KAB05_03984;Name=KAB05_03984;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03984
+CP017651.1	Genbank	CDS	68385	68564	.	+	0	ID=cds-AOX87316.1;Parent=gene-KAB05_03984;Dbxref=NCBI_GP:AOX87316.1;Name=AOX87316.1;gbkey=CDS;locus_tag=KAB05_03984;product=hypothetical protein;protein_id=AOX87316.1;transl_table=11
+CP017651.1	Genbank	gene	68581	69210	.	+	.	ID=gene-KAB05_03985;Name=KAB05_03985;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03985
+CP017651.1	Genbank	CDS	68581	69210	.	+	0	ID=cds-AOX87317.1;Parent=gene-KAB05_03985;Dbxref=NCBI_GP:AOX87317.1;Name=AOX87317.1;gbkey=CDS;locus_tag=KAB05_03985;product=hypothetical protein;protein_id=AOX87317.1;transl_table=11
+CP017651.1	Genbank	gene	69250	69759	.	+	.	ID=gene-KAB05_03986;Name=KAB05_03986;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03986
+CP017651.1	Genbank	CDS	69250	69759	.	+	0	ID=cds-AOX87318.1;Parent=gene-KAB05_03986;Dbxref=NCBI_GP:AOX87318.1;Name=AOX87318.1;gbkey=CDS;locus_tag=KAB05_03986;product=hypothetical protein;protein_id=AOX87318.1;transl_table=11
+CP017651.1	Genbank	gene	69828	70394	.	+	.	ID=gene-KAB05_03987;Name=KAB05_03987;gbkey=Gene;gene_biotype=protein_coding;locus_tag=KAB05_03987
+CP017651.1	Genbank	CDS	69828	70394	.	+	0	ID=cds-AOX87319.1;Parent=gene-KAB05_03987;Dbxref=NCBI_GP:AOX87319.1;Name=AOX87319.1;gbkey=CDS;locus_tag=KAB05_03987;product=hypothetical protein;protein_id=AOX87319.1;transl_table=11
+

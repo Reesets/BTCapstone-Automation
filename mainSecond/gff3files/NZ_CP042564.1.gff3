@@ -1,0 +1,10 @@
+##sequence-region NZ_CP042564.1 1 3065
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_CP042564.1	RefSeq	region	1	3065	.	+	.	ID=NZ_CP042564.1:1..3065;Dbxref=taxon:470;Is_circular=true;Name=pE47_008;collected-by=Concord Repatriation Hospital Sydney Australia;collection-date=08-Feb-2013;country=Australia: Sydney;gbkey=Src;genome=plasmid;isolation-source=Room 7;mol_type=genomic DNA;plasmid-name=pE47_008;strain=E47
+NZ_CP042564.1	RefSeq	gene	841	1974	.	-	.	ID=gene-FR761_RS20780;Name=FR761_RS20780;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_RS20780;old_locus_tag=FR761_20780
+NZ_CP042564.1	Protein Homology	CDS	841	1974	.	-	0	ID=cds-WP_005080191.1;Parent=gene-FR761_RS20780;Dbxref=Genbank:WP_005080191.1;Name=WP_005080191.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005080191.1;locus_tag=FR761_RS20780;product=plasmid recombination protein;protein_id=WP_005080191.1;transl_table=11
+NZ_CP042564.1	RefSeq	gene	2126	2317	.	-	.	ID=gene-FR761_RS20785;Name=FR761_RS20785;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_RS20785;old_locus_tag=FR761_20785
+NZ_CP042564.1	Protein Homology	CDS	2126	2317	.	-	0	ID=cds-WP_005080189.1;Parent=gene-FR761_RS20785;Dbxref=Genbank:WP_005080189.1;Name=WP_005080189.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005080189.1;locus_tag=FR761_RS20785;product=hypothetical protein;protein_id=WP_005080189.1;transl_table=11
+NZ_CP042564.1	RefSeq	gene	2314	3252	.	-	.	ID=gene-FR761_RS20775;Name=FR761_RS20775;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_RS20775;old_locus_tag=FR761_20775
+NZ_CP042564.1	Protein Homology	CDS	2314	3252	.	-	0	ID=cds-WP_005080187.1;Parent=gene-FR761_RS20775;Dbxref=Genbank:WP_005080187.1;Name=WP_005080187.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005080187.1;locus_tag=FR761_RS20775;product=replication initiation protein;protein_id=WP_005080187.1;transl_table=11
+

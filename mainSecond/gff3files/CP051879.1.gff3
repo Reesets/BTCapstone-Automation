@@ -1,0 +1,14 @@
+##sequence-region CP051879.1 1 2697
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP051879.1	Genbank	region	1	2697	.	+	.	ID=CP051879.1:1..2697;Dbxref=taxon:470;Is_circular=true;Name=pAb-B004d-c_4;collection-date=Jan-2016;country=Ghana: Sekondi-Takoradi;gbkey=Src;genome=plasmid;isolation-source=sputum;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pAb-B004d-c_4;strain=Ab-B004d-c
+CP051879.1	Genbank	gene	288	575	.	+	.	ID=gene-HIN86_20210;Name=HIN86_20210;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN86_20210
+CP051879.1	Protein Homology	CDS	288	575	.	+	0	ID=cds-QJF37608.1;Parent=gene-HIN86_20210;Dbxref=NCBI_GP:QJF37608.1;Name=QJF37608.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000442155.1;locus_tag=HIN86_20210;product=hypothetical protein;protein_id=QJF37608.1;transl_table=11
+CP051879.1	Genbank	gene	774	1859	.	+	.	ID=gene-HIN86_20215;Name=HIN86_20215;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN86_20215
+CP051879.1	Protein Homology	CDS	774	1859	.	+	0	ID=cds-QJF37612.1;Parent=gene-HIN86_20215;Dbxref=NCBI_GP:QJF37612.1;Name=QJF37612.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005253769.1;locus_tag=HIN86_20215;product=protein rep;protein_id=QJF37612.1;transl_table=11
+CP051879.1	Genbank	gene	1862	2095	.	+	.	ID=gene-HIN86_20220;Name=HIN86_20220;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN86_20220
+CP051879.1	GeneMarkS-2+	CDS	1862	2095	.	+	0	ID=cds-QJF37609.1;Parent=gene-HIN86_20220;Dbxref=NCBI_GP:QJF37609.1;Name=QJF37609.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HIN86_20220;product=hypothetical protein;protein_id=QJF37609.1;transl_table=11
+CP051879.1	Genbank	gene	2172	2378	.	+	.	ID=gene-HIN86_20225;Name=HIN86_20225;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN86_20225
+CP051879.1	GeneMarkS-2+	CDS	2172	2378	.	+	0	ID=cds-QJF37610.1;Parent=gene-HIN86_20225;Dbxref=NCBI_GP:QJF37610.1;Name=QJF37610.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HIN86_20225;product=hypothetical protein;protein_id=QJF37610.1;transl_table=11
+CP051879.1	Genbank	gene	2435	2680	.	+	.	ID=gene-HIN86_20230;Name=HIN86_20230;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN86_20230
+CP051879.1	GeneMarkS-2+	CDS	2435	2680	.	+	0	ID=cds-QJF37611.1;Parent=gene-HIN86_20230;Dbxref=NCBI_GP:QJF37611.1;Name=QJF37611.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HIN86_20230;product=hypothetical protein;protein_id=QJF37611.1;transl_table=11
+

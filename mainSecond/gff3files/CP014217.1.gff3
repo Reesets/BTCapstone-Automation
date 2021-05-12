@@ -1,0 +1,18 @@
+##sequence-region CP014217.1 1 5465
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP014217.1	Genbank	region	1	5465	.	+	.	ID=CP014217.1:1..5465;Dbxref=taxon:470;Is_circular=true;Name=unnamed2;collected-by=Yangsoon Lee;collection-date=May-2014;gbkey=Src;genome=plasmid;isolation-source=sputum;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=unnamed2;strain=YU-R612
+CP014217.1	Genbank	gene	704	1075	.	-	.	ID=gene-AXA63_20145;Name=AXA63_20145;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AXA63_20145
+CP014217.1	Protein Homology	CDS	704	1075	.	-	0	ID=cds-AMC17826.1;Parent=gene-AXA63_20145;Dbxref=NCBI_GP:AMC17826.1;Name=AMC17826.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=AXA63_20145;product=hypothetical protein;protein_id=AMC17826.1;transl_table=11
+CP014217.1	Genbank	gene	1347	1601	.	-	.	ID=gene-AXA63_20150;Name=AXA63_20150;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AXA63_20150
+CP014217.1	Protein Homology	CDS	1347	1601	.	-	0	ID=cds-AMC17827.1;Parent=gene-AXA63_20150;Dbxref=NCBI_GP:AMC17827.1;Name=AMC17827.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_001014301.1;locus_tag=AXA63_20150;product=hypothetical protein;protein_id=AMC17827.1;transl_table=11
+CP014217.1	Genbank	gene	2285	3226	.	+	.	ID=gene-AXA63_20155;Name=AXA63_20155;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AXA63_20155
+CP014217.1	Protein Homology	CDS	2285	3226	.	+	0	ID=cds-AMC17828.1;Parent=gene-AXA63_20155;Dbxref=NCBI_GP:AMC17828.1;Name=AMC17828.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_005021644.1;locus_tag=AXA63_20155;product=DNA replication protein;protein_id=AMC17828.1;transl_table=11
+CP014217.1	Genbank	gene	3227	3802	.	+	.	ID=gene-AXA63_20160;Name=AXA63_20160;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AXA63_20160
+CP014217.1	Protein Homology	CDS	3227	3802	.	+	0	ID=cds-AMC17829.1;Parent=gene-AXA63_20160;Dbxref=NCBI_GP:AMC17829.1;Name=AMC17829.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=AXA63_20160;product=DNA replication protein;protein_id=AMC17829.1;transl_table=11
+CP014217.1	Genbank	gene	4154	4663	.	-	.	ID=gene-AXA63_20165;Name=AXA63_20165;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AXA63_20165
+CP014217.1	Protein Homology	CDS	4154	4663	.	-	0	ID=cds-AMC17831.1;Parent=gene-AXA63_20165;Dbxref=NCBI_GP:AMC17831.1;Name=AMC17831.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_004724590.1;locus_tag=AXA63_20165;product=hypothetical protein;protein_id=AMC17831.1;transl_table=11
+CP014217.1	Genbank	gene	5044	5331	.	+	.	ID=gene-AXA63_20170;Name=AXA63_20170;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AXA63_20170
+CP014217.1	Protein Homology	CDS	5044	5331	.	+	0	ID=cds-AMC17830.1;Parent=gene-AXA63_20170;Dbxref=NCBI_GP:AMC17830.1;Name=AMC17830.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=AXA63_20170;product=hypothetical protein;protein_id=AMC17830.1;transl_table=11
+CP014217.1	Genbank	pseudogene	5318	5464	.	+	.	ID=gene-AXA63_20175;Name=AXA63_20175;gbkey=Gene;gene_biotype=pseudogene;locus_tag=AXA63_20175;pseudo=true
+CP014217.1	Protein Homology	CDS	5318	5464	.	+	0	ID=cds-AXA63_20175;Parent=gene-AXA63_20175;Note=incomplete%3B partial on complete genome%3B missing stop;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_006582675.1;locus_tag=AXA63_20175;product=toxin-antitoxin system%2C antitoxin component;pseudo=true;transl_table=11
+

@@ -1,0 +1,30 @@
+##sequence-region CP015122.1 1 9539
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP015122.1	Genbank	region	1	9539	.	+	.	ID=CP015122.1:1..9539;Dbxref=taxon:470;Is_circular=true;Name=unnamed;collected-by=USAMRIID;collection-date=2015;country=USA;gbkey=Src;genome=plasmid;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=unnamed;strain=ab736
+CP015122.1	Genbank	gene	1	513	.	+	.	ID=gene-A4U85_18865;Name=A4U85_18865;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A4U85_18865
+CP015122.1	Protein Homology	CDS	1	513	.	+	0	ID=cds-ARN32814.1;Parent=gene-A4U85_18865;Dbxref=NCBI_GP:ARN32814.1;Name=ARN32814.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_019767798.1;locus_tag=A4U85_18865;product=hypothetical protein;protein_id=ARN32814.1;transl_table=11
+CP015122.1	Genbank	gene	711	1139	.	+	.	ID=gene-A4U85_18870;Name=A4U85_18870;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A4U85_18870
+CP015122.1	Protein Homology	CDS	711	1139	.	+	0	ID=cds-ARN32815.1;Parent=gene-A4U85_18870;Dbxref=NCBI_GP:ARN32815.1;Name=ARN32815.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_010116199.1;locus_tag=A4U85_18870;product=Ohr subfamily peroxiredoxin;protein_id=ARN32815.1;transl_table=11
+CP015122.1	Genbank	gene	1146	1577	.	+	.	ID=gene-A4U85_18875;Name=A4U85_18875;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A4U85_18875
+CP015122.1	Protein Homology	CDS	1146	1577	.	+	0	ID=cds-ARN32816.1;Parent=gene-A4U85_18875;Dbxref=NCBI_GP:ARN32816.1;Name=ARN32816.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_005401805.1;locus_tag=A4U85_18875;product=MarR family transcriptional regulator;protein_id=ARN32816.1;transl_table=11
+CP015122.1	Genbank	gene	1810	2037	.	-	.	ID=gene-A4U85_18880;Name=A4U85_18880;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A4U85_18880
+CP015122.1	Protein Homology	CDS	1810	2037	.	-	0	ID=cds-ARN32826.1;Parent=gene-A4U85_18880;Dbxref=NCBI_GP:ARN32826.1;Name=ARN32826.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000555568.1;locus_tag=A4U85_18880;product=hypothetical protein;protein_id=ARN32826.1;transl_table=11
+CP015122.1	Genbank	gene	2267	3028	.	-	.	ID=gene-A4U85_18885;Name=A4U85_18885;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A4U85_18885
+CP015122.1	Protein Homology	CDS	2267	3028	.	-	0	ID=cds-ARN32817.1;Parent=gene-A4U85_18885;Dbxref=NCBI_GP:ARN32817.1;Name=ARN32817.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_017393773.1;locus_tag=A4U85_18885;product=hypothetical protein;protein_id=ARN32817.1;transl_table=11
+CP015122.1	Genbank	gene	3333	4502	.	+	.	ID=gene-A4U85_18890;Name=A4U85_18890;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A4U85_18890
+CP015122.1	Protein Homology	CDS	3333	4502	.	+	0	ID=cds-ARN32818.1;Parent=gene-A4U85_18890;Dbxref=NCBI_GP:ARN32818.1;Name=ARN32818.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_002011489.1;locus_tag=A4U85_18890;product=plasmid mobilization protein;protein_id=ARN32818.1;transl_table=11
+CP015122.1	Genbank	gene	5099	6034	.	+	.	ID=gene-A4U85_18895;Name=A4U85_18895;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A4U85_18895
+CP015122.1	Protein Homology	CDS	5099	6034	.	+	0	ID=cds-ARN32819.1;Parent=gene-A4U85_18895;Dbxref=NCBI_GP:ARN32819.1;Name=ARN32819.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_002011482.1;locus_tag=A4U85_18895;product=DNA replication protein;protein_id=ARN32819.1;transl_table=11
+CP015122.1	Genbank	gene	6112	6630	.	+	.	ID=gene-A4U85_18900;Name=A4U85_18900;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A4U85_18900
+CP015122.1	Protein Homology	CDS	6112	6630	.	+	0	ID=cds-ARN32820.1;Parent=gene-A4U85_18900;Dbxref=NCBI_GP:ARN32820.1;Name=ARN32820.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000839337.1;locus_tag=A4U85_18900;product=DNA replication protein;protein_id=ARN32820.1;transl_table=11
+CP015122.1	Genbank	gene	7079	7414	.	+	.	ID=gene-A4U85_18905;Name=A4U85_18905;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A4U85_18905
+CP015122.1	Protein Homology	CDS	7079	7414	.	+	0	ID=cds-ARN32821.1;Parent=gene-A4U85_18905;Dbxref=NCBI_GP:ARN32821.1;Name=ARN32821.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_001061698.1;locus_tag=A4U85_18905;product=hypothetical protein;protein_id=ARN32821.1;transl_table=11
+CP015122.1	Genbank	gene	7956	8312	.	+	.	ID=gene-A4U85_18910;Name=A4U85_18910;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A4U85_18910
+CP015122.1	Protein Homology	CDS	7956	8312	.	+	0	ID=cds-ARN32822.1;Parent=gene-A4U85_18910;Dbxref=NCBI_GP:ARN32822.1;Name=ARN32822.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_005237491.1;locus_tag=A4U85_18910;product=addiction module toxin RelE;protein_id=ARN32822.1;transl_table=11
+CP015122.1	Genbank	gene	8305	8607	.	+	.	ID=gene-A4U85_18915;Name=A4U85_18915;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A4U85_18915
+CP015122.1	Protein Homology	CDS	8305	8607	.	+	0	ID=cds-ARN32823.1;Parent=gene-A4U85_18915;Dbxref=NCBI_GP:ARN32823.1;Name=ARN32823.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_001140617.1;locus_tag=A4U85_18915;product=transcriptional regulator;protein_id=ARN32823.1;transl_table=11
+CP015122.1	Genbank	gene	8600	8809	.	+	.	ID=gene-A4U85_18920;Name=A4U85_18920;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A4U85_18920
+CP015122.1	Protein Homology	CDS	8600	8809	.	+	0	ID=cds-ARN32824.1;Parent=gene-A4U85_18920;Dbxref=NCBI_GP:ARN32824.1;Name=ARN32824.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_018680077.1;locus_tag=A4U85_18920;product=hypothetical protein;protein_id=ARN32824.1;transl_table=11
+CP015122.1	Genbank	gene	8984	9502	.	+	.	ID=gene-A4U85_18925;Name=A4U85_18925;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A4U85_18925
+CP015122.1	Protein Homology	CDS	8984	9502	.	+	0	ID=cds-ARN32825.1;Parent=gene-A4U85_18925;Dbxref=NCBI_GP:ARN32825.1;Name=ARN32825.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=A4U85_18925;product=hypothetical protein;protein_id=ARN32825.1;transl_table=11
+

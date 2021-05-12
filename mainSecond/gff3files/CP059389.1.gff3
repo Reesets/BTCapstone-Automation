@@ -1,0 +1,24 @@
+##sequence-region CP059389.1 1 5688
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP059389.1	Genbank	region	1	5688	.	+	.	ID=CP059389.1:1..5688;Dbxref=taxon:470;Is_circular=true;Name=p3.36-1512;collection-date=01-Jan-2013;country=Russia: Moscow;gbkey=Src;genome=plasmid;isolation-source=respiratory tract;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=p3.36-1512;strain=36-1512
+CP059389.1	Genbank	gene	1	951	.	+	.	ID=gene-H0S62_19590;Name=H0S62_19590;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0S62_19590
+CP059389.1	Protein Homology	CDS	1	951	.	+	0	ID=cds-QLY88346.1;Parent=gene-H0S62_19590;Dbxref=NCBI_GP:QLY88346.1;Name=QLY88346.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=H0S62_19590;product=replication initiation protein;protein_id=QLY88346.1;transl_table=11
+CP059389.1	Genbank	gene	944	1519	.	+	.	ID=gene-H0S62_19595;Name=H0S62_19595;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0S62_19595
+CP059389.1	Protein Homology	CDS	944	1519	.	+	0	ID=cds-QLY88347.1;Parent=gene-H0S62_19595;Dbxref=NCBI_GP:QLY88347.1;Name=QLY88347.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=H0S62_19595;product=helix-turn-helix domain-containing protein;protein_id=QLY88347.1;transl_table=11
+CP059389.1	Genbank	gene	1540	1683	.	+	.	ID=gene-H0S62_19600;Name=H0S62_19600;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0S62_19600
+CP059389.1	Protein Homology	CDS	1540	1683	.	+	0	ID=cds-QLY88348.1;Parent=gene-H0S62_19600;Dbxref=NCBI_GP:QLY88348.1;Name=QLY88348.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786602.1;locus_tag=H0S62_19600;product=hypothetical protein;protein_id=QLY88348.1;transl_table=11
+CP059389.1	Genbank	gene	1851	2168	.	-	.	ID=gene-H0S62_19605;Name=H0S62_19605;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0S62_19605
+CP059389.1	Protein Homology	CDS	1851	2168	.	-	0	ID=cds-QLY88349.1;Parent=gene-H0S62_19605;Dbxref=NCBI_GP:QLY88349.1;Name=QLY88349.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005065053.1;locus_tag=H0S62_19605;product=hypothetical protein;protein_id=QLY88349.1;transl_table=11
+CP059389.1	Genbank	gene	2820	3092	.	-	.	ID=gene-H0S62_19610;Name=H0S62_19610;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0S62_19610
+CP059389.1	Protein Homology	CDS	2820	3092	.	-	0	ID=cds-QLY88350.1;Parent=gene-H0S62_19610;Dbxref=NCBI_GP:QLY88350.1;Name=QLY88350.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000369784.1;locus_tag=H0S62_19610;product=helix-turn-helix domain-containing protein;protein_id=QLY88350.1;transl_table=11
+CP059389.1	Genbank	gene	3085	3405	.	-	.	ID=gene-H0S62_19615;Name=H0S62_19615;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0S62_19615
+CP059389.1	Protein Homology	CDS	3085	3405	.	-	0	ID=cds-QLY88342.1;Parent=gene-H0S62_19615;Dbxref=NCBI_GP:QLY88342.1;Name=QLY88342.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000897307.1;locus_tag=H0S62_19615;product=type II toxin-antitoxin system RelE/ParE family toxin;protein_id=QLY88342.1;transl_table=11
+CP059389.1	Genbank	gene	3592	3789	.	-	.	ID=gene-H0S62_19620;Name=H0S62_19620;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0S62_19620
+CP059389.1	Protein Homology	CDS	3592	3789	.	-	0	ID=cds-QLY88343.1;Parent=gene-H0S62_19620;Dbxref=NCBI_GP:QLY88343.1;Name=QLY88343.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005237334.1;locus_tag=H0S62_19620;product=hypothetical protein;protein_id=QLY88343.1;transl_table=11
+CP059389.1	Genbank	gene	3856	4083	.	-	.	ID=gene-H0S62_19625;Name=H0S62_19625;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0S62_19625
+CP059389.1	Protein Homology	CDS	3856	4083	.	-	0	ID=cds-QLY88344.1;Parent=gene-H0S62_19625;Dbxref=NCBI_GP:QLY88344.1;Name=QLY88344.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005166620.1;locus_tag=H0S62_19625;product=hypothetical protein;protein_id=QLY88344.1;transl_table=11
+CP059389.1	Genbank	gene	4181	4396	.	-	.	ID=gene-H0S62_19630;Name=H0S62_19630;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0S62_19630
+CP059389.1	Protein Homology	CDS	4181	4396	.	-	0	ID=cds-QLY88345.1;Parent=gene-H0S62_19630;Dbxref=NCBI_GP:QLY88345.1;Name=QLY88345.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004693381.1;locus_tag=H0S62_19630;product=cold-shock protein;protein_id=QLY88345.1;transl_table=11
+CP059389.1	Genbank	pseudogene	4952	5155	.	+	.	ID=gene-H0S62_19635;Name=H0S62_19635;gbkey=Gene;gene_biotype=pseudogene;locus_tag=H0S62_19635;pseudo=true
+CP059389.1	Protein Homology	CDS	4952	5155	.	+	0	ID=cds-H0S62_19635;Parent=gene-H0S62_19635;Note=incomplete%3B partial on complete genome%3B missing N-terminus;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005248576.1;locus_tag=H0S62_19635;product=hypothetical protein;pseudo=true;transl_table=11
+

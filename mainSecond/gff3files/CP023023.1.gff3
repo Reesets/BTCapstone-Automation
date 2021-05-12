@@ -1,0 +1,16 @@
+##sequence-region CP023023.1 1 5300
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP023023.1	Genbank	region	1	5300	.	+	.	ID=CP023023.1:1..5300;Dbxref=taxon:470;Is_circular=true;Name=pAba10324a;collected-by=Hospital General de Acapulco;collection-date=Aug-2012;country=Mexico: Acapulco%2C Guerrero;gbkey=Src;genome=plasmid;isolation-source=Bronchial fluid;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pAba10324a;strain=10324
+CP023023.1	Genbank	gene	435	1202	.	+	.	ID=gene-Aba10324_18280;Name=Aba10324_18280;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Aba10324_18280
+CP023023.1	GeneMarkS+	CDS	435	1202	.	+	0	ID=cds-AXX46892.1;Parent=gene-Aba10324_18280;Dbxref=NCBI_GP:AXX46892.1;Name=AXX46892.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS+;locus_tag=Aba10324_18280;product=hypothetical protein;protein_id=AXX46892.1;transl_table=11
+CP023023.1	Genbank	gene	1213	1491	.	-	.	ID=gene-Aba10324_18285;Name=Aba10324_18285;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Aba10324_18285
+CP023023.1	Protein Homology	CDS	1213	1491	.	-	0	ID=cds-AXX46893.1;Parent=gene-Aba10324_18285;Dbxref=NCBI_GP:AXX46893.1;Name=AXX46893.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005022338.1;locus_tag=Aba10324_18285;product=mobilization protein;protein_id=AXX46893.1;transl_table=11
+CP023023.1	Genbank	gene	1700	2653	.	+	.	ID=gene-Aba10324_18290;Name=Aba10324_18290;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Aba10324_18290
+CP023023.1	Protein Homology	CDS	1700	2653	.	+	0	ID=cds-AXX46894.1;Parent=gene-Aba10324_18290;Dbxref=NCBI_GP:AXX46894.1;Name=AXX46894.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004870957.1;locus_tag=Aba10324_18290;product=mobilization protein;protein_id=AXX46894.1;transl_table=11
+CP023023.1	Genbank	gene	2650	3120	.	+	.	ID=gene-Aba10324_18295;Name=Aba10324_18295;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Aba10324_18295
+CP023023.1	Protein Homology	CDS	2650	3120	.	+	0	ID=cds-AXX46895.1;Parent=gene-Aba10324_18295;Dbxref=NCBI_GP:AXX46895.1;Name=AXX46895.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004282271.1;locus_tag=Aba10324_18295;product=hypothetical protein;protein_id=AXX46895.1;transl_table=11
+CP023023.1	Genbank	gene	3280	4239	.	+	.	ID=gene-Aba10324_18300;Name=Aba10324_18300;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Aba10324_18300
+CP023023.1	Protein Homology	CDS	3280	4239	.	+	0	ID=cds-AXX46896.1;Parent=gene-Aba10324_18300;Dbxref=NCBI_GP:AXX46896.1;Name=AXX46896.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_019767311.1;locus_tag=Aba10324_18300;product=hypothetical protein;protein_id=AXX46896.1;transl_table=11
+CP023023.1	Genbank	gene	4770	5705	.	+	.	ID=gene-Aba10324_18275;Name=Aba10324_18275;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Aba10324_18275
+CP023023.1	Protein Homology	CDS	4770	5705	.	+	0	ID=cds-AXX46897.1;Parent=gene-Aba10324_18275;Dbxref=NCBI_GP:AXX46897.1;Name=AXX46897.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:PF01051.19;locus_tag=Aba10324_18275;product=replication initiation protein;protein_id=AXX46897.1;transl_table=11
+

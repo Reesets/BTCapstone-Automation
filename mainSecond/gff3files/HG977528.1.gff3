@@ -1,0 +1,4 @@
+##sequence-region HG977528.1 1 64479
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+HG977528.1	EMBL	region	1	64479	.	+	.	ID=HG977528.1:1..64479;Dbxref=taxon:470;Name=pCR17B;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=pCR17B;strain=CR17
+

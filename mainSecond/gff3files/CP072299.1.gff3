@@ -1,0 +1,20 @@
+##sequence-region CP072299.1 1 5679
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP072299.1	Genbank	region	1	5679	.	+	.	ID=CP072299.1:1..5679;Dbxref=taxon:470;Is_circular=true;Name=p4KSK19;collected-by=Jawaharlal Nehru University;collection-date=2020;country=India: New Delhi;gbkey=Src;genome=plasmid;isolation-source=Respiratory specimen;lat-lon=28.5402 N 77.1662 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=p4KSK19;strain=KSK19
+CP072299.1	Genbank	gene	606	1022	.	-	.	ID=gene-J6I63_21250;Name=J6I63_21250;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6I63_21250
+CP072299.1	Protein Homology	CDS	606	1022	.	-	0	ID=cds-QTK70322.1;Parent=gene-J6I63_21250;Dbxref=NCBI_GP:QTK70322.1;Name=QTK70322.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_002061210.1;locus_tag=J6I63_21250;product=conjugal transfer protein TraD;protein_id=QTK70322.1;transl_table=11
+CP072299.1	Genbank	gene	1303	1458	.	+	.	ID=gene-J6I63_21255;Name=J6I63_21255;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6I63_21255
+CP072299.1	Protein Homology	CDS	1303	1458	.	+	0	ID=cds-QTK70323.1;Parent=gene-J6I63_21255;Dbxref=NCBI_GP:QTK70323.1;Name=QTK70323.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005098410.1;locus_tag=J6I63_21255;product=heme exporter protein CcmD;protein_id=QTK70323.1;transl_table=11
+CP072299.1	Genbank	gene	1458	2381	.	+	.	ID=gene-J6I63_21260;Name=J6I63_21260;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6I63_21260
+CP072299.1	Protein Homology	CDS	1458	2381	.	+	0	ID=cds-QTK70324.1;Parent=gene-J6I63_21260;Dbxref=NCBI_GP:QTK70324.1;Name=QTK70324.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005249378.1;locus_tag=J6I63_21260;product=MobA/MobL family protein;protein_id=QTK70324.1;transl_table=11
+CP072299.1	Genbank	gene	2378	2878	.	+	.	ID=gene-J6I63_21265;Name=J6I63_21265;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6I63_21265
+CP072299.1	Protein Homology	CDS	2378	2878	.	+	0	ID=cds-QTK70325.1;Parent=gene-J6I63_21265;Dbxref=NCBI_GP:QTK70325.1;Name=QTK70325.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_018680098.1;locus_tag=J6I63_21265;product=hypothetical protein;protein_id=QTK70325.1;transl_table=11
+CP072299.1	Genbank	gene	2919	3215	.	+	.	ID=gene-J6I63_21270;Name=J6I63_21270;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6I63_21270
+CP072299.1	Protein Homology	CDS	2919	3215	.	+	0	ID=cds-QTK70319.1;Parent=gene-J6I63_21270;Dbxref=NCBI_GP:QTK70319.1;Name=QTK70319.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004282231.1;locus_tag=J6I63_21270;product=BrnT family toxin;protein_id=QTK70319.1;transl_table=11
+CP072299.1	Genbank	gene	3205	3420	.	+	.	ID=gene-J6I63_21275;Name=J6I63_21275;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6I63_21275
+CP072299.1	Protein Homology	CDS	3205	3420	.	+	0	ID=cds-QTK70320.1;Parent=gene-J6I63_21275;Dbxref=NCBI_GP:QTK70320.1;Name=QTK70320.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_002011639.1;locus_tag=J6I63_21275;product=hypothetical protein;protein_id=QTK70320.1;transl_table=11
+CP072299.1	Genbank	gene	4356	5135	.	+	.	ID=gene-J6I63_21280;Name=J6I63_21280;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6I63_21280
+CP072299.1	Protein Homology	CDS	4356	5135	.	+	0	ID=cds-QTK70321.1;Parent=gene-J6I63_21280;Dbxref=NCBI_GP:QTK70321.1;Name=QTK70321.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000422636.1;locus_tag=J6I63_21280;product=APH(3')-VI family aminoglycoside O-phosphotransferase;protein_id=QTK70321.1;transl_table=11
+CP072299.1	Genbank	gene	5627	6124	.	-	.	ID=gene-J6I63_21245;Name=J6I63_21245;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J6I63_21245
+CP072299.1	GeneMarkS-2+	CDS	5627	6124	.	-	0	ID=cds-QTK70326.1;Parent=gene-J6I63_21245;Dbxref=NCBI_GP:QTK70326.1;Name=QTK70326.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=J6I63_21245;product=hypothetical protein;protein_id=QTK70326.1;transl_table=11
+

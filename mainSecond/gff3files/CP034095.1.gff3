@@ -1,0 +1,22 @@
+##sequence-region CP034095.1 1 8420
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP034095.1	Genbank	region	1	8420	.	+	.	ID=CP034095.1:1..8420;Dbxref=taxon:470;Is_circular=true;Name=pA52-3;collected-by=Huiqiong Jia;collection-date=2015-08-02;country=China: Hangzhou;gbkey=Src;genome=plasmid;isolation-source=sputum;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pA52-3;strain=A52
+CP034095.1	Genbank	gene	586	777	.	+	.	ID=gene-EHF38_19345;Name=EHF38_19345;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EHF38_19345
+CP034095.1	Protein Homology	CDS	586	777	.	+	0	ID=cds-QAB42516.1;Parent=gene-EHF38_19345;Dbxref=NCBI_GP:QAB42516.1;Name=QAB42516.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000032259.1;locus_tag=EHF38_19345;product=hypothetical protein;protein_id=QAB42516.1;transl_table=11
+CP034095.1	Genbank	gene	811	1740	.	-	.	ID=gene-EHF38_19350;Name=EHF38_19350;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EHF38_19350
+CP034095.1	Protein Homology	CDS	811	1740	.	-	0	ID=cds-QAB42517.1;Parent=gene-EHF38_19350;Dbxref=NCBI_GP:QAB42517.1;Name=QAB42517.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:PF07885.14;locus_tag=EHF38_19350;product=two pore domain potassium channel family protein;protein_id=QAB42517.1;transl_table=11
+CP034095.1	Genbank	gene	2307	2549	.	+	.	ID=gene-EHF38_19355;Name=EHF38_19355;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EHF38_19355
+CP034095.1	Protein Homology	CDS	2307	2549	.	+	0	ID=cds-QAB42518.1;Parent=gene-EHF38_19355;Dbxref=NCBI_GP:QAB42518.1;Name=QAB42518.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001984617.1;locus_tag=EHF38_19355;product=hypothetical protein;protein_id=QAB42518.1;transl_table=11
+CP034095.1	Genbank	gene	2828	3328	.	+	.	ID=gene-EHF38_19360;Name=EHF38_19360;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EHF38_19360
+CP034095.1	GeneMarkS-2+	CDS	2828	3328	.	+	0	ID=cds-QAB42519.1;Parent=gene-EHF38_19360;Dbxref=NCBI_GP:QAB42519.1;Name=QAB42519.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=EHF38_19360;product=hypothetical protein;protein_id=QAB42519.1;transl_table=11
+CP034095.1	Genbank	gene	3372	3968	.	+	.	ID=gene-EHF38_19365;Name=EHF38_19365;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EHF38_19365
+CP034095.1	Protein Homology	CDS	3372	3968	.	+	0	ID=cds-QAB42520.1;Parent=gene-EHF38_19365;Dbxref=NCBI_GP:QAB42520.1;Name=QAB42520.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_006460932.1;locus_tag=EHF38_19365;product=type II toxin-antitoxin system MqsA family antitoxin;protein_id=QAB42520.1;transl_table=11
+CP034095.1	Genbank	gene	3965	4447	.	+	.	ID=gene-EHF38_19370;Name=EHF38_19370;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EHF38_19370
+CP034095.1	GeneMarkS-2+	CDS	3965	4447	.	+	0	ID=cds-QAB42521.1;Parent=gene-EHF38_19370;Dbxref=NCBI_GP:QAB42521.1;Name=QAB42521.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=EHF38_19370;product=preprotein translocase subunit SecB;protein_id=QAB42521.1;transl_table=11
+CP034095.1	Genbank	gene	4456	4719	.	+	.	ID=gene-EHF38_19375;Name=EHF38_19375;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EHF38_19375
+CP034095.1	Protein Homology	CDS	4456	4719	.	+	0	ID=cds-QAB42522.1;Parent=gene-EHF38_19375;Dbxref=NCBI_GP:QAB42522.1;Name=QAB42522.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_020198196.1;locus_tag=EHF38_19375;product=protein L;protein_id=QAB42522.1;transl_table=11
+CP034095.1	Genbank	gene	5965	6207	.	-	.	ID=gene-EHF38_19380;Name=EHF38_19380;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EHF38_19380
+CP034095.1	GeneMarkS-2+	CDS	5965	6207	.	-	0	ID=cds-QAB42523.1;Parent=gene-EHF38_19380;Dbxref=NCBI_GP:QAB42523.1;Name=QAB42523.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=EHF38_19380;product=hypothetical protein;protein_id=QAB42523.1;transl_table=11
+CP034095.1	Genbank	gene	6243	6812	.	-	.	ID=gene-EHF38_19385;Name=EHF38_19385;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EHF38_19385
+CP034095.1	Protein Homology	CDS	6243	6812	.	-	0	ID=cds-QAB42524.1;Parent=gene-EHF38_19385;Dbxref=NCBI_GP:QAB42524.1;Name=QAB42524.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001096622.1;locus_tag=EHF38_19385;product=DNA-binding protein;protein_id=QAB42524.1;transl_table=11
+

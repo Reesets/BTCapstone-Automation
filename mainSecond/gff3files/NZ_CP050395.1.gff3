@@ -1,0 +1,8 @@
+##sequence-region NZ_CP050395.1 1 2673
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_CP050395.1	RefSeq	region	1	2673	.	+	.	ID=NZ_CP050395.1:1..2673;Dbxref=taxon:470;Is_circular=true;Name=pVB11737_4;collected-by=Christian Medical College;collection-date=2019;country=India;gbkey=Src;genome=plasmid;isolation-source=blood;lat-lon=12.9246 N 79.1348 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pVB11737_4;strain=VB11737
+NZ_CP050395.1	RefSeq	gene	1465	2316	.	+	.	ID=gene-HBM80_RS00525;Name=HBM80_RS00525;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBM80_RS00525;old_locus_tag=HBM80_00525
+NZ_CP050395.1	Protein Homology	CDS	1465	2316	.	+	0	ID=cds-WP_000034564.1;Parent=gene-HBM80_RS00525;Dbxref=Genbank:WP_000034564.1;Name=WP_000034564.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000034565.1;locus_tag=HBM80_RS00525;product=universal stress protein;protein_id=WP_000034564.1;transl_table=11
+NZ_CP050395.1	RefSeq	gene	2384	2719	.	+	.	ID=gene-HBM80_RS00520;Name=HBM80_RS00520;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBM80_RS00520;old_locus_tag=HBM80_00520
+NZ_CP050395.1	Protein Homology	CDS	2384	2719	.	+	0	ID=cds-WP_169062438.1;Parent=gene-HBM80_RS00520;Dbxref=Genbank:WP_169062438.1;Name=WP_169062438.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001095006.1;locus_tag=HBM80_RS00520;product=hypothetical protein;protein_id=WP_169062438.1;transl_table=11
+

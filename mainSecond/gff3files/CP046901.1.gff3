@@ -1,0 +1,24 @@
+##sequence-region CP046901.1 1 7852
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP046901.1	Genbank	region	1	7852	.	+	.	ID=CP046901.1:1..7852;Dbxref=taxon:470;Is_circular=true;Name=pA1429a;collected-by=Yan Chen;collection-date=Oct-2010;country=China:Guangdong;gbkey=Src;genome=plasmid;isolation-source=secretion;lat-lon=20.13 N 109.39 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pA1429a;strain=A1429
+CP046901.1	Genbank	gene	102	929	.	+	.	ID=gene-GQO96_19990;Name=GQO96_19990;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GQO96_19990
+CP046901.1	Protein Homology	CDS	102	929	.	+	0	ID=cds-QLB37632.1;Parent=gene-GQO96_19990;Dbxref=NCBI_GP:QLB37632.1;Name=QLB37632.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_057689930.1;locus_tag=GQO96_19990;product=carbapenem-hydrolyzing class D beta-lactamase OXA-24;protein_id=QLB37632.1;transl_table=11
+CP046901.1	Genbank	gene	1114	1401	.	-	.	ID=gene-GQO96_19995;Name=GQO96_19995;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GQO96_19995
+CP046901.1	Protein Homology	CDS	1114	1401	.	-	0	ID=cds-QLB37633.1;Parent=gene-GQO96_19995;Dbxref=NCBI_GP:QLB37633.1;Name=QLB37633.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000857160.1;locus_tag=GQO96_19995;product=hypothetical protein;protein_id=QLB37633.1;transl_table=11
+CP046901.1	Genbank	gene	1398	2348	.	-	.	ID=gene-GQO96_20000;Name=GQO96_20000;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GQO96_20000
+CP046901.1	Protein Homology	CDS	1398	2348	.	-	0	ID=cds-QLB37634.1;Parent=gene-GQO96_20000;Dbxref=NCBI_GP:QLB37634.1;Name=QLB37634.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001031297.1;locus_tag=GQO96_20000;product=RepB family plasmid replication initiator protein;protein_id=QLB37634.1;transl_table=11
+CP046901.1	Genbank	gene	3031	4683	.	-	.	ID=gene-GQO96_20005;Name=GQO96_20005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GQO96_20005
+CP046901.1	Protein Homology	CDS	3031	4683	.	-	0	ID=cds-QLB37635.1;Parent=gene-GQO96_20005;Dbxref=NCBI_GP:QLB37635.1;Name=QLB37635.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005199240.1;locus_tag=GQO96_20005;product=mobilization protein (MobL-like);protein_id=QLB37635.1;transl_table=11
+CP046901.1	Genbank	gene	4895	5155	.	+	.	ID=gene-GQO96_20010;Name=GQO96_20010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GQO96_20010
+CP046901.1	Protein Homology	CDS	4895	5155	.	+	0	ID=cds-QLB37636.1;Parent=gene-GQO96_20010;Dbxref=NCBI_GP:QLB37636.1;Name=QLB37636.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005000600.1;locus_tag=GQO96_20010;product=mobilization protein;protein_id=QLB37636.1;transl_table=11
+CP046901.1	Genbank	gene	5189	5842	.	-	.	ID=gene-GQO96_20015;Name=GQO96_20015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GQO96_20015
+CP046901.1	Protein Homology	CDS	5189	5842	.	-	0	ID=cds-QLB37637.1;Parent=gene-GQO96_20015;Dbxref=NCBI_GP:QLB37637.1;Name=QLB37637.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000282938.1;locus_tag=GQO96_20015;product=hypothetical protein;protein_id=QLB37637.1;transl_table=11
+CP046901.1	Genbank	gene	5969	6274	.	-	.	ID=gene-GQO96_20020;Name=GQO96_20020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GQO96_20020
+CP046901.1	Protein Homology	CDS	5969	6274	.	-	0	ID=cds-QLB37638.1;Parent=gene-GQO96_20020;Dbxref=NCBI_GP:QLB37638.1;Name=QLB37638.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_010326913.1;locus_tag=GQO96_20020;product=hypothetical protein;protein_id=QLB37638.1;transl_table=11
+CP046901.1	Genbank	gene	6418	6741	.	+	.	ID=gene-GQO96_20025;Name=GQO96_20025;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GQO96_20025
+CP046901.1	Protein Homology	CDS	6418	6741	.	+	0	ID=cds-QLB37639.1;Parent=gene-GQO96_20025;Dbxref=NCBI_GP:QLB37639.1;Name=QLB37639.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000288001.1;locus_tag=GQO96_20025;product=transcriptional regulator;protein_id=QLB37639.1;transl_table=11
+CP046901.1	Genbank	gene	6722	7036	.	+	.	ID=gene-GQO96_20030;Name=GQO96_20030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GQO96_20030
+CP046901.1	Protein Homology	CDS	6722	7036	.	+	0	ID=cds-QLB37640.1;Parent=gene-GQO96_20030;Dbxref=NCBI_GP:QLB37640.1;Name=QLB37640.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004999435.1;locus_tag=GQO96_20030;product=helix-turn-helix domain-containing protein;protein_id=QLB37640.1;transl_table=11
+CP046901.1	Genbank	gene	7090	7413	.	+	.	ID=gene-GQO96_20035;Name=GQO96_20035;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GQO96_20035
+CP046901.1	Protein Homology	CDS	7090	7413	.	+	0	ID=cds-QLB37641.1;Parent=gene-GQO96_20035;Dbxref=NCBI_GP:QLB37641.1;Name=QLB37641.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000681328.1;locus_tag=GQO96_20035;product=hypothetical protein;protein_id=QLB37641.1;transl_table=11
+

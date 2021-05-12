@@ -1,0 +1,14 @@
+##sequence-region NZ_CP051874.1 1 2697
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_CP051874.1	RefSeq	region	1	2697	.	+	.	ID=NZ_CP051874.1:1..2697;Dbxref=taxon:470;Is_circular=true;Name=pAb-D10a-a_5;collection-date=Mar-2016;country=Ghana: Sekondi-Takoradi;gbkey=Src;genome=plasmid;isolation-source=cerebrospinal fluid;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pAb-D10a-a_5;strain=Ab-D10a-a
+NZ_CP051874.1	RefSeq	gene	422	709	.	+	.	ID=gene-HIN87_RS20320;Name=HIN87_RS20320;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN87_RS20320;old_locus_tag=HIN87_20320
+NZ_CP051874.1	Protein Homology	CDS	422	709	.	+	0	ID=cds-WP_125825331.1;Parent=gene-HIN87_RS20320;Dbxref=Genbank:WP_125825331.1;Name=WP_125825331.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000442155.1;locus_tag=HIN87_RS20320;product=hypothetical protein;protein_id=WP_125825331.1;transl_table=11
+NZ_CP051874.1	RefSeq	gene	908	1993	.	+	.	ID=gene-HIN87_RS20325;Name=HIN87_RS20325;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN87_RS20325;old_locus_tag=HIN87_20325
+NZ_CP051874.1	Protein Homology	CDS	908	1993	.	+	0	ID=cds-WP_169031084.1;Parent=gene-HIN87_RS20325;Dbxref=Genbank:WP_169031084.1;Name=WP_169031084.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005253769.1;locus_tag=HIN87_RS20325;product=protein rep;protein_id=WP_169031084.1;transl_table=11
+NZ_CP051874.1	RefSeq	gene	1996	2229	.	+	.	ID=gene-HIN87_RS20330;Name=HIN87_RS20330;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN87_RS20330;old_locus_tag=HIN87_20330
+NZ_CP051874.1	GeneMarkS-2+	CDS	1996	2229	.	+	0	ID=cds-WP_057694028.1;Parent=gene-HIN87_RS20330;Dbxref=Genbank:WP_057694028.1;Name=WP_057694028.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HIN87_RS20330;product=hypothetical protein;protein_id=WP_057694028.1;transl_table=11
+NZ_CP051874.1	RefSeq	gene	2306	2512	.	+	.	ID=gene-HIN87_RS20335;Name=HIN87_RS20335;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN87_RS20335;old_locus_tag=HIN87_20335
+NZ_CP051874.1	GeneMarkS-2+	CDS	2306	2512	.	+	0	ID=cds-WP_125825333.1;Parent=gene-HIN87_RS20335;Dbxref=Genbank:WP_125825333.1;Name=WP_125825333.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HIN87_RS20335;product=hypothetical protein;protein_id=WP_125825333.1;transl_table=11
+NZ_CP051874.1	RefSeq	gene	2569	2814	.	+	.	ID=gene-HIN87_RS20315;Name=HIN87_RS20315;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HIN87_RS20315;old_locus_tag=HIN87_20315
+NZ_CP051874.1	GeneMarkS-2+	CDS	2569	2814	.	+	0	ID=cds-WP_125825332.1;Parent=gene-HIN87_RS20315;Dbxref=Genbank:WP_125825332.1;Name=WP_125825332.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HIN87_RS20315;product=hypothetical protein;protein_id=WP_125825332.1;transl_table=11
+

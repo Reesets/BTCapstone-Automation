@@ -1,0 +1,6 @@
+##sequence-region CP050397.1 1 1025
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP050397.1	Genbank	region	1	1025	.	+	.	ID=CP050397.1:1..1025;Dbxref=taxon:470;Is_circular=true;Name=pVB11737_6;collected-by=Christian Medical College;collection-date=2019;country=India;gbkey=Src;genome=plasmid;isolation-source=blood;lat-lon=12.9246 N 79.1348 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pVB11737_6;strain=VB11737
+CP050397.1	Genbank	pseudogene	2	1023	.	+	.	ID=gene-HBM80_00545;Name=HBM80_00545;gbkey=Gene;gene_biotype=pseudogene;locus_tag=HBM80_00545;pseudo=true
+CP050397.1	Protein Homology	CDS	2	1023	.	+	0	ID=cds-HBM80_00545;Parent=gene-HBM80_00545;Note=programmed frameshift%3B incomplete%3B partial on complete genome%3B missing N-terminus and C-terminus;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_076612069.1;locus_tag=HBM80_00545;product=IS4 family transposase ISAba1;pseudo=true;transl_table=11
+

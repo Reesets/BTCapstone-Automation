@@ -1,0 +1,26 @@
+##sequence-region CP042560.1 1 7703
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP042560.1	Genbank	region	1	7703	.	+	.	ID=CP042560.1:1..7703;Dbxref=taxon:470;Is_circular=true;Name=pE47_004;collected-by=Concord Repatriation Hospital Sydney Australia;collection-date=08-Feb-2013;country=Australia: Sydney;gbkey=Src;genome=plasmid;isolation-source=Room 7;mol_type=genomic DNA;plasmid-name=pE47_004;strain=E47
+CP042560.1	Genbank	gene	1	951	.	+	.	ID=gene-FR761_20630;Name=FR761_20630;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20630
+CP042560.1	Protein Homology	CDS	1	951	.	+	0	ID=cds-QFH47694.1;Parent=gene-FR761_20630;Dbxref=NCBI_GP:QFH47694.1;Name=QFH47694.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=FR761_20630;product=replication initiation protein;protein_id=QFH47694.1;transl_table=11
+CP042560.1	Genbank	gene	944	1519	.	+	.	ID=gene-FR761_20635;Name=FR761_20635;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20635
+CP042560.1	Protein Homology	CDS	944	1519	.	+	0	ID=cds-QFH47695.1;Parent=gene-FR761_20635;Dbxref=NCBI_GP:QFH47695.1;Name=QFH47695.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=FR761_20635;product=helix-turn-helix domain-containing protein;protein_id=QFH47695.1;transl_table=11
+CP042560.1	Genbank	gene	1896	2423	.	+	.	ID=gene-FR761_20640;Name=FR761_20640;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20640
+CP042560.1	Protein Homology	CDS	1896	2423	.	+	0	ID=cds-QFH47696.1;Parent=gene-FR761_20640;Dbxref=NCBI_GP:QFH47696.1;Name=QFH47696.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000537572.1;locus_tag=FR761_20640;product=plasmid pRiA4b ORF-3 family protein;protein_id=QFH47696.1;transl_table=11
+CP042560.1	Genbank	gene	2908	3180	.	-	.	ID=gene-FR761_20645;Name=FR761_20645;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20645
+CP042560.1	Protein Homology	CDS	2908	3180	.	-	0	ID=cds-QFH47697.1;Parent=gene-FR761_20645;Dbxref=NCBI_GP:QFH47697.1;Name=QFH47697.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000369784.1;locus_tag=FR761_20645;product=helix-turn-helix domain-containing protein;protein_id=QFH47697.1;transl_table=11
+CP042560.1	Genbank	gene	3173	3493	.	-	.	ID=gene-FR761_20650;Name=FR761_20650;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20650
+CP042560.1	Protein Homology	CDS	3173	3493	.	-	0	ID=cds-QFH47698.1;Parent=gene-FR761_20650;Dbxref=NCBI_GP:QFH47698.1;Name=QFH47698.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000897307.1;locus_tag=FR761_20650;product=hypothetical protein;protein_id=QFH47698.1;transl_table=11
+CP042560.1	Genbank	gene	3680	3877	.	-	.	ID=gene-FR761_20655;Name=FR761_20655;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20655
+CP042560.1	Protein Homology	CDS	3680	3877	.	-	0	ID=cds-QFH47699.1;Parent=gene-FR761_20655;Dbxref=NCBI_GP:QFH47699.1;Name=QFH47699.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005237334.1;locus_tag=FR761_20655;product=hypothetical protein;protein_id=QFH47699.1;transl_table=11
+CP042560.1	Genbank	gene	3944	4171	.	-	.	ID=gene-FR761_20660;Name=FR761_20660;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20660
+CP042560.1	Protein Homology	CDS	3944	4171	.	-	0	ID=cds-QFH47700.1;Parent=gene-FR761_20660;Dbxref=NCBI_GP:QFH47700.1;Name=QFH47700.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005166620.1;locus_tag=FR761_20660;product=hypothetical protein;protein_id=QFH47700.1;transl_table=11
+CP042560.1	Genbank	gene	4269	4484	.	-	.	ID=gene-FR761_20665;Name=FR761_20665;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20665
+CP042560.1	Protein Homology	CDS	4269	4484	.	-	0	ID=cds-QFH47701.1;Parent=gene-FR761_20665;Dbxref=NCBI_GP:QFH47701.1;Name=QFH47701.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004693381.1;locus_tag=FR761_20665;product=cold-shock protein;protein_id=QFH47701.1;transl_table=11
+CP042560.1	Genbank	gene	4810	5241	.	-	.	ID=gene-FR761_20670;Name=FR761_20670;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20670
+CP042560.1	Protein Homology	CDS	4810	5241	.	-	0	ID=cds-QFH47702.1;Parent=gene-FR761_20670;Dbxref=NCBI_GP:QFH47702.1;Name=QFH47702.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004986359.1;locus_tag=FR761_20670;product=hypothetical protein;protein_id=QFH47702.1;transl_table=11
+CP042560.1	Genbank	gene	5259	5525	.	-	.	ID=gene-FR761_20675;Name=FR761_20675;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20675
+CP042560.1	Protein Homology	CDS	5259	5525	.	-	0	ID=cds-QFH47703.1;Parent=gene-FR761_20675;Dbxref=NCBI_GP:QFH47703.1;Name=QFH47703.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005098300.1;locus_tag=FR761_20675;product=mobilization protein;protein_id=QFH47703.1;transl_table=11
+CP042560.1	Genbank	gene	5735	7171	.	+	.	ID=gene-FR761_20680;Name=FR761_20680;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20680
+CP042560.1	Protein Homology	CDS	5735	7171	.	+	0	ID=cds-QFH47704.1;Parent=gene-FR761_20680;Dbxref=NCBI_GP:QFH47704.1;Name=QFH47704.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005248576.1;locus_tag=FR761_20680;product=MobA/MobL family protein;protein_id=QFH47704.1;transl_table=11
+

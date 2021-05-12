@@ -1,0 +1,10 @@
+##sequence-region CP030108.1 1 2359
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP030108.1	Genbank	region	1	2359	.	+	.	ID=CP030108.1:1..2359;Dbxref=taxon:470;Is_circular=true;Name=pDA33382-2;country=Germany;gbkey=Src;genome=plasmid;isolation-source=Tracheal secretion;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pDA33382-2;serotype=ST1567;strain=DA33382
+CP030108.1	Genbank	gene	53	253	.	+	.	ID=gene-DPV67_19225;Name=DPV67_19225;gbkey=Gene;gene_biotype=protein_coding;locus_tag=DPV67_19225
+CP030108.1	GeneMarkS+	CDS	53	253	.	+	0	ID=cds-AXB17574.1;Parent=gene-DPV67_19225;Dbxref=NCBI_GP:AXB17574.1;Name=AXB17574.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS+;locus_tag=DPV67_19225;product=hypothetical protein;protein_id=AXB17574.1;transl_table=11
+CP030108.1	Genbank	pseudogene	494	793	.	+	.	ID=gene-DPV67_19230;Name=DPV67_19230;gbkey=Gene;gene_biotype=pseudogene;locus_tag=DPV67_19230;pseudo=true
+CP030108.1	Protein Homology	CDS	494	793	.	+	0	ID=cds-DPV67_19230;Parent=gene-DPV67_19230;Note=frameshifted;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_003115285.1;locus_tag=DPV67_19230;product=hypothetical protein;pseudo=true;transl_table=11
+CP030108.1	Genbank	gene	883	1974	.	+	.	ID=gene-DPV67_19235;Name=DPV67_19235;gbkey=Gene;gene_biotype=protein_coding;locus_tag=DPV67_19235
+CP030108.1	Protein Homology	CDS	883	1974	.	+	0	ID=cds-AXB17575.1;Parent=gene-DPV67_19235;Dbxref=NCBI_GP:AXB17575.1;Name=AXB17575.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001990871.1;locus_tag=DPV67_19235;product=rolling circle replication protein%2C Rep63 protein;protein_id=AXB17575.1;transl_table=11
+

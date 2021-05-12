@@ -1,0 +1,4 @@
+##sequence-region CP049363.1 1 3854994
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP049363.1	Genbank	region	1	3854994	.	+	.	ID=CP049363.1:1..3854994;Dbxref=taxon:470;Is_circular=true;Name=ANONYMOUS;collected-by=National Culture Collection;collection-date=2011-01-01;country=South Korea: Seoul;culture-collection=ATCC:17978;gbkey=Src;genome=chromosome;isolation-source=urine;lat-lon=37 N 126 E;mol_type=genomic DNA;nat-host=Homo sapiens;strain=ATCC 17978
+

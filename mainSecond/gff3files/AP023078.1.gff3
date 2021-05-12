@@ -1,0 +1,4 @@
+##sequence-region AP023078.1 1 73028
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+AP023078.1	DDBJ	region	1	73028	.	+	.	ID=AP023078.1:1..73028;Dbxref=taxon:470;Is_circular=true;Name=pOCU_Ac16a_1;collection-date=2015-12-19;country=Japan:Osaka;gbkey=Src;genome=plasmid;isolation-source=Tracheal aspirate from a hospitalized patient;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pOCU_Ac16a_1;strain=OCU_Ac16a
+

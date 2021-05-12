@@ -1,0 +1,8 @@
+##sequence-region CP050395.1 1 2673
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP050395.1	Genbank	region	1	2673	.	+	.	ID=CP050395.1:1..2673;Dbxref=taxon:470;Is_circular=true;Name=pVB11737_4;collected-by=Christian Medical College;collection-date=2019;country=India;gbkey=Src;genome=plasmid;isolation-source=blood;lat-lon=12.9246 N 79.1348 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pVB11737_4;strain=VB11737
+CP050395.1	Genbank	gene	1465	2316	.	+	.	ID=gene-HBM80_00525;Name=HBM80_00525;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBM80_00525
+CP050395.1	Protein Homology	CDS	1465	2316	.	+	0	ID=cds-QJH08924.1;Parent=gene-HBM80_00525;Dbxref=NCBI_GP:QJH08924.1;Name=QJH08924.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000034568.1;locus_tag=HBM80_00525;product=universal stress protein;protein_id=QJH08924.1;transl_table=11
+CP050395.1	Genbank	gene	2384	2719	.	+	.	ID=gene-HBM80_00520;Name=HBM80_00520;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBM80_00520
+CP050395.1	Protein Homology	CDS	2384	2719	.	+	0	ID=cds-QJH08925.1;Parent=gene-HBM80_00520;Dbxref=NCBI_GP:QJH08925.1;Name=QJH08925.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001095006.1;locus_tag=HBM80_00520;product=hypothetical protein;protein_id=QJH08925.1;transl_table=11
+

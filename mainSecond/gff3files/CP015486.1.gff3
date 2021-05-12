@@ -1,0 +1,36 @@
+##sequence-region CP015486.1 1 15198
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP015486.1	Genbank	region	1	15198	.	+	.	ID=CP015486.1:1..15198;Dbxref=taxon:470;Is_circular=true;Name=pORAB01-3;collected-by=OSPHL;collection-date=2012-06-14;country=USA: Lincoln County%2C Oregon;gbkey=Src;genome=plasmid;isolation-source=bodily fluid;lat-lon=44.6 N 123.9 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pORAB01-3;strain=ORAB01
+CP015486.1	Genbank	gene	60	2471	.	+	.	ID=gene-SG90_019750;Name=SG90_019750;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SG90_019750
+CP015486.1	Genbank	CDS	60	2471	.	+	0	ID=cds-ANB90642.1;Parent=gene-SG90_019750;Dbxref=NCBI_GP:ANB90642.1;Name=ANB90642.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=SG90_019750;product=hypothetical protein;protein_id=ANB90642.1;transl_table=11
+CP015486.1	Genbank	gene	2776	3237	.	+	.	ID=gene-SG90_019755;Name=SG90_019755;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SG90_019755
+CP015486.1	Genbank	CDS	2776	3237	.	+	0	ID=cds-ANB90643.1;Parent=gene-SG90_019755;Dbxref=NCBI_GP:ANB90643.1;Name=ANB90643.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_004781077.1;locus_tag=SG90_019755;product=septicolysin;protein_id=ANB90643.1;transl_table=11
+CP015486.1	Genbank	gene	3558	4091	.	-	.	ID=gene-SG90_019760;Name=SG90_019760;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SG90_019760
+CP015486.1	Genbank	CDS	3558	4091	.	-	0	ID=cds-ANB90644.1;Parent=gene-SG90_019760;Dbxref=NCBI_GP:ANB90644.1;Name=ANB90644.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_005207483.1;locus_tag=SG90_019760;product=hypothetical protein;protein_id=ANB90644.1;transl_table=11
+CP015486.1	Genbank	gene	4159	5976	.	-	.	ID=gene-SG90_019765;Name=SG90_019765;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SG90_019765
+CP015486.1	Genbank	CDS	4159	5976	.	-	0	ID=cds-ANB90645.1;Parent=gene-SG90_019765;Dbxref=NCBI_GP:ANB90645.1;Name=ANB90645.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_005207484.1;locus_tag=SG90_019765;product=hypothetical protein;protein_id=ANB90645.1;transl_table=11
+CP015486.1	Genbank	gene	5977	6216	.	-	.	ID=gene-SG90_019770;Name=SG90_019770;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SG90_019770
+CP015486.1	Genbank	CDS	5977	6216	.	-	0	ID=cds-ANB90646.1;Parent=gene-SG90_019770;Dbxref=NCBI_GP:ANB90646.1;Name=ANB90646.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000510443.1;locus_tag=SG90_019770;product=hypothetical protein;protein_id=ANB90646.1;transl_table=11
+CP015486.1	Genbank	gene	6217	7110	.	-	.	ID=gene-SG90_019775;Name=SG90_019775;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SG90_019775
+CP015486.1	Genbank	CDS	6217	7110	.	-	0	ID=cds-ANB90647.1;Parent=gene-SG90_019775;Dbxref=NCBI_GP:ANB90647.1;Name=ANB90647.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_005207487.1;locus_tag=SG90_019775;product=integrase;protein_id=ANB90647.1;transl_table=11
+CP015486.1	Genbank	gene	8318	9268	.	+	.	ID=gene-SG90_019780;Name=SG90_019780;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SG90_019780
+CP015486.1	Genbank	CDS	8318	9268	.	+	0	ID=cds-ANB90648.1;Parent=gene-SG90_019780;Dbxref=NCBI_GP:ANB90648.1;Name=ANB90648.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=SG90_019780;product=DNA replication protein;protein_id=ANB90648.1;transl_table=11
+CP015486.1	Genbank	gene	9261	9836	.	+	.	ID=gene-SG90_019785;Name=SG90_019785;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SG90_019785
+CP015486.1	Genbank	CDS	9261	9836	.	+	0	ID=cds-ANB90649.1;Parent=gene-SG90_019785;Dbxref=NCBI_GP:ANB90649.1;Name=ANB90649.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=SG90_019785;product=DNA replication protein;protein_id=ANB90649.1;transl_table=11
+CP015486.1	Genbank	gene	10184	10957	.	-	.	ID=gene-SG90_019790;Name=SG90_019790;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SG90_019790
+CP015486.1	Genbank	CDS	10184	10957	.	-	0	ID=cds-ANB90650.1;Parent=gene-SG90_019790;Dbxref=NCBI_GP:ANB90650.1;Name=ANB90650.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_004942631.1;locus_tag=SG90_019790;product=alpha/beta hydrolase;protein_id=ANB90650.1;transl_table=11
+CP015486.1	Genbank	gene	11267	11554	.	+	.	ID=gene-SG90_019795;Name=SG90_019795;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SG90_019795
+CP015486.1	Genbank	CDS	11267	11554	.	+	0	ID=cds-ANB90651.1;Parent=gene-SG90_019795;Dbxref=NCBI_GP:ANB90651.1;Name=ANB90651.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=SG90_019795;product=hypothetical protein;protein_id=ANB90651.1;transl_table=11
+CP015486.1	Genbank	gene	11541	11855	.	+	.	ID=gene-SG90_019800;Name=SG90_019800;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SG90_019800
+CP015486.1	Genbank	CDS	11541	11855	.	+	0	ID=cds-ANB90652.1;Parent=gene-SG90_019800;Dbxref=NCBI_GP:ANB90652.1;Name=ANB90652.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_006582675.1;locus_tag=SG90_019800;product=toxin-antitoxin system%2C antitoxin component;protein_id=ANB90652.1;transl_table=11
+CP015486.1	Genbank	gene	11950	12384	.	-	.	ID=gene-SG90_019805;Name=SG90_019805;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SG90_019805
+CP015486.1	Genbank	CDS	11950	12384	.	-	0	ID=cds-ANB90653.1;Parent=gene-SG90_019805;Dbxref=NCBI_GP:ANB90653.1;Name=ANB90653.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000780882.1;locus_tag=SG90_019805;product=transposase;protein_id=ANB90653.1;transl_table=11
+CP015486.1	Genbank	gene	12471	13040	.	-	.	ID=gene-SG90_019810;Name=SG90_019810;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SG90_019810
+CP015486.1	Genbank	CDS	12471	13040	.	-	0	ID=cds-ANB90654.1;Parent=gene-SG90_019810;Dbxref=NCBI_GP:ANB90654.1;Name=ANB90654.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_002037748.1;locus_tag=SG90_019810;product=transposase;protein_id=ANB90654.1;transl_table=11
+CP015486.1	Genbank	gene	13126	13956	.	+	.	ID=gene-SG90_019815;Name=SG90_019815;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SG90_019815
+CP015486.1	Genbank	CDS	13126	13956	.	+	0	ID=cds-ANB90655.1;Parent=gene-SG90_019815;Dbxref=NCBI_GP:ANB90655.1;Name=ANB90655.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_004647119.1;locus_tag=SG90_019815;product=class D beta-lactamase;protein_id=ANB90655.1;transl_table=11
+CP015486.1	Genbank	gene	14090	14659	.	+	.	ID=gene-SG90_019820;Name=SG90_019820;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SG90_019820
+CP015486.1	Genbank	CDS	14090	14659	.	+	0	ID=cds-ANB90656.1;Parent=gene-SG90_019820;Dbxref=NCBI_GP:ANB90656.1;Name=ANB90656.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_002037748.1;locus_tag=SG90_019820;product=transposase;protein_id=ANB90656.1;transl_table=11
+CP015486.1	Genbank	gene	14746	15180	.	+	.	ID=gene-SG90_019825;Name=SG90_019825;gbkey=Gene;gene_biotype=protein_coding;locus_tag=SG90_019825
+CP015486.1	Genbank	CDS	14746	15180	.	+	0	ID=cds-ANB90657.1;Parent=gene-SG90_019825;Dbxref=NCBI_GP:ANB90657.1;Name=ANB90657.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000780882.1;locus_tag=SG90_019825;product=transposase;protein_id=ANB90657.1;transl_table=11
+

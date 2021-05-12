@@ -1,0 +1,24 @@
+##sequence-region CP027124.1 1 8731
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP027124.1	Genbank	region	1	8731	.	+	.	ID=CP027124.1:1..8731;Dbxref=taxon:470;Is_circular=true;Name=unnamed3;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=unnamed3;strain=AR_0056
+CP027124.1	Genbank	gene	303	764	.	+	.	ID=gene-C7R87_0001;Name=C7R87_0001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_0001
+CP027124.1	Genbank	CDS	303	764	.	+	0	ID=cds-AVN07778.1;Parent=gene-C7R87_0001;Dbxref=NCBI_GP:AVN07778.1;Name=AVN07778.1;gbkey=CDS;locus_tag=C7R87_0001;product=hypothetical protein;protein_id=AVN07778.1;transl_table=11
+CP027124.1	Genbank	gene	1087	1260	.	-	.	ID=gene-C7R87_0002;Name=C7R87_0002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_0002
+CP027124.1	Genbank	CDS	1087	1260	.	-	0	ID=cds-AVN07779.1;Parent=gene-C7R87_0002;Dbxref=NCBI_GP:AVN07779.1;Name=AVN07779.1;gbkey=CDS;locus_tag=C7R87_0002;product=hypothetical protein;protein_id=AVN07779.1;transl_table=11
+CP027124.1	Genbank	gene	1260	1631	.	-	.	ID=gene-C7R87_0003;Name=C7R87_0003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_0003
+CP027124.1	Genbank	CDS	1260	1631	.	-	0	ID=cds-AVN07780.1;Parent=gene-C7R87_0003;Dbxref=NCBI_GP:AVN07780.1;Name=AVN07780.1;gbkey=CDS;locus_tag=C7R87_0003;product=hypothetical protein;protein_id=AVN07780.1;transl_table=11
+CP027124.1	Genbank	gene	2841	3791	.	+	.	ID=gene-C7R87_0004;Name=C7R87_0004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_0004
+CP027124.1	Genbank	CDS	2841	3791	.	+	0	ID=cds-AVN07781.1;Parent=gene-C7R87_0004;Dbxref=NCBI_GP:AVN07781.1;Name=AVN07781.1;gbkey=CDS;locus_tag=C7R87_0004;product=initiator Replication family protein;protein_id=AVN07781.1;transl_table=11
+CP027124.1	Genbank	gene	3784	4359	.	+	.	ID=gene-C7R87_0005;Name=C7R87_0005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_0005
+CP027124.1	Genbank	CDS	3784	4359	.	+	0	ID=cds-AVN07782.1;Parent=gene-C7R87_0005;Dbxref=NCBI_GP:AVN07782.1;Name=AVN07782.1;gbkey=CDS;locus_tag=C7R87_0005;product=putative dNA replication protein;protein_id=AVN07782.1;transl_table=11
+CP027124.1	Genbank	gene	4379	4522	.	+	.	ID=gene-C7R87_0006;Name=C7R87_0006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_0006
+CP027124.1	Genbank	CDS	4379	4522	.	+	0	ID=cds-AVN07783.1;Parent=gene-C7R87_0006;Dbxref=NCBI_GP:AVN07783.1;Name=AVN07783.1;gbkey=CDS;locus_tag=C7R87_0006;product=hypothetical protein;protein_id=AVN07783.1;transl_table=11
+CP027124.1	Genbank	gene	4711	5229	.	-	.	ID=gene-C7R87_0007;Name=C7R87_0007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_0007
+CP027124.1	Genbank	CDS	4711	5229	.	-	0	ID=cds-AVN07784.1;Parent=gene-C7R87_0007;Dbxref=NCBI_GP:AVN07784.1;Name=AVN07784.1;gbkey=CDS;locus_tag=C7R87_0007;product=nuclear pore complex subunit Nro1 family protein;protein_id=AVN07784.1;transl_table=11
+CP027124.1	Genbank	gene	5602	5889	.	+	.	ID=gene-C7R87_0008;Name=C7R87_0008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_0008
+CP027124.1	Genbank	CDS	5602	5889	.	+	0	ID=cds-AVN07785.1;Parent=gene-C7R87_0008;Dbxref=NCBI_GP:AVN07785.1;Name=AVN07785.1;gbkey=CDS;locus_tag=C7R87_0008;product=hypothetical protein;protein_id=AVN07785.1;transl_table=11
+CP027124.1	Genbank	gene	5882	6190	.	+	.	ID=gene-C7R87_0009;Name=C7R87_0009;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_0009
+CP027124.1	Genbank	CDS	5882	6190	.	+	0	ID=cds-AVN07786.1;Parent=gene-C7R87_0009;Dbxref=NCBI_GP:AVN07786.1;Name=AVN07786.1;gbkey=CDS;locus_tag=C7R87_0009;product=hypothetical protein;protein_id=AVN07786.1;transl_table=11
+CP027124.1	Genbank	gene	6318	8729	.	+	.	ID=gene-C7R87_0010;Name=C7R87_0010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_0010
+CP027124.1	Genbank	CDS	6318	8729	.	+	0	ID=cds-AVN07787.1;Parent=gene-C7R87_0010;Dbxref=NCBI_GP:AVN07787.1;Name=AVN07787.1;gbkey=CDS;locus_tag=C7R87_0010;product=tonB dependent receptor family protein;protein_id=AVN07787.1;transl_table=11
+

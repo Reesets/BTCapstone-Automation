@@ -1,0 +1,16 @@
+##sequence-region CP040052.1 1 5681
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP040052.1	Genbank	region	1	5681	.	+	.	ID=CP040052.1:1..5681;Dbxref=taxon:470;Is_circular=true;Name=unnamed2;collected-by=Christian Medical College;collection-date=2019;country=India;gbkey=Src;genome=plasmid;isolation-source=blood;lat-lon=12.9165 N 79.1325 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=unnamed2;strain=VB16141
+CP040052.1	Genbank	gene	256	1179	.	-	.	ID=gene-FDF20_20910;Name=FDF20_20910;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FDF20_20910
+CP040052.1	Protein Homology	CDS	256	1179	.	-	0	ID=cds-QCP33449.1;Parent=gene-FDF20_20910;Dbxref=NCBI_GP:QCP33449.1;Name=QCP33449.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005249378.1;locus_tag=FDF20_20910;product=MobA/MobL family protein;protein_id=QCP33449.1;transl_table=11
+CP040052.1	Genbank	gene	1617	2033	.	+	.	ID=gene-FDF20_20915;Name=FDF20_20915;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FDF20_20915
+CP040052.1	Protein Homology	CDS	1617	2033	.	+	0	ID=cds-QCP33450.1;Parent=gene-FDF20_20915;Dbxref=NCBI_GP:QCP33450.1;Name=QCP33450.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_002061210.1;locus_tag=FDF20_20915;product=conjugal transfer protein TraD;protein_id=QCP33450.1;transl_table=11
+CP040052.1	Genbank	gene	3183	3962	.	-	.	ID=gene-FDF20_20920;Name=FDF20_20920;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FDF20_20920
+CP040052.1	Protein Homology	CDS	3183	3962	.	-	0	ID=cds-QCP33451.1;Parent=gene-FDF20_20920;Dbxref=NCBI_GP:QCP33451.1;Name=QCP33451.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000422636.1;locus_tag=FDF20_20920;product=aminoglycoside O-phosphotransferase APH(3')-VIa;protein_id=QCP33451.1;transl_table=11
+CP040052.1	Genbank	gene	4898	5113	.	-	.	ID=gene-FDF20_20925;Name=FDF20_20925;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FDF20_20925
+CP040052.1	Protein Homology	CDS	4898	5113	.	-	0	ID=cds-QCP33452.1;Parent=gene-FDF20_20925;Dbxref=NCBI_GP:QCP33452.1;Name=QCP33452.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_002011639.1;locus_tag=FDF20_20925;product=hypothetical protein;protein_id=QCP33452.1;transl_table=11
+CP040052.1	Genbank	gene	5103	5399	.	-	.	ID=gene-FDF20_20930;Name=FDF20_20930;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FDF20_20930
+CP040052.1	Protein Homology	CDS	5103	5399	.	-	0	ID=cds-QCP33453.1;Parent=gene-FDF20_20930;Dbxref=NCBI_GP:QCP33453.1;Name=QCP33453.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_018680097.1;locus_tag=FDF20_20930;product=BrnT family toxin;protein_id=QCP33453.1;transl_table=11
+CP040052.1	Genbank	gene	5440	5940	.	-	.	ID=gene-FDF20_20905;Name=FDF20_20905;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FDF20_20905
+CP040052.1	Protein Homology	CDS	5440	5940	.	-	0	ID=cds-QCP33454.1;Parent=gene-FDF20_20905;Dbxref=NCBI_GP:QCP33454.1;Name=QCP33454.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_018680098.1;locus_tag=FDF20_20905;product=hypothetical protein;protein_id=QCP33454.1;transl_table=11
+

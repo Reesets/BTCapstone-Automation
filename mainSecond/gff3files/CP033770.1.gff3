@@ -1,0 +1,16 @@
+##sequence-region CP033770.1 1 6078
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP033770.1	Genbank	region	1	6078	.	+	.	ID=CP033770.1:1..6078;Dbxref=taxon:470;Is_circular=true;Name=unnamed2;collected-by=Children's National Hospital;collection-date=15-Apr-2016;culture-collection=FDA:FDAARGOS_533;gbkey=Src;genome=plasmid;isolation-source=Sputum;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=unnamed2;strain=FDAARGOS_533
+CP033770.1	Genbank	gene	1638	2045	.	-	.	ID=gene-EGX83_18650;Name=mobC;gbkey=Gene;gene=mobC;gene_biotype=protein_coding;locus_tag=EGX83_18650
+CP033770.1	Protein Homology	CDS	1638	2045	.	-	0	ID=cds-AYY55252.1;Parent=gene-EGX83_18650;Dbxref=NCBI_GP:AYY55252.1;Name=AYY55252.1;gbkey=CDS;gene=mobC;inference=COORDINATES: similar to AA sequence:RefSeq:WP_017482451.1;locus_tag=EGX83_18650;product=plasmid mobilization relaxosome protein MobC;protein_id=AYY55252.1;transl_table=11
+CP033770.1	Genbank	gene	3048	3734	.	+	.	ID=gene-EGX83_18655;Name=EGX83_18655;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGX83_18655
+CP033770.1	Protein Homology	CDS	3048	3734	.	+	0	ID=cds-AYY55253.1;Parent=gene-EGX83_18655;Dbxref=NCBI_GP:AYY55253.1;Name=AYY55253.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004986708.1;locus_tag=EGX83_18655;product=hypothetical protein;protein_id=AYY55253.1;transl_table=11
+CP033770.1	Genbank	gene	3825	4358	.	+	.	ID=gene-EGX83_18660;Name=aadB;gbkey=Gene;gene=aadB;gene_biotype=protein_coding;locus_tag=EGX83_18660
+CP033770.1	Protein Homology	CDS	3825	4358	.	+	0	ID=cds-AYY55257.1;Parent=gene-EGX83_18660;Dbxref=NCBI_GP:AYY55257.1;Name=AYY55257.1;gbkey=CDS;gene=aadB;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000381802.1;locus_tag=EGX83_18660;product=aminoglycoside nucleotidyltransferase ANT(2'')-Ia;protein_id=AYY55257.1;transl_table=11
+CP033770.1	Genbank	gene	4517	5185	.	-	.	ID=gene-EGX83_18665;Name=EGX83_18665;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGX83_18665
+CP033770.1	Protein Homology	CDS	4517	5185	.	-	0	ID=cds-AYY55254.1;Parent=gene-EGX83_18665;Dbxref=NCBI_GP:AYY55254.1;Name=AYY55254.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000423610.1;locus_tag=EGX83_18665;product=CAAX protease;protein_id=AYY55254.1;transl_table=11
+CP033770.1	Genbank	gene	5318	5863	.	-	.	ID=gene-EGX83_18670;Name=EGX83_18670;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGX83_18670
+CP033770.1	Protein Homology	CDS	5318	5863	.	-	0	ID=cds-AYY55255.1;Parent=gene-EGX83_18670;Dbxref=NCBI_GP:AYY55255.1;Name=AYY55255.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_010589060.1;locus_tag=EGX83_18670;product=hypothetical protein;protein_id=AYY55255.1;transl_table=11
+CP033770.1	Genbank	gene	5912	7726	.	-	.	ID=gene-EGX83_18645;Name=EGX83_18645;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EGX83_18645
+CP033770.1	Protein Homology	CDS	5912	7726	.	-	0	ID=cds-AYY55256.1;Parent=gene-EGX83_18645;Dbxref=NCBI_GP:AYY55256.1;Name=AYY55256.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000634474.1;locus_tag=EGX83_18645;product=mobilization protein;protein_id=AYY55256.1;transl_table=11
+

@@ -1,0 +1,8 @@
+##sequence-region NZ_CP050396.1 1 1359
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_CP050396.1	RefSeq	region	1	1359	.	+	.	ID=NZ_CP050396.1:1..1359;Dbxref=taxon:470;Is_circular=true;Name=pVB11737_5;collected-by=Christian Medical College;collection-date=2019;country=India;gbkey=Src;genome=plasmid;isolation-source=blood;lat-lon=12.9246 N 79.1348 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pVB11737_5;strain=VB11737
+NZ_CP050396.1	RefSeq	gene	20	835	.	+	.	ID=gene-HBM80_RS00535;Name=sul2;gbkey=Gene;gene=sul2;gene_biotype=protein_coding;locus_tag=HBM80_RS00535;old_locus_tag=HBM80_00535
+NZ_CP050396.1	Protein Homology	CDS	20	835	.	+	0	ID=cds-WP_001043260.1;Parent=gene-HBM80_RS00535;Dbxref=Genbank:WP_001043260.1;Name=WP_001043260.1;gbkey=CDS;gene=sul2;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001043260.1;locus_tag=HBM80_RS00535;product=sulfonamide-resistant dihydropteroate synthase Sul2;protein_id=WP_001043260.1;transl_table=11
+NZ_CP050396.1	RefSeq	gene	922	1224	.	+	.	ID=gene-HBM80_RS00540;Name=HBM80_RS00540;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBM80_RS00540;old_locus_tag=HBM80_00540
+NZ_CP050396.1	Protein Homology	CDS	922	1224	.	+	0	ID=cds-WP_000251875.1;Parent=gene-HBM80_RS00540;Dbxref=Genbank:WP_000251875.1;Name=WP_000251875.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_017831680.1;locus_tag=HBM80_RS00540;product=phosphoglucosamine mutase;protein_id=WP_000251875.1;transl_table=11
+

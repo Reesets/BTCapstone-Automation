@@ -1,0 +1,24 @@
+##sequence-region CP050393.1 1 8731
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP050393.1	Genbank	region	1	8731	.	+	.	ID=CP050393.1:1..8731;Dbxref=taxon:470;Is_circular=true;Name=pVB11737_2;collected-by=Christian Medical College;collection-date=2019;country=India;gbkey=Src;genome=plasmid;isolation-source=blood;lat-lon=12.9246 N 79.1348 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pVB11737_2;strain=VB11737
+CP050393.1	Genbank	gene	1	951	.	+	.	ID=gene-HBM80_00455;Name=HBM80_00455;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBM80_00455
+CP050393.1	Protein Homology	CDS	1	951	.	+	0	ID=cds-QJH08912.1;Parent=gene-HBM80_00455;Dbxref=NCBI_GP:QJH08912.1;Name=QJH08912.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=HBM80_00455;product=replication initiation protein;protein_id=QJH08912.1;transl_table=11
+CP050393.1	Genbank	gene	944	1519	.	+	.	ID=gene-HBM80_00460;Name=HBM80_00460;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBM80_00460
+CP050393.1	Protein Homology	CDS	944	1519	.	+	0	ID=cds-QJH08913.1;Parent=gene-HBM80_00460;Dbxref=NCBI_GP:QJH08913.1;Name=QJH08913.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=HBM80_00460;product=helix-turn-helix domain-containing protein;protein_id=QJH08913.1;transl_table=11
+CP050393.1	Genbank	gene	1539	1682	.	+	.	ID=gene-HBM80_00465;Name=HBM80_00465;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBM80_00465
+CP050393.1	Protein Homology	CDS	1539	1682	.	+	0	ID=cds-QJH08914.1;Parent=gene-HBM80_00465;Dbxref=NCBI_GP:QJH08914.1;Name=QJH08914.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786602.1;locus_tag=HBM80_00465;product=hypothetical protein;protein_id=QJH08914.1;transl_table=11
+CP050393.1	Genbank	gene	1871	2389	.	-	.	ID=gene-HBM80_00470;Name=HBM80_00470;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBM80_00470
+CP050393.1	Protein Homology	CDS	1871	2389	.	-	0	ID=cds-QJH08921.1;Parent=gene-HBM80_00470;Dbxref=NCBI_GP:QJH08921.1;Name=QJH08921.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=HBM80_00470;product=sel1 repeat family protein;protein_id=QJH08921.1;transl_table=11
+CP050393.1	Genbank	gene	2762	3049	.	+	.	ID=gene-HBM80_00475;Name=HBM80_00475;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBM80_00475
+CP050393.1	Protein Homology	CDS	2762	3049	.	+	0	ID=cds-QJH08915.1;Parent=gene-HBM80_00475;Dbxref=NCBI_GP:QJH08915.1;Name=QJH08915.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=HBM80_00475;product=BrnT family toxin;protein_id=QJH08915.1;transl_table=11
+CP050393.1	Genbank	gene	3036	3350	.	+	.	ID=gene-HBM80_00480;Name=HBM80_00480;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBM80_00480
+CP050393.1	Protein Homology	CDS	3036	3350	.	+	0	ID=cds-QJH08916.1;Parent=gene-HBM80_00480;Dbxref=NCBI_GP:QJH08916.1;Name=QJH08916.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_006582675.1;locus_tag=HBM80_00480;product=BrnA antitoxin family protein;protein_id=QJH08916.1;transl_table=11
+CP050393.1	Genbank	gene	3478	5889	.	+	.	ID=gene-HBM80_00485;Name=HBM80_00485;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBM80_00485
+CP050393.1	Protein Homology	CDS	3478	5889	.	+	0	ID=cds-QJH08917.1;Parent=gene-HBM80_00485;Dbxref=NCBI_GP:QJH08917.1;Name=QJH08917.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=HBM80_00485;product=TonB-dependent receptor;protein_id=QJH08917.1;transl_table=11
+CP050393.1	Genbank	gene	6194	6655	.	+	.	ID=gene-HBM80_00490;Name=HBM80_00490;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBM80_00490
+CP050393.1	Protein Homology	CDS	6194	6655	.	+	0	ID=cds-QJH08918.1;Parent=gene-HBM80_00490;Dbxref=NCBI_GP:QJH08918.1;Name=QJH08918.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004781077.1;locus_tag=HBM80_00490;product=DIP1984 family protein;protein_id=QJH08918.1;transl_table=11
+CP050393.1	Genbank	gene	6978	7151	.	-	.	ID=gene-HBM80_00495;Name=HBM80_00495;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBM80_00495
+CP050393.1	Protein Homology	CDS	6978	7151	.	-	0	ID=cds-QJH08919.1;Parent=gene-HBM80_00495;Dbxref=NCBI_GP:QJH08919.1;Name=QJH08919.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001282484.1;locus_tag=HBM80_00495;product=hypothetical protein;protein_id=QJH08919.1;transl_table=11
+CP050393.1	Genbank	gene	7151	7522	.	-	.	ID=gene-HBM80_00500;Name=HBM80_00500;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBM80_00500
+CP050393.1	Protein Homology	CDS	7151	7522	.	-	0	ID=cds-QJH08920.1;Parent=gene-HBM80_00500;Dbxref=NCBI_GP:QJH08920.1;Name=QJH08920.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=HBM80_00500;product=hypothetical protein;protein_id=QJH08920.1;transl_table=11
+

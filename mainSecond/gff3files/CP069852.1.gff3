@@ -1,0 +1,24 @@
+##sequence-region CP069852.1 1 8731
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP069852.1	Genbank	region	1	8731	.	+	.	ID=CP069852.1:1..8731;Dbxref=taxon:470;Is_circular=true;Name=unnamed;collected-by=FDA-Stanford Microbiome Effort;country=USA: MD;culture-collection=FDA:FDAARGOS_1359;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=unnamed;strain=FDAARGOS_1359
+CP069852.1	Genbank	gene	21	2432	.	-	.	ID=gene-I6K89_18475;Name=znuD2;gbkey=Gene;gene=znuD2;gene_biotype=protein_coding;locus_tag=I6K89_18475
+CP069852.1	Protein Homology	CDS	21	2432	.	-	0	ID=cds-QRR71170.1;Parent=gene-I6K89_18475;Dbxref=NCBI_GP:QRR71170.1;Name=QRR71170.1;gbkey=CDS;gene=znuD2;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000932945.1;locus_tag=I6K89_18475;product=TonB-dependent receptor ZnuD2;protein_id=QRR71170.1;transl_table=11
+CP069852.1	Genbank	gene	2560	2874	.	-	.	ID=gene-I6K89_18480;Name=I6K89_18480;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6K89_18480
+CP069852.1	Protein Homology	CDS	2560	2874	.	-	0	ID=cds-QRR71171.1;Parent=gene-I6K89_18480;Dbxref=NCBI_GP:QRR71171.1;Name=QRR71171.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_006582675.1;locus_tag=I6K89_18480;product=BrnA antitoxin family protein;protein_id=QRR71171.1;transl_table=11
+CP069852.1	Genbank	gene	2861	3148	.	-	.	ID=gene-I6K89_18485;Name=I6K89_18485;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6K89_18485
+CP069852.1	Protein Homology	CDS	2861	3148	.	-	0	ID=cds-QRR71172.1;Parent=gene-I6K89_18485;Dbxref=NCBI_GP:QRR71172.1;Name=QRR71172.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=I6K89_18485;product=BrnT family toxin;protein_id=QRR71172.1;transl_table=11
+CP069852.1	Genbank	gene	3521	4039	.	+	.	ID=gene-I6K89_18490;Name=I6K89_18490;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6K89_18490
+CP069852.1	Protein Homology	CDS	3521	4039	.	+	0	ID=cds-QRR71174.1;Parent=gene-I6K89_18490;Dbxref=NCBI_GP:QRR71174.1;Name=QRR71174.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=I6K89_18490;product=sel1 repeat family protein;protein_id=QRR71174.1;transl_table=11
+CP069852.1	Genbank	gene	4228	4371	.	-	.	ID=gene-I6K89_18495;Name=I6K89_18495;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6K89_18495
+CP069852.1	Protein Homology	CDS	4228	4371	.	-	0	ID=cds-QRR71173.1;Parent=gene-I6K89_18495;Dbxref=NCBI_GP:QRR71173.1;Name=QRR71173.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786602.1;locus_tag=I6K89_18495;product=hypothetical protein;protein_id=QRR71173.1;transl_table=11
+CP069852.1	Genbank	gene	4391	4966	.	-	.	ID=gene-I6K89_18500;Name=I6K89_18500;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6K89_18500
+CP069852.1	Protein Homology	CDS	4391	4966	.	-	0	ID=cds-QRR71165.1;Parent=gene-I6K89_18500;Dbxref=NCBI_GP:QRR71165.1;Name=QRR71165.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=I6K89_18500;product=helix-turn-helix domain-containing protein;protein_id=QRR71165.1;transl_table=11
+CP069852.1	Genbank	gene	4959	5909	.	-	.	ID=gene-I6K89_18505;Name=repM;gbkey=Gene;gene=repM;gene_biotype=protein_coding;locus_tag=I6K89_18505
+CP069852.1	Protein Homology	CDS	4959	5909	.	-	0	ID=cds-QRR71166.1;Parent=gene-I6K89_18505;Dbxref=NCBI_GP:QRR71166.1;Name=QRR71166.1;gbkey=CDS;gene=repM;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=I6K89_18505;product=replication initiation protein RepM;protein_id=QRR71166.1;transl_table=11
+CP069852.1	Genbank	gene	7119	7490	.	+	.	ID=gene-I6K89_18510;Name=I6K89_18510;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6K89_18510
+CP069852.1	Protein Homology	CDS	7119	7490	.	+	0	ID=cds-QRR71167.1;Parent=gene-I6K89_18510;Dbxref=NCBI_GP:QRR71167.1;Name=QRR71167.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=I6K89_18510;product=hypothetical protein;protein_id=QRR71167.1;transl_table=11
+CP069852.1	Genbank	gene	7490	7663	.	+	.	ID=gene-I6K89_18515;Name=I6K89_18515;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6K89_18515
+CP069852.1	Protein Homology	CDS	7490	7663	.	+	0	ID=cds-QRR71168.1;Parent=gene-I6K89_18515;Dbxref=NCBI_GP:QRR71168.1;Name=QRR71168.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001282484.1;locus_tag=I6K89_18515;product=hypothetical protein;protein_id=QRR71168.1;transl_table=11
+CP069852.1	Genbank	gene	7986	8447	.	-	.	ID=gene-I6K89_18520;Name=I6K89_18520;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6K89_18520
+CP069852.1	Protein Homology	CDS	7986	8447	.	-	0	ID=cds-QRR71169.1;Parent=gene-I6K89_18520;Dbxref=NCBI_GP:QRR71169.1;Name=QRR71169.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004781077.1;locus_tag=I6K89_18520;product=DIP1984 family protein;protein_id=QRR71169.1;transl_table=11
+

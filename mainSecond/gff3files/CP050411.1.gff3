@@ -1,0 +1,24 @@
+##sequence-region CP050411.1 1 8731
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP050411.1	Genbank	region	1	8731	.	+	.	ID=CP050411.1:1..8731;Dbxref=taxon:470;Is_circular=true;Name=pPM192235_1;collected-by=AIIMS Jai Prakash Narayan Apex Trauma Center;collection-date=2019;country=India;gbkey=Src;genome=plasmid;isolation-source=Pus;lat-lon=28.5659 N 77.2111 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pPM192235_1;strain=PM1912235
+CP050411.1	Genbank	gene	1	951	.	+	.	ID=gene-HB365_18710;Name=HB365_18710;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB365_18710
+CP050411.1	Protein Homology	CDS	1	951	.	+	0	ID=cds-QJG93743.1;Parent=gene-HB365_18710;Dbxref=NCBI_GP:QJG93743.1;Name=QJG93743.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=HB365_18710;product=replication initiation protein;protein_id=QJG93743.1;transl_table=11
+CP050411.1	Genbank	gene	944	1519	.	+	.	ID=gene-HB365_18715;Name=HB365_18715;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB365_18715
+CP050411.1	Protein Homology	CDS	944	1519	.	+	0	ID=cds-QJG93744.1;Parent=gene-HB365_18715;Dbxref=NCBI_GP:QJG93744.1;Name=QJG93744.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=HB365_18715;product=helix-turn-helix domain-containing protein;protein_id=QJG93744.1;transl_table=11
+CP050411.1	Genbank	gene	1539	1682	.	+	.	ID=gene-HB365_18720;Name=HB365_18720;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB365_18720
+CP050411.1	Protein Homology	CDS	1539	1682	.	+	0	ID=cds-QJG93745.1;Parent=gene-HB365_18720;Dbxref=NCBI_GP:QJG93745.1;Name=QJG93745.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786602.1;locus_tag=HB365_18720;product=hypothetical protein;protein_id=QJG93745.1;transl_table=11
+CP050411.1	Genbank	gene	1871	2389	.	-	.	ID=gene-HB365_18725;Name=HB365_18725;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB365_18725
+CP050411.1	Protein Homology	CDS	1871	2389	.	-	0	ID=cds-QJG93752.1;Parent=gene-HB365_18725;Dbxref=NCBI_GP:QJG93752.1;Name=QJG93752.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=HB365_18725;product=sel1 repeat family protein;protein_id=QJG93752.1;transl_table=11
+CP050411.1	Genbank	gene	2762	3049	.	+	.	ID=gene-HB365_18730;Name=HB365_18730;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB365_18730
+CP050411.1	Protein Homology	CDS	2762	3049	.	+	0	ID=cds-QJG93746.1;Parent=gene-HB365_18730;Dbxref=NCBI_GP:QJG93746.1;Name=QJG93746.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=HB365_18730;product=BrnT family toxin;protein_id=QJG93746.1;transl_table=11
+CP050411.1	Genbank	gene	3036	3350	.	+	.	ID=gene-HB365_18735;Name=HB365_18735;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB365_18735
+CP050411.1	Protein Homology	CDS	3036	3350	.	+	0	ID=cds-QJG93747.1;Parent=gene-HB365_18735;Dbxref=NCBI_GP:QJG93747.1;Name=QJG93747.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_006582675.1;locus_tag=HB365_18735;product=BrnA antitoxin family protein;protein_id=QJG93747.1;transl_table=11
+CP050411.1	Genbank	gene	3478	5889	.	+	.	ID=gene-HB365_18740;Name=HB365_18740;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB365_18740
+CP050411.1	Protein Homology	CDS	3478	5889	.	+	0	ID=cds-QJG93748.1;Parent=gene-HB365_18740;Dbxref=NCBI_GP:QJG93748.1;Name=QJG93748.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=HB365_18740;product=TonB-dependent receptor;protein_id=QJG93748.1;transl_table=11
+CP050411.1	Genbank	gene	6194	6655	.	+	.	ID=gene-HB365_18745;Name=HB365_18745;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB365_18745
+CP050411.1	Protein Homology	CDS	6194	6655	.	+	0	ID=cds-QJG93749.1;Parent=gene-HB365_18745;Dbxref=NCBI_GP:QJG93749.1;Name=QJG93749.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004781077.1;locus_tag=HB365_18745;product=DIP1984 family protein;protein_id=QJG93749.1;transl_table=11
+CP050411.1	Genbank	gene	6978	7151	.	-	.	ID=gene-HB365_18750;Name=HB365_18750;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB365_18750
+CP050411.1	Protein Homology	CDS	6978	7151	.	-	0	ID=cds-QJG93750.1;Parent=gene-HB365_18750;Dbxref=NCBI_GP:QJG93750.1;Name=QJG93750.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001282484.1;locus_tag=HB365_18750;product=hypothetical protein;protein_id=QJG93750.1;transl_table=11
+CP050411.1	Genbank	gene	7151	7522	.	-	.	ID=gene-HB365_18755;Name=HB365_18755;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB365_18755
+CP050411.1	Protein Homology	CDS	7151	7522	.	-	0	ID=cds-QJG93751.1;Parent=gene-HB365_18755;Dbxref=NCBI_GP:QJG93751.1;Name=QJG93751.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=HB365_18755;product=hypothetical protein;protein_id=QJG93751.1;transl_table=11
+

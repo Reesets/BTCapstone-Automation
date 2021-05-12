@@ -1,0 +1,24 @@
+##sequence-region CP020575.1 1 8718
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP020575.1	Genbank	region	1	8718	.	+	.	ID=CP020575.1:1..8718;Dbxref=taxon:470;Is_circular=true;Name=p15A5_2;collected-by=KARMS;collection-date=2013-01;country=South Korea;gbkey=Src;genome=plasmid;isolation-source=Pulmonary;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=p15A5_2;strain=15A5
+CP020575.1	Genbank	gene	802	1047	.	+	.	ID=gene-B6S64_19540;Name=B6S64_19540;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B6S64_19540
+CP020575.1	Protein Homology	CDS	802	1047	.	+	0	ID=cds-ARF94637.1;Parent=gene-B6S64_19540;Dbxref=NCBI_GP:ARF94637.1;Name=ARF94637.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_012576333.1;locus_tag=B6S64_19540;product=hypothetical protein;protein_id=ARF94637.1;transl_table=11
+CP020575.1	Genbank	pseudogene	1169	1416	.	+	.	ID=gene-B6S64_19545;Name=B6S64_19545;gbkey=Gene;gene_biotype=pseudogene;locus_tag=B6S64_19545;pseudo=true
+CP020575.1	Protein Homology	CDS	1169	1416	.	+	0	ID=cds-B6S64_19545;Parent=gene-B6S64_19545;Note=frameshifted;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001014301.1;locus_tag=B6S64_19545;product=hypothetical protein;pseudo=true;transl_table=11
+CP020575.1	Genbank	gene	1693	2064	.	+	.	ID=gene-B6S64_19550;Name=B6S64_19550;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B6S64_19550
+CP020575.1	Protein Homology	CDS	1693	2064	.	+	0	ID=cds-ARF94638.1;Parent=gene-B6S64_19550;Dbxref=NCBI_GP:ARF94638.1;Name=ARF94638.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=B6S64_19550;product=hypothetical protein;protein_id=ARF94638.1;transl_table=11
+CP020575.1	Genbank	gene	2560	3021	.	-	.	ID=gene-B6S64_19555;Name=B6S64_19555;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B6S64_19555
+CP020575.1	Protein Homology	CDS	2560	3021	.	-	0	ID=cds-ARF94639.1;Parent=gene-B6S64_19555;Dbxref=NCBI_GP:ARF94639.1;Name=ARF94639.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004781077.1;locus_tag=B6S64_19555;product=septicolysin;protein_id=ARF94639.1;transl_table=11
+CP020575.1	Genbank	gene	3326	5737	.	-	.	ID=gene-B6S64_19560;Name=B6S64_19560;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B6S64_19560
+CP020575.1	Protein Homology	CDS	3326	5737	.	-	0	ID=cds-ARF94640.1;Parent=gene-B6S64_19560;Dbxref=NCBI_GP:ARF94640.1;Name=ARF94640.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=B6S64_19560;product=hypothetical protein;protein_id=ARF94640.1;transl_table=11
+CP020575.1	Genbank	gene	5865	6179	.	-	.	ID=gene-B6S64_19565;Name=B6S64_19565;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B6S64_19565
+CP020575.1	Protein Homology	CDS	5865	6179	.	-	0	ID=cds-ARF94641.1;Parent=gene-B6S64_19565;Dbxref=NCBI_GP:ARF94641.1;Name=ARF94641.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_006582675.1;locus_tag=B6S64_19565;product=toxin-antitoxin system%2C antitoxin component;protein_id=ARF94641.1;transl_table=11
+CP020575.1	Genbank	gene	6166	6453	.	-	.	ID=gene-B6S64_19570;Name=B6S64_19570;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B6S64_19570
+CP020575.1	Protein Homology	CDS	6166	6453	.	-	0	ID=cds-ARF94642.1;Parent=gene-B6S64_19570;Dbxref=NCBI_GP:ARF94642.1;Name=ARF94642.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=B6S64_19570;product=hypothetical protein;protein_id=ARF94642.1;transl_table=11
+CP020575.1	Genbank	gene	6825	7343	.	+	.	ID=gene-B6S64_19575;Name=B6S64_19575;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B6S64_19575
+CP020575.1	Protein Homology	CDS	6825	7343	.	+	0	ID=cds-ARF94643.1;Parent=gene-B6S64_19575;Dbxref=NCBI_GP:ARF94643.1;Name=ARF94643.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=B6S64_19575;product=hypothetical protein;protein_id=ARF94643.1;transl_table=11
+CP020575.1	Genbank	pseudogene	7694	8264	.	-	.	ID=gene-B6S64_19580;Name=B6S64_19580;gbkey=Gene;gene_biotype=pseudogene;locus_tag=B6S64_19580;pseudo=true
+CP020575.1	Protein Homology	CDS	7694	8264	.	-	0	ID=cds-B6S64_19580;Parent=gene-B6S64_19580;Note=frameshifted;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=B6S64_19580;product=DNA-binding protein;pseudo=true;transl_table=11
+CP020575.1	Genbank	pseudogene	8246	9203	.	-	.	ID=gene-B6S64_19535;Name=B6S64_19535;gbkey=Gene;gene_biotype=pseudogene;locus_tag=B6S64_19535;pseudo=true
+CP020575.1	Protein Homology	CDS	8246	9203	.	-	0	ID=cds-B6S64_19535;Parent=gene-B6S64_19535;Note=frameshifted;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005021644.1;locus_tag=B6S64_19535;product=RepB family plasmid replication initiator protein;pseudo=true;transl_table=11
+

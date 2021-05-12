@@ -1,0 +1,18 @@
+##sequence-region CP038649.1 1 7396
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP038649.1	Genbank	region	1	7396	.	+	.	ID=CP038649.1:1..7396;Dbxref=taxon:470;Is_circular=true;Name=unnamed5;collected-by=Sir Ganga Ram hospital;collection-date=2018;country=India;gbkey=Src;genome=plasmid;isolation-source=blood;lat-lon=28.4020 N 76.8260 E;mol_type=genomic DNA;nat-host=Homosapiens;plasmid-name=unnamed5;strain=ACN21
+CP038649.1	Genbank	pseudogene	8	1260	.	+	.	ID=gene-E5D09_19450;Name=E5D09_19450;gbkey=Gene;gene_biotype=pseudogene;locus_tag=E5D09_19450;pseudo=true
+CP038649.1	Protein Homology	CDS	8	1260	.	+	0	ID=cds-E5D09_19450;Parent=gene-E5D09_19450;Note=frameshifted%3B internal stop%3B incomplete%3B partial on complete genome%3B missing N-terminus;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000634474.1;locus_tag=E5D09_19450;product=mobilization protein;pseudo=true;transl_table=11
+CP038649.1	Genbank	pseudogene	1309	1855	.	+	.	ID=gene-E5D09_19455;Name=E5D09_19455;gbkey=Gene;gene_biotype=pseudogene;locus_tag=E5D09_19455;pseudo=true
+CP038649.1	Protein Homology	CDS	1309	1855	.	+	0	ID=cds-E5D09_19455;Parent=gene-E5D09_19455;Note=frameshifted;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_010589060.1;locus_tag=E5D09_19455;product=hypothetical protein;pseudo=true;transl_table=11
+CP038649.1	Genbank	pseudogene	1988	2657	.	+	.	ID=gene-E5D09_19460;Name=E5D09_19460;gbkey=Gene;gene_biotype=pseudogene;locus_tag=E5D09_19460;pseudo=true
+CP038649.1	Protein Homology	CDS	1988	2657	.	+	0	ID=cds-E5D09_19460;Parent=gene-E5D09_19460;Note=frameshifted;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000423610.1;locus_tag=E5D09_19460;product=CAAX protease;pseudo=true;transl_table=11
+CP038649.1	Genbank	gene	2816	3352	.	-	.	ID=gene-E5D09_19465;Name=aadB;gbkey=Gene;gene=aadB;gene_biotype=protein_coding;locus_tag=E5D09_19465
+CP038649.1	Protein Homology	CDS	2816	3352	.	-	0	ID=cds-QBY91637.1;Parent=gene-E5D09_19465;Dbxref=NCBI_GP:QBY91637.1;Name=QBY91637.1;gbkey=CDS;gene=aadB;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000381802.1;locus_tag=E5D09_19465;product=aminoglycoside nucleotidyltransferase ANT(2'')-Ia;protein_id=QBY91637.1;transl_table=11
+CP038649.1	Genbank	pseudogene	3443	4132	.	-	.	ID=gene-E5D09_19470;Name=E5D09_19470;gbkey=Gene;gene_biotype=pseudogene;locus_tag=E5D09_19470;pseudo=true
+CP038649.1	Protein Homology	CDS	3443	4132	.	-	0	ID=cds-E5D09_19470;Parent=gene-E5D09_19470;Note=frameshifted;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004986708.1;locus_tag=E5D09_19470;product=hypothetical protein;pseudo=true;transl_table=11
+CP038649.1	Genbank	gene	5140	5541	.	+	.	ID=gene-E5D09_19475;Name=mobC;gbkey=Gene;gene=mobC;gene_biotype=protein_coding;locus_tag=E5D09_19475
+CP038649.1	Protein Homology	CDS	5140	5541	.	+	0	ID=cds-QBY91636.1;Parent=gene-E5D09_19475;Dbxref=NCBI_GP:QBY91636.1;Name=QBY91636.1;gbkey=CDS;gene=mobC;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005163993.1;locus_tag=E5D09_19475;product=plasmid mobilization relaxosome protein MobC;protein_id=QBY91636.1;transl_table=11
+CP038649.1	Genbank	pseudogene	5538	7353	.	+	.	ID=gene-E5D09_19480;Name=E5D09_19480;gbkey=Gene;gene_biotype=pseudogene;locus_tag=E5D09_19480;pseudo=true
+CP038649.1	Protein Homology	CDS	5538	7353	.	+	0	ID=cds-E5D09_19480;Parent=gene-E5D09_19480;Note=frameshifted;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000634474.1;locus_tag=E5D09_19480;product=mobilization protein;pseudo=true;transl_table=11
+

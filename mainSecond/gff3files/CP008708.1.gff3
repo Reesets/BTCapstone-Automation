@@ -1,0 +1,31 @@
+##sequence-region CP008708.1 1 8731
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP008708.1	Genbank	region	1	8731	.	+	.	ID=CP008708.1:1..8731;Dbxref=taxon:470;Is_circular=true;Name=p2AB5075;collection-date=2008;country=USA;gbkey=Src;genome=plasmid;isolation-source=Tibia/Osteomyelitis;mol_type=genomic DNA;nat-host=diabetes patient;plasmid-name=p2AB5075;strain=AB5075-UW
+CP008708.1	Genbank	gene	1	951	.	+	.	ID=gene-ABUW_5001;Name=repAci1;gbkey=Gene;gene=repAci1;gene_biotype=protein_coding;locus_tag=ABUW_5001
+CP008708.1	Genbank	CDS	1	951	.	+	0	ID=cds-AKA33680.1;Parent=gene-ABUW_5001;Dbxref=NCBI_GP:AKA33680.1;Name=AKA33680.1;gbkey=CDS;gene=repAci1;locus_tag=ABUW_5001;product=DNA replication protein;protein_id=AKA33680.1;transl_table=11
+CP008708.1	Genbank	gene	944	1519	.	+	.	ID=gene-ABUW_5002;Name=ABUW_5002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABUW_5002
+CP008708.1	Genbank	CDS	944	1519	.	+	0	ID=cds-AKA33681.1;Parent=gene-ABUW_5002;Dbxref=NCBI_GP:AKA33681.1;Name=AKA33681.1;gbkey=CDS;locus_tag=ABUW_5002;product=DNA replication protein;protein_id=AKA33681.1;transl_table=11
+CP008708.1	Genbank	gene	1539	1682	.	+	.	ID=gene-ABUW_5003;Name=ABUW_5003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABUW_5003
+CP008708.1	Genbank	CDS	1539	1682	.	+	0	ID=cds-AKA33682.1;Parent=gene-ABUW_5003;Dbxref=NCBI_GP:AKA33682.1;Name=AKA33682.1;gbkey=CDS;locus_tag=ABUW_5003;product=hypothetical protein;protein_id=AKA33682.1;transl_table=11
+CP008708.1	Genbank	gene	1871	2413	.	-	.	ID=gene-ABUW_5004;Name=ABUW_5004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABUW_5004
+CP008708.1	Genbank	CDS	1871	2413	.	-	0	ID=cds-AKA33683.1;Parent=gene-ABUW_5004;Dbxref=NCBI_GP:AKA33683.1;Name=AKA33683.1;gbkey=CDS;locus_tag=ABUW_5004;product=Sel1 repeat family;protein_id=AKA33683.1;transl_table=11
+CP008708.1	Genbank	gene	2586	2732	.	-	.	ID=gene-ABUW_5005;Name=ABUW_5005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABUW_5005
+CP008708.1	Genbank	CDS	2586	2732	.	-	0	ID=cds-AKA33684.1;Parent=gene-ABUW_5005;Dbxref=NCBI_GP:AKA33684.1;Name=AKA33684.1;gbkey=CDS;locus_tag=ABUW_5005;product=hypothetical protein;protein_id=AKA33684.1;transl_table=11
+CP008708.1	Genbank	gene	2753	3049	.	+	.	ID=gene-ABUW_5006;Name=ABUW_5006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABUW_5006
+CP008708.1	Genbank	CDS	2753	3049	.	+	0	ID=cds-AKA33685.1;Parent=gene-ABUW_5006;Dbxref=NCBI_GP:AKA33685.1;Name=AKA33685.1;gbkey=CDS;locus_tag=ABUW_5006;product=hypothetical protein;protein_id=AKA33685.1;transl_table=11
+CP008708.1	Genbank	gene	3036	3350	.	+	.	ID=gene-ABUW_5007;Name=ABUW_5007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABUW_5007
+CP008708.1	Genbank	CDS	3036	3350	.	+	0	ID=cds-AKA33686.1;Parent=gene-ABUW_5007;Dbxref=NCBI_GP:AKA33686.1;Name=AKA33686.1;gbkey=CDS;locus_tag=ABUW_5007;product=hypothetical protein;protein_id=AKA33686.1;transl_table=11
+CP008708.1	Genbank	gene	3478	5889	.	+	.	ID=gene-ABUW_5008;Name=ABUW_5008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABUW_5008
+CP008708.1	Genbank	CDS	3478	5889	.	+	0	ID=cds-AKA33687.1;Parent=gene-ABUW_5008;Dbxref=NCBI_GP:AKA33687.1;Name=AKA33687.1;gbkey=CDS;locus_tag=ABUW_5008;product=TonB-dependent receptor protein;protein_id=AKA33687.1;transl_table=11
+CP008708.1	Genbank	pseudogene	5997	6074	.	-	.	ID=gene-ABUW_5009;Name=ABUW_5009;Note=nonfunctional due to partial sequence;description=transposase component;gbkey=Gene;gene_biotype=pseudogene;locus_tag=ABUW_5009;pseudo=true
+CP008708.1	Genbank	gene	6194	6655	.	+	.	ID=gene-ABUW_5010;Name=ABUW_5010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABUW_5010
+CP008708.1	Genbank	CDS	6194	6655	.	+	0	ID=cds-AKA33688.1;Parent=gene-ABUW_5010;Dbxref=NCBI_GP:AKA33688.1;Name=AKA33688.1;gbkey=CDS;locus_tag=ABUW_5010;product=hypothetical protein;protein_id=AKA33688.1;transl_table=11
+CP008708.1	Genbank	gene	6978	7151	.	-	.	ID=gene-ABUW_5011;Name=ABUW_5011;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABUW_5011
+CP008708.1	Genbank	CDS	6978	7151	.	-	0	ID=cds-AKA33689.1;Parent=gene-ABUW_5011;Dbxref=NCBI_GP:AKA33689.1;Name=AKA33689.1;gbkey=CDS;locus_tag=ABUW_5011;product=hypothetical protein;protein_id=AKA33689.1;transl_table=11
+CP008708.1	Genbank	gene	7151	7522	.	-	.	ID=gene-ABUW_5012;Name=ABUW_5012;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABUW_5012
+CP008708.1	Genbank	CDS	7151	7522	.	-	0	ID=cds-AKA33690.1;Parent=gene-ABUW_5012;Dbxref=NCBI_GP:AKA33690.1;Name=AKA33690.1;gbkey=CDS;locus_tag=ABUW_5012;product=hypothetical protein;protein_id=AKA33690.1;transl_table=11
+CP008708.1	Genbank	gene	7794	8048	.	-	.	ID=gene-ABUW_5013;Name=ABUW_5013;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABUW_5013
+CP008708.1	Genbank	CDS	7794	8048	.	-	0	ID=cds-AKA33691.1;Parent=gene-ABUW_5013;Dbxref=NCBI_GP:AKA33691.1;Name=AKA33691.1;gbkey=CDS;locus_tag=ABUW_5013;product=hypothetical protein;protein_id=AKA33691.1;transl_table=11
+CP008708.1	Genbank	gene	8170	8508	.	-	.	ID=gene-ABUW_5014;Name=ABUW_5014;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABUW_5014
+CP008708.1	Genbank	CDS	8170	8508	.	-	0	ID=cds-AKA33692.1;Parent=gene-ABUW_5014;Dbxref=NCBI_GP:AKA33692.1;Name=AKA33692.1;gbkey=CDS;locus_tag=ABUW_5014;product=hypothetical protein;protein_id=AKA33692.1;transl_table=11
+

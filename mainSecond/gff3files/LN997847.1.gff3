@@ -1,0 +1,30 @@
+##sequence-region LN997847.1 1 7742
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+LN997847.1	EMBL	region	1	7742	.	+	.	ID=LN997847.1:1..7742;Dbxref=taxon:470;Is_circular=true;Name=II;gbkey=Src;genome=plasmid;isolate=R2091;isolation-source=tissue;mol_type=genomic DNA;plasmid-name=II
+LN997847.1	EMBL	gene	1	933	.	+	.	ID=gene-ABR2091_pABR2091_0001;Name=ABR2091_pABR2091_0001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABR2091_pABR2091_0001
+LN997847.1	EMBL	CDS	1	933	.	+	0	ID=cds-CUW37058.1;Parent=gene-ABR2091_pABR2091_0001;Dbxref=NCBI_GP:CUW37058.1;Name=CUW37058.1;Note=High confidence in function and specificity;gbkey=CDS;locus_tag=ABR2091_pABR2091_0001;product=replicase;protein_id=CUW37058.1;transl_table=11
+LN997847.1	EMBL	gene	975	1553	.	+	.	ID=gene-ABR2091_pABR2091_0002;Name=ABR2091_pABR2091_0002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABR2091_pABR2091_0002
+LN997847.1	EMBL	CDS	975	1553	.	+	0	ID=cds-CUW37059.1;Parent=gene-ABR2091_pABR2091_0002;Dbxref=NCBI_GP:CUW37059.1;Name=CUW37059.1;Note=High confidence in function and specificity;gbkey=CDS;locus_tag=ABR2091_pABR2091_0002;product=putative protein;protein_id=CUW37059.1;transl_table=11
+LN997847.1	EMBL	gene	1573	1716	.	+	.	ID=gene-ABR2091_pABR2091_0003;Name=ABR2091_pABR2091_0003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABR2091_pABR2091_0003
+LN997847.1	EMBL	CDS	1573	1716	.	+	0	ID=cds-CUW37060.1;Parent=gene-ABR2091_pABR2091_0003;Dbxref=NCBI_GP:CUW37060.1;Name=CUW37060.1;Note=Family membership;gbkey=CDS;locus_tag=ABR2091_pABR2091_0003;product=hypothetical protein;protein_id=CUW37060.1;transl_table=11
+LN997847.1	EMBL	gene	1912	2253	.	+	.	ID=gene-ABR2091_pABR2091_0004;Name=ABR2091_pABR2091_0004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABR2091_pABR2091_0004
+LN997847.1	EMBL	CDS	1912	2253	.	+	0	ID=cds-CUW37061.1;Parent=gene-ABR2091_pABR2091_0004;Dbxref=NCBI_GP:CUW37061.1;Name=CUW37061.1;Note=High confidence in function and specificity;gbkey=CDS;locus_tag=ABR2091_pABR2091_0004;product=hypothetical protein;protein_id=CUW37061.1;transl_table=11
+LN997847.1	EMBL	gene	2377	3081	.	-	.	ID=gene-ABR2091_pABR2091_0005;Name=ABR2091_pABR2091_0005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABR2091_pABR2091_0005
+LN997847.1	EMBL	CDS	2377	3081	.	-	0	ID=cds-CUW37062.1;Parent=gene-ABR2091_pABR2091_0005;Dbxref=NCBI_GP:CUW37062.1;Name=CUW37062.1;Note=High confidence in function and specificity;gbkey=CDS;locus_tag=ABR2091_pABR2091_0005;product=hypothetical protein;protein_id=CUW37062.1;transl_table=11
+LN997847.1	EMBL	gene	3155	3355	.	-	.	ID=gene-ABR2091_pABR2091_0006;Name=ABR2091_pABR2091_0006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABR2091_pABR2091_0006
+LN997847.1	EMBL	CDS	3155	3355	.	-	0	ID=cds-CUW37063.1;Parent=gene-ABR2091_pABR2091_0006;Dbxref=NCBI_GP:CUW37063.1;Name=CUW37063.1;gbkey=CDS;locus_tag=ABR2091_pABR2091_0006;product=hypothetical protein;protein_id=CUW37063.1;transl_table=11
+LN997847.1	EMBL	gene	3626	3898	.	-	.	ID=gene-ABR2091_pABR2091_0007;Name=ABR2091_pABR2091_0007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABR2091_pABR2091_0007
+LN997847.1	EMBL	CDS	3626	3898	.	-	0	ID=cds-CUW37064.1;Parent=gene-ABR2091_pABR2091_0007;Dbxref=NCBI_GP:CUW37064.1;Name=CUW37064.1;Note=High confidence in function and specificity;gbkey=CDS;locus_tag=ABR2091_pABR2091_0007;product=HTH domain-containing protein;protein_id=CUW37064.1;transl_table=11
+LN997847.1	EMBL	gene	3891	4286	.	-	.	ID=gene-ABR2091_pABR2091_0008;Name=ABR2091_pABR2091_0008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABR2091_pABR2091_0008
+LN997847.1	EMBL	CDS	3891	4286	.	-	0	ID=cds-CUW37065.1;Parent=gene-ABR2091_pABR2091_0008;Dbxref=NCBI_GP:CUW37065.1;Name=CUW37065.1;Note=High confidence in function and specificity;gbkey=CDS;locus_tag=ABR2091_pABR2091_0008;product=hypothetical protein;protein_id=CUW37065.1;transl_table=11
+LN997847.1	EMBL	gene	4463	4684	.	+	.	ID=gene-ABR2091_pABR2091_0009;Name=ABR2091_pABR2091_0009;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABR2091_pABR2091_0009
+LN997847.1	EMBL	CDS	4463	4684	.	+	0	ID=cds-CUW37066.1;Parent=gene-ABR2091_pABR2091_0009;Dbxref=NCBI_GP:CUW37066.1;Name=CUW37066.1;gbkey=CDS;locus_tag=ABR2091_pABR2091_0009;product=hypothetical protein;protein_id=CUW37066.1;transl_table=11
+LN997847.1	EMBL	gene	5016	5207	.	-	.	ID=gene-ABR2091_pABR2091_0010;Name=ABR2091_pABR2091_0010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABR2091_pABR2091_0010
+LN997847.1	EMBL	CDS	5016	5207	.	-	0	ID=cds-CUW37067.1;Parent=gene-ABR2091_pABR2091_0010;Dbxref=NCBI_GP:CUW37067.1;Name=CUW37067.1;Note=Hypothetical protein;gbkey=CDS;locus_tag=ABR2091_pABR2091_0010;product=putative membrane protein;protein_id=CUW37067.1;transl_table=11
+LN997847.1	EMBL	gene	5237	5557	.	-	.	ID=gene-ABR2091_pABR2091_0011;Name=ABR2091_pABR2091_0011;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABR2091_pABR2091_0011
+LN997847.1	EMBL	CDS	5237	5557	.	-	0	ID=cds-CUW37068.1;Parent=gene-ABR2091_pABR2091_0011;Dbxref=NCBI_GP:CUW37068.1;Name=CUW37068.1;Note=High confidence in function and specificity;gbkey=CDS;locus_tag=ABR2091_pABR2091_0011;product=putative protein;protein_id=CUW37068.1;transl_table=11
+LN997847.1	EMBL	gene	5728	7161	.	+	.	ID=gene-ABR2091_pABR2091_0012;Name=ABR2091_pABR2091_0012;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABR2091_pABR2091_0012
+LN997847.1	EMBL	CDS	5728	7161	.	+	0	ID=cds-CUW37069.1;Parent=gene-ABR2091_pABR2091_0012;Dbxref=NCBI_GP:CUW37069.1;Name=CUW37069.1;Note=High confidence in function and specificity;gbkey=CDS;locus_tag=ABR2091_pABR2091_0012;product=MobA/MobL family protein;protein_id=CUW37069.1;transl_table=11
+LN997847.1	EMBL	gene	7263	7508	.	+	.	ID=gene-ABR2091_pABR2091_0013;Name=ABR2091_pABR2091_0013;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABR2091_pABR2091_0013
+LN997847.1	EMBL	CDS	7263	7508	.	+	0	ID=cds-CUW37070.1;Parent=gene-ABR2091_pABR2091_0013;Dbxref=NCBI_GP:CUW37070.1;Name=CUW37070.1;gbkey=CDS;locus_tag=ABR2091_pABR2091_0013;product=hypothetical protein;protein_id=CUW37070.1;transl_table=11
+

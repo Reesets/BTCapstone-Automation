@@ -1,0 +1,16 @@
+##sequence-region CP042563.1 1 4715
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP042563.1	Genbank	region	1	4715	.	+	.	ID=CP042563.1:1..4715;Dbxref=taxon:470;Is_circular=true;Name=pE47_007;collected-by=Concord Repatriation Hospital Sydney Australia;collection-date=08-Feb-2013;country=Australia: Sydney;gbkey=Src;genome=plasmid;isolation-source=Room 7;mol_type=genomic DNA;plasmid-name=pE47_007;strain=E47
+CP042563.1	Genbank	gene	469	813	.	-	.	ID=gene-FR761_20750;Name=FR761_20750;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20750
+CP042563.1	Protein Homology	CDS	469	813	.	-	0	ID=cds-QFH47721.1;Parent=gene-FR761_20750;Dbxref=NCBI_GP:QFH47721.1;Name=QFH47721.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004993722.1;locus_tag=FR761_20750;product=MobC family plasmid mobilization relaxosome protein;protein_id=QFH47721.1;transl_table=11
+CP042563.1	Genbank	gene	1198	1419	.	-	.	ID=gene-FR761_20755;Name=FR761_20755;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20755
+CP042563.1	Protein Homology	CDS	1198	1419	.	-	0	ID=cds-QFH47717.1;Parent=gene-FR761_20755;Dbxref=NCBI_GP:QFH47717.1;Name=QFH47717.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004993714.1;locus_tag=FR761_20755;product=hypothetical protein;protein_id=QFH47717.1;transl_table=11
+CP042563.1	Genbank	gene	1416	2366	.	-	.	ID=gene-FR761_20760;Name=FR761_20760;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20760
+CP042563.1	Protein Homology	CDS	1416	2366	.	-	0	ID=cds-QFH47718.1;Parent=gene-FR761_20760;Dbxref=NCBI_GP:QFH47718.1;Name=QFH47718.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004993712.1;locus_tag=FR761_20760;product=plasmid replicase;protein_id=QFH47718.1;transl_table=11
+CP042563.1	Genbank	gene	2628	2969	.	-	.	ID=gene-FR761_20765;Name=mazF;gbkey=Gene;gene=mazF;gene_biotype=protein_coding;locus_tag=FR761_20765
+CP042563.1	Protein Homology	CDS	2628	2969	.	-	0	ID=cds-QFH47719.1;Parent=gene-FR761_20765;Dbxref=NCBI_GP:QFH47719.1;Name=QFH47719.1;gbkey=CDS;gene=mazF;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005402007.1;locus_tag=FR761_20765;product=endoribonuclease MazF;protein_id=QFH47719.1;transl_table=11
+CP042563.1	Genbank	gene	2969	3208	.	-	.	ID=gene-FR761_20770;Name=FR761_20770;gbkey=Gene;gene_biotype=protein_coding;locus_tag=FR761_20770
+CP042563.1	Protein Homology	CDS	2969	3208	.	-	0	ID=cds-QFH47720.1;Parent=gene-FR761_20770;Dbxref=NCBI_GP:QFH47720.1;Name=QFH47720.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005402008.1;locus_tag=FR761_20770;product=AbrB/MazE/SpoVT family DNA-binding domain-containing protein;protein_id=QFH47720.1;transl_table=11
+CP042563.1	Genbank	pseudogene	3280	5019	.	-	.	ID=gene-FR761_20745;Name=FR761_20745;gbkey=Gene;gene_biotype=pseudogene;locus_tag=FR761_20745;pseudo=true
+CP042563.1	Protein Homology	CDS	3280	5019	.	-	0	ID=cds-FR761_20745;Parent=gene-FR761_20745;Note=incomplete%3B partial on complete genome%3B missing N-terminus;gbkey=CDS;inference=COORDINATES: protein motif:HMM:PF03432.12;locus_tag=FR761_20745;product=hypothetical protein;pseudo=true;transl_table=11
+

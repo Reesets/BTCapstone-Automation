@@ -1,0 +1,24 @@
+##sequence-region CP059304.1 1 9950
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP059304.1	Genbank	region	1	9950	.	+	.	ID=CP059304.1:1..9950;Dbxref=taxon:470;Is_circular=true;Name=pAC1633-3;collected-by=Hospital Sultanah Nur Zahirah (HSNZ);collection-date=2016;country=Malaysia: Kuala Terengganu;gbkey=Src;genome=plasmid;isolation-source=blood;lat-lon=5.3296 N 103.1370 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pAC1633-3;strain=AC1633
+CP059304.1	Genbank	gene	193	612	.	+	.	ID=gene-H0529_22005;Name=H0529_22005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0529_22005
+CP059304.1	Protein Homology	CDS	193	612	.	+	0	ID=cds-QOJ62414.1;Parent=gene-H0529_22005;Dbxref=NCBI_GP:QOJ62414.1;Name=QOJ62414.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001180106.1;locus_tag=H0529_22005;product=SMI1/KNR4 family protein;protein_id=QOJ62414.1;transl_table=11
+CP059304.1	Genbank	gene	801	1358	.	-	.	ID=gene-H0529_22010;Name=H0529_22010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0529_22010
+CP059304.1	Protein Homology	CDS	801	1358	.	-	0	ID=cds-QOJ62415.1;Parent=gene-H0529_22010;Dbxref=NCBI_GP:QOJ62415.1;Name=QOJ62415.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005244552.1;locus_tag=H0529_22010;product=DNA-binding protein;protein_id=QOJ62415.1;transl_table=11
+CP059304.1	Genbank	gene	1422	2345	.	-	.	ID=gene-H0529_22015;Name=H0529_22015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0529_22015
+CP059304.1	Protein Homology	CDS	1422	2345	.	-	0	ID=cds-QOJ62416.1;Parent=gene-H0529_22015;Dbxref=NCBI_GP:QOJ62416.1;Name=QOJ62416.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004775003.1;locus_tag=H0529_22015;product=replication initiation protein;protein_id=QOJ62416.1;transl_table=11
+CP059304.1	Genbank	gene	3035	3757	.	-	.	ID=gene-H0529_22020;Name=H0529_22020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0529_22020
+CP059304.1	Protein Homology	CDS	3035	3757	.	-	0	ID=cds-QOJ62417.1;Parent=gene-H0529_22020;Dbxref=NCBI_GP:QOJ62417.1;Name=QOJ62417.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_017724910.1;locus_tag=H0529_22020;product=hypothetical protein;protein_id=QOJ62417.1;transl_table=11
+CP059304.1	Genbank	gene	3969	4853	.	+	.	ID=gene-H0529_22025;Name=H0529_22025;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0529_22025
+CP059304.1	Protein Homology	CDS	3969	4853	.	+	0	ID=cds-QOJ62418.1;Parent=gene-H0529_22025;Dbxref=NCBI_GP:QOJ62418.1;Name=QOJ62418.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005244541.1;locus_tag=H0529_22025;product=MobA/MobL family protein;protein_id=QOJ62418.1;transl_table=11
+CP059304.1	Genbank	gene	4893	5252	.	+	.	ID=gene-H0529_22030;Name=H0529_22030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0529_22030
+CP059304.1	Protein Homology	CDS	4893	5252	.	+	0	ID=cds-QOJ62419.1;Parent=gene-H0529_22030;Dbxref=NCBI_GP:QOJ62419.1;Name=QOJ62419.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_018680117.1;locus_tag=H0529_22030;product=hypothetical protein;protein_id=QOJ62419.1;transl_table=11
+CP059304.1	Genbank	gene	5249	5470	.	+	.	ID=gene-H0529_22035;Name=H0529_22035;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0529_22035
+CP059304.1	Protein Homology	CDS	5249	5470	.	+	0	ID=cds-QOJ62410.1;Parent=gene-H0529_22035;Dbxref=NCBI_GP:QOJ62410.1;Name=QOJ62410.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005244543.1;locus_tag=H0529_22035;product=hypothetical protein;protein_id=QOJ62410.1;transl_table=11
+CP059304.1	Genbank	gene	5631	5939	.	+	.	ID=gene-H0529_22040;Name=H0529_22040;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0529_22040
+CP059304.1	Protein Homology	CDS	5631	5939	.	+	0	ID=cds-QOJ62411.1;Parent=gene-H0529_22040;Dbxref=NCBI_GP:QOJ62411.1;Name=QOJ62411.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:NF013540.1;locus_tag=H0529_22040;product=helix-turn-helix domain-containing protein;protein_id=QOJ62411.1;transl_table=11
+CP059304.1	Genbank	gene	5940	7181	.	+	.	ID=gene-H0529_22045;Name=H0529_22045;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0529_22045
+CP059304.1	Protein Homology	CDS	5940	7181	.	+	0	ID=cds-QOJ62412.1;Parent=gene-H0529_22045;Dbxref=NCBI_GP:QOJ62412.1;Name=QOJ62412.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005080411.1;locus_tag=H0529_22045;product=type II toxin-antitoxin system HipA family toxin;protein_id=QOJ62412.1;transl_table=11
+CP059304.1	Genbank	gene	7488	9296	.	-	.	ID=gene-H0529_22050;Name=H0529_22050;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0529_22050
+CP059304.1	Protein Homology	CDS	7488	9296	.	-	0	ID=cds-QOJ62413.1;Parent=gene-H0529_22050;Dbxref=NCBI_GP:QOJ62413.1;Name=QOJ62413.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004153231.1;locus_tag=H0529_22050;product=DEAD/DEAH box helicase family protein;protein_id=QOJ62413.1;transl_table=11
+

@@ -1,0 +1,22 @@
+##sequence-region NZ_HG977529.1 1 8047
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_HG977529.1	RefSeq	region	1	8047	.	+	.	ID=NZ_HG977529.1:1..8047;Dbxref=taxon:470;Name=pCR17C;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=pCR17C;strain=CR17
+NZ_HG977529.1	RefSeq	gene	663	1613	.	+	.	ID=gene-TY69_RS18585;Name=repM;gbkey=Gene;gene=repM;gene_biotype=protein_coding;locus_tag=TY69_RS18585
+NZ_HG977529.1	Protein Homology	CDS	663	1613	.	+	0	ID=cds-WP_001208776.1;Parent=gene-TY69_RS18585;Dbxref=Genbank:WP_001208776.1;Name=WP_001208776.1;gbkey=CDS;gene=repM;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=TY69_RS18585;product=replication initiation protein RepM;protein_id=WP_001208776.1;transl_table=11
+NZ_HG977529.1	RefSeq	gene	1606	2181	.	+	.	ID=gene-TY69_RS18590;Name=TY69_RS18590;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TY69_RS18590
+NZ_HG977529.1	Protein Homology	CDS	1606	2181	.	+	0	ID=cds-WP_012754352.1;Parent=gene-TY69_RS18590;Dbxref=Genbank:WP_012754352.1;Name=WP_012754352.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=TY69_RS18590;product=helix-turn-helix domain-containing protein;protein_id=WP_012754352.1;transl_table=11
+NZ_HG977529.1	RefSeq	gene	2198	2341	.	+	.	ID=gene-TY69_RS19540;Name=TY69_RS19540;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TY69_RS19540
+NZ_HG977529.1	Protein Homology	CDS	2198	2341	.	+	0	ID=cds-WP_001125246.1;Parent=gene-TY69_RS19540;Dbxref=Genbank:WP_001125246.1;Name=WP_001125246.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786602.1;locus_tag=TY69_RS19540;product=hypothetical protein;protein_id=WP_001125246.1;transl_table=11
+NZ_HG977529.1	RefSeq	gene	3196	3483	.	+	.	ID=gene-TY69_RS18595;Name=TY69_RS18595;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TY69_RS18595
+NZ_HG977529.1	Protein Homology	CDS	3196	3483	.	+	0	ID=cds-WP_000438826.1;Parent=gene-TY69_RS18595;Dbxref=Genbank:WP_000438826.1;Name=WP_000438826.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=TY69_RS18595;product=BrnT family toxin;protein_id=WP_000438826.1;transl_table=11
+NZ_HG977529.1	RefSeq	gene	3470	3784	.	+	.	ID=gene-TY69_RS18600;Name=TY69_RS18600;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TY69_RS18600
+NZ_HG977529.1	Protein Homology	CDS	3470	3784	.	+	0	ID=cds-WP_001983304.1;Parent=gene-TY69_RS18600;Dbxref=Genbank:WP_001983304.1;Name=WP_001983304.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_006582675.1;locus_tag=TY69_RS18600;product=BrnA antitoxin family protein;protein_id=WP_001983304.1;transl_table=11
+NZ_HG977529.1	RefSeq	gene	3912	6323	.	+	.	ID=gene-TY69_RS18605;Name=znuD2;gbkey=Gene;gene=znuD2;gene_biotype=protein_coding;locus_tag=TY69_RS18605
+NZ_HG977529.1	Protein Homology	CDS	3912	6323	.	+	0	ID=cds-WP_000932953.1;Parent=gene-TY69_RS18605;Dbxref=Genbank:WP_000932953.1;Name=WP_000932953.1;gbkey=CDS;gene=znuD2;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000932945.1;locus_tag=TY69_RS18605;product=TonB-dependent receptor ZnuD2;protein_id=WP_000932953.1;transl_table=11
+NZ_HG977529.1	RefSeq	gene	6628	7089	.	+	.	ID=gene-TY69_RS18610;Name=TY69_RS18610;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TY69_RS18610
+NZ_HG977529.1	Protein Homology	CDS	6628	7089	.	+	0	ID=cds-WP_000761346.1;Parent=gene-TY69_RS18610;Dbxref=Genbank:WP_000761346.1;Name=WP_000761346.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004781077.1;locus_tag=TY69_RS18610;product=DIP1984 family protein;protein_id=WP_000761346.1;transl_table=11
+NZ_HG977529.1	RefSeq	gene	7412	7585	.	-	.	ID=gene-TY69_RS19545;Name=TY69_RS19545;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TY69_RS19545
+NZ_HG977529.1	Protein Homology	CDS	7412	7585	.	-	0	ID=cds-WP_001282482.1;Parent=gene-TY69_RS19545;Dbxref=Genbank:WP_001282482.1;Name=WP_001282482.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001282484.1;locus_tag=TY69_RS19545;product=hypothetical protein;protein_id=WP_001282482.1;transl_table=11
+NZ_HG977529.1	RefSeq	gene	7585	7956	.	-	.	ID=gene-TY69_RS18615;Name=TY69_RS18615;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TY69_RS18615
+NZ_HG977529.1	Protein Homology	CDS	7585	7956	.	-	0	ID=cds-WP_000504219.1;Parent=gene-TY69_RS18615;Dbxref=Genbank:WP_000504219.1;Name=WP_000504219.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=TY69_RS18615;product=hypothetical protein;protein_id=WP_000504219.1;transl_table=11
+

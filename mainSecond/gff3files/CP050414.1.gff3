@@ -1,0 +1,24 @@
+##sequence-region CP050414.1 1 8732
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP050414.1	Genbank	region	1	8732	.	+	.	ID=CP050414.1:1..8732;Dbxref=taxon:470;Is_circular=true;Name=pPM192696_2;collected-by=AIIMS Jai Prakash Narayan Apex Trauma Center;collection-date=2019;country=India;gbkey=Src;genome=plasmid;isolation-source=sputum;lat-lon=28.5659 N 77.2111 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pPM192696_2;strain=PM192696
+CP050414.1	Genbank	gene	1	951	.	+	.	ID=gene-HB366_19450;Name=HB366_19450;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB366_19450
+CP050414.1	Protein Homology	CDS	1	951	.	+	0	ID=cds-QJG90135.1;Parent=gene-HB366_19450;Dbxref=NCBI_GP:QJG90135.1;Name=QJG90135.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=HB366_19450;product=replication initiation protein;protein_id=QJG90135.1;transl_table=11
+CP050414.1	Genbank	gene	944	1519	.	+	.	ID=gene-HB366_19455;Name=HB366_19455;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB366_19455
+CP050414.1	Protein Homology	CDS	944	1519	.	+	0	ID=cds-QJG90136.1;Parent=gene-HB366_19455;Dbxref=NCBI_GP:QJG90136.1;Name=QJG90136.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=HB366_19455;product=helix-turn-helix domain-containing protein;protein_id=QJG90136.1;transl_table=11
+CP050414.1	Genbank	gene	1539	1682	.	+	.	ID=gene-HB366_19460;Name=HB366_19460;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB366_19460
+CP050414.1	Protein Homology	CDS	1539	1682	.	+	0	ID=cds-QJG90137.1;Parent=gene-HB366_19460;Dbxref=NCBI_GP:QJG90137.1;Name=QJG90137.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786602.1;locus_tag=HB366_19460;product=hypothetical protein;protein_id=QJG90137.1;transl_table=11
+CP050414.1	Genbank	gene	1872	2390	.	-	.	ID=gene-HB366_19465;Name=HB366_19465;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB366_19465
+CP050414.1	Protein Homology	CDS	1872	2390	.	-	0	ID=cds-QJG90144.1;Parent=gene-HB366_19465;Dbxref=NCBI_GP:QJG90144.1;Name=QJG90144.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=HB366_19465;product=sel1 repeat family protein;protein_id=QJG90144.1;transl_table=11
+CP050414.1	Genbank	gene	2763	3050	.	+	.	ID=gene-HB366_19470;Name=HB366_19470;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB366_19470
+CP050414.1	Protein Homology	CDS	2763	3050	.	+	0	ID=cds-QJG90138.1;Parent=gene-HB366_19470;Dbxref=NCBI_GP:QJG90138.1;Name=QJG90138.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=HB366_19470;product=BrnT family toxin;protein_id=QJG90138.1;transl_table=11
+CP050414.1	Genbank	gene	3037	3351	.	+	.	ID=gene-HB366_19475;Name=HB366_19475;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB366_19475
+CP050414.1	Protein Homology	CDS	3037	3351	.	+	0	ID=cds-QJG90139.1;Parent=gene-HB366_19475;Dbxref=NCBI_GP:QJG90139.1;Name=QJG90139.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_006582675.1;locus_tag=HB366_19475;product=BrnA antitoxin family protein;protein_id=QJG90139.1;transl_table=11
+CP050414.1	Genbank	gene	3479	5890	.	+	.	ID=gene-HB366_19480;Name=HB366_19480;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB366_19480
+CP050414.1	Protein Homology	CDS	3479	5890	.	+	0	ID=cds-QJG90140.1;Parent=gene-HB366_19480;Dbxref=NCBI_GP:QJG90140.1;Name=QJG90140.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=HB366_19480;product=TonB-dependent receptor;protein_id=QJG90140.1;transl_table=11
+CP050414.1	Genbank	gene	6195	6656	.	+	.	ID=gene-HB366_19485;Name=HB366_19485;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB366_19485
+CP050414.1	Protein Homology	CDS	6195	6656	.	+	0	ID=cds-QJG90141.1;Parent=gene-HB366_19485;Dbxref=NCBI_GP:QJG90141.1;Name=QJG90141.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004781077.1;locus_tag=HB366_19485;product=DIP1984 family protein;protein_id=QJG90141.1;transl_table=11
+CP050414.1	Genbank	gene	6979	7152	.	-	.	ID=gene-HB366_19490;Name=HB366_19490;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB366_19490
+CP050414.1	Protein Homology	CDS	6979	7152	.	-	0	ID=cds-QJG90142.1;Parent=gene-HB366_19490;Dbxref=NCBI_GP:QJG90142.1;Name=QJG90142.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001282484.1;locus_tag=HB366_19490;product=hypothetical protein;protein_id=QJG90142.1;transl_table=11
+CP050414.1	Genbank	gene	7152	7523	.	-	.	ID=gene-HB366_19495;Name=HB366_19495;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB366_19495
+CP050414.1	Protein Homology	CDS	7152	7523	.	-	0	ID=cds-QJG90143.1;Parent=gene-HB366_19495;Dbxref=NCBI_GP:QJG90143.1;Name=QJG90143.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=HB366_19495;product=hypothetical protein;protein_id=QJG90143.1;transl_table=11
+

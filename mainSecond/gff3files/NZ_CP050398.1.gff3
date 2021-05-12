@@ -1,0 +1,6 @@
+##sequence-region NZ_CP050398.1 1 607
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_CP050398.1	RefSeq	region	1	607	.	+	.	ID=NZ_CP050398.1:1..607;Dbxref=taxon:470;Is_circular=true;Name=pVB11737_7;collected-by=Christian Medical College;collection-date=2019;country=India;gbkey=Src;genome=plasmid;isolation-source=blood;lat-lon=12.9246 N 79.1348 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pVB11737_7;strain=VB11737
+NZ_CP050398.1	RefSeq	gene	83	454	.	+	.	ID=gene-HBM80_RS00550;Name=HBM80_RS00550;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBM80_RS00550;old_locus_tag=HBM80_00550
+NZ_CP050398.1	Protein Homology	CDS	83	454	.	+	0	ID=cds-WP_000529372.1;Parent=gene-HBM80_RS00550;Dbxref=Genbank:WP_000529372.1;Name=WP_000529372.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000529372.1;locus_tag=HBM80_RS00550;product=hypothetical protein;protein_id=WP_000529372.1;transl_table=11
+

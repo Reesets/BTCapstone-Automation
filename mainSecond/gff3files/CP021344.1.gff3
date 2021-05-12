@@ -1,0 +1,440 @@
+##sequence-region CP021344.1 1 216780
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP021344.1	Genbank	region	1	216780	.	+	.	ID=CP021344.1:1..216780;Dbxref=taxon:470;Is_circular=true;Name=pB11911;collected-by=CMC%2C Vellore%2C India;collection-date=14-Apr-2014;country=India: Vellore;gbkey=Src;genome=plasmid;isolation-source=blood;lat-lon=12.92 N 79.13 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pB11911;strain=B11911
+CP021344.1	Genbank	gene	311	574	.	+	.	ID=gene-AB994_3897;Name=AB994_3897;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3897
+CP021344.1	Genbank	CDS	311	574	.	+	0	ID=cds-KMV08819.1;Parent=gene-AB994_3897;Dbxref=NCBI_GP:KMV08819.1;Name=KMV08819.1;gbkey=CDS;locus_tag=AB994_3897;product=hypothetical protein;protein_id=KMV08819.1;transl_table=11
+CP021344.1	Genbank	gene	575	970	.	+	.	ID=gene-AB994_3898;Name=AB994_3898;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3898
+CP021344.1	Genbank	CDS	575	970	.	+	0	ID=cds-KMV08820.1;Parent=gene-AB994_3898;Dbxref=NCBI_GP:KMV08820.1;Name=KMV08820.1;gbkey=CDS;locus_tag=AB994_3898;product=hypothetical protein;protein_id=KMV08820.1;transl_table=11
+CP021344.1	Genbank	gene	1001	1570	.	+	.	ID=gene-AB994_3899;Name=AB994_3899;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3899
+CP021344.1	Genbank	CDS	1001	1570	.	+	0	ID=cds-KMV08821.1;Parent=gene-AB994_3899;Dbxref=NCBI_GP:KMV08821.1;Name=KMV08821.1;gbkey=CDS;locus_tag=AB994_3899;product=bacterial regulatory s%2C tetR family protein;protein_id=KMV08821.1;transl_table=11
+CP021344.1	Genbank	gene	1705	2064	.	+	.	ID=gene-AB994_3900;Name=AB994_3900;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3900
+CP021344.1	Genbank	CDS	1705	2064	.	+	0	ID=cds-KMV08822.1;Parent=gene-AB994_3900;Dbxref=NCBI_GP:KMV08822.1;Name=KMV08822.1;gbkey=CDS;locus_tag=AB994_3900;product=hypothetical protein;protein_id=KMV08822.1;transl_table=11
+CP021344.1	Genbank	gene	2082	2435	.	-	.	ID=gene-AB994_3901;Name=AB994_3901;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3901
+CP021344.1	Genbank	CDS	2082	2435	.	-	0	ID=cds-KMV08823.1;Parent=gene-AB994_3901;Dbxref=NCBI_GP:KMV08823.1;Name=KMV08823.1;gbkey=CDS;locus_tag=AB994_3901;product=hypothetical protein;protein_id=KMV08823.1;transl_table=11
+CP021344.1	Genbank	gene	2624	3442	.	+	.	ID=gene-AB994_3902;Name=AB994_3902;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3902
+CP021344.1	Genbank	CDS	2624	3442	.	+	0	ID=cds-KMV08824.1;Parent=gene-AB994_3902;Dbxref=NCBI_GP:KMV08824.1;Name=KMV08824.1;gbkey=CDS;locus_tag=AB994_3902;product=hypothetical protein;protein_id=KMV08824.1;transl_table=11
+CP021344.1	Genbank	gene	3833	4036	.	+	.	ID=gene-AB994_3903;Name=AB994_3903;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3903
+CP021344.1	Genbank	CDS	3833	4036	.	+	0	ID=cds-KMV08825.1;Parent=gene-AB994_3903;Dbxref=NCBI_GP:KMV08825.1;Name=KMV08825.1;gbkey=CDS;locus_tag=AB994_3903;product=hypothetical protein;protein_id=KMV08825.1;transl_table=11
+CP021344.1	Genbank	gene	4065	5453	.	-	.	ID=gene-AB994_3904;Name=AB994_3904;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3904
+CP021344.1	Genbank	CDS	4065	5453	.	-	0	ID=cds-KMV08826.1;Parent=gene-AB994_3904;Dbxref=NCBI_GP:KMV08826.1;Name=KMV08826.1;gbkey=CDS;locus_tag=AB994_3904;product=hypothetical protein;protein_id=KMV08826.1;transl_table=11
+CP021344.1	Genbank	gene	5526	5939	.	-	.	ID=gene-AB994_3905;Name=AB994_3905;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3905
+CP021344.1	Genbank	CDS	5526	5939	.	-	0	ID=cds-KMV08827.1;Parent=gene-AB994_3905;Dbxref=NCBI_GP:KMV08827.1;Name=KMV08827.1;gbkey=CDS;locus_tag=AB994_3905;product=hypothetical protein;protein_id=KMV08827.1;transl_table=11
+CP021344.1	Genbank	gene	6170	6283	.	-	.	ID=gene-AB994_3906;Name=AB994_3906;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3906
+CP021344.1	Genbank	CDS	6170	6283	.	-	0	ID=cds-KMV08828.1;Parent=gene-AB994_3906;Dbxref=NCBI_GP:KMV08828.1;Name=KMV08828.1;gbkey=CDS;locus_tag=AB994_3906;product=hypothetical protein;protein_id=KMV08828.1;transl_table=11
+CP021344.1	Genbank	gene	6855	7235	.	+	.	ID=gene-AB994_3907;Name=AB994_3907;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3907
+CP021344.1	Genbank	CDS	6855	7235	.	+	0	ID=cds-KMV08829.1;Parent=gene-AB994_3907;Dbxref=NCBI_GP:KMV08829.1;Name=KMV08829.1;gbkey=CDS;locus_tag=AB994_3907;product=putative lipoprotein;protein_id=KMV08829.1;transl_table=11
+CP021344.1	Genbank	gene	7232	7636	.	+	.	ID=gene-AB994_3908;Name=AB994_3908;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3908
+CP021344.1	Genbank	CDS	7232	7636	.	+	0	ID=cds-KMV08830.1;Parent=gene-AB994_3908;Dbxref=NCBI_GP:KMV08830.1;Name=KMV08830.1;gbkey=CDS;locus_tag=AB994_3908;product=hypothetical protein;protein_id=KMV08830.1;transl_table=11
+CP021344.1	Genbank	gene	7828	8136	.	+	.	ID=gene-AB994_3909;Name=AB994_3909;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3909
+CP021344.1	Genbank	CDS	7828	8136	.	+	0	ID=cds-KMV08831.1;Parent=gene-AB994_3909;Dbxref=NCBI_GP:KMV08831.1;Name=KMV08831.1;gbkey=CDS;locus_tag=AB994_3909;product=hypothetical protein;protein_id=KMV08831.1;transl_table=11
+CP021344.1	Genbank	gene	8126	8668	.	+	.	ID=gene-AB994_3910;Name=AB994_3910;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3910
+CP021344.1	Genbank	CDS	8126	8668	.	+	0	ID=cds-KMV08832.1;Parent=gene-AB994_3910;Dbxref=NCBI_GP:KMV08832.1;Name=KMV08832.1;gbkey=CDS;locus_tag=AB994_3910;product=hypothetical protein;protein_id=KMV08832.1;transl_table=11
+CP021344.1	Genbank	gene	8704	8976	.	+	.	ID=gene-AB994_3911;Name=AB994_3911;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3911
+CP021344.1	Genbank	CDS	8704	8976	.	+	0	ID=cds-KMV08833.1;Parent=gene-AB994_3911;Dbxref=NCBI_GP:KMV08833.1;Name=KMV08833.1;gbkey=CDS;locus_tag=AB994_3911;product=hypothetical protein;protein_id=KMV08833.1;transl_table=11
+CP021344.1	Genbank	gene	9337	9525	.	+	.	ID=gene-AB994_3912;Name=AB994_3912;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3912
+CP021344.1	Genbank	CDS	9337	9525	.	+	0	ID=cds-KMV08834.1;Parent=gene-AB994_3912;Dbxref=NCBI_GP:KMV08834.1;Name=KMV08834.1;gbkey=CDS;locus_tag=AB994_3912;product=hypothetical protein;protein_id=KMV08834.1;transl_table=11
+CP021344.1	Genbank	gene	9616	9819	.	+	.	ID=gene-AB994_3913;Name=AB994_3913;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3913
+CP021344.1	Genbank	CDS	9616	9819	.	+	0	ID=cds-KMV08835.1;Parent=gene-AB994_3913;Dbxref=NCBI_GP:KMV08835.1;Name=KMV08835.1;gbkey=CDS;locus_tag=AB994_3913;product=hypothetical protein;protein_id=KMV08835.1;transl_table=11
+CP021344.1	Genbank	gene	9897	10232	.	-	.	ID=gene-AB994_3914;Name=AB994_3914;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3914
+CP021344.1	Genbank	CDS	9897	10232	.	-	0	ID=cds-KMV08836.1;Parent=gene-AB994_3914;Dbxref=NCBI_GP:KMV08836.1;Name=KMV08836.1;gbkey=CDS;locus_tag=AB994_3914;product=H-NS histone family protein;protein_id=KMV08836.1;transl_table=11
+CP021344.1	Genbank	gene	10277	12001	.	-	.	ID=gene-AB994_3915;Name=AB994_3915;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3915
+CP021344.1	Genbank	CDS	10277	12001	.	-	0	ID=cds-KMV08837.1;Parent=gene-AB994_3915;Dbxref=NCBI_GP:KMV08837.1;Name=KMV08837.1;gbkey=CDS;locus_tag=AB994_3915;product=hypothetical protein;protein_id=KMV08837.1;transl_table=11
+CP021344.1	Genbank	gene	12157	12822	.	-	.	ID=gene-AB994_3916;Name=AB994_3916;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3916
+CP021344.1	Genbank	CDS	12157	12822	.	-	0	ID=cds-KMV08838.1;Parent=gene-AB994_3916;Dbxref=NCBI_GP:KMV08838.1;Name=KMV08838.1;gbkey=CDS;locus_tag=AB994_3916;product=hypothetical protein;protein_id=KMV08838.1;transl_table=11
+CP021344.1	Genbank	gene	13378	13503	.	-	.	ID=gene-AB994_3917;Name=AB994_3917;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3917
+CP021344.1	Genbank	CDS	13378	13503	.	-	0	ID=cds-KMV08839.1;Parent=gene-AB994_3917;Dbxref=NCBI_GP:KMV08839.1;Name=KMV08839.1;gbkey=CDS;locus_tag=AB994_3917;product=hypothetical protein;protein_id=KMV08839.1;transl_table=11
+CP021344.1	Genbank	gene	13600	14976	.	+	.	ID=gene-AB994_3918;Name=AB994_3918;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3918
+CP021344.1	Genbank	CDS	13600	14976	.	+	0	ID=cds-KMV08840.1;Parent=gene-AB994_3918;Dbxref=NCBI_GP:KMV08840.1;Name=KMV08840.1;gbkey=CDS;locus_tag=AB994_3918;product=hypothetical protein;protein_id=KMV08840.1;transl_table=11
+CP021344.1	Genbank	gene	14991	20951	.	+	.	ID=gene-AB994_3919;Name=AB994_3919;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3919
+CP021344.1	Genbank	CDS	14991	20951	.	+	0	ID=cds-KMV08841.1;Parent=gene-AB994_3919;Dbxref=NCBI_GP:KMV08841.1;Name=KMV08841.1;gbkey=CDS;locus_tag=AB994_3919;product=methyltransferase domain protein;protein_id=KMV08841.1;transl_table=11
+CP021344.1	Genbank	gene	20965	23016	.	+	.	ID=gene-AB994_3920;Name=AB994_3920;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3920
+CP021344.1	Genbank	CDS	20965	23016	.	+	0	ID=cds-KMV08842.1;Parent=gene-AB994_3920;Dbxref=NCBI_GP:KMV08842.1;Name=KMV08842.1;gbkey=CDS;locus_tag=AB994_3920;product=hypothetical protein;protein_id=KMV08842.1;transl_table=11
+CP021344.1	Genbank	gene	23041	23436	.	+	.	ID=gene-AB994_3921;Name=AB994_3921;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3921
+CP021344.1	Genbank	CDS	23041	23436	.	+	0	ID=cds-KMV08843.1;Parent=gene-AB994_3921;Dbxref=NCBI_GP:KMV08843.1;Name=KMV08843.1;gbkey=CDS;locus_tag=AB994_3921;product=hypothetical protein;protein_id=KMV08843.1;transl_table=11
+CP021344.1	Genbank	gene	23511	24083	.	+	.	ID=gene-AB994_3922;Name=AB994_3922;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3922
+CP021344.1	Genbank	CDS	23511	24083	.	+	0	ID=cds-KMV08844.1;Parent=gene-AB994_3922;Dbxref=NCBI_GP:KMV08844.1;Name=KMV08844.1;gbkey=CDS;locus_tag=AB994_3922;product=hypothetical protein;protein_id=KMV08844.1;transl_table=11
+CP021344.1	Genbank	gene	24101	25147	.	+	.	ID=gene-AB994_3923;Name=AB994_3923;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3923
+CP021344.1	Genbank	CDS	24101	25147	.	+	0	ID=cds-KMV08845.1;Parent=gene-AB994_3923;Dbxref=NCBI_GP:KMV08845.1;Name=KMV08845.1;gbkey=CDS;locus_tag=AB994_3923;product=hypothetical protein;protein_id=KMV08845.1;transl_table=11
+CP021344.1	Genbank	gene	25125	25916	.	+	.	ID=gene-AB994_3924;Name=AB994_3924;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3924
+CP021344.1	Genbank	CDS	25125	25916	.	+	0	ID=cds-KMV08846.1;Parent=gene-AB994_3924;Dbxref=NCBI_GP:KMV08846.1;Name=KMV08846.1;gbkey=CDS;locus_tag=AB994_3924;product=hypothetical protein;protein_id=KMV08846.1;transl_table=11
+CP021344.1	Genbank	gene	25917	27044	.	+	.	ID=gene-AB994_3925;Name=AB994_3925;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3925
+CP021344.1	Genbank	CDS	25917	27044	.	+	0	ID=cds-KMV08847.1;Parent=gene-AB994_3925;Dbxref=NCBI_GP:KMV08847.1;Name=KMV08847.1;gbkey=CDS;locus_tag=AB994_3925;product=hypothetical protein;protein_id=KMV08847.1;transl_table=11
+CP021344.1	Genbank	gene	27047	28180	.	+	.	ID=gene-AB994_3926;Name=AB994_3926;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3926
+CP021344.1	Genbank	CDS	27047	28180	.	+	0	ID=cds-KMV08848.1;Parent=gene-AB994_3926;Dbxref=NCBI_GP:KMV08848.1;Name=KMV08848.1;gbkey=CDS;locus_tag=AB994_3926;product=hypothetical protein;protein_id=KMV08848.1;transl_table=11
+CP021344.1	Genbank	gene	28304	32038	.	+	.	ID=gene-AB994_3927;Name=AB994_3927;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3927
+CP021344.1	Genbank	CDS	28304	32038	.	+	0	ID=cds-KMV08849.1;Parent=gene-AB994_3927;Dbxref=NCBI_GP:KMV08849.1;Name=KMV08849.1;gbkey=CDS;locus_tag=AB994_3927;product=putative dNA primase;protein_id=KMV08849.1;transl_table=11
+CP021344.1	Genbank	gene	32119	32439	.	+	.	ID=gene-AB994_3928;Name=AB994_3928;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3928
+CP021344.1	Genbank	CDS	32119	32439	.	+	0	ID=cds-KMV08850.1;Parent=gene-AB994_3928;Dbxref=NCBI_GP:KMV08850.1;Name=KMV08850.1;gbkey=CDS;locus_tag=AB994_3928;product=hypothetical protein;protein_id=KMV08850.1;transl_table=11
+CP021344.1	Genbank	gene	32493	33146	.	+	.	ID=gene-AB994_3929;Name=AB994_3929;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3929
+CP021344.1	Genbank	CDS	32493	33146	.	+	0	ID=cds-KMV08851.1;Parent=gene-AB994_3929;Dbxref=NCBI_GP:KMV08851.1;Name=KMV08851.1;gbkey=CDS;locus_tag=AB994_3929;product=hypothetical protein;protein_id=KMV08851.1;transl_table=11
+CP021344.1	Genbank	gene	33140	33682	.	+	.	ID=gene-AB994_3930;Name=AB994_3930;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3930
+CP021344.1	Genbank	CDS	33140	33682	.	+	0	ID=cds-KMV08852.1;Parent=gene-AB994_3930;Dbxref=NCBI_GP:KMV08852.1;Name=KMV08852.1;gbkey=CDS;locus_tag=AB994_3930;product=hypothetical protein;protein_id=KMV08852.1;transl_table=11
+CP021344.1	Genbank	gene	33786	34280	.	+	.	ID=gene-AB994_3931;Name=AB994_3931;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3931
+CP021344.1	Genbank	CDS	33786	34280	.	+	0	ID=cds-KMV08853.1;Parent=gene-AB994_3931;Dbxref=NCBI_GP:KMV08853.1;Name=KMV08853.1;gbkey=CDS;locus_tag=AB994_3931;product=hypothetical protein;protein_id=KMV08853.1;transl_table=11
+CP021344.1	Genbank	gene	34311	35804	.	+	.	ID=gene-AB994_3932;Name=AB994_3932;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3932
+CP021344.1	Genbank	CDS	34311	35804	.	+	0	ID=cds-KMV08854.1;Parent=gene-AB994_3932;Dbxref=NCBI_GP:KMV08854.1;Name=KMV08854.1;gbkey=CDS;locus_tag=AB994_3932;product=hypothetical protein;protein_id=KMV08854.1;transl_table=11
+CP021344.1	Genbank	gene	35808	36344	.	-	.	ID=gene-AB994_3933;Name=AB994_3933;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3933
+CP021344.1	Genbank	CDS	35808	36344	.	-	0	ID=cds-KMV08855.1;Parent=gene-AB994_3933;Dbxref=NCBI_GP:KMV08855.1;Name=KMV08855.1;gbkey=CDS;locus_tag=AB994_3933;product=hypothetical protein;protein_id=KMV08855.1;transl_table=11
+CP021344.1	Genbank	gene	36347	36916	.	-	.	ID=gene-AB994_3934;Name=AB994_3934;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3934
+CP021344.1	Genbank	CDS	36347	36916	.	-	0	ID=cds-KMV08856.1;Parent=gene-AB994_3934;Dbxref=NCBI_GP:KMV08856.1;Name=KMV08856.1;gbkey=CDS;locus_tag=AB994_3934;product=hypothetical protein;protein_id=KMV08856.1;transl_table=11
+CP021344.1	Genbank	gene	37352	39898	.	+	.	ID=gene-AB994_3935;Name=AB994_3935;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3935
+CP021344.1	Genbank	CDS	37352	39898	.	+	0	ID=cds-KMV08857.1;Parent=gene-AB994_3935;Dbxref=NCBI_GP:KMV08857.1;Name=KMV08857.1;gbkey=CDS;locus_tag=AB994_3935;product=conjugal transfer/type IV secretion DotA/TraY family protein;protein_id=KMV08857.1;transl_table=11
+CP021344.1	Genbank	gene	39952	40311	.	-	.	ID=gene-AB994_3936;Name=AB994_3936;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3936
+CP021344.1	Genbank	CDS	39952	40311	.	-	0	ID=cds-KMV08858.1;Parent=gene-AB994_3936;Dbxref=NCBI_GP:KMV08858.1;Name=KMV08858.1;gbkey=CDS;locus_tag=AB994_3936;product=hypothetical protein;protein_id=KMV08858.1;transl_table=11
+CP021344.1	Genbank	gene	40584	42419	.	+	.	ID=gene-AB994_3937;Name=AB994_3937;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3937
+CP021344.1	Genbank	CDS	40584	42419	.	+	0	ID=cds-KMV08859.1;Parent=gene-AB994_3937;Dbxref=NCBI_GP:KMV08859.1;Name=KMV08859.1;gbkey=CDS;locus_tag=AB994_3937;product=peptidase M23 family protein;protein_id=KMV08859.1;transl_table=11
+CP021344.1	Genbank	gene	42434	42775	.	+	.	ID=gene-AB994_3938;Name=AB994_3938;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3938
+CP021344.1	Genbank	CDS	42434	42775	.	+	0	ID=cds-KMV08860.1;Parent=gene-AB994_3938;Dbxref=NCBI_GP:KMV08860.1;Name=KMV08860.1;gbkey=CDS;locus_tag=AB994_3938;product=hypothetical protein;protein_id=KMV08860.1;transl_table=11
+CP021344.1	Genbank	gene	42789	43184	.	+	.	ID=gene-AB994_3939;Name=AB994_3939;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3939
+CP021344.1	Genbank	CDS	42789	43184	.	+	0	ID=cds-KMV08861.1;Parent=gene-AB994_3939;Dbxref=NCBI_GP:KMV08861.1;Name=KMV08861.1;gbkey=CDS;locus_tag=AB994_3939;product=hypothetical protein;protein_id=KMV08861.1;transl_table=11
+CP021344.1	Genbank	gene	43231	43455	.	+	.	ID=gene-AB994_3940;Name=AB994_3940;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3940
+CP021344.1	Genbank	CDS	43231	43455	.	+	0	ID=cds-KMV08862.1;Parent=gene-AB994_3940;Dbxref=NCBI_GP:KMV08862.1;Name=KMV08862.1;gbkey=CDS;locus_tag=AB994_3940;product=hypothetical protein;protein_id=KMV08862.1;transl_table=11
+CP021344.1	Genbank	gene	43479	45137	.	+	.	ID=gene-AB994_3941;Name=AB994_3941;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3941
+CP021344.1	Genbank	CDS	43479	45137	.	+	0	ID=cds-KMV08863.1;Parent=gene-AB994_3941;Dbxref=NCBI_GP:KMV08863.1;Name=KMV08863.1;gbkey=CDS;locus_tag=AB994_3941;product=hypothetical protein;protein_id=KMV08863.1;transl_table=11
+CP021344.1	Genbank	gene	45246	45896	.	+	.	ID=gene-AB994_3942;Name=AB994_3942;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3942
+CP021344.1	Genbank	CDS	45246	45896	.	+	0	ID=cds-KMV08864.1;Parent=gene-AB994_3942;Dbxref=NCBI_GP:KMV08864.1;Name=KMV08864.1;gbkey=CDS;locus_tag=AB994_3942;product=hypothetical protein;protein_id=KMV08864.1;transl_table=11
+CP021344.1	Genbank	gene	45886	46932	.	+	.	ID=gene-AB994_3943;Name=AB994_3943;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3943
+CP021344.1	Genbank	CDS	45886	46932	.	+	0	ID=cds-KMV08865.1;Parent=gene-AB994_3943;Dbxref=NCBI_GP:KMV08865.1;Name=KMV08865.1;gbkey=CDS;locus_tag=AB994_3943;product=hypothetical protein;protein_id=KMV08865.1;transl_table=11
+CP021344.1	Genbank	gene	47121	47618	.	+	.	ID=gene-AB994_3944;Name=AB994_3944;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3944
+CP021344.1	Genbank	CDS	47121	47618	.	+	0	ID=cds-KMV08866.1;Parent=gene-AB994_3944;Dbxref=NCBI_GP:KMV08866.1;Name=KMV08866.1;gbkey=CDS;locus_tag=AB994_3944;product=peptidase S24-like family protein;protein_id=KMV08866.1;transl_table=11
+CP021344.1	Genbank	gene	47615	48910	.	+	.	ID=gene-AB994_3945;Name=AB994_3945;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3945
+CP021344.1	Genbank	CDS	47615	48910	.	+	0	ID=cds-KMV08867.1;Parent=gene-AB994_3945;Dbxref=NCBI_GP:KMV08867.1;Name=KMV08867.1;gbkey=CDS;locus_tag=AB994_3945;product=impB/mucB/samB family protein;protein_id=KMV08867.1;transl_table=11
+CP021344.1	Genbank	gene	48978	49850	.	-	.	ID=gene-AB994_3946;Name=AB994_3946;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3946
+CP021344.1	Genbank	CDS	48978	49850	.	-	0	ID=cds-KMV08868.1;Parent=gene-AB994_3946;Dbxref=NCBI_GP:KMV08868.1;Name=KMV08868.1;gbkey=CDS;locus_tag=AB994_3946;product=parB/RepB/Spo0J family partition domain protein;protein_id=KMV08868.1;transl_table=11
+CP021344.1	Genbank	gene	49860	50744	.	-	.	ID=gene-AB994_3947;Name=AB994_3947;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3947
+CP021344.1	Genbank	CDS	49860	50744	.	-	0	ID=cds-KMV08869.1;Parent=gene-AB994_3947;Dbxref=NCBI_GP:KMV08869.1;Name=KMV08869.1;gbkey=CDS;locus_tag=AB994_3947;product=cobQ/CobB/MinD/ParA nucleotide binding domain protein;protein_id=KMV08869.1;transl_table=11
+CP021344.1	Genbank	gene	50878	51525	.	-	.	ID=gene-AB994_3948;Name=AB994_3948;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3948
+CP021344.1	Genbank	CDS	50878	51525	.	-	0	ID=cds-KMV08870.1;Parent=gene-AB994_3948;Dbxref=NCBI_GP:KMV08870.1;Name=KMV08870.1;gbkey=CDS;locus_tag=AB994_3948;product=hypothetical protein;protein_id=KMV08870.1;transl_table=11
+CP021344.1	Genbank	gene	51542	52150	.	-	.	ID=gene-AB994_3949;Name=AB994_3949;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3949
+CP021344.1	Genbank	CDS	51542	52150	.	-	0	ID=cds-KMV08871.1;Parent=gene-AB994_3949;Dbxref=NCBI_GP:KMV08871.1;Name=KMV08871.1;gbkey=CDS;locus_tag=AB994_3949;product=hypothetical protein;protein_id=KMV08871.1;transl_table=11
+CP021344.1	Genbank	gene	52143	53111	.	-	.	ID=gene-AB994_3950;Name=AB994_3950;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3950
+CP021344.1	Genbank	CDS	52143	53111	.	-	0	ID=cds-KMV08872.1;Parent=gene-AB994_3950;Dbxref=NCBI_GP:KMV08872.1;Name=KMV08872.1;gbkey=CDS;locus_tag=AB994_3950;product=hypothetical protein;protein_id=KMV08872.1;transl_table=11
+CP021344.1	Genbank	gene	53121	53978	.	-	.	ID=gene-AB994_3951;Name=AB994_3951;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3951
+CP021344.1	Genbank	CDS	53121	53978	.	-	0	ID=cds-KMV08873.1;Parent=gene-AB994_3951;Dbxref=NCBI_GP:KMV08873.1;Name=KMV08873.1;gbkey=CDS;locus_tag=AB994_3951;product=hypothetical protein;protein_id=KMV08873.1;transl_table=11
+CP021344.1	Genbank	gene	54000	54944	.	-	.	ID=gene-AB994_3952;Name=AB994_3952;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3952
+CP021344.1	Genbank	CDS	54000	54944	.	-	0	ID=cds-KMV08874.1;Parent=gene-AB994_3952;Dbxref=NCBI_GP:KMV08874.1;Name=KMV08874.1;gbkey=CDS;locus_tag=AB994_3952;product=hypothetical protein;protein_id=KMV08874.1;transl_table=11
+CP021344.1	Genbank	gene	55026	56396	.	-	.	ID=gene-AB994_3953;Name=AB994_3953;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3953
+CP021344.1	Genbank	CDS	55026	56396	.	-	0	ID=cds-KMV08875.1;Parent=gene-AB994_3953;Dbxref=NCBI_GP:KMV08875.1;Name=KMV08875.1;gbkey=CDS;locus_tag=AB994_3953;product=hypothetical protein;protein_id=KMV08875.1;transl_table=11
+CP021344.1	Genbank	gene	56415	57164	.	-	.	ID=gene-AB994_3954;Name=AB994_3954;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3954
+CP021344.1	Genbank	CDS	56415	57164	.	-	0	ID=cds-KMV08876.1;Parent=gene-AB994_3954;Dbxref=NCBI_GP:KMV08876.1;Name=KMV08876.1;gbkey=CDS;locus_tag=AB994_3954;product=hypothetical protein;protein_id=KMV08876.1;transl_table=11
+CP021344.1	Genbank	gene	57178	58236	.	-	.	ID=gene-AB994_3955;Name=AB994_3955;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3955
+CP021344.1	Genbank	CDS	57178	58236	.	-	0	ID=cds-KMV08877.1;Parent=gene-AB994_3955;Dbxref=NCBI_GP:KMV08877.1;Name=KMV08877.1;gbkey=CDS;locus_tag=AB994_3955;product=stbA family protein;protein_id=KMV08877.1;transl_table=11
+CP021344.1	Genbank	gene	58252	58506	.	-	.	ID=gene-AB994_3956;Name=AB994_3956;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3956
+CP021344.1	Genbank	CDS	58252	58506	.	-	0	ID=cds-KMV08878.1;Parent=gene-AB994_3956;Dbxref=NCBI_GP:KMV08878.1;Name=KMV08878.1;gbkey=CDS;locus_tag=AB994_3956;product=hypothetical protein;protein_id=KMV08878.1;transl_table=11
+CP021344.1	Genbank	gene	58521	59810	.	-	.	ID=gene-AB994_3957;Name=AB994_3957;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3957
+CP021344.1	Genbank	CDS	58521	59810	.	-	0	ID=cds-KMV08879.1;Parent=gene-AB994_3957;Dbxref=NCBI_GP:KMV08879.1;Name=KMV08879.1;gbkey=CDS;locus_tag=AB994_3957;product=type II/IV secretion system family protein;protein_id=KMV08879.1;transl_table=11
+CP021344.1	Genbank	gene	59823	60641	.	-	.	ID=gene-AB994_3958;Name=AB994_3958;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3958
+CP021344.1	Genbank	CDS	59823	60641	.	-	0	ID=cds-KMV08880.1;Parent=gene-AB994_3958;Dbxref=NCBI_GP:KMV08880.1;Name=KMV08880.1;gbkey=CDS;locus_tag=AB994_3958;product=hypothetical protein;protein_id=KMV08880.1;transl_table=11
+CP021344.1	Genbank	gene	60683	61153	.	-	.	ID=gene-AB994_3959;Name=AB994_3959;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3959
+CP021344.1	Genbank	CDS	60683	61153	.	-	0	ID=cds-KMV08881.1;Parent=gene-AB994_3959;Dbxref=NCBI_GP:KMV08881.1;Name=KMV08881.1;gbkey=CDS;locus_tag=AB994_3959;product=putative lipoprotein;protein_id=KMV08881.1;transl_table=11
+CP021344.1	Genbank	gene	61881	62006	.	-	.	ID=gene-AB994_3960;Name=AB994_3960;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3960
+CP021344.1	Genbank	CDS	61881	62006	.	-	0	ID=cds-KMV08882.1;Parent=gene-AB994_3960;Dbxref=NCBI_GP:KMV08882.1;Name=KMV08882.1;gbkey=CDS;locus_tag=AB994_3960;product=hypothetical protein;protein_id=KMV08882.1;transl_table=11
+CP021344.1	Genbank	gene	62091	63995	.	+	.	ID=gene-AB994_3961;Name=AB994_3961;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3961
+CP021344.1	Genbank	CDS	62091	63995	.	+	0	ID=cds-KMV08883.1;Parent=gene-AB994_3961;Dbxref=NCBI_GP:KMV08883.1;Name=KMV08883.1;gbkey=CDS;locus_tag=AB994_3961;product=hypothetical protein;protein_id=KMV08883.1;transl_table=11
+CP021344.1	Genbank	gene	64342	64602	.	+	.	ID=gene-AB994_3962;Name=AB994_3962;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3962
+CP021344.1	Genbank	CDS	64342	64602	.	+	0	ID=cds-KMV08884.1;Parent=gene-AB994_3962;Dbxref=NCBI_GP:KMV08884.1;Name=KMV08884.1;gbkey=CDS;locus_tag=AB994_3962;product=hypothetical protein;protein_id=KMV08884.1;transl_table=11
+CP021344.1	Genbank	gene	64741	64944	.	+	.	ID=gene-AB994_3963;Name=AB994_3963;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3963
+CP021344.1	Genbank	CDS	64741	64944	.	+	0	ID=cds-KMV08885.1;Parent=gene-AB994_3963;Dbxref=NCBI_GP:KMV08885.1;Name=KMV08885.1;gbkey=CDS;locus_tag=AB994_3963;product=hypothetical protein;protein_id=KMV08885.1;transl_table=11
+CP021344.1	Genbank	gene	65083	65529	.	+	.	ID=gene-AB994_3964;Name=AB994_3964;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3964
+CP021344.1	Genbank	CDS	65083	65529	.	+	0	ID=cds-KMV08886.1;Parent=gene-AB994_3964;Dbxref=NCBI_GP:KMV08886.1;Name=KMV08886.1;gbkey=CDS;locus_tag=AB994_3964;product=hypothetical protein;protein_id=KMV08886.1;transl_table=11
+CP021344.1	Genbank	gene	65604	65906	.	+	.	ID=gene-AB994_3965;Name=AB994_3965;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3965
+CP021344.1	Genbank	CDS	65604	65906	.	+	0	ID=cds-KMV08887.1;Parent=gene-AB994_3965;Dbxref=NCBI_GP:KMV08887.1;Name=KMV08887.1;gbkey=CDS;locus_tag=AB994_3965;product=hypothetical protein;protein_id=KMV08887.1;transl_table=11
+CP021344.1	Genbank	gene	66084	66233	.	+	.	ID=gene-AB994_3966;Name=AB994_3966;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3966
+CP021344.1	Genbank	CDS	66084	66233	.	+	0	ID=cds-KMV08888.1;Parent=gene-AB994_3966;Dbxref=NCBI_GP:KMV08888.1;Name=KMV08888.1;gbkey=CDS;locus_tag=AB994_3966;product=hypothetical protein;protein_id=KMV08888.1;transl_table=11
+CP021344.1	Genbank	gene	66336	66683	.	+	.	ID=gene-AB994_3967;Name=AB994_3967;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3967
+CP021344.1	Genbank	CDS	66336	66683	.	+	0	ID=cds-KMV08889.1;Parent=gene-AB994_3967;Dbxref=NCBI_GP:KMV08889.1;Name=KMV08889.1;gbkey=CDS;locus_tag=AB994_3967;product=hypothetical protein;protein_id=KMV08889.1;transl_table=11
+CP021344.1	Genbank	gene	67101	67394	.	+	.	ID=gene-AB994_3968;Name=AB994_3968;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3968
+CP021344.1	Genbank	CDS	67101	67394	.	+	0	ID=cds-KMV08890.1;Parent=gene-AB994_3968;Dbxref=NCBI_GP:KMV08890.1;Name=KMV08890.1;gbkey=CDS;locus_tag=AB994_3968;product=hypothetical protein;protein_id=KMV08890.1;transl_table=11
+CP021344.1	Genbank	gene	67412	68128	.	+	.	ID=gene-AB994_3969;Name=AB994_3969;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3969
+CP021344.1	Genbank	CDS	67412	68128	.	+	0	ID=cds-KMV08891.1;Parent=gene-AB994_3969;Dbxref=NCBI_GP:KMV08891.1;Name=KMV08891.1;gbkey=CDS;locus_tag=AB994_3969;product=macrophage killing with similarity to conjugation family protein;protein_id=KMV08891.1;transl_table=11
+CP021344.1	Genbank	gene	68146	69276	.	+	.	ID=gene-AB994_3970;Name=AB994_3970;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3970
+CP021344.1	Genbank	CDS	68146	69276	.	+	0	ID=cds-KMV08892.1;Parent=gene-AB994_3970;Dbxref=NCBI_GP:KMV08892.1;Name=KMV08892.1;gbkey=CDS;locus_tag=AB994_3970;product=hypothetical protein;protein_id=KMV08892.1;transl_table=11
+CP021344.1	Genbank	gene	69285	70916	.	+	.	ID=gene-AB994_3971;Name=AB994_3971;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3971
+CP021344.1	Genbank	CDS	69285	70916	.	+	0	ID=cds-KMV08893.1;Parent=gene-AB994_3971;Dbxref=NCBI_GP:KMV08893.1;Name=KMV08893.1;gbkey=CDS;locus_tag=AB994_3971;product=bacterial conjugation TrbI-like family protein;protein_id=KMV08893.1;transl_table=11
+CP021344.1	Genbank	gene	70941	71795	.	+	.	ID=gene-AB994_3972;Name=AB994_3972;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3972
+CP021344.1	Genbank	CDS	70941	71795	.	+	0	ID=cds-KMV08894.1;Parent=gene-AB994_3972;Dbxref=NCBI_GP:KMV08894.1;Name=KMV08894.1;gbkey=CDS;locus_tag=AB994_3972;product=hypothetical protein;protein_id=KMV08894.1;transl_table=11
+CP021344.1	Genbank	gene	71834	72412	.	+	.	ID=gene-AB994_3973;Name=AB994_3973;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3973
+CP021344.1	Genbank	CDS	71834	72412	.	+	0	ID=cds-KMV08895.1;Parent=gene-AB994_3973;Dbxref=NCBI_GP:KMV08895.1;Name=KMV08895.1;gbkey=CDS;locus_tag=AB994_3973;product=hypothetical protein;protein_id=KMV08895.1;transl_table=11
+CP021344.1	Genbank	gene	72517	72936	.	+	.	ID=gene-AB994_3974;Name=AB994_3974;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3974
+CP021344.1	Genbank	CDS	72517	72936	.	+	0	ID=cds-KMV08896.1;Parent=gene-AB994_3974;Dbxref=NCBI_GP:KMV08896.1;Name=KMV08896.1;gbkey=CDS;locus_tag=AB994_3974;product=hypothetical protein;protein_id=KMV08896.1;transl_table=11
+CP021344.1	Genbank	gene	73390	73773	.	+	.	ID=gene-AB994_3975;Name=AB994_3975;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3975
+CP021344.1	Genbank	CDS	73390	73773	.	+	0	ID=cds-KMV08897.1;Parent=gene-AB994_3975;Dbxref=NCBI_GP:KMV08897.1;Name=KMV08897.1;gbkey=CDS;locus_tag=AB994_3975;product=hypothetical protein;protein_id=KMV08897.1;transl_table=11
+CP021344.1	Genbank	gene	73773	74792	.	+	.	ID=gene-AB994_3976;Name=AB994_3976;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3976
+CP021344.1	Genbank	CDS	73773	74792	.	+	0	ID=cds-KMV08898.1;Parent=gene-AB994_3976;Dbxref=NCBI_GP:KMV08898.1;Name=KMV08898.1;gbkey=CDS;locus_tag=AB994_3976;product=hypothetical protein;protein_id=KMV08898.1;transl_table=11
+CP021344.1	Genbank	gene	74809	78081	.	+	.	ID=gene-AB994_3977;Name=AB994_3977;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3977
+CP021344.1	Genbank	CDS	74809	78081	.	+	0	ID=cds-KMV08899.1;Parent=gene-AB994_3977;Dbxref=NCBI_GP:KMV08899.1;Name=KMV08899.1;gbkey=CDS;locus_tag=AB994_3977;product=AAA-like domain protein;protein_id=KMV08899.1;transl_table=11
+CP021344.1	Genbank	gene	78145	78555	.	+	.	ID=gene-AB994_3978;Name=AB994_3978;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3978
+CP021344.1	Genbank	CDS	78145	78555	.	+	0	ID=cds-KMV08900.1;Parent=gene-AB994_3978;Dbxref=NCBI_GP:KMV08900.1;Name=KMV08900.1;gbkey=CDS;locus_tag=AB994_3978;product=hypothetical protein;protein_id=KMV08900.1;transl_table=11
+CP021344.1	Genbank	gene	78663	78776	.	-	.	ID=gene-AB994_3979;Name=AB994_3979;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3979
+CP021344.1	Genbank	CDS	78663	78776	.	-	0	ID=cds-KMV08901.1;Parent=gene-AB994_3979;Dbxref=NCBI_GP:KMV08901.1;Name=KMV08901.1;gbkey=CDS;locus_tag=AB994_3979;product=hypothetical protein;protein_id=KMV08901.1;transl_table=11
+CP021344.1	Genbank	gene	78814	81300	.	+	.	ID=gene-AB994_3980;Name=AB994_3980;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3980
+CP021344.1	Genbank	CDS	78814	81300	.	+	0	ID=cds-KMV08902.1;Parent=gene-AB994_3980;Dbxref=NCBI_GP:KMV08902.1;Name=KMV08902.1;gbkey=CDS;locus_tag=AB994_3980;product=type IV secretion-system coupling DNA-binding domain protein;protein_id=KMV08902.1;transl_table=11
+CP021344.1	Genbank	gene	81314	81709	.	+	.	ID=gene-AB994_3981;Name=AB994_3981;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3981
+CP021344.1	Genbank	CDS	81314	81709	.	+	0	ID=cds-KMV08903.1;Parent=gene-AB994_3981;Dbxref=NCBI_GP:KMV08903.1;Name=KMV08903.1;gbkey=CDS;locus_tag=AB994_3981;product=hypothetical protein;protein_id=KMV08903.1;transl_table=11
+CP021344.1	Genbank	gene	81854	82162	.	+	.	ID=gene-AB994_3982;Name=AB994_3982;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3982
+CP021344.1	Genbank	CDS	81854	82162	.	+	0	ID=cds-KMV08904.1;Parent=gene-AB994_3982;Dbxref=NCBI_GP:KMV08904.1;Name=KMV08904.1;gbkey=CDS;locus_tag=AB994_3982;product=putative membrane protein;protein_id=KMV08904.1;transl_table=11
+CP021344.1	Genbank	gene	83143	83544	.	-	.	ID=gene-AB994_3983;Name=AB994_3983;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3983
+CP021344.1	Genbank	CDS	83143	83544	.	-	0	ID=cds-KMV08905.1;Parent=gene-AB994_3983;Dbxref=NCBI_GP:KMV08905.1;Name=KMV08905.1;gbkey=CDS;locus_tag=AB994_3983;product=hypothetical protein;protein_id=KMV08905.1;transl_table=11
+CP021344.1	Genbank	gene	83580	83873	.	-	.	ID=gene-AB994_3984;Name=AB994_3984;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3984
+CP021344.1	Genbank	CDS	83580	83873	.	-	0	ID=cds-KMV08906.1;Parent=gene-AB994_3984;Dbxref=NCBI_GP:KMV08906.1;Name=KMV08906.1;gbkey=CDS;locus_tag=AB994_3984;product=hypothetical protein;protein_id=KMV08906.1;transl_table=11
+CP021344.1	Genbank	gene	83870	84499	.	-	.	ID=gene-AB994_3985;Name=AB994_3985;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3985
+CP021344.1	Genbank	CDS	83870	84499	.	-	0	ID=cds-KMV08907.1;Parent=gene-AB994_3985;Dbxref=NCBI_GP:KMV08907.1;Name=KMV08907.1;gbkey=CDS;locus_tag=AB994_3985;product=hypothetical protein;protein_id=KMV08907.1;transl_table=11
+CP021344.1	Genbank	gene	84639	85343	.	-	.	ID=gene-AB994_3986;Name=AB994_3986;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3986
+CP021344.1	Genbank	CDS	84639	85343	.	-	0	ID=cds-KMV08908.1;Parent=gene-AB994_3986;Dbxref=NCBI_GP:KMV08908.1;Name=KMV08908.1;gbkey=CDS;locus_tag=AB994_3986;product=transposase IS66 family protein;protein_id=KMV08908.1;transl_table=11
+CP021344.1	Genbank	gene	85402	85725	.	+	.	ID=gene-AB994_3987;Name=AB994_3987;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3987
+CP021344.1	Genbank	CDS	85402	85725	.	+	0	ID=cds-KMV08909.1;Parent=gene-AB994_3987;Dbxref=NCBI_GP:KMV08909.1;Name=KMV08909.1;gbkey=CDS;locus_tag=AB994_3987;product=tn3 transposase DDE domain protein;protein_id=KMV08909.1;transl_table=11
+CP021344.1	Genbank	gene	86168	86431	.	+	.	ID=gene-AB994_3988;Name=AB994_3988;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3988
+CP021344.1	Genbank	CDS	86168	86431	.	+	0	ID=cds-KMV08910.1;Parent=gene-AB994_3988;Dbxref=NCBI_GP:KMV08910.1;Name=KMV08910.1;gbkey=CDS;locus_tag=AB994_3988;product=resolvase%2C N terminal domain protein;protein_id=KMV08910.1;transl_table=11
+CP021344.1	Genbank	gene	86672	87733	.	-	.	ID=gene-AB994_3989;Name=AB994_3989;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3989
+CP021344.1	Genbank	CDS	86672	87733	.	-	0	ID=cds-KMV08911.1;Parent=gene-AB994_3989;Dbxref=NCBI_GP:KMV08911.1;Name=KMV08911.1;gbkey=CDS;locus_tag=AB994_3989;product=bacterial regulatory helix-turn-helix s%2C AraC family protein;protein_id=KMV08911.1;transl_table=11
+CP021344.1	Genbank	gene	87873	88193	.	+	.	ID=gene-AB994_3990;Name=AB994_3990;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3990
+CP021344.1	Genbank	CDS	87873	88193	.	+	0	ID=cds-KMV08912.1;Parent=gene-AB994_3990;Dbxref=NCBI_GP:KMV08912.1;Name=KMV08912.1;gbkey=CDS;locus_tag=AB994_3990;product=2Fe-2S iron-sulfur cluster binding domain protein;protein_id=KMV08912.1;transl_table=11
+CP021344.1	Genbank	gene	88777	89763	.	+	.	ID=gene-AB994_3991;Name=AB994_3991;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3991
+CP021344.1	Genbank	CDS	88777	89763	.	+	0	ID=cds-KMV08913.1;Parent=gene-AB994_3991;Dbxref=NCBI_GP:KMV08913.1;Name=KMV08913.1;gbkey=CDS;locus_tag=AB994_3991;product=cytochrome P450 family protein;protein_id=KMV08913.1;transl_table=11
+CP021344.1	Genbank	gene	89850	91064	.	+	.	ID=gene-AB994_3992;Name=camA;gbkey=Gene;gene=camA;gene_biotype=protein_coding;locus_tag=AB994_3992
+CP021344.1	Genbank	CDS	89850	91064	.	+	0	ID=cds-KMV08914.1;Parent=gene-AB994_3992;Dbxref=NCBI_GP:KMV08914.1;Name=KMV08914.1;gbkey=CDS;gene=camA;locus_tag=AB994_3992;product=putidaredoxin reductase;protein_id=KMV08914.1;transl_table=11
+CP021344.1	Genbank	gene	91103	91333	.	-	.	ID=gene-AB994_3993;Name=AB994_3993;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3993
+CP021344.1	Genbank	CDS	91103	91333	.	-	0	ID=cds-KMV08915.1;Parent=gene-AB994_3993;Dbxref=NCBI_GP:KMV08915.1;Name=KMV08915.1;gbkey=CDS;locus_tag=AB994_3993;product=putative transposase;protein_id=KMV08915.1;transl_table=11
+CP021344.1	Genbank	gene	91780	91998	.	-	.	ID=gene-AB994_3994;Name=AB994_3994;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3994
+CP021344.1	Genbank	CDS	91780	91998	.	-	0	ID=cds-KMV08916.1;Parent=gene-AB994_3994;Dbxref=NCBI_GP:KMV08916.1;Name=KMV08916.1;gbkey=CDS;locus_tag=AB994_3994;product=hypothetical protein;protein_id=KMV08916.1;transl_table=11
+CP021344.1	Genbank	gene	92074	92859	.	+	.	ID=gene-AB994_3995;Name=AB994_3995;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3995
+CP021344.1	Genbank	CDS	92074	92859	.	+	0	ID=cds-KMV08917.1;Parent=gene-AB994_3995;Dbxref=NCBI_GP:KMV08917.1;Name=KMV08917.1;gbkey=CDS;locus_tag=AB994_3995;product=putative metal-dependent hydrolase family protein;protein_id=KMV08917.1;transl_table=11
+CP021344.1	Genbank	gene	92943	93569	.	+	.	ID=gene-AB994_3996;Name=AB994_3996;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3996
+CP021344.1	Genbank	CDS	92943	93569	.	+	0	ID=cds-KMV08918.1;Parent=gene-AB994_3996;Dbxref=NCBI_GP:KMV08918.1;Name=KMV08918.1;gbkey=CDS;locus_tag=AB994_3996;product=bacterial regulatory s%2C tetR family protein;protein_id=KMV08918.1;transl_table=11
+CP021344.1	Genbank	gene	93566	94537	.	+	.	ID=gene-AB994_3997;Name=AB994_3997;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3997
+CP021344.1	Genbank	CDS	93566	94537	.	+	0	ID=cds-KMV08919.1;Parent=gene-AB994_3997;Dbxref=NCBI_GP:KMV08919.1;Name=KMV08919.1;gbkey=CDS;locus_tag=AB994_3997;product=putative NlpC/p60-like peptidase family protein;protein_id=KMV08919.1;transl_table=11
+CP021344.1	Genbank	gene	94666	95058	.	+	.	ID=gene-AB994_3998;Name=AB994_3998;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3998
+CP021344.1	Genbank	CDS	94666	95058	.	+	0	ID=cds-KMV08920.1;Parent=gene-AB994_3998;Dbxref=NCBI_GP:KMV08920.1;Name=KMV08920.1;gbkey=CDS;locus_tag=AB994_3998;product=hypothetical protein;protein_id=KMV08920.1;transl_table=11
+CP021344.1	Genbank	gene	95060	95479	.	+	.	ID=gene-AB994_3999;Name=AB994_3999;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_3999
+CP021344.1	Genbank	CDS	95060	95479	.	+	0	ID=cds-KMV08921.1;Parent=gene-AB994_3999;Dbxref=NCBI_GP:KMV08921.1;Name=KMV08921.1;gbkey=CDS;locus_tag=AB994_3999;product=hypothetical protein;protein_id=KMV08921.1;transl_table=11
+CP021344.1	Genbank	gene	95745	98480	.	-	.	ID=gene-AB994_4000;Name=AB994_4000;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4000
+CP021344.1	Genbank	CDS	95745	98480	.	-	0	ID=cds-KMV08922.1;Parent=gene-AB994_4000;Dbxref=NCBI_GP:KMV08922.1;Name=KMV08922.1;gbkey=CDS;locus_tag=AB994_4000;product=tn3 transposase DDE domain protein;protein_id=KMV08922.1;transl_table=11
+CP021344.1	Genbank	gene	99151	99414	.	+	.	ID=gene-AB994_4001;Name=AB994_4001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4001
+CP021344.1	Genbank	CDS	99151	99414	.	+	0	ID=cds-KMV08923.1;Parent=gene-AB994_4001;Dbxref=NCBI_GP:KMV08923.1;Name=KMV08923.1;gbkey=CDS;locus_tag=AB994_4001;product=resolvase%2C N terminal domain protein;protein_id=KMV08923.1;transl_table=11
+CP021344.1	Genbank	gene	99583	99915	.	+	.	ID=gene-AB994_4002;Name=AB994_4002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4002
+CP021344.1	Genbank	CDS	99583	99915	.	+	0	ID=cds-KMV08924.1;Parent=gene-AB994_4002;Dbxref=NCBI_GP:KMV08924.1;Name=KMV08924.1;gbkey=CDS;locus_tag=AB994_4002;product=HNH endonuclease family protein;protein_id=KMV08924.1;transl_table=11
+CP021344.1	Genbank	gene	100467	101699	.	+	.	ID=gene-AB994_4003;Name=AB994_4003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4003
+CP021344.1	Genbank	CDS	100467	101699	.	+	0	ID=cds-KMV08925.1;Parent=gene-AB994_4003;Dbxref=NCBI_GP:KMV08925.1;Name=KMV08925.1;gbkey=CDS;locus_tag=AB994_4003;product=hypothetical protein;protein_id=KMV08925.1;transl_table=11
+CP021344.1	Genbank	gene	101971	102300	.	-	.	ID=gene-AB994_4004;Name=AB994_4004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4004
+CP021344.1	Genbank	CDS	101971	102300	.	-	0	ID=cds-KMV08926.1;Parent=gene-AB994_4004;Dbxref=NCBI_GP:KMV08926.1;Name=KMV08926.1;gbkey=CDS;locus_tag=AB994_4004;product=hypothetical protein;protein_id=KMV08926.1;transl_table=11
+CP021344.1	Genbank	gene	102542	103375	.	+	.	ID=gene-AB994_4005;Name=AB994_4005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4005
+CP021344.1	Genbank	CDS	102542	103375	.	+	0	ID=cds-KMV08927.1;Parent=gene-AB994_4005;Dbxref=NCBI_GP:KMV08927.1;Name=KMV08927.1;gbkey=CDS;locus_tag=AB994_4005;product=WYL domain protein;protein_id=KMV08927.1;transl_table=11
+CP021344.1	Genbank	gene	103386	103997	.	+	.	ID=gene-AB994_4006;Name=AB994_4006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4006
+CP021344.1	Genbank	CDS	103386	103997	.	+	0	ID=cds-KMV08928.1;Parent=gene-AB994_4006;Dbxref=NCBI_GP:KMV08928.1;Name=KMV08928.1;gbkey=CDS;locus_tag=AB994_4006;product=hypothetical protein;protein_id=KMV08928.1;transl_table=11
+CP021344.1	Genbank	gene	104014	104589	.	+	.	ID=gene-AB994_4007;Name=AB994_4007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4007
+CP021344.1	Genbank	CDS	104014	104589	.	+	0	ID=cds-KMV08929.1;Parent=gene-AB994_4007;Dbxref=NCBI_GP:KMV08929.1;Name=KMV08929.1;gbkey=CDS;locus_tag=AB994_4007;product=hypothetical protein;protein_id=KMV08929.1;transl_table=11
+CP021344.1	Genbank	gene	104631	108311	.	+	.	ID=gene-AB994_4008;Name=AB994_4008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4008
+CP021344.1	Genbank	CDS	104631	108311	.	+	0	ID=cds-KMV08930.1;Parent=gene-AB994_4008;Dbxref=NCBI_GP:KMV08930.1;Name=KMV08930.1;gbkey=CDS;locus_tag=AB994_4008;product=hypothetical protein;protein_id=KMV08930.1;transl_table=11
+CP021344.1	Genbank	gene	108358	111906	.	+	.	ID=gene-AB994_4009;Name=AB994_4009;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4009
+CP021344.1	Genbank	CDS	108358	111906	.	+	0	ID=cds-KMV08931.1;Parent=gene-AB994_4009;Dbxref=NCBI_GP:KMV08931.1;Name=KMV08931.1;gbkey=CDS;locus_tag=AB994_4009;product=eco57I restriction-modification methylase family protein;protein_id=KMV08931.1;transl_table=11
+CP021344.1	Genbank	gene	111906	113843	.	+	.	ID=gene-AB994_4010;Name=AB994_4010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4010
+CP021344.1	Genbank	CDS	111906	113843	.	+	0	ID=cds-KMV08932.1;Parent=gene-AB994_4010;Dbxref=NCBI_GP:KMV08932.1;Name=KMV08932.1;gbkey=CDS;locus_tag=AB994_4010;product=hypothetical protein;protein_id=KMV08932.1;transl_table=11
+CP021344.1	Genbank	gene	113840	116464	.	+	.	ID=gene-AB994_4011;Name=AB994_4011;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4011
+CP021344.1	Genbank	CDS	113840	116464	.	+	0	ID=cds-KMV08933.1;Parent=gene-AB994_4011;Dbxref=NCBI_GP:KMV08933.1;Name=KMV08933.1;gbkey=CDS;locus_tag=AB994_4011;product=pglZ domain protein;protein_id=KMV08933.1;transl_table=11
+CP021344.1	Genbank	gene	116494	118533	.	+	.	ID=gene-AB994_4012;Name=AB994_4012;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4012
+CP021344.1	Genbank	CDS	116494	118533	.	+	0	ID=cds-KMV08934.1;Parent=gene-AB994_4012;Dbxref=NCBI_GP:KMV08934.1;Name=KMV08934.1;gbkey=CDS;locus_tag=AB994_4012;product=lon protease (S16) C-terminal proteolytic domain protein;protein_id=KMV08934.1;transl_table=11
+CP021344.1	Genbank	gene	118944	119111	.	-	.	ID=gene-AB994_4013;Name=AB994_4013;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4013
+CP021344.1	Genbank	CDS	118944	119111	.	-	0	ID=cds-KMV08935.1;Parent=gene-AB994_4013;Dbxref=NCBI_GP:KMV08935.1;Name=KMV08935.1;gbkey=CDS;locus_tag=AB994_4013;product=hypothetical protein;protein_id=KMV08935.1;transl_table=11
+CP021344.1	Genbank	gene	119150	119854	.	-	.	ID=gene-AB994_4014;Name=AB994_4014;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4014
+CP021344.1	Genbank	CDS	119150	119854	.	-	0	ID=cds-KMV08936.1;Parent=gene-AB994_4014;Dbxref=NCBI_GP:KMV08936.1;Name=KMV08936.1;gbkey=CDS;locus_tag=AB994_4014;product=transposase IS66 family protein;protein_id=KMV08936.1;transl_table=11
+CP021344.1	Genbank	gene	119965	121419	.	+	.	ID=gene-AB994_4015;Name=AB994_4015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4015
+CP021344.1	Genbank	CDS	119965	121419	.	+	0	ID=cds-KMV08937.1;Parent=gene-AB994_4015;Dbxref=NCBI_GP:KMV08937.1;Name=KMV08937.1;gbkey=CDS;locus_tag=AB994_4015;product=sulfate transporter family protein;protein_id=KMV08937.1;transl_table=11
+CP021344.1	Genbank	gene	121590	121703	.	-	.	ID=gene-AB994_4016;Name=AB994_4016;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4016
+CP021344.1	Genbank	CDS	121590	121703	.	-	0	ID=cds-KMV08938.1;Parent=gene-AB994_4016;Dbxref=NCBI_GP:KMV08938.1;Name=KMV08938.1;gbkey=CDS;locus_tag=AB994_4016;product=hypothetical protein;protein_id=KMV08938.1;transl_table=11
+CP021344.1	Genbank	gene	122090	127138	.	+	.	ID=gene-AB994_4017;Name=AB994_4017;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4017
+CP021344.1	Genbank	CDS	122090	127138	.	+	0	ID=cds-KMV08939.1;Parent=gene-AB994_4017;Dbxref=NCBI_GP:KMV08939.1;Name=KMV08939.1;gbkey=CDS;locus_tag=AB994_4017;product=type III restriction enzyme%2C res subunit;protein_id=KMV08939.1;transl_table=11
+CP021344.1	Genbank	gene	127131	128519	.	+	.	ID=gene-AB994_4018;Name=AB994_4018;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4018
+CP021344.1	Genbank	CDS	127131	128519	.	+	0	ID=cds-KMV08940.1;Parent=gene-AB994_4018;Dbxref=NCBI_GP:KMV08940.1;Name=KMV08940.1;gbkey=CDS;locus_tag=AB994_4018;product=hypothetical protein;protein_id=KMV08940.1;transl_table=11
+CP021344.1	Genbank	gene	128896	129273	.	-	.	ID=gene-AB994_4019;Name=AB994_4019;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4019
+CP021344.1	Genbank	CDS	128896	129273	.	-	0	ID=cds-KMV08941.1;Parent=gene-AB994_4019;Dbxref=NCBI_GP:KMV08941.1;Name=KMV08941.1;gbkey=CDS;locus_tag=AB994_4019;product=resolvase%2C N terminal domain protein;protein_id=KMV08941.1;transl_table=11
+CP021344.1	Genbank	gene	129352	130056	.	+	.	ID=gene-AB994_4020;Name=AB994_4020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4020
+CP021344.1	Genbank	CDS	129352	130056	.	+	0	ID=cds-KMV08942.1;Parent=gene-AB994_4020;Dbxref=NCBI_GP:KMV08942.1;Name=KMV08942.1;gbkey=CDS;locus_tag=AB994_4020;product=transposase IS66 family protein;protein_id=KMV08942.1;transl_table=11
+CP021344.1	Genbank	gene	130091	130675	.	-	.	ID=gene-AB994_4021;Name=AB994_4021;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4021
+CP021344.1	Genbank	CDS	130091	130675	.	-	0	ID=cds-KMV08943.1;Parent=gene-AB994_4021;Dbxref=NCBI_GP:KMV08943.1;Name=KMV08943.1;gbkey=CDS;locus_tag=AB994_4021;product=non-heme dioxygenase in morphine synthesis N-terminal family protein;protein_id=KMV08943.1;transl_table=11
+CP021344.1	Genbank	gene	130940	131914	.	+	.	ID=gene-AB994_4022;Name=AB994_4022;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4022
+CP021344.1	Genbank	CDS	130940	131914	.	+	0	ID=cds-KMV08944.1;Parent=gene-AB994_4022;Dbxref=NCBI_GP:KMV08944.1;Name=KMV08944.1;gbkey=CDS;locus_tag=AB994_4022;product=bacterial regulatory helix-turn-helix%2C lysR family protein;protein_id=KMV08944.1;transl_table=11
+CP021344.1	Genbank	gene	131985	132113	.	-	.	ID=gene-AB994_4023;Name=AB994_4023;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4023
+CP021344.1	Genbank	CDS	131985	132113	.	-	0	ID=cds-KMV08945.1;Parent=gene-AB994_4023;Dbxref=NCBI_GP:KMV08945.1;Name=KMV08945.1;gbkey=CDS;locus_tag=AB994_4023;product=hypothetical protein;protein_id=KMV08945.1;transl_table=11
+CP021344.1	Genbank	gene	132208	132900	.	-	.	ID=gene-AB994_4024;Name=AB994_4024;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4024
+CP021344.1	Genbank	CDS	132208	132900	.	-	0	ID=cds-KMV08946.1;Parent=gene-AB994_4024;Dbxref=NCBI_GP:KMV08946.1;Name=KMV08946.1;gbkey=CDS;locus_tag=AB994_4024;product=integrase core domain protein;protein_id=KMV08946.1;transl_table=11
+CP021344.1	Genbank	gene	133035	133340	.	-	.	ID=gene-AB994_4025;Name=AB994_4025;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4025
+CP021344.1	Genbank	CDS	133035	133340	.	-	0	ID=cds-KMV08947.1;Parent=gene-AB994_4025;Dbxref=NCBI_GP:KMV08947.1;Name=KMV08947.1;gbkey=CDS;locus_tag=AB994_4025;product=transposase family protein;protein_id=KMV08947.1;transl_table=11
+CP021344.1	Genbank	gene	133390	133890	.	-	.	ID=gene-AB994_4026;Name=AB994_4026;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4026
+CP021344.1	Genbank	CDS	133390	133890	.	-	0	ID=cds-KMV08948.1;Parent=gene-AB994_4026;Dbxref=NCBI_GP:KMV08948.1;Name=KMV08948.1;Note=overlaps another CDS with the same product name;gbkey=CDS;locus_tag=AB994_4026;product=basic membrane family protein;protein_id=KMV08948.1;transl_table=11
+CP021344.1	Genbank	gene	133878	134051	.	-	.	ID=gene-AB994_4027;Name=AB994_4027;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4027
+CP021344.1	Genbank	CDS	133878	134051	.	-	0	ID=cds-KMV08949.1;Parent=gene-AB994_4027;Dbxref=NCBI_GP:KMV08949.1;Name=KMV08949.1;Note=overlaps another CDS with the same product name;gbkey=CDS;locus_tag=AB994_4027;product=basic membrane family protein;protein_id=KMV08949.1;transl_table=11
+CP021344.1	Genbank	gene	134440	134613	.	+	.	ID=gene-AB994_4028;Name=AB994_4028;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4028
+CP021344.1	Genbank	CDS	134440	134613	.	+	0	ID=cds-KMV08950.1;Parent=gene-AB994_4028;Dbxref=NCBI_GP:KMV08950.1;Name=KMV08950.1;gbkey=CDS;locus_tag=AB994_4028;product=hypothetical protein;protein_id=KMV08950.1;transl_table=11
+CP021344.1	Genbank	gene	134732	135082	.	+	.	ID=gene-AB994_4029;Name=AB994_4029;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4029
+CP021344.1	Genbank	CDS	134732	135082	.	+	0	ID=cds-KMV08951.1;Parent=gene-AB994_4029;Dbxref=NCBI_GP:KMV08951.1;Name=KMV08951.1;gbkey=CDS;locus_tag=AB994_4029;product=transposase DDE domain protein;protein_id=KMV08951.1;transl_table=11
+CP021344.1	Genbank	gene	135086	135232	.	-	.	ID=gene-AB994_4030;Name=AB994_4030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4030
+CP021344.1	Genbank	CDS	135086	135232	.	-	0	ID=cds-KMV08952.1;Parent=gene-AB994_4030;Dbxref=NCBI_GP:KMV08952.1;Name=KMV08952.1;gbkey=CDS;locus_tag=AB994_4030;product=basic membrane lipo domain protein;protein_id=KMV08952.1;transl_table=11
+CP021344.1	Genbank	gene	135229	136305	.	-	.	ID=gene-AB994_4031;Name=AB994_4031;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4031
+CP021344.1	Genbank	CDS	135229	136305	.	-	0	ID=cds-KMV08953.1;Parent=gene-AB994_4031;Dbxref=NCBI_GP:KMV08953.1;Name=KMV08953.1;gbkey=CDS;locus_tag=AB994_4031;product=hypothetical protein;protein_id=KMV08953.1;transl_table=11
+CP021344.1	Genbank	gene	136399	137607	.	-	.	ID=gene-AB994_4032;Name=AB994_4032;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4032
+CP021344.1	Genbank	CDS	136399	137607	.	-	0	ID=cds-KMV08954.1;Parent=gene-AB994_4032;Dbxref=NCBI_GP:KMV08954.1;Name=KMV08954.1;gbkey=CDS;locus_tag=AB994_4032;product=transposase DDE domain protein;protein_id=KMV08954.1;transl_table=11
+CP021344.1	Genbank	gene	137684	138658	.	-	.	ID=gene-AB994_4033;Name=AB994_4033;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4033
+CP021344.1	Genbank	CDS	137684	138658	.	-	0	ID=cds-KMV08955.1;Parent=gene-AB994_4033;Dbxref=NCBI_GP:KMV08955.1;Name=KMV08955.1;gbkey=CDS;locus_tag=AB994_4033;product=2OG-Fe(II) oxygenase superfamily protein;protein_id=KMV08955.1;transl_table=11
+CP021344.1	Genbank	gene	138898	139215	.	+	.	ID=gene-AB994_4034;Name=AB994_4034;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4034
+CP021344.1	Genbank	CDS	138898	139215	.	+	0	ID=cds-KMV08956.1;Parent=gene-AB994_4034;Dbxref=NCBI_GP:KMV08956.1;Name=KMV08956.1;gbkey=CDS;locus_tag=AB994_4034;product=transposase family protein;protein_id=KMV08956.1;transl_table=11
+CP021344.1	Genbank	gene	139215	140117	.	+	.	ID=gene-AB994_4035;Name=AB994_4035;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4035
+CP021344.1	Genbank	CDS	139215	140117	.	+	0	ID=cds-KMV08957.1;Parent=gene-AB994_4035;Dbxref=NCBI_GP:KMV08957.1;Name=KMV08957.1;Note=overlaps another CDS with the same product name;gbkey=CDS;locus_tag=AB994_4035;product=integrase core domain protein;protein_id=KMV08957.1;transl_table=11
+CP021344.1	Genbank	gene	140315	141370	.	+	.	ID=gene-AB994_4036;Name=AB994_4036;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4036
+CP021344.1	Genbank	CDS	140315	141370	.	+	0	ID=cds-KMV08958.1;Parent=gene-AB994_4036;Dbxref=NCBI_GP:KMV08958.1;Name=KMV08958.1;gbkey=CDS;locus_tag=AB994_4036;product=rieske domain protein;protein_id=KMV08958.1;transl_table=11
+CP021344.1	Genbank	gene	141615	142079	.	+	.	ID=gene-AB994_4037;Name=AB994_4037;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4037
+CP021344.1	Genbank	CDS	141615	142079	.	+	0	ID=cds-KMV08959.1;Parent=gene-AB994_4037;Dbxref=NCBI_GP:KMV08959.1;Name=KMV08959.1;gbkey=CDS;locus_tag=AB994_4037;product=transposase DDE domain protein;protein_id=KMV08959.1;transl_table=11
+CP021344.1	Genbank	gene	142132	142440	.	+	.	ID=gene-AB994_4038;Name=AB994_4038;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4038
+CP021344.1	Genbank	CDS	142132	142440	.	+	0	ID=cds-KMV08960.1;Parent=gene-AB994_4038;Dbxref=NCBI_GP:KMV08960.1;Name=KMV08960.1;gbkey=CDS;locus_tag=AB994_4038;product=putative membrane protein;protein_id=KMV08960.1;transl_table=11
+CP021344.1	Genbank	gene	142554	143054	.	+	.	ID=gene-AB994_4039;Name=AB994_4039;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4039
+CP021344.1	Genbank	CDS	142554	143054	.	+	0	ID=cds-KMV08961.1;Parent=gene-AB994_4039;Dbxref=NCBI_GP:KMV08961.1;Name=KMV08961.1;gbkey=CDS;locus_tag=AB994_4039;product=transposase DDE domain protein;protein_id=KMV08961.1;transl_table=11
+CP021344.1	Genbank	gene	143259	143534	.	+	.	ID=gene-AB994_4040;Name=AB994_4040;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4040
+CP021344.1	Genbank	CDS	143259	143534	.	+	0	ID=cds-KMV08962.1;Parent=gene-AB994_4040;Dbxref=NCBI_GP:KMV08962.1;Name=KMV08962.1;gbkey=CDS;locus_tag=AB994_4040;product=metal-sensitive transcriptional repressor family protein;protein_id=KMV08962.1;transl_table=11
+CP021344.1	Genbank	gene	143556	144668	.	+	.	ID=gene-AB994_4041;Name=AB994_4041;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4041
+CP021344.1	Genbank	CDS	143556	144668	.	+	0	ID=cds-KMV08963.1;Parent=gene-AB994_4041;Dbxref=NCBI_GP:KMV08963.1;Name=KMV08963.1;gbkey=CDS;locus_tag=AB994_4041;product=S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase;protein_id=KMV08963.1;transl_table=11
+CP021344.1	Genbank	gene	144853	145557	.	-	.	ID=gene-AB994_4042;Name=AB994_4042;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4042
+CP021344.1	Genbank	CDS	144853	145557	.	-	0	ID=cds-KMV08964.1;Parent=gene-AB994_4042;Dbxref=NCBI_GP:KMV08964.1;Name=KMV08964.1;gbkey=CDS;locus_tag=AB994_4042;product=transposase IS66 family protein;protein_id=KMV08964.1;transl_table=11
+CP021344.1	Genbank	gene	145686	146126	.	-	.	ID=gene-AB994_4043;Name=AB994_4043;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4043
+CP021344.1	Genbank	CDS	145686	146126	.	-	0	ID=cds-KMV08965.1;Parent=gene-AB994_4043;Dbxref=NCBI_GP:KMV08965.1;Name=KMV08965.1;gbkey=CDS;locus_tag=AB994_4043;product=hypothetical protein;protein_id=KMV08965.1;transl_table=11
+CP021344.1	Genbank	gene	146352	146603	.	+	.	ID=gene-AB994_4044;Name=AB994_4044;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4044
+CP021344.1	Genbank	CDS	146352	146603	.	+	0	ID=cds-KMV08966.1;Parent=gene-AB994_4044;Dbxref=NCBI_GP:KMV08966.1;Name=KMV08966.1;gbkey=CDS;locus_tag=AB994_4044;product=hypothetical protein;protein_id=KMV08966.1;transl_table=11
+CP021344.1	Genbank	gene	146626	146973	.	+	.	ID=gene-AB994_4045;Name=AB994_4045;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4045
+CP021344.1	Genbank	CDS	146626	146973	.	+	0	ID=cds-KMV08967.1;Parent=gene-AB994_4045;Dbxref=NCBI_GP:KMV08967.1;Name=KMV08967.1;gbkey=CDS;locus_tag=AB994_4045;product=hypothetical protein;protein_id=KMV08967.1;transl_table=11
+CP021344.1	Genbank	gene	146988	148838	.	-	.	ID=gene-AB994_4046;Name=AB994_4046;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4046
+CP021344.1	Genbank	CDS	146988	148838	.	-	0	ID=cds-KMV08968.1;Parent=gene-AB994_4046;Dbxref=NCBI_GP:KMV08968.1;Name=KMV08968.1;gbkey=CDS;locus_tag=AB994_4046;product=putative phage primase;protein_id=KMV08968.1;transl_table=11
+CP021344.1	Genbank	gene	148959	149384	.	-	.	ID=gene-AB994_4047;Name=AB994_4047;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4047
+CP021344.1	Genbank	CDS	148959	149384	.	-	0	ID=cds-KMV08969.1;Parent=gene-AB994_4047;Dbxref=NCBI_GP:KMV08969.1;Name=KMV08969.1;gbkey=CDS;locus_tag=AB994_4047;product=hypothetical protein;protein_id=KMV08969.1;transl_table=11
+CP021344.1	Genbank	gene	150302	151033	.	+	.	ID=gene-AB994_4048;Name=AB994_4048;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4048
+CP021344.1	Genbank	CDS	150302	151033	.	+	0	ID=cds-KMV08970.1;Parent=gene-AB994_4048;Dbxref=NCBI_GP:KMV08970.1;Name=KMV08970.1;gbkey=CDS;locus_tag=AB994_4048;product=hypothetical protein;protein_id=KMV08970.1;transl_table=11
+CP021344.1	Genbank	gene	151020	151847	.	+	.	ID=gene-AB994_4049;Name=AB994_4049;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4049
+CP021344.1	Genbank	CDS	151020	151847	.	+	0	ID=cds-KMV08971.1;Parent=gene-AB994_4049;Dbxref=NCBI_GP:KMV08971.1;Name=KMV08971.1;gbkey=CDS;locus_tag=AB994_4049;product=transglycosylase SLT domain protein;protein_id=KMV08971.1;transl_table=11
+CP021344.1	Genbank	gene	151828	152157	.	+	.	ID=gene-AB994_4050;Name=AB994_4050;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4050
+CP021344.1	Genbank	CDS	151828	152157	.	+	0	ID=cds-KMV08972.1;Parent=gene-AB994_4050;Dbxref=NCBI_GP:KMV08972.1;Name=KMV08972.1;gbkey=CDS;locus_tag=AB994_4050;product=hypothetical protein;protein_id=KMV08972.1;transl_table=11
+CP021344.1	Genbank	gene	152213	152416	.	+	.	ID=gene-AB994_4051;Name=AB994_4051;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4051
+CP021344.1	Genbank	CDS	152213	152416	.	+	0	ID=cds-KMV08973.1;Parent=gene-AB994_4051;Dbxref=NCBI_GP:KMV08973.1;Name=KMV08973.1;gbkey=CDS;locus_tag=AB994_4051;product=hypothetical protein;protein_id=KMV08973.1;transl_table=11
+CP021344.1	Genbank	gene	152469	152792	.	+	.	ID=gene-AB994_4052;Name=AB994_4052;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4052
+CP021344.1	Genbank	CDS	152469	152792	.	+	0	ID=cds-KMV08974.1;Parent=gene-AB994_4052;Dbxref=NCBI_GP:KMV08974.1;Name=KMV08974.1;gbkey=CDS;locus_tag=AB994_4052;product=putative membrane protein;protein_id=KMV08974.1;transl_table=11
+CP021344.1	Genbank	gene	152824	153750	.	-	.	ID=gene-AB994_4053;Name=AB994_4053;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4053
+CP021344.1	Genbank	CDS	152824	153750	.	-	0	ID=cds-KMV08975.1;Parent=gene-AB994_4053;Dbxref=NCBI_GP:KMV08975.1;Name=KMV08975.1;gbkey=CDS;locus_tag=AB994_4053;product=hypothetical protein;protein_id=KMV08975.1;transl_table=11
+CP021344.1	Genbank	gene	154051	155154	.	-	.	ID=gene-AB994_4054;Name=AB994_4054;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4054
+CP021344.1	Genbank	CDS	154051	155154	.	-	0	ID=cds-KMV08976.1;Parent=gene-AB994_4054;Dbxref=NCBI_GP:KMV08976.1;Name=KMV08976.1;gbkey=CDS;locus_tag=AB994_4054;product=hypothetical protein;protein_id=KMV08976.1;transl_table=11
+CP021344.1	Genbank	gene	155328	157589	.	+	.	ID=gene-AB994_4055;Name=AB994_4055;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4055
+CP021344.1	Genbank	CDS	155328	157589	.	+	0	ID=cds-KMV08977.1;Parent=gene-AB994_4055;Dbxref=NCBI_GP:KMV08977.1;Name=KMV08977.1;gbkey=CDS;locus_tag=AB994_4055;product=DNA topoisomerase family protein;protein_id=KMV08977.1;transl_table=11
+CP021344.1	Genbank	gene	157790	157993	.	+	.	ID=gene-AB994_4056;Name=AB994_4056;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4056
+CP021344.1	Genbank	CDS	157790	157993	.	+	0	ID=cds-KMV08978.1;Parent=gene-AB994_4056;Dbxref=NCBI_GP:KMV08978.1;Name=KMV08978.1;gbkey=CDS;locus_tag=AB994_4056;product=putative membrane protein;protein_id=KMV08978.1;transl_table=11
+CP021344.1	Genbank	gene	158042	158446	.	-	.	ID=gene-AB994_4057;Name=AB994_4057;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4057
+CP021344.1	Genbank	CDS	158042	158446	.	-	0	ID=cds-KMV08979.1;Parent=gene-AB994_4057;Dbxref=NCBI_GP:KMV08979.1;Name=KMV08979.1;gbkey=CDS;locus_tag=AB994_4057;product=hypothetical protein;protein_id=KMV08979.1;transl_table=11
+CP021344.1	Genbank	gene	158656	160443	.	+	.	ID=gene-AB994_4058;Name=AB994_4058;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4058
+CP021344.1	Genbank	CDS	158656	160443	.	+	0	ID=cds-KMV08980.1;Parent=gene-AB994_4058;Dbxref=NCBI_GP:KMV08980.1;Name=KMV08980.1;gbkey=CDS;locus_tag=AB994_4058;product=hypothetical protein;protein_id=KMV08980.1;transl_table=11
+CP021344.1	Genbank	gene	160826	161629	.	+	.	ID=gene-AB994_4059;Name=AB994_4059;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4059
+CP021344.1	Genbank	CDS	160826	161629	.	+	0	ID=cds-KMV08981.1;Parent=gene-AB994_4059;Dbxref=NCBI_GP:KMV08981.1;Name=KMV08981.1;gbkey=CDS;locus_tag=AB994_4059;product=phosphotransferase enzyme family protein;protein_id=KMV08981.1;transl_table=11
+CP021344.1	Genbank	gene	161629	162465	.	+	.	ID=gene-AB994_4060;Name=AB994_4060;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4060
+CP021344.1	Genbank	CDS	161629	162465	.	+	0	ID=cds-KMV08982.1;Parent=gene-AB994_4060;Dbxref=NCBI_GP:KMV08982.1;Name=KMV08982.1;gbkey=CDS;locus_tag=AB994_4060;product=aminoglycoside/hydroxyurea antibiotic resistance kinase family protein;protein_id=KMV08982.1;transl_table=11
+CP021344.1	Genbank	gene	163020	164513	.	+	.	ID=gene-AB994_4061;Name=AB994_4061;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4061
+CP021344.1	Genbank	CDS	163020	164513	.	+	0	ID=cds-KMV08983.1;Parent=gene-AB994_4061;Dbxref=NCBI_GP:KMV08983.1;Name=KMV08983.1;gbkey=CDS;locus_tag=AB994_4061;product=transposase family protein;protein_id=KMV08983.1;transl_table=11
+CP021344.1	Genbank	gene	164719	165114	.	+	.	ID=gene-AB994_4062;Name=AB994_4062;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4062
+CP021344.1	Genbank	CDS	164719	165114	.	+	0	ID=cds-KMV08984.1;Parent=gene-AB994_4062;Dbxref=NCBI_GP:KMV08984.1;Name=KMV08984.1;gbkey=CDS;locus_tag=AB994_4062;product=uvrB/uvrC motif family protein;protein_id=KMV08984.1;transl_table=11
+CP021344.1	Genbank	gene	165118	165942	.	+	.	ID=gene-AB994_4063;Name=AB994_4063;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4063
+CP021344.1	Genbank	CDS	165118	165942	.	+	0	ID=cds-KMV08985.1;Parent=gene-AB994_4063;Dbxref=NCBI_GP:KMV08985.1;Name=KMV08985.1;gbkey=CDS;locus_tag=AB994_4063;product=thymidylate synthase;protein_id=KMV08985.1;transl_table=11
+CP021344.1	Genbank	gene	165942	166436	.	+	.	ID=gene-AB994_4064;Name=AB994_4064;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4064
+CP021344.1	Genbank	CDS	165942	166436	.	+	0	ID=cds-KMV08986.1;Parent=gene-AB994_4064;Dbxref=NCBI_GP:KMV08986.1;Name=KMV08986.1;gbkey=CDS;locus_tag=AB994_4064;product=dihydrofolate reductase family protein;protein_id=KMV08986.1;transl_table=11
+CP021344.1	Genbank	gene	166878	167957	.	+	.	ID=gene-AB994_4065;Name=AB994_4065;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4065
+CP021344.1	Genbank	CDS	166878	167957	.	+	0	ID=cds-KMV08987.1;Parent=gene-AB994_4065;Dbxref=NCBI_GP:KMV08987.1;Name=KMV08987.1;gbkey=CDS;locus_tag=AB994_4065;product=deoxynucleoside kinase family protein;protein_id=KMV08987.1;transl_table=11
+CP021344.1	Genbank	gene	168348	169841	.	+	.	ID=gene-AB994_4066;Name=AB994_4066;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4066
+CP021344.1	Genbank	CDS	168348	169841	.	+	0	ID=cds-KMV08988.1;Parent=gene-AB994_4066;Dbxref=NCBI_GP:KMV08988.1;Name=KMV08988.1;gbkey=CDS;locus_tag=AB994_4066;product=transposase family protein;protein_id=KMV08988.1;transl_table=11
+CP021344.1	Genbank	gene	170406	171221	.	-	.	ID=gene-AB994_4067;Name=AB994_4067;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4067
+CP021344.1	Genbank	CDS	170406	171221	.	-	0	ID=cds-KMV08989.1;Parent=gene-AB994_4067;Dbxref=NCBI_GP:KMV08989.1;Name=KMV08989.1;gbkey=CDS;locus_tag=AB994_4067;product=dihydropteroate synthase;protein_id=KMV08989.1;transl_table=11
+CP021344.1	Genbank	gene	171528	171839	.	+	.	ID=gene-AB994_4068;Name=AB994_4068;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4068
+CP021344.1	Genbank	CDS	171528	171839	.	+	0	ID=cds-KMV08990.1;Parent=gene-AB994_4068;Dbxref=NCBI_GP:KMV08990.1;Name=KMV08990.1;gbkey=CDS;locus_tag=AB994_4068;product=hypothetical protein;protein_id=KMV08990.1;transl_table=11
+CP021344.1	Genbank	gene	172013	172798	.	+	.	ID=gene-AB994_4069;Name=AB994_4069;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4069
+CP021344.1	Genbank	CDS	172013	172798	.	+	0	ID=cds-KMV08991.1;Parent=gene-AB994_4069;Dbxref=NCBI_GP:KMV08991.1;Name=KMV08991.1;gbkey=CDS;locus_tag=AB994_4069;product=cobQ/CobB/MinD/ParA nucleotide binding domain protein;protein_id=KMV08991.1;transl_table=11
+CP021344.1	Genbank	gene	172795	173283	.	-	.	ID=gene-AB994_4070;Name=AB994_4070;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4070
+CP021344.1	Genbank	CDS	172795	173283	.	-	0	ID=cds-KMV08992.1;Parent=gene-AB994_4070;Dbxref=NCBI_GP:KMV08992.1;Name=KMV08992.1;gbkey=CDS;locus_tag=AB994_4070;product=hypothetical protein;protein_id=KMV08992.1;transl_table=11
+CP021344.1	Genbank	gene	173306	173935	.	-	.	ID=gene-AB994_4071;Name=AB994_4071;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4071
+CP021344.1	Genbank	CDS	173306	173935	.	-	0	ID=cds-KMV08993.1;Parent=gene-AB994_4071;Dbxref=NCBI_GP:KMV08993.1;Name=KMV08993.1;gbkey=CDS;locus_tag=AB994_4071;product=hypothetical protein;protein_id=KMV08993.1;transl_table=11
+CP021344.1	Genbank	gene	174357	174992	.	-	.	ID=gene-AB994_4072;Name=AB994_4072;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4072
+CP021344.1	Genbank	CDS	174357	174992	.	-	0	ID=cds-KMV08994.1;Parent=gene-AB994_4072;Dbxref=NCBI_GP:KMV08994.1;Name=KMV08994.1;gbkey=CDS;locus_tag=AB994_4072;product=N-6 DNA Methylase family protein;protein_id=KMV08994.1;transl_table=11
+CP021344.1	Genbank	gene	175087	175242	.	+	.	ID=gene-AB994_4073;Name=AB994_4073;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4073
+CP021344.1	Genbank	CDS	175087	175242	.	+	0	ID=cds-KMV08995.1;Parent=gene-AB994_4073;Dbxref=NCBI_GP:KMV08995.1;Name=KMV08995.1;gbkey=CDS;locus_tag=AB994_4073;product=hypothetical protein;protein_id=KMV08995.1;transl_table=11
+CP021344.1	Genbank	gene	175702	175923	.	+	.	ID=gene-AB994_4074;Name=AB994_4074;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4074
+CP021344.1	Genbank	CDS	175702	175923	.	+	0	ID=cds-KMV08996.1;Parent=gene-AB994_4074;Dbxref=NCBI_GP:KMV08996.1;Name=KMV08996.1;gbkey=CDS;locus_tag=AB994_4074;product=hypothetical protein;protein_id=KMV08996.1;transl_table=11
+CP021344.1	Genbank	gene	176172	176846	.	+	.	ID=gene-AB994_4075;Name=AB994_4075;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4075
+CP021344.1	Genbank	CDS	176172	176846	.	+	0	ID=cds-KMV08997.1;Parent=gene-AB994_4075;Dbxref=NCBI_GP:KMV08997.1;Name=KMV08997.1;gbkey=CDS;locus_tag=AB994_4075;product=putative thymidylate kinase;protein_id=KMV08997.1;transl_table=11
+CP021344.1	Genbank	gene	177193	177345	.	+	.	ID=gene-AB994_4076;Name=AB994_4076;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4076
+CP021344.1	Genbank	CDS	177193	177345	.	+	0	ID=cds-KMV08998.1;Parent=gene-AB994_4076;Dbxref=NCBI_GP:KMV08998.1;Name=KMV08998.1;gbkey=CDS;locus_tag=AB994_4076;product=hypothetical protein;protein_id=KMV08998.1;transl_table=11
+CP021344.1	Genbank	gene	178175	179191	.	+	.	ID=gene-AB994_4077;Name=AB994_4077;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4077
+CP021344.1	Genbank	CDS	178175	179191	.	+	0	ID=cds-KMV08999.1;Parent=gene-AB994_4077;Dbxref=NCBI_GP:KMV08999.1;Name=KMV08999.1;gbkey=CDS;locus_tag=AB994_4077;product=C-5 cytosine-specific DNA methylase family domain protein;protein_id=KMV08999.1;transl_table=11
+CP021344.1	Genbank	gene	179471	180124	.	-	.	ID=gene-AB994_4078;Name=AB994_4078;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4078
+CP021344.1	Genbank	CDS	179471	180124	.	-	0	ID=cds-KMV09000.1;Parent=gene-AB994_4078;Dbxref=NCBI_GP:KMV09000.1;Name=KMV09000.1;gbkey=CDS;locus_tag=AB994_4078;product=putative p12 protein;protein_id=KMV09000.1;transl_table=11
+CP021344.1	Genbank	gene	180192	181151	.	-	.	ID=gene-AB994_4079;Name=AB994_4079;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4079
+CP021344.1	Genbank	CDS	180192	181151	.	-	0	ID=cds-KMV09001.1;Parent=gene-AB994_4079;Dbxref=NCBI_GP:KMV09001.1;Name=KMV09001.1;gbkey=CDS;locus_tag=AB994_4079;product=integron integrase family protein;protein_id=KMV09001.1;transl_table=11
+CP021344.1	Genbank	gene	181324	181776	.	+	.	ID=gene-AB994_4080;Name=arr;gbkey=Gene;gene=arr;gene_biotype=protein_coding;locus_tag=AB994_4080
+CP021344.1	Genbank	CDS	181324	181776	.	+	0	ID=cds-KMV09002.1;Parent=gene-AB994_4080;Dbxref=NCBI_GP:KMV09002.1;Name=KMV09002.1;gbkey=CDS;gene=arr;locus_tag=AB994_4080;product=rifampin ADP-ribosyl transferase;protein_id=KMV09002.1;transl_table=11
+CP021344.1	Genbank	gene	182097	183356	.	+	.	ID=gene-AB994_4081;Name=AB994_4081;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4081
+CP021344.1	Genbank	CDS	182097	183356	.	+	0	ID=cds-KMV09003.1;Parent=gene-AB994_4081;Dbxref=NCBI_GP:KMV09003.1;Name=KMV09003.1;gbkey=CDS;locus_tag=AB994_4081;product=drug resistance transporter%2C Bcr/CflA subfamily protein;protein_id=KMV09003.1;transl_table=11
+CP021344.1	Genbank	gene	183889	184728	.	+	.	ID=gene-AB994_4082;Name=AB994_4082;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4082
+CP021344.1	Genbank	CDS	183889	184728	.	+	0	ID=cds-KMV09004.1;Parent=gene-AB994_4082;Dbxref=NCBI_GP:KMV09004.1;Name=KMV09004.1;gbkey=CDS;locus_tag=AB994_4082;product=dihydropteroate synthase;protein_id=KMV09004.1;transl_table=11
+CP021344.1	Genbank	gene	185133	186674	.	+	.	ID=gene-AB994_4083;Name=AB994_4083;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4083
+CP021344.1	Genbank	CDS	185133	186674	.	+	0	ID=cds-KMV09005.1;Parent=gene-AB994_4083;Dbxref=NCBI_GP:KMV09005.1;Name=KMV09005.1;gbkey=CDS;locus_tag=AB994_4083;product=transposase family protein;protein_id=KMV09005.1;transl_table=11
+CP021344.1	Genbank	gene	186999	187925	.	+	.	ID=gene-AB994_4084;Name=per1;gbkey=Gene;gene=per1;gene_biotype=protein_coding;locus_tag=AB994_4084
+CP021344.1	Genbank	CDS	186999	187925	.	+	0	ID=cds-KMV09006.1;Parent=gene-AB994_4084;Dbxref=NCBI_GP:KMV09006.1;Name=KMV09006.1;gbkey=CDS;gene=per1;locus_tag=AB994_4084;product=extended-spectrum beta-lactamase PER-1;protein_id=KMV09006.1;transl_table=11
+CP021344.1	Genbank	gene	187999	188574	.	+	.	ID=gene-AB994_4085;Name=AB994_4085;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4085
+CP021344.1	Genbank	CDS	187999	188574	.	+	0	ID=cds-KMV09007.1;Parent=gene-AB994_4085;Dbxref=NCBI_GP:KMV09007.1;Name=KMV09007.1;gbkey=CDS;locus_tag=AB994_4085;product=glutathione S-transferase%2C N-terminal domain protein;protein_id=KMV09007.1;transl_table=11
+CP021344.1	Genbank	gene	188613	189563	.	-	.	ID=gene-AB994_4086;Name=AB994_4086;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4086
+CP021344.1	Genbank	CDS	188613	189563	.	-	0	ID=cds-KMV09008.1;Parent=gene-AB994_4086;Dbxref=NCBI_GP:KMV09008.1;Name=KMV09008.1;gbkey=CDS;locus_tag=AB994_4086;product=ABC transporter family protein;protein_id=KMV09008.1;transl_table=11
+CP021344.1	Genbank	gene	189840	190679	.	+	.	ID=gene-AB994_4087;Name=AB994_4087;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4087
+CP021344.1	Genbank	CDS	189840	190679	.	+	0	ID=cds-KMV09009.1;Parent=gene-AB994_4087;Dbxref=NCBI_GP:KMV09009.1;Name=KMV09009.1;gbkey=CDS;locus_tag=AB994_4087;product=dihydropteroate synthase;protein_id=KMV09009.1;transl_table=11
+CP021344.1	Genbank	gene	191084	192625	.	+	.	ID=gene-AB994_4088;Name=AB994_4088;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4088
+CP021344.1	Genbank	CDS	191084	192625	.	+	0	ID=cds-KMV09010.1;Parent=gene-AB994_4088;Dbxref=NCBI_GP:KMV09010.1;Name=KMV09010.1;gbkey=CDS;locus_tag=AB994_4088;product=transposase family protein;protein_id=KMV09010.1;transl_table=11
+CP021344.1	Genbank	gene	192862	193698	.	+	.	ID=gene-AB994_4089;Name=AB994_4089;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4089
+CP021344.1	Genbank	CDS	192862	193698	.	+	0	ID=cds-KMV09011.1;Parent=gene-AB994_4089;Dbxref=NCBI_GP:KMV09011.1;Name=KMV09011.1;gbkey=CDS;locus_tag=AB994_4089;product=transposase DDE domain protein;protein_id=KMV09011.1;transl_table=11
+CP021344.1	Genbank	gene	193911	195119	.	+	.	ID=gene-AB994_4090;Name=AB994_4090;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4090
+CP021344.1	Genbank	CDS	193911	195119	.	+	0	ID=cds-KMV09012.1;Parent=gene-AB994_4090;Dbxref=NCBI_GP:KMV09012.1;Name=KMV09012.1;gbkey=CDS;locus_tag=AB994_4090;product=transposase DDE domain protein;protein_id=KMV09012.1;transl_table=11
+CP021344.1	Genbank	gene	195319	196134	.	+	.	ID=gene-AB994_4091;Name=AB994_4091;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4091
+CP021344.1	Genbank	CDS	195319	196134	.	+	0	ID=cds-KMV09013.1;Parent=gene-AB994_4091;Dbxref=NCBI_GP:KMV09013.1;Name=KMV09013.1;gbkey=CDS;locus_tag=AB994_4091;product=ribosomal RNA methyltransferase family protein;protein_id=KMV09013.1;transl_table=11
+CP021344.1	Genbank	gene	196616	196801	.	-	.	ID=gene-AB994_4092;Name=AB994_4092;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4092
+CP021344.1	Genbank	CDS	196616	196801	.	-	0	ID=cds-KMV09014.1;Parent=gene-AB994_4092;Dbxref=NCBI_GP:KMV09014.1;Name=KMV09014.1;gbkey=CDS;locus_tag=AB994_4092;product=hypothetical protein;protein_id=KMV09014.1;transl_table=11
+CP021344.1	Genbank	gene	196859	198034	.	+	.	ID=gene-AB994_4093;Name=AB994_4093;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4093
+CP021344.1	Genbank	CDS	196859	198034	.	+	0	ID=cds-KMV09015.1;Parent=gene-AB994_4093;Dbxref=NCBI_GP:KMV09015.1;Name=KMV09015.1;gbkey=CDS;locus_tag=AB994_4093;product=transposase DDE domain protein;protein_id=KMV09015.1;transl_table=11
+CP021344.1	Genbank	gene	198433	199908	.	+	.	ID=gene-AB994_4094;Name=AB994_4094;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4094
+CP021344.1	Genbank	CDS	198433	199908	.	+	0	ID=cds-KMV09016.1;Parent=gene-AB994_4094;Dbxref=NCBI_GP:KMV09016.1;Name=KMV09016.1;gbkey=CDS;locus_tag=AB994_4094;product=ABC transporter family protein;protein_id=KMV09016.1;transl_table=11
+CP021344.1	Genbank	gene	199964	200848	.	+	.	ID=gene-AB994_4095;Name=AB994_4095;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4095
+CP021344.1	Genbank	CDS	199964	200848	.	+	0	ID=cds-KMV09017.1;Parent=gene-AB994_4095;Dbxref=NCBI_GP:KMV09017.1;Name=KMV09017.1;gbkey=CDS;locus_tag=AB994_4095;product=phosphotransferase enzyme family protein;protein_id=KMV09017.1;transl_table=11
+CP021344.1	Genbank	gene	201207	201551	.	-	.	ID=gene-AB994_4096;Name=AB994_4096;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4096
+CP021344.1	Genbank	CDS	201207	201551	.	-	0	ID=cds-KMV09018.1;Parent=gene-AB994_4096;Dbxref=NCBI_GP:KMV09018.1;Name=KMV09018.1;gbkey=CDS;locus_tag=AB994_4096;product=hypothetical protein;protein_id=KMV09018.1;transl_table=11
+CP021344.1	Genbank	gene	201816	202643	.	-	.	ID=gene-AB994_4097;Name=AB994_4097;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4097
+CP021344.1	Genbank	CDS	201816	202643	.	-	0	ID=cds-KMV09019.1;Parent=gene-AB994_4097;Dbxref=NCBI_GP:KMV09019.1;Name=KMV09019.1;gbkey=CDS;locus_tag=AB994_4097;product=initiator Replication family protein;protein_id=KMV09019.1;transl_table=11
+CP021344.1	Genbank	gene	202634	203338	.	+	.	ID=gene-AB994_4098;Name=AB994_4098;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4098
+CP021344.1	Genbank	CDS	202634	203338	.	+	0	ID=cds-KMV09020.1;Parent=gene-AB994_4098;Dbxref=NCBI_GP:KMV09020.1;Name=KMV09020.1;gbkey=CDS;locus_tag=AB994_4098;product=transposase IS66 family protein;protein_id=KMV09020.1;transl_table=11
+CP021344.1	Genbank	gene	203437	203706	.	-	.	ID=gene-AB994_4099;Name=AB994_4099;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4099
+CP021344.1	Genbank	CDS	203437	203706	.	-	0	ID=cds-KMV09021.1;Parent=gene-AB994_4099;Dbxref=NCBI_GP:KMV09021.1;Name=KMV09021.1;gbkey=CDS;locus_tag=AB994_4099;product=hypothetical protein;protein_id=KMV09021.1;transl_table=11
+CP021344.1	Genbank	gene	203760	204116	.	-	.	ID=gene-AB994_4100;Name=AB994_4100;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4100
+CP021344.1	Genbank	CDS	203760	204116	.	-	0	ID=cds-KMV09022.1;Parent=gene-AB994_4100;Dbxref=NCBI_GP:KMV09022.1;Name=KMV09022.1;gbkey=CDS;locus_tag=AB994_4100;product=hypothetical protein;protein_id=KMV09022.1;transl_table=11
+CP021344.1	Genbank	gene	204162	204479	.	-	.	ID=gene-AB994_4101;Name=AB994_4101;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4101
+CP021344.1	Genbank	CDS	204162	204479	.	-	0	ID=cds-KMV09023.1;Parent=gene-AB994_4101;Dbxref=NCBI_GP:KMV09023.1;Name=KMV09023.1;gbkey=CDS;locus_tag=AB994_4101;product=hypothetical protein;protein_id=KMV09023.1;transl_table=11
+CP021344.1	Genbank	gene	204686	205618	.	-	.	ID=gene-AB994_4102;Name=AB994_4102;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4102
+CP021344.1	Genbank	CDS	204686	205618	.	-	0	ID=cds-KMV09024.1;Parent=gene-AB994_4102;Dbxref=NCBI_GP:KMV09024.1;Name=KMV09024.1;gbkey=CDS;locus_tag=AB994_4102;product=phage integrase family protein;protein_id=KMV09024.1;transl_table=11
+CP021344.1	Genbank	gene	205707	205946	.	+	.	ID=gene-AB994_4103;Name=AB994_4103;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4103
+CP021344.1	Genbank	CDS	205707	205946	.	+	0	ID=cds-KMV09025.1;Parent=gene-AB994_4103;Dbxref=NCBI_GP:KMV09025.1;Name=KMV09025.1;gbkey=CDS;locus_tag=AB994_4103;product=hypothetical protein;protein_id=KMV09025.1;transl_table=11
+CP021344.1	Genbank	gene	205947	207449	.	+	.	ID=gene-AB994_4104;Name=AB994_4104;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4104
+CP021344.1	Genbank	CDS	205947	207449	.	+	0	ID=cds-KMV09026.1;Parent=gene-AB994_4104;Dbxref=NCBI_GP:KMV09026.1;Name=KMV09026.1;gbkey=CDS;locus_tag=AB994_4104;product=zeta toxin family protein;protein_id=KMV09026.1;transl_table=11
+CP021344.1	Genbank	gene	207534	208700	.	+	.	ID=gene-AB994_4105;Name=AB994_4105;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4105
+CP021344.1	Genbank	CDS	207534	208700	.	+	0	ID=cds-KMV09027.1;Parent=gene-AB994_4105;Dbxref=NCBI_GP:KMV09027.1;Name=KMV09027.1;gbkey=CDS;locus_tag=AB994_4105;product=hypothetical protein;protein_id=KMV09027.1;transl_table=11
+CP021344.1	Genbank	gene	208721	209302	.	+	.	ID=gene-AB994_4106;Name=AB994_4106;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4106
+CP021344.1	Genbank	CDS	208721	209302	.	+	0	ID=cds-KMV09028.1;Parent=gene-AB994_4106;Dbxref=NCBI_GP:KMV09028.1;Name=KMV09028.1;gbkey=CDS;locus_tag=AB994_4106;product=hypothetical protein;protein_id=KMV09028.1;transl_table=11
+CP021344.1	Genbank	gene	209685	211799	.	-	.	ID=gene-AB994_4107;Name=AB994_4107;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4107
+CP021344.1	Genbank	CDS	209685	211799	.	-	0	ID=cds-KMV09029.1;Parent=gene-AB994_4107;Dbxref=NCBI_GP:KMV09029.1;Name=KMV09029.1;gbkey=CDS;locus_tag=AB994_4107;product=histidine kinase-%2C DNA gyrase B-%2C and HSP90-like ATPase family protein;protein_id=KMV09029.1;transl_table=11
+CP021344.1	Genbank	gene	211961	212701	.	-	.	ID=gene-AB994_4108;Name=AB994_4108;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4108
+CP021344.1	Genbank	CDS	211961	212701	.	-	0	ID=cds-KMV09030.1;Parent=gene-AB994_4108;Dbxref=NCBI_GP:KMV09030.1;Name=KMV09030.1;gbkey=CDS;locus_tag=AB994_4108;product=peptidase M48 family protein;protein_id=KMV09030.1;transl_table=11
+CP021344.1	Genbank	gene	213199	213771	.	+	.	ID=gene-AB994_4109;Name=AB994_4109;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4109
+CP021344.1	Genbank	CDS	213199	213771	.	+	0	ID=cds-KMV09031.1;Parent=gene-AB994_4109;Dbxref=NCBI_GP:KMV09031.1;Name=KMV09031.1;gbkey=CDS;locus_tag=AB994_4109;product=bacterial regulatory s%2C tetR family protein;protein_id=KMV09031.1;transl_table=11
+CP021344.1	Genbank	gene	213795	214292	.	+	.	ID=gene-AB994_4110;Name=AB994_4110;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4110
+CP021344.1	Genbank	CDS	213795	214292	.	+	0	ID=cds-KMV09032.1;Parent=gene-AB994_4110;Dbxref=NCBI_GP:KMV09032.1;Name=KMV09032.1;gbkey=CDS;locus_tag=AB994_4110;product=hypothetical protein;protein_id=KMV09032.1;transl_table=11
+CP021344.1	Genbank	gene	214385	214882	.	+	.	ID=gene-AB994_4111;Name=AB994_4111;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4111
+CP021344.1	Genbank	CDS	214385	214882	.	+	0	ID=cds-KMV09033.1;Parent=gene-AB994_4111;Dbxref=NCBI_GP:KMV09033.1;Name=KMV09033.1;gbkey=CDS;locus_tag=AB994_4111;product=hypothetical protein;protein_id=KMV09033.1;transl_table=11
+CP021344.1	Genbank	gene	214896	215402	.	+	.	ID=gene-AB994_4112;Name=AB994_4112;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4112
+CP021344.1	Genbank	CDS	214896	215402	.	+	0	ID=cds-KMV09034.1;Parent=gene-AB994_4112;Dbxref=NCBI_GP:KMV09034.1;Name=KMV09034.1;gbkey=CDS;locus_tag=AB994_4112;product=hypothetical protein;protein_id=KMV09034.1;transl_table=11
+CP021344.1	Genbank	gene	215406	216302	.	+	.	ID=gene-AB994_4113;Name=AB994_4113;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4113
+CP021344.1	Genbank	CDS	215406	216302	.	+	0	ID=cds-KMV09035.1;Parent=gene-AB994_4113;Dbxref=NCBI_GP:KMV09035.1;Name=KMV09035.1;gbkey=CDS;locus_tag=AB994_4113;product=hypothetical protein;protein_id=KMV09035.1;transl_table=11
+CP021344.1	Genbank	gene	216424	216789	.	+	.	ID=gene-AB994_4114;Name=AB994_4114;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB994_4114
+CP021344.1	Genbank	CDS	216424	216789	.	+	0	ID=cds-KMV09036.2;Parent=gene-AB994_4114;Dbxref=NCBI_GP:KMV09036.2;Name=KMV09036.2;gbkey=CDS;locus_tag=AB994_4114;product=hypothetical protein;protein_id=KMV09036.2;transl_table=11
+

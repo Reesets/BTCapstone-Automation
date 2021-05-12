@@ -1,0 +1,23 @@
+##sequence-region CP012954.1 1 6078
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP012954.1	Genbank	region	1	6078	.	+	.	ID=CP012954.1:1..6078;Dbxref=taxon:470;Is_circular=true;Name=pRAY* (pD36-2);clone=GC1;collected-by=Clarence Fernandez;country=Australia: Sydney;gbkey=Src;genome=plasmid;genotype=GC1;lat-lon=33.8650 S 151.2094 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pRAY* (pD36-2);strain=D36
+CP012954.1	Genbank	sequence_feature	640	1230	.	+	.	ID=id-CP012954.1:640..1230;Note=aadB gene cassette;gbkey=misc_feature
+CP012954.1	Genbank	recombination_feature	640	645	.	+	.	ID=id-CP012954.1:640..645;Note=aadB attC (59-base element);gbkey=misc_recomb
+CP012954.1	Genbank	gene	649	1182	.	+	.	ID=gene-AN415_6002;Name=aadB;Note=confers resistance to gentamicin%2C kanamycin and tobramycin;gbkey=Gene;gene=aadB;gene_biotype=protein_coding;locus_tag=AN415_6002
+CP012954.1	Genbank	CDS	649	1182	.	+	0	ID=cds-ALJ89805.1;Parent=gene-AN415_6002;Dbxref=SEED:fig|470.1062.peg.2,NCBI_GP:ALJ89805.1;Name=ALJ89805.1;Note=aminoglycoside (2') adenyltransferase AadB or AAD(2')-1a;gbkey=CDS;gene=aadB;locus_tag=AN415_6002;product=AadB;protein_id=ALJ89805.1;transl_table=11
+CP012954.1	Genbank	recombination_feature	1177	1230	.	+	.	ID=id-CP012954.1:1177..1230;Note=aadB attC (59-base element);gbkey=misc_recomb
+CP012954.1	Genbank	gene	1341	2009	.	-	.	ID=gene-AN415_6003;Name=AN415_6003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_6003
+CP012954.1	Genbank	CDS	1341	2009	.	-	0	ID=cds-ALJ89806.1;Parent=gene-AN415_6003;Dbxref=SEED:fig|470.1062.peg.3,NCBI_GP:ALJ89806.1;Name=ALJ89806.1;gbkey=CDS;locus_tag=AN415_6003;product=DUF1526 domain-containing protein;protein_id=ALJ89806.1;transl_table=11
+CP012954.1	Genbank	gene	2142	2687	.	-	.	ID=gene-AN415_6004;Name=AN415_6004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_6004
+CP012954.1	Genbank	CDS	2142	2687	.	-	0	ID=cds-ALJ89807.1;Parent=gene-AN415_6004;Dbxref=SEED:fig|470.1062.peg.4,NCBI_GP:ALJ89807.1;Name=ALJ89807.1;gbkey=CDS;locus_tag=AN415_6004;product=hypothetical protein;protein_id=ALJ89807.1;transl_table=11
+CP012954.1	Genbank	gene	2736	4550	.	-	.	ID=gene-AN415_6005;Name=mobA;gbkey=Gene;gene=mobA;gene_biotype=protein_coding;locus_tag=AN415_6005
+CP012954.1	Genbank	CDS	2736	4550	.	-	0	ID=cds-ALJ89808.1;Parent=gene-AN415_6005;Dbxref=SEED:fig|470.1062.peg.5,NCBI_GP:ALJ89808.1;Name=ALJ89808.1;Note=mobilization protein%3B MobA%3B HEN family;gbkey=CDS;gene=mobA;locus_tag=AN415_6005;product=MobA;protein_id=ALJ89808.1;transl_table=11
+CP012954.1	Genbank	gene	2804	3220	.	-	.	ID=gene-AN415_6006;Name=AN415_6006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_6006
+CP012954.1	Genbank	CDS	2804	3220	.	-	0	ID=cds-ALJ89809.1;Parent=gene-AN415_6006;Dbxref=NCBI_GP:ALJ89809.1;Name=ALJ89809.1;gbkey=CDS;locus_tag=AN415_6006;product=Hypothetical protein;protein_id=ALJ89809.1;transl_table=11
+CP012954.1	Genbank	gene	3224	3835	.	-	.	ID=gene-AN415_6007;Name=AN415_6007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_6007
+CP012954.1	Genbank	CDS	3224	3835	.	-	0	ID=cds-ALJ89810.1;Parent=gene-AN415_6007;Dbxref=NCBI_GP:ALJ89810.1;Name=ALJ89810.1;gbkey=CDS;locus_tag=AN415_6007;product=Hypothetical protein;protein_id=ALJ89810.1;transl_table=11
+CP012954.1	Genbank	gene	4540	4947	.	-	.	ID=gene-AN415_6008;Name=mobC;gbkey=Gene;gene=mobC;gene_biotype=protein_coding;locus_tag=AN415_6008
+CP012954.1	Genbank	CDS	4540	4947	.	-	0	ID=cds-ALJ89811.1;Parent=gene-AN415_6008;Dbxref=SEED:fig|470.1062.peg.6,NCBI_GP:ALJ89811.1;Name=ALJ89811.1;Note=mobilization protein;gbkey=CDS;gene=mobC;locus_tag=AN415_6008;product=MobC;protein_id=ALJ89811.1;transl_table=11
+CP012954.1	Genbank	gene	5950	6636	.	+	.	ID=gene-AN415_6001;Name=AN415_6001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_6001
+CP012954.1	Genbank	CDS	5950	6636	.	+	0	ID=cds-ALJ89804.1;Parent=gene-AN415_6001;Dbxref=SEED:fig|470.1062.peg.1,NCBI_GP:ALJ89804.1;Name=ALJ89804.1;gbkey=CDS;locus_tag=AN415_6001;product=hypothetical protein;protein_id=ALJ89804.1;transl_table=11
+

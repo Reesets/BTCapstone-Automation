@@ -1,0 +1,12 @@
+##sequence-region NZ_CP062923.1 1 5242
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_CP062923.1	RefSeq	region	1	5242	.	+	.	ID=NZ_CP062923.1:1..5242;Dbxref=taxon:470;Is_circular=true;Name=unnamednovel_2;collected-by=Agriculture and Agri-Food Canada;collection-date=17-Jan-2018;country=Canada: Quebec;gbkey=Src;genome=plasmid;isolation-source=swab;mol_type=genomic DNA;nat-host=Sus scrofa domesticus;plasmid-name=unnamednovel_2;strain=Res13-Abat-PEA21-P4-01-A
+NZ_CP062923.1	RefSeq	gene	710	1642	.	-	.	ID=gene-IMO23_RS19255;Name=IMO23_RS19255;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IMO23_RS19255;old_locus_tag=IMO23_19255
+NZ_CP062923.1	Protein Homology	CDS	710	1642	.	-	0	ID=cds-WP_000711927.1;Parent=gene-IMO23_RS19255;Dbxref=Genbank:WP_000711927.1;Name=WP_000711927.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005265321.1;locus_tag=IMO23_RS19255;product=replication initiation protein RepM;protein_id=WP_000711927.1;transl_table=11
+NZ_CP062923.1	RefSeq	gene	2276	2842	.	+	.	ID=gene-IMO23_RS19260;Name=IMO23_RS19260;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IMO23_RS19260;old_locus_tag=IMO23_19260
+NZ_CP062923.1	Protein Homology	CDS	2276	2842	.	+	0	ID=cds-WP_103801072.1;Parent=gene-IMO23_RS19260;Dbxref=Genbank:WP_103801072.1;Name=WP_103801072.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004871860.1;locus_tag=IMO23_RS19260;product=hypothetical protein;protein_id=WP_103801072.1;transl_table=11
+NZ_CP062923.1	RefSeq	gene	2871	3053	.	-	.	ID=gene-IMO23_RS19265;Name=IMO23_RS19265;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IMO23_RS19265;old_locus_tag=IMO23_19265
+NZ_CP062923.1	Protein Homology	CDS	2871	3053	.	-	0	ID=cds-WP_178868349.1;Parent=gene-IMO23_RS19265;Dbxref=Genbank:WP_178868349.1;Name=WP_178868349.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005134116.1;locus_tag=IMO23_RS19265;product=hypothetical protein;protein_id=WP_178868349.1;transl_table=11
+NZ_CP062923.1	RefSeq	gene	3361	4521	.	-	.	ID=gene-IMO23_RS19270;Name=IMO23_RS19270;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IMO23_RS19270;old_locus_tag=IMO23_19270
+NZ_CP062923.1	Protein Homology	CDS	3361	4521	.	-	0	ID=cds-WP_195707830.1;Parent=gene-IMO23_RS19270;Dbxref=Genbank:WP_195707830.1;Name=WP_195707830.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004854577.1;locus_tag=IMO23_RS19270;product=replication initiation protein RepM;protein_id=WP_195707830.1;transl_table=11
+

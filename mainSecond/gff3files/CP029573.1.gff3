@@ -1,0 +1,24 @@
+##sequence-region CP029573.1 1 8963
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP029573.1	Genbank	region	1	8963	.	+	.	ID=CP029573.1:1..8963;Dbxref=taxon:470;Is_circular=true;Name=pDA33098-9;country=Spain;gbkey=Src;genome=plasmid;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pDA33098-9;serotype=ST350;strain=DA33098
+CP029573.1	Genbank	gene	1132	1419	.	+	.	ID=gene-DLD53_20660;Name=DLD53_20660;gbkey=Gene;gene_biotype=protein_coding;locus_tag=DLD53_20660
+CP029573.1	Protein Homology	CDS	1132	1419	.	+	0	ID=cds-AWO18625.1;Parent=gene-DLD53_20660;Dbxref=NCBI_GP:AWO18625.1;Name=AWO18625.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=DLD53_20660;product=BrnT family toxin;protein_id=AWO18625.1;transl_table=11
+CP029573.1	Genbank	gene	1406	1720	.	+	.	ID=gene-DLD53_20665;Name=DLD53_20665;gbkey=Gene;gene_biotype=protein_coding;locus_tag=DLD53_20665
+CP029573.1	Protein Homology	CDS	1406	1720	.	+	0	ID=cds-AWO18626.1;Parent=gene-DLD53_20665;Dbxref=NCBI_GP:AWO18626.1;Name=AWO18626.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_006582675.1;locus_tag=DLD53_20665;product=toxin-antitoxin system%2C antitoxin component;protein_id=AWO18626.1;transl_table=11
+CP029573.1	Genbank	gene	1848	4259	.	+	.	ID=gene-DLD53_20670;Name=DLD53_20670;gbkey=Gene;gene_biotype=protein_coding;locus_tag=DLD53_20670
+CP029573.1	Protein Homology	CDS	1848	4259	.	+	0	ID=cds-AWO18627.1;Parent=gene-DLD53_20670;Dbxref=NCBI_GP:AWO18627.1;Name=AWO18627.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=DLD53_20670;product=TonB-dependent receptor;protein_id=AWO18627.1;transl_table=11
+CP029573.1	Genbank	gene	4564	5025	.	+	.	ID=gene-DLD53_20675;Name=DLD53_20675;gbkey=Gene;gene_biotype=protein_coding;locus_tag=DLD53_20675
+CP029573.1	Protein Homology	CDS	4564	5025	.	+	0	ID=cds-AWO18628.1;Parent=gene-DLD53_20675;Dbxref=NCBI_GP:AWO18628.1;Name=AWO18628.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004781077.1;locus_tag=DLD53_20675;product=septicolysin;protein_id=AWO18628.1;transl_table=11
+CP029573.1	Genbank	gene	5521	5892	.	-	.	ID=gene-DLD53_20680;Name=DLD53_20680;gbkey=Gene;gene_biotype=protein_coding;locus_tag=DLD53_20680
+CP029573.1	Protein Homology	CDS	5521	5892	.	-	0	ID=cds-AWO18629.1;Parent=gene-DLD53_20680;Dbxref=NCBI_GP:AWO18629.1;Name=AWO18629.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=DLD53_20680;product=hypothetical protein;protein_id=AWO18629.1;transl_table=11
+CP029573.1	Genbank	gene	6163	6417	.	-	.	ID=gene-DLD53_20685;Name=DLD53_20685;gbkey=Gene;gene_biotype=protein_coding;locus_tag=DLD53_20685
+CP029573.1	Protein Homology	CDS	6163	6417	.	-	0	ID=cds-AWO18630.1;Parent=gene-DLD53_20685;Dbxref=NCBI_GP:AWO18630.1;Name=AWO18630.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001014301.1;locus_tag=DLD53_20685;product=hypothetical protein;protein_id=AWO18630.1;transl_table=11
+CP029573.1	Genbank	pseudogene	6701	6902	.	+	.	ID=gene-DLD53_20690;Name=DLD53_20690;gbkey=Gene;gene_biotype=pseudogene;locus_tag=DLD53_20690;pseudo=true
+CP029573.1	Protein Homology	CDS	6701	6902	.	+	0	ID=cds-DLD53_20690;Parent=gene-DLD53_20690;Note=frameshifted%3B internal stop;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004641946.1;locus_tag=DLD53_20690;product=hypothetical protein;pseudo=true;transl_table=11
+CP029573.1	Genbank	gene	7103	8053	.	+	.	ID=gene-DLD53_20695;Name=DLD53_20695;gbkey=Gene;gene_biotype=protein_coding;locus_tag=DLD53_20695
+CP029573.1	Protein Homology	CDS	7103	8053	.	+	0	ID=cds-AWO18631.1;Parent=gene-DLD53_20695;Dbxref=NCBI_GP:AWO18631.1;Name=AWO18631.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=DLD53_20695;product=replication initiation protein;protein_id=AWO18631.1;transl_table=11
+CP029573.1	Genbank	gene	8046	8621	.	+	.	ID=gene-DLD53_20700;Name=DLD53_20700;gbkey=Gene;gene_biotype=protein_coding;locus_tag=DLD53_20700
+CP029573.1	Protein Homology	CDS	8046	8621	.	+	0	ID=cds-AWO18632.1;Parent=gene-DLD53_20700;Dbxref=NCBI_GP:AWO18632.1;Name=AWO18632.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=DLD53_20700;product=DNA-binding protein;protein_id=AWO18632.1;transl_table=11
+CP029573.1	Genbank	gene	8959	9786	.	-	.	ID=gene-DLD53_20655;Name=DLD53_20655;gbkey=Gene;gene_biotype=protein_coding;locus_tag=DLD53_20655
+CP029573.1	Protein Homology	CDS	8959	9786	.	-	0	ID=cds-AWO18633.1;Parent=gene-DLD53_20655;Dbxref=NCBI_GP:AWO18633.1;Name=AWO18633.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_057689930.1;locus_tag=DLD53_20655;product=carbapenem-hydrolyzing class D beta-lactamase OXA-24;protein_id=AWO18633.1;transl_table=11
+

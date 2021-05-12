@@ -1,0 +1,16 @@
+##sequence-region CP059390.1 1 4721
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP059390.1	Genbank	region	1	4721	.	+	.	ID=CP059390.1:1..4721;Dbxref=taxon:470;Is_circular=true;Name=p4.36-1512;collection-date=01-Jan-2013;country=Russia: Moscow;gbkey=Src;genome=plasmid;isolation-source=respiratory tract;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=p4.36-1512;strain=36-1512
+CP059390.1	Genbank	gene	43	1959	.	-	.	ID=gene-H0S62_19640;Name=H0S62_19640;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0S62_19640
+CP059390.1	GeneMarkS-2+	CDS	43	1959	.	-	0	ID=cds-QLY88355.1;Parent=gene-H0S62_19640;Dbxref=NCBI_GP:QLY88355.1;Name=QLY88355.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=H0S62_19640;product=hypothetical protein;protein_id=QLY88355.1;transl_table=11
+CP059390.1	Genbank	gene	1956	2300	.	-	.	ID=gene-H0S62_19645;Name=mobC;gbkey=Gene;gene=mobC;gene_biotype=protein_coding;locus_tag=H0S62_19645
+CP059390.1	Protein Homology	CDS	1956	2300	.	-	0	ID=cds-QLY88356.1;Parent=gene-H0S62_19645;Dbxref=NCBI_GP:QLY88356.1;Name=QLY88356.1;gbkey=CDS;gene=mobC;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004733449.1;locus_tag=H0S62_19645;product=plasmid mobilization relaxosome protein MobC;protein_id=QLY88356.1;transl_table=11
+CP059390.1	Genbank	gene	2682	2903	.	-	.	ID=gene-H0S62_19650;Name=H0S62_19650;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0S62_19650
+CP059390.1	GeneMarkS-2+	CDS	2682	2903	.	-	0	ID=cds-QLY88351.1;Parent=gene-H0S62_19650;Dbxref=NCBI_GP:QLY88351.1;Name=QLY88351.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=H0S62_19650;product=hypothetical protein;protein_id=QLY88351.1;transl_table=11
+CP059390.1	Genbank	gene	2900	3850	.	-	.	ID=gene-H0S62_19655;Name=H0S62_19655;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0S62_19655
+CP059390.1	Protein Homology	CDS	2900	3850	.	-	0	ID=cds-QLY88352.1;Parent=gene-H0S62_19655;Dbxref=NCBI_GP:QLY88352.1;Name=QLY88352.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004993712.1;locus_tag=H0S62_19655;product=replication initiation protein;protein_id=QLY88352.1;transl_table=11
+CP059390.1	Genbank	gene	4112	4453	.	-	.	ID=gene-H0S62_19660;Name=mazF;gbkey=Gene;gene=mazF;gene_biotype=protein_coding;locus_tag=H0S62_19660
+CP059390.1	Protein Homology	CDS	4112	4453	.	-	0	ID=cds-QLY88353.1;Parent=gene-H0S62_19660;Dbxref=NCBI_GP:QLY88353.1;Name=QLY88353.1;gbkey=CDS;gene=mazF;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005402007.1;locus_tag=H0S62_19660;product=endoribonuclease MazF;protein_id=QLY88353.1;transl_table=11
+CP059390.1	Genbank	gene	4453	4692	.	-	.	ID=gene-H0S62_19665;Name=H0S62_19665;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0S62_19665
+CP059390.1	Protein Homology	CDS	4453	4692	.	-	0	ID=cds-QLY88354.1;Parent=gene-H0S62_19665;Dbxref=NCBI_GP:QLY88354.1;Name=QLY88354.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004918185.1;locus_tag=H0S62_19665;product=AbrB/MazE/SpoVT family DNA-binding domain-containing protein;protein_id=QLY88354.1;transl_table=11
+

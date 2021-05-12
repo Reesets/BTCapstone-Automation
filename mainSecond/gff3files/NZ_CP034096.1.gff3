@@ -1,0 +1,10 @@
+##sequence-region NZ_CP034096.1 1 3610
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_CP034096.1	RefSeq	region	1	3610	.	+	.	ID=NZ_CP034096.1:1..3610;Dbxref=taxon:470;Is_circular=true;Name=pA52-4;collected-by=Huiqiong Jia;collection-date=2015-08-02;country=China: Hangzhou;gbkey=Src;genome=plasmid;isolation-source=sputum;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pA52-4;strain=A52
+NZ_CP034096.1	RefSeq	gene	101	1726	.	-	.	ID=gene-EHF38_RS19390;Name=EHF38_RS19390;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EHF38_RS19390;old_locus_tag=EHF38_19390
+NZ_CP034096.1	Protein Homology	CDS	101	1726	.	-	0	ID=cds-WP_128385932.1;Parent=gene-EHF38_RS19390;Dbxref=Genbank:WP_128385932.1;Name=WP_128385932.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004759125.1;locus_tag=EHF38_RS19390;product=MobA/MobL family protein;protein_id=WP_128385932.1;transl_table=11
+NZ_CP034096.1	RefSeq	gene	1948	2247	.	+	.	ID=gene-EHF38_RS19395;Name=EHF38_RS19395;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EHF38_RS19395;old_locus_tag=EHF38_19395
+NZ_CP034096.1	Protein Homology	CDS	1948	2247	.	+	0	ID=cds-WP_128385933.1;Parent=gene-EHF38_RS19395;Dbxref=Genbank:WP_128385933.1;Name=WP_128385933.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005320422.1;locus_tag=EHF38_RS19395;product=mobilization protein;protein_id=WP_128385933.1;transl_table=11
+NZ_CP034096.1	RefSeq	gene	2251	3183	.	-	.	ID=gene-EHF38_RS19400;Name=EHF38_RS19400;gbkey=Gene;gene_biotype=protein_coding;locus_tag=EHF38_RS19400;old_locus_tag=EHF38_19400
+NZ_CP034096.1	Protein Homology	CDS	2251	3183	.	-	0	ID=cds-WP_128385934.1;Parent=gene-EHF38_RS19400;Dbxref=Genbank:WP_128385934.1;Name=WP_128385934.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004759367.1;locus_tag=EHF38_RS19400;product=replication initiation protein RepM;protein_id=WP_128385934.1;transl_table=11
+

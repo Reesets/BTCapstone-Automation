@@ -1,0 +1,4 @@
+##sequence-region CP060285.1 1 3909403
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP060285.1	Genbank	region	1	3909403	.	+	.	ID=CP060285.1:1..3909403;Dbxref=taxon:470;Is_circular=true;Name=ANONYMOUS;collection-date=2018-05-11T10:12:05Z;country=China:Changsha;gbkey=Src;genome=chromosome;isolation-source=blood;mol_type=genomic DNA;strain=XYAB2018
+

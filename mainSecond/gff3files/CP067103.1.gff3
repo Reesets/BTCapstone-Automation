@@ -1,0 +1,30 @@
+##sequence-region CP067103.1 1 10955
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP067103.1	Genbank	region	1	10955	.	+	.	ID=CP067103.1:1..10955;Dbxref=taxon:470;Is_circular=true;Name=pNC2;collected-by=R Clark;collection-date=2008;country=USA:DC;culture-collection=ATCC:BAA-1790;gbkey=Src;genome=plasmid;isolation-source=sputum;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pNC2;strain=ATCC BAA-1790
+CP067103.1	Genbank	gene	1	951	.	+	.	ID=gene-BAA1790NC_37520;Name=BAA1790NC_37520;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_37520
+CP067103.1	Genbank	CDS	1	951	.	+	0	ID=cds-QQY87247.1;Parent=gene-BAA1790NC_37520;Dbxref=NCBI_GP:QQY87247.1;Name=QQY87247.1;gbkey=CDS;locus_tag=BAA1790NC_37520;product=replication initiation protein;protein_id=QQY87247.1;transl_table=11
+CP067103.1	Genbank	gene	986	1519	.	+	.	ID=gene-BAA1790NC_37530;Name=BAA1790NC_37530;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_37530
+CP067103.1	Genbank	CDS	986	1519	.	+	0	ID=cds-QQY87248.1;Parent=gene-BAA1790NC_37530;Dbxref=NCBI_GP:QQY87248.1;Name=QQY87248.1;Note=helix-turn-helix domain-containing protein;gbkey=CDS;locus_tag=BAA1790NC_37530;product=putative replication protein with a helix-turn-helix domain;protein_id=QQY87248.1;transl_table=11
+CP067103.1	Genbank	gene	1539	1682	.	+	.	ID=gene-BAA1790NC_37540;Name=BAA1790NC_37540;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_37540
+CP067103.1	Genbank	CDS	1539	1682	.	+	0	ID=cds-QQY87249.1;Parent=gene-BAA1790NC_37540;Dbxref=NCBI_GP:QQY87249.1;Name=QQY87249.1;gbkey=CDS;locus_tag=BAA1790NC_37540;product=hypothetical protein;protein_id=QQY87249.1;transl_table=11
+CP067103.1	Genbank	gene	1871	2389	.	-	.	ID=gene-BAA1790NC_37550;Name=BAA1790NC_37550;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_37550
+CP067103.1	Genbank	CDS	1871	2389	.	-	0	ID=cds-QQY87250.1;Parent=gene-BAA1790NC_37550;Dbxref=NCBI_GP:QQY87250.1;Name=QQY87250.1;gbkey=CDS;locus_tag=BAA1790NC_37550;product=sel1 repeat family protein;protein_id=QQY87250.1;transl_table=11
+CP067103.1	Genbank	gene	2762	3049	.	+	.	ID=gene-BAA1790NC_37560;Name=brnT;gbkey=Gene;gene=brnT;gene_biotype=protein_coding;locus_tag=BAA1790NC_37560
+CP067103.1	Genbank	CDS	2762	3049	.	+	0	ID=cds-QQY87251.1;Parent=gene-BAA1790NC_37560;Dbxref=NCBI_GP:QQY87251.1;Name=QQY87251.1;gbkey=CDS;gene=brnT;locus_tag=BAA1790NC_37560;product=BrnT family toxin;protein_id=QQY87251.1;transl_table=11
+CP067103.1	Genbank	gene	3036	3350	.	+	.	ID=gene-BAA1790NC_37570;Name=brnA;gbkey=Gene;gene=brnA;gene_biotype=protein_coding;locus_tag=BAA1790NC_37570
+CP067103.1	Genbank	CDS	3036	3350	.	+	0	ID=cds-QQY87252.1;Parent=gene-BAA1790NC_37570;Dbxref=NCBI_GP:QQY87252.1;Name=QQY87252.1;gbkey=CDS;gene=brnA;locus_tag=BAA1790NC_37570;product=BrnA antitoxin family protein;protein_id=QQY87252.1;transl_table=11
+CP067103.1	Genbank	gene	3478	5889	.	+	.	ID=gene-BAA1790NC_37580;Name=BAA1790NC_37580;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_37580
+CP067103.1	Genbank	CDS	3478	5889	.	+	0	ID=cds-QQY87253.1;Parent=gene-BAA1790NC_37580;Dbxref=NCBI_GP:QQY87253.1;Name=QQY87253.1;gbkey=CDS;locus_tag=BAA1790NC_37580;product=TonB-dependent receptor;protein_id=QQY87253.1;transl_table=11
+CP067103.1	Genbank	gene	6194	6655	.	+	.	ID=gene-BAA1790NC_37590;Name=BAA1790NC_37590;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_37590
+CP067103.1	Genbank	CDS	6194	6655	.	+	0	ID=cds-QQY87254.1;Parent=gene-BAA1790NC_37590;Dbxref=NCBI_GP:QQY87254.1;Name=QQY87254.1;Note=DIP1984 family protein%3B conserved uncharacterized protein;gbkey=CDS;locus_tag=BAA1790NC_37590;product=hypothetical protein;protein_id=QQY87254.1;transl_table=11
+CP067103.1	Genbank	gene	7091	8101	.	-	.	ID=gene-BAA1790NC_37600;Name=BAA1790NC_37600;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_37600
+CP067103.1	Genbank	CDS	7091	8101	.	-	0	ID=cds-QQY87255.1;Parent=gene-BAA1790NC_37600;Dbxref=NCBI_GP:QQY87255.1;Name=QQY87255.1;gbkey=CDS;locus_tag=BAA1790NC_37600;product=IS30-like element ISAba125 family transposase;protein_id=QQY87255.1;transl_table=11
+CP067103.1	Genbank	gene	8161	8493	.	-	.	ID=gene-BAA1790NC_37610;Name=BAA1790NC_37610;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_37610
+CP067103.1	Genbank	CDS	8161	8493	.	-	0	ID=cds-QQY87256.1;Parent=gene-BAA1790NC_37610;Dbxref=NCBI_GP:QQY87256.1;Name=QQY87256.1;gbkey=CDS;locus_tag=BAA1790NC_37610;product=concerved uncharacterized protein;protein_id=QQY87256.1;transl_table=11
+CP067103.1	Genbank	gene	8511	8816	.	-	.	ID=gene-BAA1790NC_37620;Name=BAA1790NC_37620;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_37620
+CP067103.1	Genbank	CDS	8511	8816	.	-	0	ID=cds-QQY87257.1;Parent=gene-BAA1790NC_37620;Dbxref=NCBI_GP:QQY87257.1;Name=QQY87257.1;gbkey=CDS;locus_tag=BAA1790NC_37620;product=mobilization protein;protein_id=QQY87257.1;transl_table=11
+CP067103.1	Genbank	gene	8987	10423	.	+	.	ID=gene-BAA1790NC_37630;Name=BAA1790NC_37630;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_37630
+CP067103.1	Genbank	CDS	8987	10423	.	+	0	ID=cds-QQY87258.1;Parent=gene-BAA1790NC_37630;Dbxref=NCBI_GP:QQY87258.1;Name=QQY87258.1;gbkey=CDS;locus_tag=BAA1790NC_37630;product=MobA/MobL family protein;protein_id=QQY87258.1;transl_table=11
+CP067103.1	Genbank	gene	10525	10716	.	+	.	ID=gene-BAA1790NC_37640;Name=BAA1790NC_37640;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAA1790NC_37640
+CP067103.1	Genbank	CDS	10525	10716	.	+	0	ID=cds-QQY87259.1;Parent=gene-BAA1790NC_37640;Dbxref=NCBI_GP:QQY87259.1;Name=QQY87259.1;gbkey=CDS;locus_tag=BAA1790NC_37640;product=hypothetical protein;protein_id=QQY87259.1;transl_table=11
+
