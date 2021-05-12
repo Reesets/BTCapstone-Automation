@@ -1,0 +1,20 @@
+##sequence-region CP001923.1 1 8041
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=696749
+CP001923.1	Genbank	region	1	8041	.	+	.	ID=CP001923.1:1..8041;Dbxref=taxon:696749;Is_circular=true;Name=ABKp2;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=ABKp2;strain=1656-2
+CP001923.1	Genbank	gene	70	585	.	+	.	ID=gene-ABK1_3817;Name=ABK1_3817;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABK1_3817
+CP001923.1	Genbank	CDS	70	585	.	+	0	ID=cds-ADX05451.1;Parent=gene-ABK1_3817;Dbxref=NCBI_GP:ADX05451.1;Name=ADX05451.1;gbkey=CDS;locus_tag=ABK1_3817;product=Putative uncharacterized protein;protein_id=ADX05451.1;transl_table=11
+CP001923.1	Genbank	gene	797	1225	.	-	.	ID=gene-ABK1_3818;Name=ABK1_3818;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABK1_3818
+CP001923.1	Genbank	CDS	797	1225	.	-	0	ID=cds-ADX05452.1;Parent=gene-ABK1_3818;Dbxref=NCBI_GP:ADX05452.1;Name=ADX05452.1;gbkey=CDS;locus_tag=ABK1_3818;product=Hypothetical protein;protein_id=ADX05452.1;transl_table=11
+CP001923.1	Genbank	gene	1355	1501	.	-	.	ID=gene-ABK1_3819;Name=ABK1_3819;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABK1_3819
+CP001923.1	Genbank	CDS	1355	1501	.	-	0	ID=cds-ADX05453.1;Parent=gene-ABK1_3819;Dbxref=NCBI_GP:ADX05453.1;Name=ADX05453.1;gbkey=CDS;locus_tag=ABK1_3819;product=Putative uncharacterized protein;protein_id=ADX05453.1;transl_table=11
+CP001923.1	Genbank	gene	1811	2119	.	+	.	ID=gene-ABK1_3820;Name=ABK1_3820;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABK1_3820
+CP001923.1	Genbank	CDS	1811	2119	.	+	0	ID=cds-ADX05454.1;Parent=gene-ABK1_3820;Dbxref=NCBI_GP:ADX05454.1;Name=ADX05454.1;gbkey=CDS;locus_tag=ABK1_3820;product=Putative cytoplasmic protein;protein_id=ADX05454.1;transl_table=11
+CP001923.1	Genbank	gene	2247	4658	.	+	.	ID=gene-ABK1_3821;Name=ABK1_3821;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABK1_3821
+CP001923.1	Genbank	CDS	2247	4658	.	+	0	ID=cds-ADX05455.1;Parent=gene-ABK1_3821;Dbxref=NCBI_GP:ADX05455.1;Name=ADX05455.1;gbkey=CDS;locus_tag=ABK1_3821;product=putative TonB-dependent receptor protein;protein_id=ADX05455.1;transl_table=11
+CP001923.1	Genbank	gene	4963	5424	.	+	.	ID=gene-ABK1_3822;Name=ABK1_3822;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABK1_3822
+CP001923.1	Genbank	CDS	4963	5424	.	+	0	ID=cds-ADX05456.1;Parent=gene-ABK1_3822;Dbxref=NCBI_GP:ADX05456.1;Name=ADX05456.1;gbkey=CDS;locus_tag=ABK1_3822;product=Putative uncharacterized protein;protein_id=ADX05456.1;transl_table=11
+CP001923.1	Genbank	gene	6276	6653	.	+	.	ID=gene-ABK1_3823;Name=ABK1_3823;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABK1_3823
+CP001923.1	Genbank	CDS	6276	6653	.	+	0	ID=cds-ADX05457.1;Parent=gene-ABK1_3823;Dbxref=NCBI_GP:ADX05457.1;Name=ADX05457.1;gbkey=CDS;locus_tag=ABK1_3823;product=Putative PLP-dependent aminotransferase;protein_id=ADX05457.1;transl_table=11
+CP001923.1	Genbank	gene	7515	7685	.	+	.	ID=gene-ABK1_3824;Name=ABK1_3824;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABK1_3824
+CP001923.1	Genbank	CDS	7515	7685	.	+	0	ID=cds-ADX05458.1;Parent=gene-ABK1_3824;Dbxref=NCBI_GP:ADX05458.1;Name=ADX05458.1;gbkey=CDS;locus_tag=ABK1_3824;product=Hypothetical protein;protein_id=ADX05458.1;transl_table=11
+

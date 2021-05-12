@@ -1,0 +1,4 @@
+##sequence-region AEOZ01000236.1 1 26411
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=886889
+AEOZ01000236.1	Genbank	region	1	26411	.	+	.	ID=AEOZ01000236.1:1..26411;Dbxref=taxon:886889;Is_circular=true;Name=p1ABST78;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=p1ABST78;strain=3909
+

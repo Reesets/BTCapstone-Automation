@@ -1,0 +1,34 @@
+##sequence-region CP014293.1 1 15645
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP014293.1	Genbank	region	1	15645	.	+	.	ID=CP014293.1:1..15645;Dbxref=taxon:470;Is_circular=true;Name=unnamed2;collected-by=USAMRIID;collection-date=01-Dec-2015;gbkey=Src;genome=plasmid;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=unnamed2;strain=AB34299
+CP014293.1	Genbank	pseudogene	32	603	.	-	.	ID=gene-AXK18_18955;Name=AXK18_18955;gbkey=Gene;gene_biotype=pseudogene;locus_tag=AXK18_18955;pseudo=true
+CP014293.1	Protein Homology	CDS	32	603	.	-	0	ID=cds-AXK18_18955;Parent=gene-AXK18_18955;Note=frameshifted;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=AXK18_18955;product=DNA replication protein;pseudo=true;transl_table=11
+CP014293.1	Genbank	gene	596	1546	.	-	.	ID=gene-AXK18_18960;Name=AXK18_18960;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AXK18_18960
+CP014293.1	Protein Homology	CDS	596	1546	.	-	0	ID=cds-AQU58924.1;Parent=gene-AXK18_18960;Dbxref=NCBI_GP:AQU58924.1;Name=AQU58924.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=AXK18_18960;product=DNA replication protein;protein_id=AQU58924.1;transl_table=11
+CP014293.1	Genbank	gene	2230	2484	.	+	.	ID=gene-AXK18_18965;Name=AXK18_18965;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AXK18_18965
+CP014293.1	Protein Homology	CDS	2230	2484	.	+	0	ID=cds-AQU58925.1;Parent=gene-AXK18_18965;Dbxref=NCBI_GP:AQU58925.1;Name=AQU58925.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_001014301.1;locus_tag=AXK18_18965;product=hypothetical protein;protein_id=AQU58925.1;transl_table=11
+CP014293.1	Genbank	gene	2756	3127	.	+	.	ID=gene-AXK18_18970;Name=AXK18_18970;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AXK18_18970
+CP014293.1	Protein Homology	CDS	2756	3127	.	+	0	ID=cds-AQU58926.1;Parent=gene-AXK18_18970;Dbxref=NCBI_GP:AQU58926.1;Name=AQU58926.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=AXK18_18970;product=hypothetical protein;protein_id=AQU58926.1;transl_table=11
+CP014293.1	Genbank	gene	3623	4000	.	-	.	ID=gene-AXK18_18975;Name=AXK18_18975;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AXK18_18975
+CP014293.1	Protein Homology	CDS	3623	4000	.	-	0	ID=cds-AQU58927.1;Parent=gene-AXK18_18975;Dbxref=NCBI_GP:AQU58927.1;Name=AQU58927.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_005406863.1;locus_tag=AXK18_18975;product=septicolysin;protein_id=AQU58927.1;transl_table=11
+CP014293.1	Genbank	gene	4388	6799	.	-	.	ID=gene-AXK18_18980;Name=AXK18_18980;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AXK18_18980
+CP014293.1	Protein Homology	CDS	4388	6799	.	-	0	ID=cds-AQU58928.1;Parent=gene-AXK18_18980;Dbxref=NCBI_GP:AQU58928.1;Name=AQU58928.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=AXK18_18980;product=hypothetical protein;protein_id=AQU58928.1;transl_table=11
+CP014293.1	Genbank	gene	6927	7241	.	-	.	ID=gene-AXK18_18985;Name=AXK18_18985;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AXK18_18985
+CP014293.1	Protein Homology	CDS	6927	7241	.	-	0	ID=cds-AQU58929.1;Parent=gene-AXK18_18985;Dbxref=NCBI_GP:AQU58929.1;Name=AQU58929.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_006582675.1;locus_tag=AXK18_18985;product=toxin-antitoxin system%2C antitoxin component;protein_id=AQU58929.1;transl_table=11
+CP014293.1	Genbank	gene	7228	7515	.	-	.	ID=gene-AXK18_18990;Name=AXK18_18990;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AXK18_18990
+CP014293.1	Protein Homology	CDS	7228	7515	.	-	0	ID=cds-AQU58930.1;Parent=gene-AXK18_18990;Dbxref=NCBI_GP:AQU58930.1;Name=AQU58930.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=AXK18_18990;product=hypothetical protein;protein_id=AQU58930.1;transl_table=11
+CP014293.1	Genbank	gene	7888	8406	.	+	.	ID=gene-AXK18_18995;Name=AXK18_18995;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AXK18_18995
+CP014293.1	Protein Homology	CDS	7888	8406	.	+	0	ID=cds-AQU58931.1;Parent=gene-AXK18_18995;Dbxref=NCBI_GP:AQU58931.1;Name=AQU58931.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=AXK18_18995;product=hypothetical protein;protein_id=AQU58931.1;transl_table=11
+CP014293.1	Genbank	gene	8758	9333	.	-	.	ID=gene-AXK18_19000;Name=AXK18_19000;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AXK18_19000
+CP014293.1	Protein Homology	CDS	8758	9333	.	-	0	ID=cds-AQU58932.1;Parent=gene-AXK18_19000;Dbxref=NCBI_GP:AQU58932.1;Name=AQU58932.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=AXK18_19000;product=DNA replication protein;protein_id=AQU58932.1;transl_table=11
+CP014293.1	Genbank	gene	9326	10276	.	-	.	ID=gene-AXK18_19005;Name=AXK18_19005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AXK18_19005
+CP014293.1	Protein Homology	CDS	9326	10276	.	-	0	ID=cds-AQU58933.1;Parent=gene-AXK18_19005;Dbxref=NCBI_GP:AQU58933.1;Name=AQU58933.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=AXK18_19005;product=DNA replication protein;protein_id=AQU58933.1;transl_table=11
+CP014293.1	Genbank	gene	10960	11214	.	+	.	ID=gene-AXK18_19010;Name=AXK18_19010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AXK18_19010
+CP014293.1	Protein Homology	CDS	10960	11214	.	+	0	ID=cds-AQU58934.1;Parent=gene-AXK18_19010;Dbxref=NCBI_GP:AQU58934.1;Name=AQU58934.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_001014301.1;locus_tag=AXK18_19010;product=hypothetical protein;protein_id=AQU58934.1;transl_table=11
+CP014293.1	Genbank	gene	11486	11857	.	+	.	ID=gene-AXK18_19015;Name=AXK18_19015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AXK18_19015
+CP014293.1	Protein Homology	CDS	11486	11857	.	+	0	ID=cds-AQU58935.1;Parent=gene-AXK18_19015;Dbxref=NCBI_GP:AQU58935.1;Name=AQU58935.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=AXK18_19015;product=hypothetical protein;protein_id=AQU58935.1;transl_table=11
+CP014293.1	Genbank	gene	12353	12730	.	-	.	ID=gene-AXK18_19020;Name=AXK18_19020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AXK18_19020
+CP014293.1	Protein Homology	CDS	12353	12730	.	-	0	ID=cds-AQU58936.1;Parent=gene-AXK18_19020;Dbxref=NCBI_GP:AQU58936.1;Name=AQU58936.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_005406863.1;locus_tag=AXK18_19020;product=septicolysin;protein_id=AQU58936.1;transl_table=11
+CP014293.1	Genbank	pseudogene	13117	15531	.	-	.	ID=gene-AXK18_19025;Name=AXK18_19025;gbkey=Gene;gene_biotype=pseudogene;locus_tag=AXK18_19025;pseudo=true
+CP014293.1	Protein Homology	CDS	13117	15531	.	-	0	ID=cds-AXK18_19025;Parent=gene-AXK18_19025;Note=frameshifted;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=AXK18_19025;product=hypothetical protein;pseudo=true;transl_table=11
+

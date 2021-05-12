@@ -1,0 +1,26 @@
+##sequence-region AP022837.1 1 9408
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+AP022837.1	DDBJ	region	1	9408	.	+	.	ID=AP022837.1:1..9408;Dbxref=taxon:470;Is_circular=true;Name=pATCC19606-1;culture-collection=ATCC:19606;gbkey=Src;genome=plasmid;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pATCC19606-1;strain=ATCC 19606;type-material=type strain of Acinetobacter baumannii
+AP022837.1	DDBJ	gene	52	987	.	-	.	ID=gene-ATCC19606_38620;Name=ATCC19606_38620;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ATCC19606_38620
+AP022837.1	DDBJ	CDS	52	987	.	-	0	ID=cds-BCB01527.1;Parent=gene-ATCC19606_38620;Dbxref=NCBI_GP:BCB01527.1;Name=BCB01527.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:MetaGeneAnnotator;locus_tag=ATCC19606_38620;product=hypothetical protein;protein_id=BCB01527.1;transl_table=11
+AP022837.1	DDBJ	gene	1584	2753	.	-	.	ID=gene-ATCC19606_38630;Name=ATCC19606_38630;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ATCC19606_38630
+AP022837.1	DDBJ	CDS	1584	2753	.	-	0	ID=cds-BCB01528.1;Parent=gene-ATCC19606_38630;Dbxref=NCBI_GP:BCB01528.1;Name=BCB01528.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:MetaGeneAnnotator;locus_tag=ATCC19606_38630;product=hypothetical protein;protein_id=BCB01528.1;transl_table=11
+AP022837.1	DDBJ	gene	2824	2976	.	+	.	ID=gene-ATCC19606_38640;Name=ATCC19606_38640;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ATCC19606_38640
+AP022837.1	DDBJ	CDS	2824	2976	.	+	0	ID=cds-BCB01529.1;Parent=gene-ATCC19606_38640;Dbxref=NCBI_GP:BCB01529.1;Name=BCB01529.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:MetaGeneAnnotator;locus_tag=ATCC19606_38640;product=hypothetical protein;protein_id=BCB01529.1;transl_table=11
+AP022837.1	DDBJ	gene	3056	3817	.	+	.	ID=gene-ATCC19606_38650;Name=ATCC19606_38650;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ATCC19606_38650
+AP022837.1	DDBJ	CDS	3056	3817	.	+	0	ID=cds-BCB01530.1;Parent=gene-ATCC19606_38650;Dbxref=NCBI_GP:BCB01530.1;Name=BCB01530.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:MetaGeneAnnotator;locus_tag=ATCC19606_38650;product=hypothetical protein;protein_id=BCB01530.1;transl_table=11
+AP022837.1	DDBJ	gene	4504	4935	.	-	.	ID=gene-ATCC19606_38660;Name=ATCC19606_38660;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ATCC19606_38660
+AP022837.1	DDBJ	CDS	4504	4935	.	-	0	ID=cds-BCB01531.1;Parent=gene-ATCC19606_38660;Dbxref=NCBI_GP:BCB01531.1;Name=BCB01531.1;gbkey=CDS;inference=similar to AA sequence:RefSeq:WP_011387782.1;locus_tag=ATCC19606_38660;product=MarR family transcriptional regulator;protein_id=BCB01531.1;transl_table=11
+AP022837.1	DDBJ	gene	4942	5370	.	-	.	ID=gene-ATCC19606_38670;Name=ATCC19606_38670;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ATCC19606_38670
+AP022837.1	DDBJ	CDS	4942	5370	.	-	0	ID=cds-BCB01532.1;Parent=gene-ATCC19606_38670;Dbxref=NCBI_GP:BCB01532.1;Name=BCB01532.1;gbkey=CDS;inference=similar to AA sequence:RefSeq:WP_005460420.1;locus_tag=ATCC19606_38670;product=osmotically inducible protein C;protein_id=BCB01532.1;transl_table=11
+AP022837.1	DDBJ	gene	5567	6001	.	-	.	ID=gene-ATCC19606_38680;Name=ATCC19606_38680;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ATCC19606_38680
+AP022837.1	DDBJ	CDS	5567	6001	.	-	0	ID=cds-BCB01533.1;Parent=gene-ATCC19606_38680;Dbxref=NCBI_GP:BCB01533.1;Name=BCB01533.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:MetaGeneAnnotator;locus_tag=ATCC19606_38680;product=hypothetical protein;protein_id=BCB01533.1;transl_table=11
+AP022837.1	DDBJ	gene	6117	6635	.	-	.	ID=gene-ATCC19606_38690;Name=ATCC19606_38690;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ATCC19606_38690
+AP022837.1	DDBJ	CDS	6117	6635	.	-	0	ID=cds-BCB01534.1;Parent=gene-ATCC19606_38690;Dbxref=NCBI_GP:BCB01534.1;Name=BCB01534.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:MetaGeneAnnotator;locus_tag=ATCC19606_38690;product=hypothetical protein;protein_id=BCB01534.1;transl_table=11
+AP022837.1	DDBJ	gene	6810	7001	.	-	.	ID=gene-ATCC19606_38700;Name=ATCC19606_38700;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ATCC19606_38700
+AP022837.1	DDBJ	CDS	6810	7001	.	-	0	ID=cds-BCB01535.1;Parent=gene-ATCC19606_38700;Dbxref=NCBI_GP:BCB01535.1;Name=BCB01535.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:MetaGeneAnnotator;locus_tag=ATCC19606_38700;product=hypothetical protein;protein_id=BCB01535.1;transl_table=11
+AP022837.1	DDBJ	gene	7014	7316	.	-	.	ID=gene-ATCC19606_38710;Name=ATCC19606_38710;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ATCC19606_38710
+AP022837.1	DDBJ	CDS	7014	7316	.	-	0	ID=cds-BCB01536.1;Parent=gene-ATCC19606_38710;Dbxref=NCBI_GP:BCB01536.1;Name=BCB01536.1;gbkey=CDS;inference=similar to AA sequence:RefSeq:WP_002213446.1;locus_tag=ATCC19606_38710;product=transcriptional regulator;protein_id=BCB01536.1;transl_table=11
+AP022837.1	DDBJ	gene	7437	7664	.	-	.	ID=gene-ATCC19606_38720;Name=ATCC19606_38720;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ATCC19606_38720
+AP022837.1	DDBJ	CDS	7437	7664	.	-	0	ID=cds-BCB01537.1;Parent=gene-ATCC19606_38720;Dbxref=NCBI_GP:BCB01537.1;Name=BCB01537.1;Note=frameshifted%2C deletion at around 7454;gbkey=CDS;inference=COORDINATES: ab initio prediction:MetaGeneAnnotator;locus_tag=ATCC19606_38720;product=hypothetical protein;protein_id=BCB01537.1;transl_table=11
+

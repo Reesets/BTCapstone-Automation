@@ -1,0 +1,4 @@
+##sequence-region AEOY01000096.1 1 21846
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=886888
+AEOY01000096.1	Genbank	region	1	21846	.	+	.	ID=AEOY01000096.1:1..21846;Dbxref=taxon:886888;Is_circular=true;Name=p2ABST2;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=p2ABST2;strain=3990
+

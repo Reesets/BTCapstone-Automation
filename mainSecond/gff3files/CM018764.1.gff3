@@ -1,0 +1,4 @@
+##sequence-region CM018764.1 1 44480
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CM018764.1	Genbank	region	1	44480	.	+	.	ID=CM018764.1:1..44480;Dbxref=taxon:470;Is_circular=true;Name=unnamed;collected-by=Maytham;collection-date=01-Oct-2018;country=Iraq;gbkey=Src;genome=plasmid;isolation-source=cerebrospinal fluid of patient with meningitis;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=unnamed;strain=ABIQM1
+

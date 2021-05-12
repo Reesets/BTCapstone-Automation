@@ -1,0 +1,4 @@
+##sequence-region CM012225.1 1 11194
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CM012225.1	Genbank	region	1	11194	.	+	.	ID=CM012225.1:1..11194;Dbxref=taxon:470;Is_circular=true;Name=pAB13-41;collected-by=Children's Hospital 1;collection-date=2013;country=Viet Nam: Ho Chi Minh City;gbkey=Src;genome=plasmid;isolation-source=Nasotracheal aspiration;lat-lon=10.768050 N 106.669393 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pAB13-41;strain=PIMB13AB-41
+

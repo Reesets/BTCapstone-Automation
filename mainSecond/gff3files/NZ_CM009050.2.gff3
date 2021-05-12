@@ -1,0 +1,14 @@
+##sequence-region NZ_CM009050.2 1 5695
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_CM009050.2	RefSeq	region	1	5695	.	+	.	ID=NZ_CM009050.2:1..5695;Dbxref=taxon:470;Is_circular=true;Name=p4ZQ2;collected-by=Zainab J.Qasim;collection-date=2016;country=Iraq: Baghdad;gbkey=Src;genome=plasmid;isolation-source=sputum;lat-lon=33.3128 N 44.3615 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=p4ZQ2;strain=ZQ2
+NZ_CM009050.2	RefSeq	gene	939	1241	.	-	.	ID=gene-CV948_RS00615;Name=CV948_RS00615;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CV948_RS00615;old_locus_tag=CV948_021710
+NZ_CM009050.2	GeneMarkS-2+	CDS	939	1241	.	-	0	ID=cds-WP_101458633.1;Parent=gene-CV948_RS00615;Dbxref=Genbank:WP_101458633.1;Name=WP_101458633.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=CV948_RS00615;product=hypothetical protein;protein_id=WP_101458633.1;transl_table=11
+NZ_CM009050.2	RefSeq	gene	2523	3449	.	+	.	ID=gene-CV948_RS00620;Name=CV948_RS00620;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CV948_RS00620;old_locus_tag=CV948_021715
+NZ_CM009050.2	Protein Homology	CDS	2523	3449	.	+	0	ID=cds-WP_190318217.1;Parent=gene-CV948_RS00620;Dbxref=Genbank:WP_190318217.1;Name=WP_190318217.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004917389.1;locus_tag=CV948_RS00620;product=replication initiation protein RepM;protein_id=WP_190318217.1;transl_table=11
+NZ_CM009050.2	RefSeq	gene	3544	5427	.	-	.	ID=gene-CV948_RS00625;Name=CV948_RS00625;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CV948_RS00625;old_locus_tag=CV948_021720
+NZ_CM009050.2	Protein Homology	CDS	3544	5427	.	-	0	ID=cds-WP_101458636.1;Parent=gene-CV948_RS00625;Dbxref=Genbank:WP_101458636.1;Name=WP_101458636.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:NF014581.1;locus_tag=CV948_RS00625;product=type IV secretory system conjugative DNA transfer family protein;protein_id=WP_101458636.1;transl_table=11
+NZ_CM009050.2	RefSeq	gene	5429	5659	.	-	.	ID=gene-CV948_RS00630;Name=CV948_RS00630;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CV948_RS00630;old_locus_tag=CV948_021725
+NZ_CM009050.2	Protein Homology	CDS	5429	5659	.	-	0	ID=cds-WP_101458635.1;Parent=gene-CV948_RS00630;Dbxref=Genbank:WP_101458635.1;Name=WP_101458635.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000510443.1;locus_tag=CV948_RS00630;product=hypothetical protein;protein_id=WP_101458635.1;transl_table=11
+NZ_CM009050.2	RefSeq	gene	5664	6554	.	-	.	ID=gene-CV948_RS00610;Name=CV948_RS00610;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CV948_RS00610;old_locus_tag=CV948_021705
+NZ_CM009050.2	Protein Homology	CDS	5664	6554	.	-	0	ID=cds-WP_101458634.1;Parent=gene-CV948_RS00610;Dbxref=Genbank:WP_101458634.1;Name=WP_101458634.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005207487.1;locus_tag=CV948_RS00610;product=integrase domain-containing protein;protein_id=WP_101458634.1;transl_table=11
+

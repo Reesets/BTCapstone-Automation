@@ -1,0 +1,4 @@
+##sequence-region AEPA01000395.1 1 15267
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=886890
+AEPA01000395.1	Genbank	region	1	15267	.	+	.	ID=AEPA01000395.1:1..15267;Dbxref=taxon:886890;Is_circular=true;Name=p1ABST25;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=p1ABST25;strain=4190
+

@@ -1,0 +1,30 @@
+##sequence-region KY984045.1 1 9284
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+KY984045.1	Genbank	region	1	9284	.	+	.	ID=KY984045.1:1..9284;Dbxref=taxon:470;Is_circular=true;Name=pAb242_9;collected-by=Hospital de emergencias Clemente Alvarez;collection-date=1997;country=Argentina: Rosario%2C Santa Fe;gbkey=Src;genome=plasmid;genotype=ST104;isolation-source=ascitic fluid;lat-lon=32.57 S 60.42 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pAb242_9;strain=Ab242
+KY984045.1	Genbank	gene	341	1777	.	-	.	ID=gene-mob_9;Name=mob_9;gbkey=Gene;gene=mob_9;gene_biotype=protein_coding
+KY984045.1	Genbank	CDS	341	1777	.	-	0	ID=cds-AUO31866.1;Parent=gene-mob_9;Dbxref=NCBI_GP:AUO31866.1;Name=AUO31866.1;gbkey=CDS;gene=mob_9;product=Nickase%2C mobilization protein;protein_id=AUO31866.1;transl_table=11
+KY984045.1	Genbank	CDS	1948	2253	.	+	0	ID=cds-AUO31867.1;Dbxref=NCBI_GP:AUO31867.1;Name=AUO31867.1;Note=orf2;gbkey=CDS;product=MobS%2C mobilization protein;protein_id=AUO31867.1;transl_table=11
+KY984045.1	Genbank	CDS	2271	2702	.	+	0	ID=cds-AUO31868.1;Dbxref=NCBI_GP:AUO31868.1;Name=AUO31868.1;Note=orf3;gbkey=CDS;product=Hypothetical protein;protein_id=AUO31868.1;transl_table=11
+KY984045.1	Genbank	recombination_feature	2702	2729	.	+	.	ID=id-KY984045.1:2702..2729;Note=XerC/XerD_13-like site;gbkey=misc_recomb
+KY984045.1	Genbank	gene	3028	3243	.	+	.	ID=gene-csp;Name=csp;gbkey=Gene;gene=csp;gene_biotype=protein_coding
+KY984045.1	Genbank	CDS	3028	3243	.	+	0	ID=cds-AUO31869.1;Parent=gene-csp;Dbxref=NCBI_GP:AUO31869.1;Name=AUO31869.1;gbkey=CDS;gene=csp;product=Cold shock protein;protein_id=AUO31869.1;transl_table=11
+KY984045.1	Genbank	CDS	3341	3568	.	+	0	ID=cds-AUO31870.1;Dbxref=NCBI_GP:AUO31870.1;Name=AUO31870.1;Note=orf5;gbkey=CDS;product=Hypothetical protein;protein_id=AUO31870.1;transl_table=11
+KY984045.1	Genbank	CDS	3635	3832	.	+	0	ID=cds-AUO31871.1;Dbxref=NCBI_GP:AUO31871.1;Name=AUO31871.1;Note=orf6;gbkey=CDS;product=Hypothetical protein;protein_id=AUO31871.1;transl_table=11
+KY984045.1	Genbank	CDS	4019	4339	.	+	0	ID=cds-AUO31872.1;Dbxref=NCBI_GP:AUO31872.1;Name=AUO31872.1;Note=orf7;gbkey=CDS;product=Transcription elongation factor GreB;protein_id=AUO31872.1;transl_table=11
+KY984045.1	Genbank	CDS	4332	4604	.	+	0	ID=cds-AUO31873.1;Dbxref=NCBI_GP:AUO31873.1;Name=AUO31873.1;Note=orf8;gbkey=CDS;product=Transcriptional regulator;protein_id=AUO31873.1;transl_table=11
+KY984045.1	Genbank	recombination_feature	5057	5084	.	+	.	ID=id-KY984045.1:5057..5084;Note=XerC/XerD_14-like site;gbkey=misc_recomb
+KY984045.1	Genbank	gene	5337	5666	.	+	.	ID=gene-fdx;Name=fdx;gbkey=Gene;gene=fdx;gene_biotype=protein_coding
+KY984045.1	Genbank	CDS	5337	5666	.	+	0	ID=cds-AUO31874.1;Parent=gene-fdx;Dbxref=NCBI_GP:AUO31874.1;Name=AUO31874.1;gbkey=CDS;gene=fdx;product=Ferredoxin;protein_id=AUO31874.1;transl_table=11
+KY984045.1	Genbank	recombination_feature	5739	5766	.	-	.	ID=id-KY984045.1:5739..5766;Note=XerC/XerD_15-like site;gbkey=misc_recomb
+KY984045.1	Genbank	gene	5795	6088	.	-	.	ID=gene-relE;Name=relE;gbkey=Gene;gene=relE;gene_biotype=protein_coding
+KY984045.1	Genbank	CDS	5795	6088	.	-	0	ID=cds-AUO31875.1;Parent=gene-relE;Dbxref=NCBI_GP:AUO31875.1;Name=AUO31875.1;gbkey=CDS;gene=relE;product=RelE toxin;protein_id=AUO31875.1;transl_table=11
+KY984045.1	Genbank	gene	6078	6326	.	-	.	ID=gene-relB;Name=relB;gbkey=Gene;gene=relB;gene_biotype=protein_coding
+KY984045.1	Genbank	CDS	6078	6326	.	-	0	ID=cds-AUO31876.1;Parent=gene-relB;Dbxref=NCBI_GP:AUO31876.1;Name=AUO31876.1;gbkey=CDS;gene=relB;product=RelB%2C addiction module antitoxin;protein_id=AUO31876.1;transl_table=11
+KY984045.1	Genbank	recombination_feature	6384	6411	.	+	.	ID=id-KY984045.1:6384..6411;Note=XerC/XerD_16-like site;gbkey=misc_recomb
+KY984045.1	Genbank	CDS	6517	6750	.	+	0	ID=cds-AUO31877.1;Dbxref=NCBI_GP:AUO31877.1;Name=AUO31877.1;Note=orf12;gbkey=CDS;product=Hypothetical protein;protein_id=AUO31877.1;transl_table=11
+KY984045.1	Genbank	CDS	6758	7234	.	+	0	ID=cds-AUO31878.1;Dbxref=NCBI_GP:AUO31878.1;Name=AUO31878.1;Note=orf13;gbkey=CDS;product=Hypothetical protein;protein_id=AUO31878.1;transl_table=11
+KY984045.1	Genbank	recombination_feature	7261	7288	.	-	.	ID=id-KY984045.1:7261..7288;Note=XerC/XerD_17-like site;gbkey=misc_recomb
+KY984045.1	Genbank	CDS	7508	8041	.	-	0	ID=cds-AUO31879.1;Dbxref=NCBI_GP:AUO31879.1;Name=AUO31879.1;Note=orf14;gbkey=CDS;product=Hypothetical protein;protein_id=AUO31879.1;transl_table=11
+KY984045.1	Genbank	gene	8126	9049	.	-	.	ID=gene-repAci4;Name=repAci4;gbkey=Gene;gene=repAci4;gene_biotype=protein_coding
+KY984045.1	Genbank	CDS	8126	9049	.	-	0	ID=cds-AUO31880.1;Parent=gene-repAci4;Dbxref=NCBI_GP:AUO31880.1;Name=AUO31880.1;gbkey=CDS;gene=repAci4;product=RepB family plasmid replication initiator protein;protein_id=AUO31880.1;transl_table=11
+

@@ -1,0 +1,26 @@
+##sequence-region CP058626.1 1 8731
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP058626.1	Genbank	region	1	8731	.	+	.	ID=CP058626.1:1..8731;Dbxref=taxon:470;Is_circular=true;Name=unnamed;collected-by=American Type Culture Collection;collection-date=30-Jun-2006;country=Canada;culture-collection=ATCC:BAA1605;gbkey=Src;genome=plasmid;isolation-source=sputum;lat-lon=56.1304 N 106.3468 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=unnamed;strain=ATCC BAA1605
+CP058626.1	Genbank	gene	1	951	.	+	.	ID=gene-HYI42_19465;Name=HYI42_19465;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HYI42_19465
+CP058626.1	Protein Homology	CDS	1	951	.	+	0	ID=cds-QLG82497.1;Parent=gene-HYI42_19465;Dbxref=NCBI_GP:QLG82497.1;Name=QLG82497.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=HYI42_19465;product=replication initiation protein;protein_id=QLG82497.1;transl_table=11
+CP058626.1	Genbank	gene	944	1519	.	+	.	ID=gene-HYI42_19470;Name=HYI42_19470;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HYI42_19470
+CP058626.1	Protein Homology	CDS	944	1519	.	+	0	ID=cds-QLG82498.1;Parent=gene-HYI42_19470;Dbxref=NCBI_GP:QLG82498.1;Name=QLG82498.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=HYI42_19470;product=helix-turn-helix domain-containing protein;protein_id=QLG82498.1;transl_table=11
+CP058626.1	Genbank	gene	1539	1682	.	+	.	ID=gene-HYI42_19475;Name=HYI42_19475;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HYI42_19475
+CP058626.1	Protein Homology	CDS	1539	1682	.	+	0	ID=cds-QLG82499.1;Parent=gene-HYI42_19475;Dbxref=NCBI_GP:QLG82499.1;Name=QLG82499.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786602.1;locus_tag=HYI42_19475;product=hypothetical protein;protein_id=QLG82499.1;transl_table=11
+CP058626.1	Genbank	gene	1871	2389	.	-	.	ID=gene-HYI42_19480;Name=HYI42_19480;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HYI42_19480
+CP058626.1	Protein Homology	CDS	1871	2389	.	-	0	ID=cds-QLG82506.1;Parent=gene-HYI42_19480;Dbxref=NCBI_GP:QLG82506.1;Name=QLG82506.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=HYI42_19480;product=sel1 repeat family protein;protein_id=QLG82506.1;transl_table=11
+CP058626.1	Genbank	gene	2762	3049	.	+	.	ID=gene-HYI42_19485;Name=HYI42_19485;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HYI42_19485
+CP058626.1	Protein Homology	CDS	2762	3049	.	+	0	ID=cds-QLG82500.1;Parent=gene-HYI42_19485;Dbxref=NCBI_GP:QLG82500.1;Name=QLG82500.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=HYI42_19485;product=BrnT family toxin;protein_id=QLG82500.1;transl_table=11
+CP058626.1	Genbank	gene	3036	3350	.	+	.	ID=gene-HYI42_19490;Name=HYI42_19490;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HYI42_19490
+CP058626.1	Protein Homology	CDS	3036	3350	.	+	0	ID=cds-QLG82501.1;Parent=gene-HYI42_19490;Dbxref=NCBI_GP:QLG82501.1;Name=QLG82501.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_006582675.1;locus_tag=HYI42_19490;product=BrnA antitoxin family protein;protein_id=QLG82501.1;transl_table=11
+CP058626.1	Genbank	gene	3478	5889	.	+	.	ID=gene-HYI42_19495;Name=HYI42_19495;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HYI42_19495
+CP058626.1	Protein Homology	CDS	3478	5889	.	+	0	ID=cds-QLG82502.1;Parent=gene-HYI42_19495;Dbxref=NCBI_GP:QLG82502.1;Name=QLG82502.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=HYI42_19495;product=TonB-dependent receptor;protein_id=QLG82502.1;transl_table=11
+CP058626.1	Genbank	gene	6194	6655	.	+	.	ID=gene-HYI42_19500;Name=HYI42_19500;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HYI42_19500
+CP058626.1	Protein Homology	CDS	6194	6655	.	+	0	ID=cds-QLG82503.1;Parent=gene-HYI42_19500;Dbxref=NCBI_GP:QLG82503.1;Name=QLG82503.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004781077.1;locus_tag=HYI42_19500;product=DIP1984 family protein;protein_id=QLG82503.1;transl_table=11
+CP058626.1	Genbank	gene	6978	7151	.	-	.	ID=gene-HYI42_19505;Name=HYI42_19505;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HYI42_19505
+CP058626.1	Protein Homology	CDS	6978	7151	.	-	0	ID=cds-QLG82504.1;Parent=gene-HYI42_19505;Dbxref=NCBI_GP:QLG82504.1;Name=QLG82504.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001282484.1;locus_tag=HYI42_19505;product=hypothetical protein;protein_id=QLG82504.1;transl_table=11
+CP058626.1	Genbank	gene	7151	7522	.	-	.	ID=gene-HYI42_19510;Name=HYI42_19510;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HYI42_19510
+CP058626.1	Protein Homology	CDS	7151	7522	.	-	0	ID=cds-QLG82505.1;Parent=gene-HYI42_19510;Dbxref=NCBI_GP:QLG82505.1;Name=QLG82505.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=HYI42_19510;product=hypothetical protein;protein_id=QLG82505.1;transl_table=11
+CP058626.1	Genbank	gene	7794	8048	.	-	.	ID=gene-HYI42_19515;Name=HYI42_19515;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HYI42_19515
+CP058626.1	Protein Homology	CDS	7794	8048	.	-	0	ID=cds-QLG82507.1;Parent=gene-HYI42_19515;Dbxref=NCBI_GP:QLG82507.1;Name=QLG82507.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001014301.1;locus_tag=HYI42_19515;product=hypothetical protein;protein_id=QLG82507.1;transl_table=11
+

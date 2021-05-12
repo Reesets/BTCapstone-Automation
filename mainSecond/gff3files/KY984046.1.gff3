@@ -1,0 +1,28 @@
+##sequence-region KY984046.1 1 11891
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+KY984046.1	Genbank	region	1	11891	.	+	.	ID=KY984046.1:1..11891;Dbxref=taxon:470;Is_circular=true;Name=pAb242_12;collected-by=Hospital de emergencias Clemente Alvarez;collection-date=1997;country=Argentina: Rosario%2C Santa Fe;gbkey=Src;genome=plasmid;genotype=ST104;isolation-source=ascitic fluid;lat-lon=32.57 S 60.42 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pAb242_12;strain=Ab242
+KY984046.1	Genbank	origin_of_replication	1	216	.	+	.	ID=id-KY984046.1:1..216;Note=oriV;gbkey=rep_origin
+KY984046.1	Genbank	gene	591	1490	.	+	.	ID=gene-repAci21;Name=repAci21;gbkey=Gene;gene=repAci21;gene_biotype=protein_coding
+KY984046.1	Genbank	CDS	591	1490	.	+	0	ID=cds-AUO31881.1;Parent=gene-repAci21;Dbxref=NCBI_GP:AUO31881.1;Name=AUO31881.1;gbkey=CDS;gene=repAci21;product=Initiator Replication protein;protein_id=AUO31881.1;transl_table=11
+KY984046.1	Genbank	gene	1554	2111	.	+	.	ID=gene-rep;Name=rep;gbkey=Gene;gene=rep;gene_biotype=protein_coding
+KY984046.1	Genbank	CDS	1554	2111	.	+	0	ID=cds-AUO31882.1;Parent=gene-rep;Dbxref=NCBI_GP:AUO31882.1;Name=AUO31882.1;gbkey=CDS;gene=rep;product=DNA Replication protein;protein_id=AUO31882.1;transl_table=11
+KY984046.1	Genbank	recombination_feature	2263	2290	.	+	.	ID=id-KY984046.1:2263..2290;Note=XerC/XerD_9-like site;gbkey=misc_recomb
+KY984046.1	Genbank	CDS	2431	2658	.	+	0	ID=cds-AUO31883.1;Dbxref=NCBI_GP:AUO31883.1;Name=AUO31883.1;Note=orf3;gbkey=CDS;product=Hypothetical protein;protein_id=AUO31883.1;transl_table=11
+KY984046.1	Genbank	recombination_feature	2802	2829	.	+	.	ID=id-KY984046.1:2802..2829;Note=XerC/XerD_10-like site;gbkey=misc_recomb
+KY984046.1	Genbank	gene	2865	4319	.	-	.	ID=gene-sulP;Name=sulP;gbkey=Gene;gene=sulP;gene_biotype=protein_coding
+KY984046.1	Genbank	CDS	2865	4319	.	-	0	ID=cds-AUO31884.1;Parent=gene-sulP;Dbxref=NCBI_GP:AUO31884.1;Name=AUO31884.1;gbkey=CDS;gene=sulP;product=Sulfate transporter ybaR;protein_id=AUO31884.1;transl_table=11
+KY984046.1	Genbank	CDS	4571	4780	.	-	0	ID=cds-AUO31885.1;Dbxref=NCBI_GP:AUO31885.1;Name=AUO31885.1;Note=orf5;gbkey=CDS;product=Hypothetical protein;protein_id=AUO31885.1;transl_table=11
+KY984046.1	Genbank	recombination_feature	4935	4962	.	-	.	ID=id-KY984046.1:4935..4962;Note=XerC/XerD_11-like site;gbkey=misc_recomb
+KY984046.1	Genbank	CDS	4994	5161	.	-	0	ID=cds-AUO31886.1;Dbxref=NCBI_GP:AUO31886.1;Name=AUO31886.1;Note=orf6;gbkey=CDS;product=Hypothetical protein;protein_id=AUO31886.1;transl_table=11
+KY984046.1	Genbank	gene	5539	5769	.	+	.	ID=gene-vapB;Name=vapB;gbkey=Gene;gene=vapB;gene_biotype=protein_coding
+KY984046.1	Genbank	CDS	5539	5769	.	+	0	ID=cds-AUO31887.1;Parent=gene-vapB;Dbxref=NCBI_GP:AUO31887.1;Name=AUO31887.1;gbkey=CDS;gene=vapB;product=VapB/antitoxin to VapC toxin;protein_id=AUO31887.1;transl_table=11
+KY984046.1	Genbank	gene	5766	6161	.	+	.	ID=gene-vapC;Name=vapC;gbkey=Gene;gene=vapC;gene_biotype=protein_coding
+KY984046.1	Genbank	CDS	5766	6161	.	+	0	ID=cds-AUO31888.1;Parent=gene-vapC;Dbxref=NCBI_GP:AUO31888.1;Name=AUO31888.1;gbkey=CDS;gene=vapC;product=VapC toxin protein;protein_id=AUO31888.1;transl_table=11
+KY984046.1	Genbank	CDS	6238	7113	.	+	0	ID=cds-AUO31889.1;Dbxref=NCBI_GP:AUO31889.1;Name=AUO31889.1;Note=orf9;gbkey=CDS;product=Hypothetical protein;protein_id=AUO31889.1;transl_table=11
+KY984046.1	Genbank	recombination_feature	7183	7210	.	-	.	ID=id-KY984046.1:7183..7210;Note=XerC/XerD_12-like site;gbkey=misc_recomb
+KY984046.1	Genbank	CDS	7240	7503	.	-	0	ID=cds-AUO31890.1;Dbxref=NCBI_GP:AUO31890.1;Name=AUO31890.1;Note=orf10;gbkey=CDS;product=Hypothetical protein;protein_id=AUO31890.1;transl_table=11
+KY984046.1	Genbank	CDS	7979	8302	.	+	0	ID=cds-AUO31891.1;Dbxref=NCBI_GP:AUO31891.1;Name=AUO31891.1;Note=orf11;gbkey=CDS;product=Hypothetical protein;protein_id=AUO31891.1;transl_table=11
+KY984046.1	Genbank	gene	8299	8508	.	-	.	ID=gene-hicB;Name=hicB;gbkey=Gene;gene=hicB;gene_biotype=protein_coding
+KY984046.1	Genbank	CDS	8299	8508	.	-	0	ID=cds-AUO31892.1;Parent=gene-hicB;Dbxref=NCBI_GP:AUO31892.1;Name=AUO31892.1;gbkey=CDS;gene=hicB;product=HicB antitoxin;protein_id=AUO31892.1;transl_table=11
+KY984046.1	Genbank	CDS	8602	9723	.	-	0	ID=cds-AUO31893.1;Dbxref=NCBI_GP:AUO31893.1;Name=AUO31893.1;Note=orf13;gbkey=CDS;product=Hypothetical protein;protein_id=AUO31893.1;transl_table=11
+

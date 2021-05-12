@@ -1,0 +1,30 @@
+##sequence-region CP042207.1 1 9900
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP042207.1	Genbank	region	1	9900	.	+	.	ID=CP042207.1:1..9900;Dbxref=taxon:470;Is_circular=true;Name=pTS9900;collection-date=2005;country=India: Anantpur%2C Andhra Pradesh;gbkey=Src;genome=plasmid;isolation-source=soil;mol_type=genomic DNA;plasmid-name=pTS9900;strain=DS002
+CP042207.1	Genbank	gene	79	462	.	+	.	ID=gene-C6W84_16985;Name=C6W84_16985;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C6W84_16985
+CP042207.1	Genbank	CDS	79	462	.	+	0	ID=cds-QDX16353.1;Parent=gene-C6W84_16985;Dbxref=NCBI_GP:QDX16353.1;Name=QDX16353.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=C6W84_16985;product=hypothetical protein;protein_id=QDX16353.1;transl_table=11
+CP042207.1	Genbank	gene	692	979	.	+	.	ID=gene-C6W84_16986;Name=C6W84_16986;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C6W84_16986
+CP042207.1	Genbank	CDS	692	979	.	+	0	ID=cds-QDX16354.1;Parent=gene-C6W84_16986;Dbxref=NCBI_GP:QDX16354.1;Name=QDX16354.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=C6W84_16986;product=hypothetical protein;protein_id=QDX16354.1;transl_table=11
+CP042207.1	Genbank	gene	966	1277	.	+	.	ID=gene-C6W84_16987;Name=C6W84_16987;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C6W84_16987
+CP042207.1	Genbank	CDS	966	1277	.	+	0	ID=cds-QDX16355.1;Parent=gene-C6W84_16987;Dbxref=NCBI_GP:QDX16355.1;Name=QDX16355.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=C6W84_16987;product=hypothetical protein;protein_id=QDX16355.1;transl_table=11
+CP042207.1	Genbank	gene	1346	2446	.	-	.	ID=gene-C6W84_16988;Name=C6W84_16988;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C6W84_16988
+CP042207.1	Genbank	CDS	1346	2446	.	-	0	ID=cds-QDX16356.1;Parent=gene-C6W84_16988;Dbxref=NCBI_GP:QDX16356.1;Name=QDX16356.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=C6W84_16988;product=hypothetical protein;protein_id=QDX16356.1;transl_table=11
+CP042207.1	Genbank	gene	2510	3259	.	+	.	ID=gene-C6W84_16989;Name=C6W84_16989;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C6W84_16989
+CP042207.1	Genbank	CDS	2510	3259	.	+	0	ID=cds-QDX16357.1;Parent=gene-C6W84_16989;Dbxref=NCBI_GP:QDX16357.1;Name=QDX16357.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=C6W84_16989;product=hypothetical protein;protein_id=QDX16357.1;transl_table=11
+CP042207.1	Genbank	gene	3359	3631	.	-	.	ID=gene-C6W84_16990;Name=C6W84_16990;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C6W84_16990
+CP042207.1	Genbank	CDS	3359	3631	.	-	0	ID=cds-QDX16358.1;Parent=gene-C6W84_16990;Dbxref=NCBI_GP:QDX16358.1;Name=QDX16358.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=C6W84_16990;product=hypothetical protein;protein_id=QDX16358.1;transl_table=11
+CP042207.1	Genbank	gene	3732	3974	.	+	.	ID=gene-C6W84_16991;Name=C6W84_16991;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C6W84_16991
+CP042207.1	Genbank	CDS	3732	3974	.	+	0	ID=cds-QDX16359.1;Parent=gene-C6W84_16991;Dbxref=NCBI_GP:QDX16359.1;Name=QDX16359.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=C6W84_16991;product=hypothetical protein;protein_id=QDX16359.1;transl_table=11
+CP042207.1	Genbank	gene	4047	5246	.	-	.	ID=gene-C6W84_16992;Name=C6W84_16992;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C6W84_16992
+CP042207.1	Genbank	CDS	4047	5246	.	-	0	ID=cds-QDX16360.1;Parent=gene-C6W84_16992;Dbxref=NCBI_GP:QDX16360.1;Name=QDX16360.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=C6W84_16992;product=hypothetical protein;protein_id=QDX16360.1;transl_table=11
+CP042207.1	Genbank	gene	5364	5474	.	-	.	ID=gene-C6W84_16993;Name=C6W84_16993;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C6W84_16993
+CP042207.1	Genbank	CDS	5364	5474	.	-	0	ID=cds-QDX16361.1;Parent=gene-C6W84_16993;Dbxref=NCBI_GP:QDX16361.1;Name=QDX16361.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=C6W84_16993;product=hypothetical protein;protein_id=QDX16361.1;transl_table=11
+CP042207.1	Genbank	gene	5471	6247	.	-	.	ID=gene-C6W84_16994;Name=C6W84_16994;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C6W84_16994
+CP042207.1	Genbank	CDS	5471	6247	.	-	0	ID=cds-QDX16362.1;Parent=gene-C6W84_16994;Dbxref=NCBI_GP:QDX16362.1;Name=QDX16362.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=C6W84_16994;product=hypothetical protein;protein_id=QDX16362.1;transl_table=11
+CP042207.1	Genbank	gene	6554	7846	.	+	.	ID=gene-C6W84_16995;Name=mobA_3;gbkey=Gene;gene=mobA_3;gene_biotype=protein_coding;locus_tag=C6W84_16995
+CP042207.1	Genbank	CDS	6554	7846	.	+	0	ID=cds-QDX16363.1;Parent=gene-C6W84_16995;Dbxref=NCBI_GP:QDX16363.1;Name=QDX16363.1;gbkey=CDS;gene=mobA_3;inference=similar to AA sequence:UniProtKB:P07112;locus_tag=C6W84_16995;product=Mobilization protein A;protein_id=QDX16363.1;transl_table=11
+CP042207.1	Genbank	gene	8224	9153	.	+	.	ID=gene-C6W84_16996;Name=repE_1;gbkey=Gene;gene=repE_1;gene_biotype=protein_coding;locus_tag=C6W84_16996
+CP042207.1	Genbank	CDS	8224	9153	.	+	0	ID=cds-QDX16364.1;Parent=gene-C6W84_16996;Dbxref=NCBI_GP:QDX16364.1;Name=QDX16364.1;gbkey=CDS;gene=repE_1;inference=similar to AA sequence:UniProtKB:P03856;locus_tag=C6W84_16996;product=Replication initiation protein;protein_id=QDX16364.1;transl_table=11
+CP042207.1	Genbank	gene	9217	9783	.	+	.	ID=gene-C6W84_16997;Name=C6W84_16997;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C6W84_16997
+CP042207.1	Genbank	CDS	9217	9783	.	+	0	ID=cds-QDX16365.1;Parent=gene-C6W84_16997;Dbxref=NCBI_GP:QDX16365.1;Name=QDX16365.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=C6W84_16997;product=hypothetical protein;protein_id=QDX16365.1;transl_table=11
+

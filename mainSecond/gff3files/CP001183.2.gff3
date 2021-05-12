@@ -1,0 +1,24 @@
+##sequence-region CP001183.2 1 8731
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=480119
+CP001183.2	Genbank	region	1	8731	.	+	.	ID=CP001183.2:1..8731;Dbxref=taxon:480119;Is_circular=true;Name=pAB0057;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=pAB0057;strain=AB0057
+CP001183.2	Genbank	gene	139	1089	.	+	.	ID=gene-AB57_3921;Name=AB57_3921;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB57_3921
+CP001183.2	Genbank	CDS	139	1089	.	+	0	ID=cds-ACJ43223.1;Parent=gene-AB57_3921;Dbxref=NCBI_GP:ACJ43223.1;Name=ACJ43223.1;gbkey=CDS;locus_tag=AB57_3921;product=RepB family plasmid replication initiator protein;protein_id=ACJ43223.1;transl_table=11
+CP001183.2	Genbank	gene	1082	1657	.	+	.	ID=gene-AB57_3922;Name=AB57_3922;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB57_3922
+CP001183.2	Genbank	CDS	1082	1657	.	+	0	ID=cds-ACJ43224.1;Parent=gene-AB57_3922;Dbxref=NCBI_GP:ACJ43224.1;Name=ACJ43224.1;gbkey=CDS;locus_tag=AB57_3922;product=DNA-binding protein;protein_id=ACJ43224.1;transl_table=11
+CP001183.2	Genbank	gene	2009	2527	.	-	.	ID=gene-AB57_3923;Name=AB57_3923;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB57_3923
+CP001183.2	Genbank	CDS	2009	2527	.	-	0	ID=cds-ACJ43225.2;Parent=gene-AB57_3923;Dbxref=NCBI_GP:ACJ43225.2;Name=ACJ43225.2;gbkey=CDS;locus_tag=AB57_3923;product=hypothetical protein;protein_id=ACJ43225.2;transl_table=11
+CP001183.2	Genbank	gene	2900	3187	.	+	.	ID=gene-AB57_3924;Name=AB57_3924;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB57_3924
+CP001183.2	Genbank	CDS	2900	3187	.	+	0	ID=cds-ACJ43226.2;Parent=gene-AB57_3924;Dbxref=NCBI_GP:ACJ43226.2;Name=ACJ43226.2;gbkey=CDS;locus_tag=AB57_3924;product=hypothetical protein;protein_id=ACJ43226.2;transl_table=11
+CP001183.2	Genbank	gene	3174	3488	.	+	.	ID=gene-AB57_3925;Name=AB57_3925;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB57_3925
+CP001183.2	Genbank	CDS	3174	3488	.	+	0	ID=cds-ACJ43227.2;Parent=gene-AB57_3925;Dbxref=NCBI_GP:ACJ43227.2;Name=ACJ43227.2;gbkey=CDS;locus_tag=AB57_3925;product=toxin-antitoxin system%2C antitoxin component;protein_id=ACJ43227.2;transl_table=11
+CP001183.2	Genbank	gene	3616	6027	.	+	.	ID=gene-AB57_3926;Name=AB57_3926;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB57_3926
+CP001183.2	Genbank	CDS	3616	6027	.	+	0	ID=cds-ACJ43228.1;Parent=gene-AB57_3926;Dbxref=NCBI_GP:ACJ43228.1;Name=ACJ43228.1;gbkey=CDS;locus_tag=AB57_3926;product=hypothetical protein;protein_id=ACJ43228.1;transl_table=11
+CP001183.2	Genbank	gene	6332	6793	.	+	.	ID=gene-AB57_3927;Name=AB57_3927;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB57_3927
+CP001183.2	Genbank	CDS	6332	6793	.	+	0	ID=cds-ACJ43229.1;Parent=gene-AB57_3927;Dbxref=NCBI_GP:ACJ43229.1;Name=ACJ43229.1;gbkey=CDS;locus_tag=AB57_3927;product=septicolysin;protein_id=ACJ43229.1;transl_table=11
+CP001183.2	Genbank	gene	7289	7660	.	-	.	ID=gene-AB57_3928;Name=AB57_3928;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB57_3928
+CP001183.2	Genbank	CDS	7289	7660	.	-	0	ID=cds-ACJ43230.1;Parent=gene-AB57_3928;Dbxref=NCBI_GP:ACJ43230.1;Name=ACJ43230.1;gbkey=CDS;locus_tag=AB57_3928;product=hypothetical protein;protein_id=ACJ43230.1;transl_table=11
+CP001183.2	Genbank	gene	7932	8186	.	-	.	ID=gene-AB57_3929;Name=AB57_3929;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB57_3929
+CP001183.2	Genbank	CDS	7932	8186	.	-	0	ID=cds-ACJ43231.1;Parent=gene-AB57_3929;Dbxref=NCBI_GP:ACJ43231.1;Name=ACJ43231.1;gbkey=CDS;locus_tag=AB57_3929;product=hypothetical protein;protein_id=ACJ43231.1;transl_table=11
+CP001183.2	Genbank	gene	8308	8553	.	-	.	ID=gene-AB57_3930;Name=AB57_3930;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AB57_3930
+CP001183.2	Genbank	CDS	8308	8553	.	-	0	ID=cds-ACJ43232.1;Parent=gene-AB57_3930;Dbxref=NCBI_GP:ACJ43232.1;Name=ACJ43232.1;gbkey=CDS;locus_tag=AB57_3930;product=hypothetical protein;protein_id=ACJ43232.1;transl_table=11
+

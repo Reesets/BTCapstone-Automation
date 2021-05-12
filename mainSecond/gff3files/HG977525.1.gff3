@@ -1,0 +1,4 @@
+##sequence-region HG977525.1 1 8174
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+HG977525.1	EMBL	region	1	8174	.	+	.	ID=HG977525.1:1..8174;Dbxref=taxon:470;Is_circular=true;Name=pCS01C;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=pCS01C;strain=CS01
+

@@ -1,0 +1,6 @@
+##sequence-region NZ_JADAIY010000264.1 1 2279
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_JADAIY010000264.1	RefSeq	region	1	2279	.	+	.	ID=NZ_JADAIY010000264.1:1..2279;Dbxref=taxon:470;Is_circular=true;Name=unnamednovel_0;collected-by=Agriculture and Agri-Food Canada;collection-date=2018-01-17;country=Canada: Quebec;gbkey=Src;genome=plasmid;isolation-source=swab;mol_type=genomic DNA;nat-host=Sus scrofa domesticus;plasmid-name=unnamednovel_0;serotype=ND;strain=Res13-Abat-PEA28-P5-02-A
+NZ_JADAIY010000264.1	RefSeq	gene	700	1632	.	+	.	ID=gene-IMO33_RS19190;Name=repM;gbkey=Gene;gene=repM;gene_biotype=protein_coding;locus_tag=IMO33_RS19190
+NZ_JADAIY010000264.1	Protein Homology	CDS	700	1632	.	+	0	ID=cds-WP_000711927.1;Parent=gene-IMO33_RS19190;Dbxref=Genbank:WP_000711927.1;Name=WP_000711927.1;gbkey=CDS;gene=repM;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005265321.1;locus_tag=IMO33_RS19190;product=replication initiation protein RepM;protein_id=WP_000711927.1;transl_table=11
+

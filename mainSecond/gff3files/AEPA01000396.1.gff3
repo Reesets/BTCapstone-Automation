@@ -1,0 +1,4 @@
+##sequence-region AEPA01000396.1 1 8970
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=886890
+AEPA01000396.1	Genbank	region	1	8970	.	+	.	ID=AEPA01000396.1:1..8970;Dbxref=taxon:886890;Is_circular=true;Name=p2ABST25;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=p2ABST25;strain=4190
+

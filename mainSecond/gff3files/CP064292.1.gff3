@@ -1,0 +1,4 @@
+##sequence-region CP064292.1 1 3924248
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP064292.1	Genbank	region	1	3924248	.	+	.	ID=CP064292.1:1..3924248;Dbxref=taxon:470;Is_circular=true;Name=ANONYMOUS;collection-date=06-Jul-2018;country=USA: San Diego;gbkey=Src;genome=chromosome;isolation-source=clinical isolate;mol_type=genomic DNA;nat-host=Homo sapiens;strain=SD
+

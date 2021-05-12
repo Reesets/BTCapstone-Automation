@@ -1,0 +1,4 @@
+##sequence-region CM003909.1 1 8781
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CM003909.1	Genbank	region	1	8781	.	+	.	ID=CM003909.1:1..8781;Dbxref=taxon:470;Is_circular=true;Name=pAB0057;collected-by=Troy Hammerstrom;collection-date=17-Aug-2012;country=USA: Texas;gbkey=Src;genome=plasmid;isolation-source=laboratory;lat-lon=29.7604 N 95.3698 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pAB0057;strain=AB210M
+

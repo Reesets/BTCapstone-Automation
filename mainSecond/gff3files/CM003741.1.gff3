@@ -1,0 +1,4 @@
+##sequence-region CM003741.1 1 5557
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CM003741.1	Genbank	region	1	5557	.	+	.	ID=CM003741.1:1..5557;Dbxref=taxon:470;Is_circular=true;Name=unnamed 1;collected-by=Instituto Nacional de Cancerologia;collection-date=17-Jun-2011;country=Mexico: Mexico City;gbkey=Src;genome=plasmid;isolation-source=Pleural fluid;lat-lon=19.287803 N 99.159154 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=unnamed 1;strain=MEX11594
+

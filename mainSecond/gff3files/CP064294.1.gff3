@@ -1,0 +1,4 @@
+##sequence-region CP064294.1 1 5822
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP064294.1	Genbank	region	1	5822	.	+	.	ID=CP064294.1:1..5822;Dbxref=taxon:470;Name=pABAUUSACASD_frag2;collection-date=06-Jul-2018;country=USA: San Diego;gbkey=Src;genome=plasmid;isolation-source=clinical isolate;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pABAUUSACASD_frag2;strain=SD
+

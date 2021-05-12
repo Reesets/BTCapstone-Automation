@@ -1,0 +1,4 @@
+##sequence-region CM016516.1 1 55269
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CM016516.1	Genbank	region	1	55269	.	+	.	ID=CM016516.1:1..55269;Dbxref=taxon:470;Is_circular=true;Name=pTG31307;collected-by=LSA;collection-date=2012-03-06;country=USA: Arizona;gbkey=Src;genome=plasmid;isolation-source=blood;lat-lon=34.0489 N 111.0936 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pTG31307;strain=TG31307
+

@@ -1,0 +1,4 @@
+##sequence-region CM013137.1 1 25602
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CM013137.1	Genbank	region	1	25602	.	+	.	ID=CM013137.1:1..25602;Dbxref=taxon:470;Is_circular=true;Name=pAB18PR065-MCR-4.3;collected-by=Sun Yat-sen University;collection-date=2018-05-25;country=China;gbkey=Src;genome=plasmid;isolation-source=feces;lat-lon=23.5 N 113 E;mol_type=genomic DNA;nat-host=pig;plasmid-name=pAB18PR065-MCR-4.3;strain=AB18PR065
+

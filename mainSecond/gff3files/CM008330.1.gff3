@@ -1,0 +1,4 @@
+##sequence-region CM008330.1 1 111165
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CM008330.1	Genbank	region	1	111165	.	+	.	ID=CM008330.1:1..111165;Dbxref=taxon:470;Is_circular=true;Name=pAC0021R4;collected-by=Bacteriology lab of HUG;collection-date=2015;country=Switzerland: Geneva;gbkey=Src;genome=plasmid;genotype=ST208;isolation-source=rectal swab;lat-lon=46.1936 N 6.1489 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pAC0021R4;strain=AC002-1-R4
+

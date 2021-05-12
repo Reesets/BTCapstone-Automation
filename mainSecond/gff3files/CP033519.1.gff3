@@ -1,0 +1,24 @@
+##sequence-region CP033519.1 1 8936
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP033519.1	Genbank	region	1	8936	.	+	.	ID=CP033519.1:1..8936;Dbxref=taxon:470;Is_circular=true;Name=p2008S11-069-3;collection-date=2008;country=Taiwan;gbkey=Src;genome=plasmid;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=p2008S11-069-3;strain=2008S11-069
+CP033519.1	Genbank	gene	81	458	.	+	.	ID=gene-DKE39_020265;Name=DKE39_020265;gbkey=Gene;gene_biotype=protein_coding;locus_tag=DKE39_020265
+CP033519.1	Protein Homology	CDS	81	458	.	+	0	ID=cds-AZB89805.1;Parent=gene-DKE39_020265;Dbxref=NCBI_GP:AZB89805.1;Name=AZB89805.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005406863.1;locus_tag=DKE39_020265;product=septicolysin;protein_id=AZB89805.1;transl_table=11
+CP033519.1	Genbank	gene	953	1324	.	-	.	ID=gene-DKE39_020270;Name=DKE39_020270;gbkey=Gene;gene_biotype=protein_coding;locus_tag=DKE39_020270
+CP033519.1	Protein Homology	CDS	953	1324	.	-	0	ID=cds-AZB89806.1;Parent=gene-DKE39_020270;Dbxref=NCBI_GP:AZB89806.1;Name=AZB89806.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=DKE39_020270;product=hypothetical protein;protein_id=AZB89806.1;transl_table=11
+CP033519.1	Genbank	pseudogene	1638	1844	.	-	.	ID=gene-DKE39_020275;Name=DKE39_020275;gbkey=Gene;gene_biotype=pseudogene;locus_tag=DKE39_020275;pseudo=true
+CP033519.1	Protein Homology	CDS	1638	1844	.	-	0	ID=cds-DKE39_020275;Parent=gene-DKE39_020275;Note=frameshifted;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001005328.1;locus_tag=DKE39_020275;product=hypothetical protein;pseudo=true;transl_table=11
+CP033519.1	Genbank	pseudogene	2519	3458	.	+	.	ID=gene-DKE39_020280;Name=DKE39_020280;gbkey=Gene;gene_biotype=pseudogene;locus_tag=DKE39_020280;pseudo=true
+CP033519.1	Protein Homology	CDS	2519	3458	.	+	0	ID=cds-DKE39_020280;Parent=gene-DKE39_020280;Note=frameshifted;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005021644.1;locus_tag=DKE39_020280;product=RepB family plasmid replication initiator protein;pseudo=true;transl_table=11
+CP033519.1	Genbank	pseudogene	3459	4031	.	+	.	ID=gene-DKE39_020285;Name=DKE39_020285;gbkey=Gene;gene_biotype=pseudogene;locus_tag=DKE39_020285;pseudo=true
+CP033519.1	Protein Homology	CDS	3459	4031	.	+	0	ID=cds-DKE39_020285;Parent=gene-DKE39_020285;Note=frameshifted;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=DKE39_020285;product=DNA-binding protein;pseudo=true;transl_table=11
+CP033519.1	Genbank	pseudogene	4376	4769	.	-	.	ID=gene-DKE39_020290;Name=DKE39_020290;gbkey=Gene;gene_biotype=pseudogene;locus_tag=DKE39_020290;pseudo=true
+CP033519.1	Protein Homology	CDS	4376	4769	.	-	0	ID=cds-DKE39_020290;Parent=gene-DKE39_020290;Note=frameshifted;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_003247991.1;locus_tag=DKE39_020290;product=class D beta-lactamase;pseudo=true;transl_table=11
+CP033519.1	Genbank	gene	4844	5200	.	-	.	ID=gene-DKE39_020295;Name=DKE39_020295;gbkey=Gene;gene_biotype=protein_coding;locus_tag=DKE39_020295
+CP033519.1	Protein Homology	CDS	4844	5200	.	-	0	ID=cds-AZB89807.1;Parent=gene-DKE39_020295;Dbxref=NCBI_GP:AZB89807.1;Name=AZB89807.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_003292305.1;locus_tag=DKE39_020295;product=carbapenem-hydrolyzing oxacillinase;protein_id=AZB89807.1;transl_table=11
+CP033519.1	Genbank	gene	5507	5794	.	+	.	ID=gene-DKE39_020300;Name=DKE39_020300;gbkey=Gene;gene_biotype=protein_coding;locus_tag=DKE39_020300
+CP033519.1	Protein Homology	CDS	5507	5794	.	+	0	ID=cds-AZB89808.1;Parent=gene-DKE39_020300;Dbxref=NCBI_GP:AZB89808.1;Name=AZB89808.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=DKE39_020300;product=BrnT family toxin;protein_id=AZB89808.1;transl_table=11
+CP033519.1	Genbank	gene	5781	6122	.	+	.	ID=gene-DKE39_020305;Name=DKE39_020305;gbkey=Gene;gene_biotype=protein_coding;locus_tag=DKE39_020305
+CP033519.1	Protein Homology	CDS	5781	6122	.	+	0	ID=cds-AZB89809.1;Parent=gene-DKE39_020305;Dbxref=NCBI_GP:AZB89809.1;Name=AZB89809.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004759458.1;locus_tag=DKE39_020305;product=toxin-antitoxin system%2C antitoxin component;protein_id=AZB89809.1;transl_table=11
+CP033519.1	Genbank	pseudogene	6221	8630	.	+	.	ID=gene-DKE39_020310;Name=DKE39_020310;gbkey=Gene;gene_biotype=pseudogene;locus_tag=DKE39_020310;pseudo=true
+CP033519.1	Protein Homology	CDS	6221	8630	.	+	0	ID=cds-DKE39_020310;Parent=gene-DKE39_020310;Note=frameshifted;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=DKE39_020310;product=TonB-dependent receptor;pseudo=true;transl_table=11
+

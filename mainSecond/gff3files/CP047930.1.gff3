@@ -1,0 +1,4 @@
+##sequence-region CP047930.1 1 4335699
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP047930.1	Genbank	region	1	4335699	.	+	.	ID=CP047930.1:1..4335699;Dbxref=taxon:470;Is_circular=true;Name=ANONYMOUS;collected-by=FDH;collection-date=07-Dec-2017;country=Turkey;gbkey=Src;genome=chromosome;isolation-source=sputum;mol_type=genomic DNA;nat-host=Homo sapiens;strain=A73
+

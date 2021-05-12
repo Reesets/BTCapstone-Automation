@@ -1,0 +1,4 @@
+##sequence-region CM004454.1 1 18043
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CM004454.1	Genbank	region	1	18043	.	+	.	ID=CM004454.1:1..18043;Dbxref=taxon:470;Is_circular=true;Name=p2M3AC14-8;collected-by=San Juan Hospital Area;collection-date=11-Apr-2014;country=Puerto Rico;gbkey=Src;genome=plasmid;isolation-source=Skin;lat-lon=18 N 66 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=p2M3AC14-8;strain=M3AC14-8
+

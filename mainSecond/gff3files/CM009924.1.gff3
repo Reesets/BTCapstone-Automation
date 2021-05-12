@@ -1,0 +1,4 @@
+##sequence-region CM009924.1 1 10880
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CM009924.1	Genbank	region	1	10880	.	+	.	ID=CM009924.1:1..10880;Dbxref=taxon:470;Is_circular=true;Name=pAba70743_1;collected-by=Clinical Microbiology Laboratory%2C Sahlgrenska University Hospital;collection-date=29-Jun-2012;country=Sweden: Gothenburg;culture-collection=CCUG:70743;gbkey=Src;genome=plasmid;isolation-source=wound;lat-lon=57.6823 N 11.9613 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pAba70743_1;strain=CCUG 70743
+

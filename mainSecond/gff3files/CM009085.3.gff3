@@ -1,0 +1,4 @@
+##sequence-region CM009085.3 1 6078
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CM009085.3	Genbank	region	1	6078	.	+	.	ID=CM009085.3:1..6078;Dbxref=taxon:470;Is_circular=true;Name=p3ZQ9;collected-by=Zainab J.Qasim;collection-date=2016;country=Iraq: Baghdad;gbkey=Src;genome=plasmid;isolation-source=blood;lat-lon=33.3128 N 44.3615 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=p3ZQ9;strain=ZQ9
+

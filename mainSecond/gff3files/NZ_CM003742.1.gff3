@@ -1,0 +1,16 @@
+##sequence-region NZ_CM003742.1 1 4437
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_CM003742.1	RefSeq	region	1	4437	.	+	.	ID=NZ_CM003742.1:1..4437;Dbxref=taxon:470;Is_circular=true;Name=unnamed 2;collected-by=Instituto Nacional de Cancerologia;collection-date=2011-06-17;country=Mexico: Mexico City;gbkey=Src;genome=plasmid;isolation-source=Pleural fluid;lat-lon=19.287803 N 99.159154 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=unnamed 2;strain=MEX11594
+NZ_CM003742.1	RefSeq	gene	185	556	.	+	.	ID=gene-AWH55_RS00035;Name=AWH55_RS00035;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AWH55_RS00035
+NZ_CM003742.1	Protein Homology	CDS	185	556	.	+	0	ID=cds-WP_000504218.1;Parent=gene-AWH55_RS00035;Dbxref=Genbank:WP_000504218.1;Name=WP_000504218.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=AWH55_RS00035;product=hypothetical protein;protein_id=WP_000504218.1;transl_table=11
+NZ_CM003742.1	RefSeq	gene	556	729	.	+	.	ID=gene-AWH55_RS18165;Name=AWH55_RS18165;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AWH55_RS18165
+NZ_CM003742.1	Protein Homology	CDS	556	729	.	+	0	ID=cds-WP_001282484.1;Parent=gene-AWH55_RS18165;Dbxref=Genbank:WP_001282484.1;Name=WP_001282484.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001282484.1;locus_tag=AWH55_RS18165;product=hypothetical protein;protein_id=WP_001282484.1;transl_table=11
+NZ_CM003742.1	RefSeq	gene	752	1309	.	-	.	ID=gene-AWH55_RS00040;Name=AWH55_RS00040;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AWH55_RS00040
+NZ_CM003742.1	Protein Homology	CDS	752	1309	.	-	0	ID=cds-WP_045796766.1;Parent=gene-AWH55_RS00040;Dbxref=Genbank:WP_045796766.1;Name=WP_045796766.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005146114.1;locus_tag=AWH55_RS00040;product=TetR family transcriptional regulator;protein_id=WP_045796766.1;transl_table=11
+NZ_CM003742.1	RefSeq	gene	1310	1654	.	-	.	ID=gene-AWH55_RS00045;Name=AWH55_RS00045;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AWH55_RS00045
+NZ_CM003742.1	Protein Homology	CDS	1310	1654	.	-	0	ID=cds-WP_005199344.1;Parent=gene-AWH55_RS00045;Dbxref=Genbank:WP_005199344.1;Name=WP_005199344.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005146112.1;locus_tag=AWH55_RS00045;product=hypothetical protein;protein_id=WP_005199344.1;transl_table=11
+NZ_CM003742.1	RefSeq	gene	1916	2461	.	-	.	ID=gene-AWH55_RS00050;Name=AWH55_RS00050;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AWH55_RS00050
+NZ_CM003742.1	Protein Homology	CDS	1916	2461	.	-	0	ID=cds-WP_002067466.1;Parent=gene-AWH55_RS00050;Dbxref=Genbank:WP_002067466.1;Name=WP_002067466.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004282068.1;locus_tag=AWH55_RS00050;product=plasmid replication DNA-binding protein;protein_id=WP_002067466.1;transl_table=11
+NZ_CM003742.1	RefSeq	gene	2525	3418	.	-	.	ID=gene-AWH55_RS00055;Name=repM;gbkey=Gene;gene=repM;gene_biotype=protein_coding;locus_tag=AWH55_RS00055
+NZ_CM003742.1	Protein Homology	CDS	2525	3418	.	-	0	ID=cds-WP_001038666.1;Parent=gene-AWH55_RS00055;Dbxref=Genbank:WP_001038666.1;Name=WP_001038666.1;gbkey=CDS;gene=repM;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004734502.1;locus_tag=AWH55_RS00055;product=replication initiation protein RepM;protein_id=WP_001038666.1;transl_table=11
+
