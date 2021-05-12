@@ -1,0 +1,10 @@
+##sequence-region CP021784.1 1 2343
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP021784.1	Genbank	region	1	2343	.	+	.	ID=CP021784.1:1..2343;Dbxref=taxon:470;Is_circular=true;Name=pA85-1a;collected-by=Ian Carter;collection-date=2003;country=Australia:Sydney;gbkey=Src;genome=plasmid;genotype=global clone 1;isolation-source=sputum;lat-lon=33.8650 S 151.2094 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pA85-1a;strain=A85
+CP021784.1	Genbank	gene	1	1191	.	+	.	ID=gene-CBI29_04001;Name=rep;gbkey=Gene;gene=rep;gene_biotype=protein_coding;locus_tag=CBI29_04001
+CP021784.1	Genbank	CDS	1	1191	.	+	0	ID=cds-ASF79212.1;Parent=gene-CBI29_04001;Dbxref=NCBI_GP:ASF79212.1;Name=ASF79212.1;gbkey=CDS;gene=rep;inference=protein motif:Pfam:PF01446.11;locus_tag=CBI29_04001;product=Rep;protein_id=ASF79212.1;transl_table=11
+CP021784.1	Genbank	gene	1188	1412	.	+	.	ID=gene-CBI29_04002;Name=CBI29_04002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_04002
+CP021784.1	Genbank	CDS	1188	1412	.	+	0	ID=cds-ASF79213.1;Parent=gene-CBI29_04002;Dbxref=NCBI_GP:ASF79213.1;Name=ASF79213.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=CBI29_04002;product=hypothetical protein;protein_id=ASF79213.1;transl_table=11
+CP021784.1	Genbank	gene	1638	1814	.	+	.	ID=gene-CBI29_04003;Name=CBI29_04003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_04003
+CP021784.1	Genbank	CDS	1638	1814	.	+	0	ID=cds-ASF79214.1;Parent=gene-CBI29_04003;Dbxref=NCBI_GP:ASF79214.1;Name=ASF79214.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=CBI29_04003;product=hypothetical protein;protein_id=ASF79214.1;transl_table=11
+

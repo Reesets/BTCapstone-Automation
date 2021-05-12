@@ -1,0 +1,30 @@
+##sequence-region CP066017.1 1 10308
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP066017.1	Genbank	region	1	10308	.	+	.	ID=CP066017.1:1..10308;Dbxref=taxon:470;Name=unnamed;collected-by=ATCC;country=USA: VA;culture-collection=ATCC:BAA-1605D-5;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=unnamed;strain=FDAARGOS_1036
+CP066017.1	Genbank	gene	1	432	.	+	.	ID=gene-I6H93_19460;Name=I6H93_19460;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6H93_19460;partial=true;start_range=.,1
+CP066017.1	Protein Homology	CDS	1	432	.	+	0	ID=cds-QQB69058.1;Parent=gene-I6H93_19460;Dbxref=NCBI_GP:QQB69058.1;Name=QQB69058.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004781077.1;locus_tag=I6H93_19460;partial=true;product=DIP1984 family protein;protein_id=QQB69058.1;start_range=.,1;transl_table=11
+CP066017.1	Genbank	gene	755	928	.	-	.	ID=gene-I6H93_19465;Name=I6H93_19465;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6H93_19465
+CP066017.1	Protein Homology	CDS	755	928	.	-	0	ID=cds-QQB69059.1;Parent=gene-I6H93_19465;Dbxref=NCBI_GP:QQB69059.1;Name=QQB69059.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001282484.1;locus_tag=I6H93_19465;product=hypothetical protein;protein_id=QQB69059.1;transl_table=11
+CP066017.1	Genbank	gene	928	1299	.	-	.	ID=gene-I6H93_19470;Name=I6H93_19470;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6H93_19470
+CP066017.1	Protein Homology	CDS	928	1299	.	-	0	ID=cds-QQB69060.1;Parent=gene-I6H93_19470;Dbxref=NCBI_GP:QQB69060.1;Name=QQB69060.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=I6H93_19470;product=hypothetical protein;protein_id=QQB69060.1;transl_table=11
+CP066017.1	Genbank	gene	2509	3459	.	+	.	ID=gene-I6H93_19475;Name=I6H93_19475;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6H93_19475
+CP066017.1	Protein Homology	CDS	2509	3459	.	+	0	ID=cds-QQB69061.1;Parent=gene-I6H93_19475;Dbxref=NCBI_GP:QQB69061.1;Name=QQB69061.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=I6H93_19475;product=replication initiation protein;protein_id=QQB69061.1;transl_table=11
+CP066017.1	Genbank	gene	3452	4027	.	+	.	ID=gene-I6H93_19480;Name=I6H93_19480;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6H93_19480
+CP066017.1	Protein Homology	CDS	3452	4027	.	+	0	ID=cds-QQB69062.1;Parent=gene-I6H93_19480;Dbxref=NCBI_GP:QQB69062.1;Name=QQB69062.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=I6H93_19480;product=helix-turn-helix domain-containing protein;protein_id=QQB69062.1;transl_table=11
+CP066017.1	Genbank	gene	4047	4190	.	+	.	ID=gene-I6H93_19485;Name=I6H93_19485;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6H93_19485
+CP066017.1	Protein Homology	CDS	4047	4190	.	+	0	ID=cds-QQB69063.1;Parent=gene-I6H93_19485;Dbxref=NCBI_GP:QQB69063.1;Name=QQB69063.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786602.1;locus_tag=I6H93_19485;product=hypothetical protein;protein_id=QQB69063.1;transl_table=11
+CP066017.1	Genbank	gene	4379	4897	.	-	.	ID=gene-I6H93_19490;Name=I6H93_19490;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6H93_19490
+CP066017.1	Protein Homology	CDS	4379	4897	.	-	0	ID=cds-QQB69070.1;Parent=gene-I6H93_19490;Dbxref=NCBI_GP:QQB69070.1;Name=QQB69070.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=I6H93_19490;product=sel1 repeat family protein;protein_id=QQB69070.1;transl_table=11
+CP066017.1	Genbank	gene	5270	5557	.	+	.	ID=gene-I6H93_19495;Name=I6H93_19495;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6H93_19495
+CP066017.1	Protein Homology	CDS	5270	5557	.	+	0	ID=cds-QQB69064.1;Parent=gene-I6H93_19495;Dbxref=NCBI_GP:QQB69064.1;Name=QQB69064.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=I6H93_19495;product=BrnT family toxin;protein_id=QQB69064.1;transl_table=11
+CP066017.1	Genbank	gene	5544	5858	.	+	.	ID=gene-I6H93_19500;Name=I6H93_19500;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6H93_19500
+CP066017.1	Protein Homology	CDS	5544	5858	.	+	0	ID=cds-QQB69065.1;Parent=gene-I6H93_19500;Dbxref=NCBI_GP:QQB69065.1;Name=QQB69065.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_006582675.1;locus_tag=I6H93_19500;product=BrnA antitoxin family protein;protein_id=QQB69065.1;transl_table=11
+CP066017.1	Genbank	gene	5986	8397	.	+	.	ID=gene-I6H93_19505;Name=I6H93_19505;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6H93_19505
+CP066017.1	Protein Homology	CDS	5986	8397	.	+	0	ID=cds-QQB69066.1;Parent=gene-I6H93_19505;Dbxref=NCBI_GP:QQB69066.1;Name=QQB69066.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=I6H93_19505;product=TonB-dependent receptor;protein_id=QQB69066.1;transl_table=11
+CP066017.1	Genbank	gene	8702	9163	.	+	.	ID=gene-I6H93_19510;Name=I6H93_19510;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6H93_19510
+CP066017.1	Protein Homology	CDS	8702	9163	.	+	0	ID=cds-QQB69067.1;Parent=gene-I6H93_19510;Dbxref=NCBI_GP:QQB69067.1;Name=QQB69067.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004781077.1;locus_tag=I6H93_19510;product=DIP1984 family protein;protein_id=QQB69067.1;transl_table=11
+CP066017.1	Genbank	gene	9486	9659	.	-	.	ID=gene-I6H93_19515;Name=I6H93_19515;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6H93_19515
+CP066017.1	Protein Homology	CDS	9486	9659	.	-	0	ID=cds-QQB69068.1;Parent=gene-I6H93_19515;Dbxref=NCBI_GP:QQB69068.1;Name=QQB69068.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001282484.1;locus_tag=I6H93_19515;product=hypothetical protein;protein_id=QQB69068.1;transl_table=11
+CP066017.1	Genbank	gene	9659	10030	.	-	.	ID=gene-I6H93_19520;Name=I6H93_19520;gbkey=Gene;gene_biotype=protein_coding;locus_tag=I6H93_19520
+CP066017.1	Protein Homology	CDS	9659	10030	.	-	0	ID=cds-QQB69069.1;Parent=gene-I6H93_19520;Dbxref=NCBI_GP:QQB69069.1;Name=QQB69069.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=I6H93_19520;product=hypothetical protein;protein_id=QQB69069.1;transl_table=11
+

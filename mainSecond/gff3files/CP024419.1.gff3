@@ -1,0 +1,103 @@
+##sequence-region CP024419.1 1 33036
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP024419.1	Genbank	region	1	33036	.	+	.	ID=CP024419.1:1..33036;Dbxref=taxon:470;Is_circular=true;Name=pA388;collected-by=Kevin Towner;collection-date=2002;country=Greece;gbkey=Src;genome=plasmid;lat-lon=39.0742 N 21.8243 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pA388;strain=A388
+CP024419.1	Genbank	gene	1	951	.	+	.	ID=gene-A388_p00001;Name=repAci1;gbkey=Gene;gene=repAci1;gene_biotype=protein_coding;locus_tag=A388_p00001
+CP024419.1	Genbank	CDS	1	951	.	+	0	ID=cds-ATP89005.1;Parent=gene-A388_p00001;Dbxref=NCBI_GP:ATP89005.1;Name=ATP89005.1;gbkey=CDS;gene=repAci1;inference=similar to AA sequence:UniProtKB:P03856;locus_tag=A388_p00001;product=RepAci1;protein_id=ATP89005.1;transl_table=11
+CP024419.1	Genbank	gene	944	1519	.	+	.	ID=gene-A388_p00002;Name=A388_p00002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00002
+CP024419.1	Genbank	CDS	944	1519	.	+	0	ID=cds-ATP89006.1;Parent=gene-A388_p00002;Dbxref=NCBI_GP:ATP89006.1;Name=ATP89006.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=A388_p00002;product=putative DNA binding protein;protein_id=ATP89006.1;transl_table=11
+CP024419.1	Genbank	gene	1539	1682	.	+	.	ID=gene-A388_p00003;Name=A388_p00003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00003
+CP024419.1	Genbank	CDS	1539	1682	.	+	0	ID=cds-ATP89007.1;Parent=gene-A388_p00003;Dbxref=NCBI_GP:ATP89007.1;Name=ATP89007.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=A388_p00003;product=hypothetical protein;protein_id=ATP89007.1;transl_table=11
+CP024419.1	Genbank	recombination_feature	1827	1854	.	+	.	ID=id-CP024419.1:1827..1854;Note=pdif recombination site%3B XerC/XerD binding sites;gbkey=misc_recomb
+CP024419.1	Genbank	gene	1864	2178	.	-	.	ID=gene-A388_p00004;Name=A388_p00004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00004
+CP024419.1	Genbank	CDS	1864	2178	.	-	0	ID=cds-ATP89008.1;Parent=gene-A388_p00004;Dbxref=NCBI_GP:ATP89008.1;Name=ATP89008.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=A388_p00004;product=hypothetical protein;protein_id=ATP89008.1;transl_table=11
+CP024419.1	Genbank	mobile_genetic_element	2234	3053	.	+	.	ID=id-CP024419.1:2234..3053;gbkey=mobile_element;mobile_element_type=insertion sequence:IS26
+CP024419.1	Genbank	gene	2297	3001	.	+	.	ID=gene-A388_p00005;Name=A388_p00005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00005
+CP024419.1	Genbank	CDS	2297	3001	.	+	0	ID=cds-ATP89009.1;Parent=gene-A388_p00005;Dbxref=NCBI_GP:ATP89009.1;Name=ATP89009.1;gbkey=CDS;inference=protein motif:Pfam:PF00665.20;locus_tag=A388_p00005;product=TnpA;protein_id=ATP89009.1;transl_table=11
+CP024419.1	Genbank	gene	3426	4241	.	-	.	ID=gene-A388_p00006;Name=aphA1b;gbkey=Gene;gene=aphA1b;gene_biotype=protein_coding;locus_tag=A388_p00006
+CP024419.1	Genbank	CDS	3426	4241	.	-	0	ID=cds-ATP89010.1;Parent=gene-A388_p00006;Dbxref=NCBI_GP:ATP89010.1;Name=ATP89010.1;gbkey=CDS;gene=aphA1b;inference=similar to AA sequence:UniProtKB:P00552;locus_tag=A388_p00006;product=AphA1b;protein_id=ATP89010.1;transl_table=11
+CP024419.1	Genbank	mobile_genetic_element	4308	5127	.	+	.	ID=id-CP024419.1:4308..5127;gbkey=mobile_element;mobile_element_type=insertion sequence:IS26
+CP024419.1	Genbank	gene	4371	5075	.	+	.	ID=gene-A388_p00007;Name=A388_p00007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00007
+CP024419.1	Genbank	CDS	4371	5075	.	+	0	ID=cds-ATP89011.1;Parent=gene-A388_p00007;Dbxref=NCBI_GP:ATP89011.1;Name=ATP89011.1;gbkey=CDS;inference=protein motif:Pfam:PF00665.20;locus_tag=A388_p00007;product=TnpA;protein_id=ATP89011.1;transl_table=11
+CP024419.1	Genbank	gene	5109	5411	.	-	.	ID=gene-A388_p00008;Name=A388_p00008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00008
+CP024419.1	Genbank	CDS	5109	5411	.	-	0	ID=cds-ATP89012.1;Parent=gene-A388_p00008;Dbxref=NCBI_GP:ATP89012.1;Name=ATP89012.1;gbkey=CDS;inference=protein motif:Pfam:PF02311.13;locus_tag=A388_p00008;product=AraC-like ligand binding domain protein;protein_id=ATP89012.1;transl_table=11
+CP024419.1	Genbank	recombination_feature	5474	5501	.	+	.	ID=id-CP024419.1:5474..5501;Note=pdif recombination site%3B XerD/XerC binding sites;gbkey=misc_recomb
+CP024419.1	Genbank	mobile_genetic_element	5558	6351	.	+	.	ID=id-CP024419.1:5558..6351;gbkey=mobile_element;mobile_element_type=insertion sequence:ISAba3
+CP024419.1	Genbank	gene	5576	5797	.	+	.	ID=gene-A388_p00009;Name=A388_p00009;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00009
+CP024419.1	Genbank	CDS	5576	5797	.	+	0	ID=cds-ATP89013.1;Parent=gene-A388_p00009;Dbxref=NCBI_GP:ATP89013.1;Name=ATP89013.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=A388_p00009;product=transposition protein;protein_id=ATP89013.1;transl_table=11
+CP024419.1	Genbank	gene	5854	6291	.	-	.	ID=gene-A388_p00010;Name=A388_p00010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00010
+CP024419.1	Genbank	CDS	5854	6291	.	-	0	ID=cds-ATP89014.1;Parent=gene-A388_p00010;Dbxref=NCBI_GP:ATP89014.1;Name=ATP89014.1;gbkey=CDS;inference=protein motif:Pfam:PF03400.7;locus_tag=A388_p00010;product=transposition protein;protein_id=ATP89014.1;transl_table=11
+CP024419.1	Genbank	gene	6382	7224	.	-	.	ID=gene-A388_p00011;Name=oxa58;gbkey=Gene;gene=oxa58;gene_biotype=protein_coding;locus_tag=A388_p00011
+CP024419.1	Genbank	CDS	6382	7224	.	-	0	ID=cds-ATP89015.1;Parent=gene-A388_p00011;Dbxref=NCBI_GP:ATP89015.1;Name=ATP89015.1;gbkey=CDS;gene=oxa58;inference=similar to AA sequence:UniProtKB:P14489;locus_tag=A388_p00011;product=Oxa58;protein_id=ATP89015.1;transl_table=11
+CP024419.1	Genbank	mobile_genetic_element	7245	7373	.	+	.	ID=id-CP024419.1:7245..7373;Note=partial%3B 129 bp of ISAba3;gbkey=mobile_element;mobile_element_type=insertion sequence:ISAba3
+CP024419.1	Genbank	mobile_genetic_element	7375	8682	.	+	.	ID=id-CP024419.1:7375..8682;gbkey=mobile_element;mobile_element_type=insertion sequence:ISAba2
+CP024419.1	Genbank	gene	7413	8315	.	-	.	ID=gene-A388_p00012;Name=A388_p00012;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00012
+CP024419.1	Genbank	CDS	7413	8315	.	-	0	ID=cds-ATP89016.1;Parent=gene-A388_p00012;Dbxref=NCBI_GP:ATP89016.1;Name=ATP89016.1;gbkey=CDS;inference=protein motif:Pfam:PF00665.20;locus_tag=A388_p00012;product=transposition protein;protein_id=ATP89016.1;transl_table=11
+CP024419.1	Genbank	gene	8315	8632	.	-	.	ID=gene-A388_p00013;Name=A388_p00013;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00013
+CP024419.1	Genbank	CDS	8315	8632	.	-	0	ID=cds-ATP89017.1;Parent=gene-A388_p00013;Dbxref=NCBI_GP:ATP89017.1;Name=ATP89017.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=A388_p00013;product=transposition protein;protein_id=ATP89017.1;transl_table=11
+CP024419.1	Genbank	mobile_genetic_element	8682	8982	.	+	.	ID=id-CP024419.1:8682..8982;Note=partial%3B 301 bp of ISAba3;gbkey=mobile_element;mobile_element_type=insertion sequence:ISAba3
+CP024419.1	Genbank	gene	8799	9062	.	+	.	ID=gene-A388_p00014;Name=A388_p00014;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00014
+CP024419.1	Genbank	CDS	8799	9062	.	+	0	ID=cds-ATP89018.1;Parent=gene-A388_p00014;Dbxref=NCBI_GP:ATP89018.1;Name=ATP89018.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=A388_p00014;product=hypothetical protein;protein_id=ATP89018.1;transl_table=11
+CP024419.1	Genbank	mobile_genetic_element	9012	9064	.	+	.	ID=id-CP024419.1:9012..9064;Note=53 bp of ISAba32;gbkey=mobile_element;mobile_element_type=insertion sequence:ISAba32
+CP024419.1	Genbank	recombination_feature	9070	9097	.	+	.	ID=id-CP024419.1:9070..9097;Note=pdif recombination site%3B XerC/XerD binding sites;gbkey=misc_recomb
+CP024419.1	Genbank	gene	9211	9753	.	+	.	ID=gene-A388_p00015;Name=A388_p00015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00015
+CP024419.1	Genbank	CDS	9211	9753	.	+	0	ID=cds-ATP89019.1;Parent=gene-A388_p00015;Dbxref=NCBI_GP:ATP89019.1;Name=ATP89019.1;gbkey=CDS;inference=protein motif:Pfam:PF08238.6;locus_tag=A388_p00015;product=Sel1 repeat protein;protein_id=ATP89019.1;transl_table=11
+CP024419.1	Genbank	recombination_feature	9770	9797	.	+	.	ID=id-CP024419.1:9770..9797;Note=pdif recombination site%3B XerD/XerC binding sites;gbkey=misc_recomb
+CP024419.1	Genbank	gene	9962	10561	.	-	.	ID=gene-A388_p00016;Name=res;gbkey=Gene;gene=res;gene_biotype=protein_coding;locus_tag=A388_p00016
+CP024419.1	Genbank	CDS	9962	10561	.	-	0	ID=cds-ATP89020.1;Parent=gene-A388_p00016;Dbxref=NCBI_GP:ATP89020.1;Name=ATP89020.1;gbkey=CDS;gene=res;inference=similar to AA sequence:UniProtKB:P03013;locus_tag=A388_p00016;product=Res;protein_id=ATP89020.1;transl_table=11
+CP024419.1	Genbank	mobile_genetic_element	11101	12489	.	+	.	ID=id-CP024419.1:11101..12489;gbkey=mobile_element;mobile_element_type=insertion sequence:ISAba19-like
+CP024419.1	Genbank	gene	11165	11662	.	-	.	ID=gene-A388_p00017;Name=A388_p00017;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00017
+CP024419.1	Genbank	CDS	11165	11662	.	-	0	ID=cds-ATP89021.1;Parent=gene-A388_p00017;Dbxref=NCBI_GP:ATP89021.1;Name=ATP89021.1;gbkey=CDS;inference=protein motif:Pfam:PF00665.20;locus_tag=A388_p00017;product=transposition protein;protein_id=ATP89021.1;transl_table=11
+CP024419.1	Genbank	gene	11604	12083	.	-	.	ID=gene-A388_p00018;Name=A388_p00018;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00018
+CP024419.1	Genbank	CDS	11604	12083	.	-	0	ID=cds-ATP89022.1;Parent=gene-A388_p00018;Dbxref=NCBI_GP:ATP89022.1;Name=ATP89022.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=A388_p00018;product=transposition protein;protein_id=ATP89022.1;transl_table=11
+CP024419.1	Genbank	gene	12686	12973	.	-	.	ID=gene-A388_p00019;Name=relE;gbkey=Gene;gene=relE;gene_biotype=protein_coding;locus_tag=A388_p00019
+CP024419.1	Genbank	CDS	12686	12973	.	-	0	ID=cds-ATP89023.1;Parent=gene-A388_p00019;Dbxref=NCBI_GP:ATP89023.1;Name=ATP89023.1;gbkey=CDS;gene=relE;inference=similar to AA sequence:UniProtKB:P0C077;locus_tag=A388_p00019;product=RelE;protein_id=ATP89023.1;transl_table=11
+CP024419.1	Genbank	gene	12963	13211	.	-	.	ID=gene-A388_p00020;Name=A388_p00020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00020
+CP024419.1	Genbank	CDS	12963	13211	.	-	0	ID=cds-ATP89024.1;Parent=gene-A388_p00020;Dbxref=NCBI_GP:ATP89024.1;Name=ATP89024.1;gbkey=CDS;inference=protein motif:CLUSTERS:PRK09778;locus_tag=A388_p00020;product=putative antitoxin of the YafO-YafN toxin-antitoxin system;protein_id=ATP89024.1;transl_table=11
+CP024419.1	Genbank	gene	13214	13639	.	-	.	ID=gene-A388_p00021;Name=A388_p00021;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00021
+CP024419.1	Genbank	CDS	13214	13639	.	-	0	ID=cds-ATP89025.1;Parent=gene-A388_p00021;Dbxref=NCBI_GP:ATP89025.1;Name=ATP89025.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=A388_p00021;product=hypothetical protein;protein_id=ATP89025.1;transl_table=11
+CP024419.1	Genbank	gene	13906	14142	.	-	.	ID=gene-A388_p00022;Name=A388_p00022;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00022
+CP024419.1	Genbank	CDS	13906	14142	.	-	0	ID=cds-ATP89026.1;Parent=gene-A388_p00022;Dbxref=NCBI_GP:ATP89026.1;Name=ATP89026.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=A388_p00022;product=hypothetical protein;protein_id=ATP89026.1;transl_table=11
+CP024419.1	Genbank	gene	14139	14768	.	-	.	ID=gene-A388_p00023;Name=parA;gbkey=Gene;gene=parA;gene_biotype=protein_coding;locus_tag=A388_p00023
+CP024419.1	Genbank	CDS	14139	14768	.	-	0	ID=cds-ATP89027.1;Parent=gene-A388_p00023;Dbxref=NCBI_GP:ATP89027.1;Name=ATP89027.1;gbkey=CDS;gene=parA;inference=similar to AA sequence:UniProtKB:Q72H90;locus_tag=A388_p00023;product=ParA;protein_id=ATP89027.1;transl_table=11
+CP024419.1	Genbank	gene	15193	16140	.	+	.	ID=gene-A388_p00024;Name=repAci10;gbkey=Gene;gene=repAci10;gene_biotype=protein_coding;locus_tag=A388_p00024
+CP024419.1	Genbank	CDS	15193	16140	.	+	0	ID=cds-ATP89028.1;Parent=gene-A388_p00024;Dbxref=NCBI_GP:ATP89028.1;Name=ATP89028.1;gbkey=CDS;gene=repAci10;inference=similar to AA sequence:UniProtKB:P03856;locus_tag=A388_p00024;product=RepAci10;protein_id=ATP89028.1;transl_table=11
+CP024419.1	Genbank	gene	16345	16653	.	-	.	ID=gene-A388_p00025;Name=A388_p00025;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00025
+CP024419.1	Genbank	CDS	16345	16653	.	-	0	ID=cds-ATP89029.1;Parent=gene-A388_p00025;Dbxref=NCBI_GP:ATP89029.1;Name=ATP89029.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=A388_p00025;product=hypothetical protein;protein_id=ATP89029.1;transl_table=11
+CP024419.1	Genbank	gene	17432	20986	.	+	.	ID=gene-A388_p00026;Name=A388_p00026;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00026
+CP024419.1	Genbank	CDS	17432	20986	.	+	0	ID=cds-ATP89030.1;Parent=gene-A388_p00026;Dbxref=NCBI_GP:ATP89030.1;Name=ATP89030.1;gbkey=CDS;inference=protein motif:Pfam:PF02399.9;locus_tag=A388_p00026;product=putative DNA primase/helicase;protein_id=ATP89030.1;transl_table=11
+CP024419.1	Genbank	gene	21220	21717	.	-	.	ID=gene-A388_p00027;Name=A388_p00027;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00027
+CP024419.1	Genbank	CDS	21220	21717	.	-	0	ID=cds-ATP89031.1;Parent=gene-A388_p00027;Dbxref=NCBI_GP:ATP89031.1;Name=ATP89031.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=A388_p00027;product=YafO;protein_id=ATP89031.1;transl_table=11
+CP024419.1	Genbank	gene	21720	21881	.	-	.	ID=gene-A388_p00028;Name=A388_p00028;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00028
+CP024419.1	Genbank	CDS	21720	21881	.	-	0	ID=cds-ATP89032.1;Parent=gene-A388_p00028;Dbxref=NCBI_GP:ATP89032.1;Name=ATP89032.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=A388_p00028;product=hypothetical protein;protein_id=ATP89032.1;transl_table=11
+CP024419.1	Genbank	gene	22513	22806	.	+	.	ID=gene-A388_p00029;Name=A388_p00029;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00029
+CP024419.1	Genbank	CDS	22513	22806	.	+	0	ID=cds-ATP89033.1;Parent=gene-A388_p00029;Dbxref=NCBI_GP:ATP89033.1;Name=ATP89033.1;gbkey=CDS;inference=protein motif:Pfam:PF12844.1;locus_tag=A388_p00029;product=Helix-turn-helix domain protein;protein_id=ATP89033.1;transl_table=11
+CP024419.1	Genbank	gene	22796	23698	.	+	.	ID=gene-A388_p00030;Name=A388_p00030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00030
+CP024419.1	Genbank	CDS	22796	23698	.	+	0	ID=cds-ATP89034.1;Parent=gene-A388_p00030;Dbxref=NCBI_GP:ATP89034.1;Name=ATP89034.1;gbkey=CDS;inference=protein motif:Pfam:PF00078.21;locus_tag=A388_p00030;product=Reverse transcriptase (RNA-dependent DNA polymerase);protein_id=ATP89034.1;transl_table=11
+CP024419.1	Genbank	recombination_feature	23706	23733	.	+	.	ID=id-CP024419.1:23706..23733;Note=pdif recombination site%3B XerD/XerC binding sites;gbkey=misc_recomb
+CP024419.1	Genbank	gene	23834	25408	.	+	.	ID=gene-A388_p00031;Name=A388_p00031;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00031
+CP024419.1	Genbank	CDS	23834	25408	.	+	0	ID=cds-ATP89035.1;Parent=gene-A388_p00031;Dbxref=NCBI_GP:ATP89035.1;Name=ATP89035.1;gbkey=CDS;inference=similar to AA sequence:UniProtKB:Q89Z59;locus_tag=A388_p00031;product=Type I restriction-modification system;protein_id=ATP89035.1;transl_table=11
+CP024419.1	Genbank	gene	25408	25695	.	+	.	ID=gene-A388_p00032;Name=A388_p00032;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00032
+CP024419.1	Genbank	CDS	25408	25695	.	+	0	ID=cds-ATP89036.1;Parent=gene-A388_p00032;Dbxref=NCBI_GP:ATP89036.1;Name=ATP89036.1;gbkey=CDS;inference=protein motif:Pfam:PF01420.13;locus_tag=A388_p00032;product=Type I restriction modification DNA specificity domain protein;protein_id=ATP89036.1;transl_table=11
+CP024419.1	Genbank	mobile_genetic_element	25669	26488	.	+	.	ID=id-CP024419.1:25669..26488;gbkey=mobile_element;mobile_element_type=insertion sequence:IS26
+CP024419.1	Genbank	gene	25732	26436	.	+	.	ID=gene-A388_p00033;Name=tnpA;gbkey=Gene;gene=tnpA;gene_biotype=protein_coding;locus_tag=A388_p00033
+CP024419.1	Genbank	CDS	25732	26436	.	+	0	ID=cds-ATP89037.1;Parent=gene-A388_p00033;Dbxref=NCBI_GP:ATP89037.1;Name=ATP89037.1;gbkey=CDS;gene=tnpA;inference=protein motif:Pfam:PF00665.20;locus_tag=A388_p00033;product=TnpA;protein_id=ATP89037.1;transl_table=11
+CP024419.1	Genbank	recombination_feature	26810	26837	.	+	.	ID=id-CP024419.1:26810..26837;Note=pdif recombination site%3B XerD/XerC binding sites;gbkey=misc_recomb
+CP024419.1	Genbank	gene	27045	27332	.	+	.	ID=gene-A388_p00034;Name=brnT;gbkey=Gene;gene=brnT;gene_biotype=protein_coding;locus_tag=A388_p00034
+CP024419.1	Genbank	CDS	27045	27332	.	+	0	ID=cds-ATP89038.1;Parent=gene-A388_p00034;Dbxref=NCBI_GP:ATP89038.1;Name=ATP89038.1;gbkey=CDS;gene=brnT;inference=ab initio prediction:Prodigal:2.6;locus_tag=A388_p00034;product=BrnT;protein_id=ATP89038.1;transl_table=11
+CP024419.1	Genbank	gene	27319	27633	.	+	.	ID=gene-A388_p00035;Name=brnA;gbkey=Gene;gene=brnA;gene_biotype=protein_coding;locus_tag=A388_p00035
+CP024419.1	Genbank	CDS	27319	27633	.	+	0	ID=cds-ATP89039.1;Parent=gene-A388_p00035;Dbxref=NCBI_GP:ATP89039.1;Name=ATP89039.1;gbkey=CDS;gene=brnA;inference=ab initio prediction:Prodigal:2.6;locus_tag=A388_p00035;product=BrnA;protein_id=ATP89039.1;transl_table=11
+CP024419.1	Genbank	gene	27761	30172	.	+	.	ID=gene-A388_p00036;Name=A388_p00036;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00036
+CP024419.1	Genbank	CDS	27761	30172	.	+	0	ID=cds-ATP89040.1;Parent=gene-A388_p00036;Dbxref=NCBI_GP:ATP89040.1;Name=ATP89040.1;gbkey=CDS;inference=similar to AA sequence:UniProtKB:Q9JZN9;locus_tag=A388_p00036;product=putative TonB-dependent receptor precursor;protein_id=ATP89040.1;transl_table=11
+CP024419.1	Genbank	mobile_genetic_element	30246	30357	.	+	.	ID=id-CP024419.1:30246..30357;Note=112 bp segment of ISAba16;gbkey=mobile_element;mobile_element_type=insertion sequence:ISAba16
+CP024419.1	Genbank	gene	30477	30938	.	+	.	ID=gene-A388_p00037;Name=sep;gbkey=Gene;gene=sep;gene_biotype=protein_coding;locus_tag=A388_p00037
+CP024419.1	Genbank	CDS	30477	30938	.	+	0	ID=cds-ATP89041.1;Parent=gene-A388_p00037;Dbxref=NCBI_GP:ATP89041.1;Name=ATP89041.1;Note=While septolysin is poorly characterized%2C it has been identified as a a cholesterol-dependent cytolysin%2C and acts to facilitate the infection of certain pathogenic bacteria to cells. Citation:PMID 18564372;gbkey=CDS;gene=sep;inference=ab initio prediction:Prodigal:2.6;locus_tag=A388_p00037;product=Sep;protein_id=ATP89041.1;transl_table=11
+CP024419.1	Genbank	recombination_feature	31228	31255	.	+	.	ID=id-CP024419.1:31228..31255;Note=pdif recombination site%3B XerD/XerC binding sites;gbkey=misc_recomb
+CP024419.1	Genbank	gene	31261	31434	.	-	.	ID=gene-A388_p00038;Name=A388_p00038;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00038
+CP024419.1	Genbank	CDS	31261	31434	.	-	0	ID=cds-ATP89042.1;Parent=gene-A388_p00038;Dbxref=NCBI_GP:ATP89042.1;Name=ATP89042.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=A388_p00038;product=hypothetical protein;protein_id=ATP89042.1;transl_table=11
+CP024419.1	Genbank	gene	31434	31805	.	-	.	ID=gene-A388_p00039;Name=A388_p00039;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00039
+CP024419.1	Genbank	CDS	31434	31805	.	-	0	ID=cds-ATP89043.1;Parent=gene-A388_p00039;Dbxref=NCBI_GP:ATP89043.1;Name=ATP89043.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=A388_p00039;product=hypothetical protein;protein_id=ATP89043.1;transl_table=11
+CP024419.1	Genbank	gene	32077	32331	.	-	.	ID=gene-A388_p00040;Name=A388_p00040;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00040
+CP024419.1	Genbank	CDS	32077	32331	.	-	0	ID=cds-ATP89044.1;Parent=gene-A388_p00040;Dbxref=NCBI_GP:ATP89044.1;Name=ATP89044.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=A388_p00040;product=hypothetical protein;protein_id=ATP89044.1;transl_table=11
+CP024419.1	Genbank	gene	32453	32791	.	-	.	ID=gene-A388_p00041;Name=A388_p00041;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A388_p00041
+CP024419.1	Genbank	CDS	32453	32791	.	-	0	ID=cds-ATP89045.1;Parent=gene-A388_p00041;Dbxref=NCBI_GP:ATP89045.1;Name=ATP89045.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=A388_p00041;product=hypothetical protein;protein_id=ATP89045.1;transl_table=11
+

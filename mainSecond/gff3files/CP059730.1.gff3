@@ -1,0 +1,24 @@
+##sequence-region CP059730.1 1 7055
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP059730.1	Genbank	region	1	7055	.	+	.	ID=CP059730.1:1..7055;Dbxref=taxon:470;Is_circular=true;Name=pAbCTX13_7kb;collected-by=French NRC;collection-date=Aug-2017;country=France: Nice;gbkey=Src;genome=plasmid;isolation-source=Peritoneal fluid;lat-lon=47 N 5.97 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pAbCTX13_7kb;strain=AbCTX13
+CP059730.1	Genbank	gene	186	731	.	-	.	ID=gene-H0H24_19470;Name=H0H24_19470;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0H24_19470
+CP059730.1	Protein Homology	CDS	186	731	.	-	0	ID=cds-QRN23771.1;Parent=gene-H0H24_19470;Dbxref=NCBI_GP:QRN23771.1;Name=QRN23771.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004282068.1;locus_tag=H0H24_19470;product=DNA-binding protein;protein_id=QRN23771.1;transl_table=11
+CP059730.1	Genbank	gene	795	1688	.	-	.	ID=gene-H0H24_19475;Name=H0H24_19475;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0H24_19475
+CP059730.1	Protein Homology	CDS	795	1688	.	-	0	ID=cds-QRN23772.1;Parent=gene-H0H24_19475;Dbxref=NCBI_GP:QRN23772.1;Name=QRN23772.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001038666.1;locus_tag=H0H24_19475;product=replication initiation protein;protein_id=QRN23772.1;transl_table=11
+CP059730.1	Genbank	gene	2893	3264	.	+	.	ID=gene-H0H24_19480;Name=H0H24_19480;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0H24_19480
+CP059730.1	Protein Homology	CDS	2893	3264	.	+	0	ID=cds-QRN23773.1;Parent=gene-H0H24_19480;Dbxref=NCBI_GP:QRN23773.1;Name=QRN23773.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005174618.1;locus_tag=H0H24_19480;product=hypothetical protein;protein_id=QRN23773.1;transl_table=11
+CP059730.1	Genbank	gene	3267	3437	.	+	.	ID=gene-H0H24_19485;Name=H0H24_19485;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0H24_19485
+CP059730.1	Protein Homology	CDS	3267	3437	.	+	0	ID=cds-QRN23774.1;Parent=gene-H0H24_19485;Dbxref=NCBI_GP:QRN23774.1;Name=QRN23774.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005200045.1;locus_tag=H0H24_19485;product=hypothetical protein;protein_id=QRN23774.1;transl_table=11
+CP059730.1	Genbank	gene	3460	4113	.	-	.	ID=gene-H0H24_19490;Name=H0H24_19490;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0H24_19490
+CP059730.1	Protein Homology	CDS	3460	4113	.	-	0	ID=cds-QRN23775.1;Parent=gene-H0H24_19490;Dbxref=NCBI_GP:QRN23775.1;Name=QRN23775.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000282938.1;locus_tag=H0H24_19490;product=hypothetical protein;protein_id=QRN23775.1;transl_table=11
+CP059730.1	Genbank	gene	4240	4545	.	-	.	ID=gene-H0H24_19495;Name=H0H24_19495;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0H24_19495
+CP059730.1	Protein Homology	CDS	4240	4545	.	-	0	ID=cds-QRN23766.1;Parent=gene-H0H24_19495;Dbxref=NCBI_GP:QRN23766.1;Name=QRN23766.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_010326913.1;locus_tag=H0H24_19495;product=hypothetical protein;protein_id=QRN23766.1;transl_table=11
+CP059730.1	Genbank	gene	4689	5012	.	+	.	ID=gene-H0H24_19500;Name=H0H24_19500;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0H24_19500
+CP059730.1	Protein Homology	CDS	4689	5012	.	+	0	ID=cds-QRN23767.1;Parent=gene-H0H24_19500;Dbxref=NCBI_GP:QRN23767.1;Name=QRN23767.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000288001.1;locus_tag=H0H24_19500;product=transcriptional regulator;protein_id=QRN23767.1;transl_table=11
+CP059730.1	Genbank	gene	4993	5307	.	+	.	ID=gene-H0H24_19505;Name=H0H24_19505;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0H24_19505
+CP059730.1	Protein Homology	CDS	4993	5307	.	+	0	ID=cds-QRN23768.1;Parent=gene-H0H24_19505;Dbxref=NCBI_GP:QRN23768.1;Name=QRN23768.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004999435.1;locus_tag=H0H24_19505;product=helix-turn-helix domain-containing protein;protein_id=QRN23768.1;transl_table=11
+CP059730.1	Genbank	gene	5361	5684	.	+	.	ID=gene-H0H24_19510;Name=H0H24_19510;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0H24_19510
+CP059730.1	Protein Homology	CDS	5361	5684	.	+	0	ID=cds-QRN23769.1;Parent=gene-H0H24_19510;Dbxref=NCBI_GP:QRN23769.1;Name=QRN23769.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000681328.1;locus_tag=H0H24_19510;product=hypothetical protein;protein_id=QRN23769.1;transl_table=11
+CP059730.1	Genbank	gene	6225	7052	.	+	.	ID=gene-H0H24_19515;Name=H0H24_19515;gbkey=Gene;gene_biotype=protein_coding;locus_tag=H0H24_19515
+CP059730.1	Protein Homology	CDS	6225	7052	.	+	0	ID=cds-QRN23770.1;Parent=gene-H0H24_19515;Dbxref=NCBI_GP:QRN23770.1;Name=QRN23770.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_057689930.1;locus_tag=H0H24_19515;product=OXA-24 family carbapenem-hydrolyzing class D beta-lactamase OXA-72;protein_id=QRN23770.1;transl_table=11
+

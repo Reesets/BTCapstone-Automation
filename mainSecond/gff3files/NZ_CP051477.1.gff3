@@ -1,0 +1,6 @@
+##sequence-region NZ_CP051477.1 1 3432
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_CP051477.1	RefSeq	region	1	3432	.	+	.	ID=NZ_CP051477.1:1..3432;Dbxref=taxon:470;Is_circular=true;Name=pVB2107_3;collected-by=Christian Medical College;collection-date=2019;country=India;gbkey=Src;genome=plasmid;isolation-source=sputum;lat-lon=12.9246 N 79.1348 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pVB2107_3;strain=VB2107
+NZ_CP051477.1	RefSeq	pseudogene	2	3430	.	+	.	ID=gene-HBN37_RS19600;Name=HBN37_RS19600;end_range=3430,.;gbkey=Gene;gene_biotype=pseudogene;locus_tag=HBN37_RS19600;partial=true;pseudo=true;start_range=.,2
+NZ_CP051477.1	Protein Homology	CDS	2	3430	.	+	0	ID=cds-HBN37_RS19600;Parent=gene-HBN37_RS19600;Note=incomplete%3B partial in the middle of a contig%3B missing N-terminus and C-terminus;end_range=3430,.;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000046174.1;locus_tag=HBN37_RS19600;partial=true;product=tape measure protein;pseudo=true;start_range=.,2;transl_table=11
+

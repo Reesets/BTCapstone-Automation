@@ -1,0 +1,12 @@
+##sequence-region CP012953.1 1 4754
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP012953.1	Genbank	region	1	4754	.	+	.	ID=CP012953.1:1..4754;Dbxref=taxon:470;Is_circular=true;Name=pD36-1;clone=GC1;collected-by=Clarence Fernandez;collection-date=2008;country=Australia: Sydney;gbkey=Src;genome=plasmid;genotype=GC1;isolation-source=wound;lat-lon=33.8650 S 151.2094 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pD36-1;strain=D36
+CP012953.1	Genbank	gene	1	450	.	+	.	ID=gene-AN415_05001;Name=AN415_05001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_05001
+CP012953.1	Genbank	CDS	1	450	.	+	0	ID=cds-ALJ89800.1;Parent=gene-AN415_05001;Dbxref=SEED:fig|470.1063.peg.1,NCBI_GP:ALJ89800.1;Name=ALJ89800.1;gbkey=CDS;locus_tag=AN415_05001;product=putative phosphoribosyl transferase;protein_id=ALJ89800.1;transl_table=11
+CP012953.1	Genbank	gene	701	1156	.	-	.	ID=gene-AN415_05002;Name=AN415_05002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_05002
+CP012953.1	Genbank	CDS	701	1156	.	-	0	ID=cds-ALJ89801.1;Parent=gene-AN415_05002;Dbxref=SEED:fig|470.1063.peg.2,NCBI_GP:ALJ89801.1;Name=ALJ89801.1;gbkey=CDS;locus_tag=AN415_05002;product=hypothetical protein;protein_id=ALJ89801.1;transl_table=11
+CP012953.1	Genbank	gene	1232	3046	.	-	.	ID=gene-AN415_05003;Name=mobA;gbkey=Gene;gene=mobA;gene_biotype=protein_coding;locus_tag=AN415_05003
+CP012953.1	Genbank	CDS	1232	3046	.	-	0	ID=cds-ALJ89802.1;Parent=gene-AN415_05003;Dbxref=SEED:fig|470.1063.peg.3,NCBI_GP:ALJ89802.1;Name=ALJ89802.1;Note=mobilization protein;gbkey=CDS;gene=mobA;locus_tag=AN415_05003;product=MobA;protein_id=ALJ89802.1;transl_table=11
+CP012953.1	Genbank	gene	3036	3437	.	-	.	ID=gene-AN415_05004;Name=mobC;gbkey=Gene;gene=mobC;gene_biotype=protein_coding;locus_tag=AN415_05004
+CP012953.1	Genbank	CDS	3036	3437	.	-	0	ID=cds-ALJ89803.1;Parent=gene-AN415_05004;Dbxref=SEED:fig|470.1063.peg.4,NCBI_GP:ALJ89803.1;Name=ALJ89803.1;Note=mobilization protein;gbkey=CDS;gene=mobC;locus_tag=AN415_05004;product=MobC;protein_id=ALJ89803.1;transl_table=11
+

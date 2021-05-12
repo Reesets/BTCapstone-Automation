@@ -1,0 +1,8 @@
+##sequence-region CP050430.1 1 2762
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP050430.1	Genbank	region	1	2762	.	+	.	ID=CP050430.1:1..2762;Dbxref=taxon:470;Is_circular=true;Name=pPM194122_5;collected-by=AIIMS Jai Prakash Narayan Apex Trauma Center;collection-date=2019;country=India;gbkey=Src;genome=plasmid;isolation-source=BAL;lat-lon=28.5659 N 77.2111 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pPM194122_5;strain=PM194188
+CP050430.1	Genbank	gene	495	977	.	-	.	ID=gene-HB368_20605;Name=HB368_20605;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB368_20605
+CP050430.1	GeneMarkS-2+	CDS	495	977	.	-	0	ID=cds-QJG82491.1;Parent=gene-HB368_20605;Dbxref=NCBI_GP:QJG82491.1;Name=QJG82491.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HB368_20605;product=hypothetical protein;protein_id=QJG82491.1;transl_table=11
+CP050430.1	Genbank	gene	1553	2713	.	-	.	ID=gene-HB368_20610;Name=HB368_20610;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB368_20610
+CP050430.1	Protein Homology	CDS	1553	2713	.	-	0	ID=cds-QJG82492.1;Parent=gene-HB368_20610;Dbxref=NCBI_GP:QJG82492.1;Name=QJG82492.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004854577.1;locus_tag=HB368_20610;product=replication initiation protein;protein_id=QJG82492.1;transl_table=11
+

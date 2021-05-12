@@ -1,0 +1,20 @@
+##sequence-region CP050423.1 1 5679
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP050423.1	Genbank	region	1	5679	.	+	.	ID=CP050423.1:1..5679;Dbxref=taxon:470;Is_circular=true;Name=pVB2200_2;collected-by=Christian Medical College;collection-date=2019;country=India;gbkey=Src;genome=plasmid;isolation-source=sputum;lat-lon=12.9246 N 79.1348 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pVB2200_2;strain=VB2200
+CP050423.1	Genbank	gene	740	955	.	-	.	ID=gene-HBN41_19255;Name=HBN41_19255;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBN41_19255
+CP050423.1	Protein Homology	CDS	740	955	.	-	0	ID=cds-QJG97448.1;Parent=gene-HBN41_19255;Dbxref=NCBI_GP:QJG97448.1;Name=QJG97448.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_002011639.1;locus_tag=HBN41_19255;product=hypothetical protein;protein_id=QJG97448.1;transl_table=11
+CP050423.1	Genbank	gene	945	1241	.	-	.	ID=gene-HBN41_19260;Name=HBN41_19260;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBN41_19260
+CP050423.1	Protein Homology	CDS	945	1241	.	-	0	ID=cds-QJG97449.1;Parent=gene-HBN41_19260;Dbxref=NCBI_GP:QJG97449.1;Name=QJG97449.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_018680097.1;locus_tag=HBN41_19260;product=BrnT family toxin;protein_id=QJG97449.1;transl_table=11
+CP050423.1	Genbank	gene	1282	1782	.	-	.	ID=gene-HBN41_19265;Name=HBN41_19265;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBN41_19265
+CP050423.1	Protein Homology	CDS	1282	1782	.	-	0	ID=cds-QJG97450.1;Parent=gene-HBN41_19265;Dbxref=NCBI_GP:QJG97450.1;Name=QJG97450.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_018680098.1;locus_tag=HBN41_19265;product=hypothetical protein;protein_id=QJG97450.1;transl_table=11
+CP050423.1	Genbank	gene	1779	2702	.	-	.	ID=gene-HBN41_19270;Name=HBN41_19270;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBN41_19270
+CP050423.1	Protein Homology	CDS	1779	2702	.	-	0	ID=cds-QJG97451.1;Parent=gene-HBN41_19270;Dbxref=NCBI_GP:QJG97451.1;Name=QJG97451.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005249378.1;locus_tag=HBN41_19270;product=MobA/MobL family protein;protein_id=QJG97451.1;transl_table=11
+CP050423.1	Genbank	gene	2702	2857	.	-	.	ID=gene-HBN41_19275;Name=HBN41_19275;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBN41_19275
+CP050423.1	Protein Homology	CDS	2702	2857	.	-	0	ID=cds-QJG97452.1;Parent=gene-HBN41_19275;Dbxref=NCBI_GP:QJG97452.1;Name=QJG97452.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005098410.1;locus_tag=HBN41_19275;product=heme exporter protein CcmD;protein_id=QJG97452.1;transl_table=11
+CP050423.1	Genbank	gene	3138	3554	.	+	.	ID=gene-HBN41_19280;Name=HBN41_19280;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBN41_19280
+CP050423.1	Protein Homology	CDS	3138	3554	.	+	0	ID=cds-QJG97453.1;Parent=gene-HBN41_19280;Dbxref=NCBI_GP:QJG97453.1;Name=QJG97453.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_002061210.1;locus_tag=HBN41_19280;product=conjugal transfer protein TraD;protein_id=QJG97453.1;transl_table=11
+CP050423.1	Genbank	gene	3715	4212	.	+	.	ID=gene-HBN41_19285;Name=HBN41_19285;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HBN41_19285
+CP050423.1	GeneMarkS-2+	CDS	3715	4212	.	+	0	ID=cds-QJG97447.1;Parent=gene-HBN41_19285;Dbxref=NCBI_GP:QJG97447.1;Name=QJG97447.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HBN41_19285;product=hypothetical protein;protein_id=QJG97447.1;transl_table=11
+CP050423.1	Genbank	gene	4704	5483	.	-	.	ID=gene-HBN41_19290;Name=aph(3')-VI;gbkey=Gene;gene=aph(3')-VI;gene_biotype=protein_coding;locus_tag=HBN41_19290
+CP050423.1	Protein Homology	CDS	4704	5483	.	-	0	ID=cds-QJG97454.1;Parent=gene-HBN41_19290;Dbxref=NCBI_GP:QJG97454.1;Name=QJG97454.1;gbkey=CDS;gene=aph(3')-VI;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000422636.1;locus_tag=HBN41_19290;product=APH(3')-VI family aminoglycoside O-phosphotransferase;protein_id=QJG97454.1;transl_table=11
+

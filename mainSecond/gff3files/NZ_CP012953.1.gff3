@@ -1,0 +1,12 @@
+##sequence-region NZ_CP012953.1 1 4754
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_CP012953.1	RefSeq	region	1	4754	.	+	.	ID=NZ_CP012953.1:1..4754;Dbxref=taxon:470;Is_circular=true;Name=pD36-1;clone=GC1;collected-by=Clarence Fernandez;collection-date=2008;country=Australia: Sydney;gbkey=Src;genome=plasmid;genotype=GC1;isolation-source=wound;lat-lon=33.8650 S 151.2094 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pD36-1;strain=D36
+NZ_CP012953.1	RefSeq	gene	701	1156	.	-	.	ID=gene-AN415_RS19470;Name=AN415_RS19470;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_RS19470;old_locus_tag=AN415_05002
+NZ_CP012953.1	Protein Homology	CDS	701	1156	.	-	0	ID=cds-WP_000904779.1;Parent=gene-AN415_RS19470;Dbxref=Genbank:WP_000904779.1;Name=WP_000904779.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005207329.1;locus_tag=AN415_RS19470;product=hypothetical protein;protein_id=WP_000904779.1;transl_table=11
+NZ_CP012953.1	RefSeq	gene	1232	3046	.	-	.	ID=gene-AN415_RS19475;Name=AN415_RS19475;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_RS19475;old_locus_tag=AN415_05003
+NZ_CP012953.1	Protein Homology	CDS	1232	3046	.	-	0	ID=cds-WP_047930083.1;Parent=gene-AN415_RS19475;Dbxref=Genbank:WP_047930083.1;Name=WP_047930083.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000634474.1;locus_tag=AN415_RS19475;product=relaxase/mobilization nuclease domain-containing protein;protein_id=WP_047930083.1;transl_table=11
+NZ_CP012953.1	RefSeq	gene	3036	3437	.	-	.	ID=gene-AN415_RS19480;Name=mobC;gbkey=Gene;gene=mobC;gene_biotype=protein_coding;locus_tag=AN415_RS19480;old_locus_tag=AN415_05004
+NZ_CP012953.1	Protein Homology	CDS	3036	3437	.	-	0	ID=cds-WP_060492355.1;Parent=gene-AN415_RS19480;Dbxref=Genbank:WP_060492355.1;Name=WP_060492355.1;gbkey=CDS;gene=mobC;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004706792.1;locus_tag=AN415_RS19480;product=plasmid mobilization relaxosome protein MobC;protein_id=WP_060492355.1;transl_table=11
+NZ_CP012953.1	RefSeq	gene	4458	5204	.	+	.	ID=gene-AN415_RS20985;Name=AN415_RS20985;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_RS20985
+NZ_CP012953.1	Protein Homology	CDS	4458	5204	.	+	0	ID=cds-WP_047930082.1;Parent=gene-AN415_RS20985;Dbxref=Genbank:WP_047930082.1;Name=WP_047930082.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:NF012383.1;locus_tag=AN415_RS20985;product=phosphoribosyltransferase;protein_id=WP_047930082.1;transl_table=11
+

@@ -1,0 +1,8 @@
+##sequence-region NZ_CP050430.1 1 2762
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_CP050430.1	RefSeq	region	1	2762	.	+	.	ID=NZ_CP050430.1:1..2762;Dbxref=taxon:470;Is_circular=true;Name=pPM194122_5;collected-by=AIIMS Jai Prakash Narayan Apex Trauma Center;collection-date=2019;country=India;gbkey=Src;genome=plasmid;isolation-source=BAL;lat-lon=28.5659 N 77.2111 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pPM194122_5;strain=PM194188
+NZ_CP050430.1	RefSeq	gene	495	977	.	-	.	ID=gene-HB368_RS20605;Name=HB368_RS20605;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB368_RS20605;old_locus_tag=HB368_20605
+NZ_CP050430.1	GeneMarkS-2+	CDS	495	977	.	-	0	ID=cds-WP_163071732.1;Parent=gene-HB368_RS20605;Dbxref=Genbank:WP_163071732.1;Name=WP_163071732.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HB368_RS20605;product=hypothetical protein;protein_id=WP_163071732.1;transl_table=11
+NZ_CP050430.1	RefSeq	gene	1553	2713	.	-	.	ID=gene-HB368_RS20610;Name=HB368_RS20610;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB368_RS20610;old_locus_tag=HB368_20610
+NZ_CP050430.1	Protein Homology	CDS	1553	2713	.	-	0	ID=cds-WP_053502722.1;Parent=gene-HB368_RS20610;Dbxref=Genbank:WP_053502722.1;Name=WP_053502722.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004854577.1;locus_tag=HB368_RS20610;product=replication initiation protein RepM;protein_id=WP_053502722.1;transl_table=11
+

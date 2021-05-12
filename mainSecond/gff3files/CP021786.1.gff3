@@ -1,0 +1,31 @@
+##sequence-region CP021786.1 1 8731
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP021786.1	Genbank	region	1	8731	.	+	.	ID=CP021786.1:1..8731;Dbxref=taxon:470;Is_circular=true;Name=pA85-2;collected-by=Ian Carter;collection-date=2003;country=Australia:Sydney;gbkey=Src;genome=plasmid;genotype=global clone 1;isolation-source=sputum;lat-lon=33.8650 S 151.2094 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pA85-2;strain=A85
+CP021786.1	Genbank	gene	139	1089	.	+	.	ID=gene-CBI29_04301;Name=repAci1;gbkey=Gene;gene=repAci1;gene_biotype=protein_coding;locus_tag=CBI29_04301
+CP021786.1	Genbank	CDS	139	1089	.	+	0	ID=cds-AHM95263.1;Parent=gene-CBI29_04301;Dbxref=NCBI_GP:AHM95263.1;Name=AHM95263.1;gbkey=CDS;gene=repAci1;inference=similar to AA sequence:UniProtKB:P03856;locus_tag=CBI29_04301;product=RepAci1;protein_id=AHM95263.1;transl_table=11
+CP021786.1	Genbank	gene	1082	1657	.	+	.	ID=gene-CBI29_04302;Name=CBI29_04302;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_04302
+CP021786.1	Genbank	CDS	1082	1657	.	+	0	ID=cds-AHM95264.1;Parent=gene-CBI29_04302;Dbxref=NCBI_GP:AHM95264.1;Name=AHM95264.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=CBI29_04302;product=hypothetical protein;protein_id=AHM95264.1;transl_table=11
+CP021786.1	Genbank	gene	1677	1820	.	+	.	ID=gene-CBI29_04303;Name=CBI29_04303;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_04303
+CP021786.1	Genbank	CDS	1677	1820	.	+	0	ID=cds-ASF79221.1;Parent=gene-CBI29_04303;Dbxref=NCBI_GP:ASF79221.1;Name=ASF79221.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=CBI29_04303;product=hypothetical protein;protein_id=ASF79221.1;transl_table=11
+CP021786.1	Genbank	recombination_feature	1965	1992	.	+	.	ID=id-CP021786.1:1965..1992;Note=dif site%3B XerD/XerC binding sites;gbkey=misc_recomb
+CP021786.1	Genbank	gene	2009	2551	.	-	.	ID=gene-CBI29_04304;Name=CBI29_04304;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_04304
+CP021786.1	Genbank	CDS	2009	2551	.	-	0	ID=cds-AHM95265.1;Parent=gene-CBI29_04304;Dbxref=NCBI_GP:AHM95265.1;Name=AHM95265.1;gbkey=CDS;inference=protein motif:Pfam:PF08238.6;locus_tag=CBI29_04304;product=Sel1 repeat protein;protein_id=AHM95265.1;transl_table=11
+CP021786.1	Genbank	recombination_feature	2665	2692	.	+	.	ID=id-CP021786.1:2665..2692;Note=dif site%3B XerD/XerC binding sites;gbkey=misc_recomb
+CP021786.1	Genbank	gene	2900	3187	.	+	.	ID=gene-CBI29_04305;Name=CBI29_04305;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_04305
+CP021786.1	Genbank	CDS	2900	3187	.	+	0	ID=cds-ASF79222.1;Parent=gene-CBI29_04305;Dbxref=NCBI_GP:ASF79222.1;Name=ASF79222.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=CBI29_04305;product=hypothetical protein;protein_id=ASF79222.1;transl_table=11
+CP021786.1	Genbank	gene	3174	3488	.	+	.	ID=gene-CBI29_04306;Name=CBI29_04306;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_04306
+CP021786.1	Genbank	CDS	3174	3488	.	+	0	ID=cds-ASF79223.1;Parent=gene-CBI29_04306;Dbxref=NCBI_GP:ASF79223.1;Name=ASF79223.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=CBI29_04306;product=hypothetical protein;protein_id=ASF79223.1;transl_table=11
+CP021786.1	Genbank	gene	3616	6027	.	+	.	ID=gene-CBI29_04307;Name=CBI29_04307;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_04307
+CP021786.1	Genbank	CDS	3616	6027	.	+	0	ID=cds-AHM95268.1;Parent=gene-CBI29_04307;Dbxref=NCBI_GP:AHM95268.1;Name=AHM95268.1;gbkey=CDS;inference=similar to AA sequence:UniProtKB:Q9JZN9;locus_tag=CBI29_04307;product=putative TonB-dependent receptor precursor;protein_id=AHM95268.1;transl_table=11
+CP021786.1	Genbank	gene	6332	6793	.	+	.	ID=gene-CBI29_04308;Name=CBI29_04308;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_04308
+CP021786.1	Genbank	CDS	6332	6793	.	+	0	ID=cds-AHM95269.1;Parent=gene-CBI29_04308;Dbxref=NCBI_GP:AHM95269.1;Name=AHM95269.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=CBI29_04308;product=hypothetical protein;protein_id=AHM95269.1;transl_table=11
+CP021786.1	Genbank	recombination_feature	7083	7110	.	+	.	ID=id-CP021786.1:7083..7110;Note=dif site%3B XerC/XerD binding sites;gbkey=misc_recomb
+CP021786.1	Genbank	gene	7116	7289	.	-	.	ID=gene-CBI29_04309;Name=CBI29_04309;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_04309
+CP021786.1	Genbank	CDS	7116	7289	.	-	0	ID=cds-ASF79224.1;Parent=gene-CBI29_04309;Dbxref=NCBI_GP:ASF79224.1;Name=ASF79224.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=CBI29_04309;product=hypothetical protein;protein_id=ASF79224.1;transl_table=11
+CP021786.1	Genbank	gene	7289	7660	.	-	.	ID=gene-CBI29_04310;Name=CBI29_04310;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_04310
+CP021786.1	Genbank	CDS	7289	7660	.	-	0	ID=cds-AHM95270.1;Parent=gene-CBI29_04310;Dbxref=NCBI_GP:AHM95270.1;Name=AHM95270.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=CBI29_04310;product=hypothetical protein;protein_id=AHM95270.1;transl_table=11
+CP021786.1	Genbank	gene	7932	8186	.	-	.	ID=gene-CBI29_04311;Name=CBI29_04311;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_04311
+CP021786.1	Genbank	CDS	7932	8186	.	-	0	ID=cds-ASF79225.1;Parent=gene-CBI29_04311;Dbxref=NCBI_GP:ASF79225.1;Name=ASF79225.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=CBI29_04311;product=hypothetical protein;protein_id=ASF79225.1;transl_table=11
+CP021786.1	Genbank	gene	8308	8646	.	-	.	ID=gene-CBI29_04312;Name=CBI29_04312;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_04312
+CP021786.1	Genbank	CDS	8308	8646	.	-	0	ID=cds-AHM95271.1;Parent=gene-CBI29_04312;Dbxref=NCBI_GP:AHM95271.1;Name=AHM95271.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=CBI29_04312;product=hypothetical protein;protein_id=AHM95271.1;transl_table=11
+

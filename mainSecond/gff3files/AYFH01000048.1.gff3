@@ -1,0 +1,22 @@
+##sequence-region AYFH01000048.1 1 8190
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1398980
+AYFH01000048.1	Genbank	region	1	8190	.	+	.	ID=AYFH01000048.1:1..8190;Dbxref=taxon:1398980;Is_circular=true;Name=pABUH3a-8.2;collection-date=Nov-2007;country=USA;gbkey=Src;genome=plasmid;isolation-source=urine;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pABUH3a-8.2;strain=UH7607
+AYFH01000048.1	Genbank	gene	70	363	.	-	.	ID=gene-P676_1675;Name=P676_1675;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P676_1675
+AYFH01000048.1	Genbank	CDS	70	363	.	-	0	ID=cds-ETR11573.1;Parent=gene-P676_1675;Dbxref=NCBI_GP:ETR11573.1;Name=ETR11573.1;Note=this gene contains a nucleotide ambiguity which may be the result of a sequencing error;gbkey=CDS;locus_tag=P676_1675;product=hypothetical protein;protein_id=ETR11573.1;transl_table=11
+AYFH01000048.1	Genbank	gene	542	2188	.	+	.	ID=gene-P676_1676;Name=P676_1676;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P676_1676
+AYFH01000048.1	Genbank	CDS	542	2188	.	+	0	ID=cds-ETR11575.1;Parent=gene-P676_1676;Dbxref=NCBI_GP:ETR11575.1;Name=ETR11575.1;Note=an automated process has identified a potential problem with this gene model%3B the current end5 and/or the end3 may need to extended or the current gene model may need to be merged with a neighboring gene model%3B the current gene model (or a revised gene model) may contain a frame shift;gbkey=CDS;locus_tag=P676_1676;product=MobA/MobL family protein;protein_id=ETR11575.1;transl_table=11
+AYFH01000048.1	Genbank	gene	2758	3687	.	+	.	ID=gene-P676_1677;Name=P676_1677;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P676_1677
+AYFH01000048.1	Genbank	CDS	2758	3687	.	+	0	ID=cds-ETR11568.1;Parent=gene-P676_1677;Dbxref=NCBI_GP:ETR11568.1;Name=ETR11568.1;gbkey=CDS;locus_tag=P676_1677;product=initiator RepB protein;protein_id=ETR11568.1;transl_table=11
+AYFH01000048.1	Genbank	gene	3751	4305	.	+	.	ID=gene-P676_1678;Name=P676_1678;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P676_1678
+AYFH01000048.1	Genbank	CDS	3751	4305	.	+	0	ID=cds-ETR11574.1;Parent=gene-P676_1678;Dbxref=NCBI_GP:ETR11574.1;Name=ETR11574.1;gbkey=CDS;locus_tag=P676_1678;product=hypothetical protein;protein_id=ETR11574.1;transl_table=11
+AYFH01000048.1	Genbank	gene	4495	5322	.	-	.	ID=gene-P676_1679;Name=P676_1679;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P676_1679
+AYFH01000048.1	Genbank	CDS	4495	5322	.	-	0	ID=cds-ETR11572.1;Parent=gene-P676_1679;Dbxref=NCBI_GP:ETR11572.1;Name=ETR11572.1;gbkey=CDS;locus_tag=P676_1679;product=putative beta-lactamase OXA-10;protein_id=ETR11572.1;transl_table=11
+AYFH01000048.1	Genbank	gene	5863	6186	.	-	.	ID=gene-P676_1680;Name=P676_1680;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P676_1680
+AYFH01000048.1	Genbank	CDS	5863	6186	.	-	0	ID=cds-ETR11571.1;Parent=gene-P676_1680;Dbxref=NCBI_GP:ETR11571.1;Name=ETR11571.1;gbkey=CDS;locus_tag=P676_1680;product=hypothetical protein;protein_id=ETR11571.1;transl_table=11
+AYFH01000048.1	Genbank	gene	6240	6554	.	-	.	ID=gene-P676_1681;Name=P676_1681;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P676_1681
+AYFH01000048.1	Genbank	CDS	6240	6554	.	-	0	ID=cds-ETR11570.1;Parent=gene-P676_1681;Dbxref=NCBI_GP:ETR11570.1;Name=ETR11570.1;gbkey=CDS;locus_tag=P676_1681;product=DNA-binding helix-turn-helix protein;protein_id=ETR11570.1;transl_table=11
+AYFH01000048.1	Genbank	gene	7137	7307	.	+	.	ID=gene-P676_1682;Name=P676_1682;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P676_1682
+AYFH01000048.1	Genbank	CDS	7137	7307	.	+	0	ID=cds-ETR11576.1;Parent=gene-P676_1682;Dbxref=NCBI_GP:ETR11576.1;Name=ETR11576.1;gbkey=CDS;locus_tag=P676_1682;product=hypothetical protein;protein_id=ETR11576.1;transl_table=11
+AYFH01000048.1	Genbank	gene	7434	8087	.	+	.	ID=gene-P676_1683;Name=P676_1683;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P676_1683
+AYFH01000048.1	Genbank	CDS	7434	8087	.	+	0	ID=cds-ETR11569.1;Parent=gene-P676_1683;Dbxref=NCBI_GP:ETR11569.1;Name=ETR11569.1;gbkey=CDS;locus_tag=P676_1683;product=hypothetical protein;protein_id=ETR11569.1;transl_table=11
+

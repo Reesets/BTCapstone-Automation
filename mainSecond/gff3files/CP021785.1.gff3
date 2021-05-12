@@ -1,0 +1,16 @@
+##sequence-region CP021785.1 1 4484
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP021785.1	Genbank	region	1	4484	.	+	.	ID=CP021785.1:1..4484;Dbxref=taxon:470;Is_circular=true;Name=pA85-1b;collected-by=Ian Carter;collection-date=2003;country=Australia:Sydney;gbkey=Src;genome=plasmid;genotype=global clone 1;isolation-source=sputum;lat-lon=33.8650 S 151.2094 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pA85-1b;strain=A85
+CP021785.1	Genbank	gene	1	309	.	+	.	ID=gene-CBI29_04101;Name=thyA;gbkey=Gene;gene=thyA;gene_biotype=protein_coding;locus_tag=CBI29_04101
+CP021785.1	Genbank	CDS	1	309	.	+	0	ID=cds-ASF79215.1;Parent=gene-CBI29_04101;Dbxref=NCBI_GP:ASF79215.1;Name=ASF79215.1;gbkey=CDS;gene=thyA;inference=similar to AA sequence:UniProtKB:P0A884;locus_tag=CBI29_04101;product=Thymidylate synthase;protein_id=ASF79215.1;transl_table=11
+CP021785.1	Genbank	gene	388	918	.	+	.	ID=gene-CBI29_04102;Name=dfrA44;gbkey=Gene;gene=dfrA44;gene_biotype=protein_coding;locus_tag=CBI29_04102
+CP021785.1	Genbank	CDS	388	918	.	+	0	ID=cds-ASF79216.1;Parent=gene-CBI29_04102;Dbxref=NCBI_GP:ASF79216.1;Name=ASF79216.1;Note=confers resistance to trimethoprim%3B trimethoprim-resistant dihydrofolate reductase DfrA44;gbkey=CDS;gene=dfrA44;inference=similar to AA sequence:UniProtKB:P11045;locus_tag=CBI29_04102;product=DfrA44;protein_id=ASF79216.1;transl_table=11
+CP021785.1	Genbank	gene	1178	1594	.	-	.	ID=gene-CBI29_04103;Name=CBI29_04103;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_04103
+CP021785.1	Genbank	CDS	1178	1594	.	-	0	ID=cds-ASF79217.1;Parent=gene-CBI29_04103;Dbxref=NCBI_GP:ASF79217.1;Name=ASF79217.1;gbkey=CDS;inference=protein motif:Pfam:PF06412.5;locus_tag=CBI29_04103;product=Conjugal transfer protein TraD;protein_id=ASF79217.1;transl_table=11
+CP021785.1	Genbank	gene	1873	2028	.	+	.	ID=gene-CBI29_04104;Name=CBI29_04104;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_04104
+CP021785.1	Genbank	CDS	1873	2028	.	+	0	ID=cds-ASF79220.1;Parent=gene-CBI29_04104;Dbxref=NCBI_GP:ASF79220.1;Name=ASF79220.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=CBI29_04104;product=hypothetical protein;protein_id=ASF79220.1;transl_table=11
+CP021785.1	Genbank	gene	2028	2957	.	+	.	ID=gene-CBI29_04105;Name=mobA;gbkey=Gene;gene=mobA;gene_biotype=protein_coding;locus_tag=CBI29_04105
+CP021785.1	Genbank	CDS	2028	2957	.	+	0	ID=cds-ASF79218.1;Parent=gene-CBI29_04105;Dbxref=NCBI_GP:ASF79218.1;Name=ASF79218.1;gbkey=CDS;gene=mobA;inference=similar to AA sequence:UniProtKB:P07112;locus_tag=CBI29_04105;product=MobA;protein_id=ASF79218.1;transl_table=11
+CP021785.1	Genbank	gene	2954	3454	.	+	.	ID=gene-CBI29_04106;Name=CBI29_04106;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_04106
+CP021785.1	Genbank	CDS	2954	3454	.	+	0	ID=cds-ASF79219.1;Parent=gene-CBI29_04106;Dbxref=NCBI_GP:ASF79219.1;Name=ASF79219.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=CBI29_04106;product=hypothetical protein;protein_id=ASF79219.1;transl_table=11
+

@@ -1,0 +1,24 @@
+##sequence-region CP026708.1 1 8731
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP026708.1	Genbank	region	1	8731	.	+	.	ID=CP026708.1:1..8731;Dbxref=taxon:470;Is_circular=true;Name=tig00000534_pilon;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=tig00000534_pilon;strain=AR_0056
+CP026708.1	Genbank	pseudogene	358	577	.	+	.	ID=gene-AM435_20720;Name=AM435_20720;gbkey=Gene;gene_biotype=pseudogene;locus_tag=AM435_20720;pseudo=true
+CP026708.1	Protein Homology	CDS	358	577	.	+	0	ID=cds-AM435_20720;Parent=gene-AM435_20720;Note=frameshifted%3B internal stop;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004641946.1;locus_tag=AM435_20720;product=hypothetical protein;pseudo=true;transl_table=11
+CP026708.1	Genbank	gene	758	1708	.	+	.	ID=gene-AM435_20725;Name=AM435_20725;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AM435_20725
+CP026708.1	Protein Homology	CDS	758	1708	.	+	0	ID=cds-AVE48090.1;Parent=gene-AM435_20725;Dbxref=NCBI_GP:AVE48090.1;Name=AVE48090.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=AM435_20725;product=RepB family plasmid replication initiator protein;protein_id=AVE48090.1;transl_table=11
+CP026708.1	Genbank	gene	1701	2276	.	+	.	ID=gene-AM435_20730;Name=AM435_20730;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AM435_20730
+CP026708.1	Protein Homology	CDS	1701	2276	.	+	0	ID=cds-AVE48091.1;Parent=gene-AM435_20730;Dbxref=NCBI_GP:AVE48091.1;Name=AVE48091.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=AM435_20730;product=DNA-binding protein;protein_id=AVE48091.1;transl_table=11
+CP026708.1	Genbank	gene	2628	3146	.	-	.	ID=gene-AM435_20735;Name=AM435_20735;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AM435_20735
+CP026708.1	Protein Homology	CDS	2628	3146	.	-	0	ID=cds-AVE48092.1;Parent=gene-AM435_20735;Dbxref=NCBI_GP:AVE48092.1;Name=AVE48092.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=AM435_20735;product=sel1 repeat family protein;protein_id=AVE48092.1;transl_table=11
+CP026708.1	Genbank	gene	3519	3806	.	+	.	ID=gene-AM435_20740;Name=AM435_20740;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AM435_20740
+CP026708.1	Protein Homology	CDS	3519	3806	.	+	0	ID=cds-AVE48093.1;Parent=gene-AM435_20740;Dbxref=NCBI_GP:AVE48093.1;Name=AVE48093.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=AM435_20740;product=BrnT family toxin;protein_id=AVE48093.1;transl_table=11
+CP026708.1	Genbank	gene	3793	4107	.	+	.	ID=gene-AM435_20745;Name=AM435_20745;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AM435_20745
+CP026708.1	Protein Homology	CDS	3793	4107	.	+	0	ID=cds-AVE48094.1;Parent=gene-AM435_20745;Dbxref=NCBI_GP:AVE48094.1;Name=AVE48094.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_006582675.1;locus_tag=AM435_20745;product=toxin-antitoxin system%2C antitoxin component;protein_id=AVE48094.1;transl_table=11
+CP026708.1	Genbank	gene	4235	6646	.	+	.	ID=gene-AM435_20750;Name=AM435_20750;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AM435_20750
+CP026708.1	Protein Homology	CDS	4235	6646	.	+	0	ID=cds-AVE48095.1;Parent=gene-AM435_20750;Dbxref=NCBI_GP:AVE48095.1;Name=AVE48095.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=AM435_20750;product=TonB-dependent receptor;protein_id=AVE48095.1;transl_table=11
+CP026708.1	Genbank	gene	6951	7412	.	+	.	ID=gene-AM435_20755;Name=AM435_20755;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AM435_20755
+CP026708.1	Protein Homology	CDS	6951	7412	.	+	0	ID=cds-AVE48096.1;Parent=gene-AM435_20755;Dbxref=NCBI_GP:AVE48096.1;Name=AVE48096.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004781077.1;locus_tag=AM435_20755;product=septicolysin;protein_id=AVE48096.1;transl_table=11
+CP026708.1	Genbank	gene	7908	8279	.	-	.	ID=gene-AM435_20760;Name=AM435_20760;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AM435_20760
+CP026708.1	Protein Homology	CDS	7908	8279	.	-	0	ID=cds-AVE48097.1;Parent=gene-AM435_20760;Dbxref=NCBI_GP:AVE48097.1;Name=AVE48097.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=AM435_20760;product=hypothetical protein;protein_id=AVE48097.1;transl_table=11
+CP026708.1	Genbank	gene	8551	8805	.	-	.	ID=gene-AM435_20715;Name=AM435_20715;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AM435_20715
+CP026708.1	Protein Homology	CDS	8551	8805	.	-	0	ID=cds-AVE48098.1;Parent=gene-AM435_20715;Dbxref=NCBI_GP:AVE48098.1;Name=AVE48098.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001014301.1;locus_tag=AM435_20715;product=hypothetical protein;protein_id=AVE48098.1;transl_table=11
+

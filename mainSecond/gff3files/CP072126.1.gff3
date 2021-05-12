@@ -1,0 +1,20 @@
+##sequence-region CP072126.1 1 5679
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP072126.1	Genbank	region	1	5679	.	+	.	ID=CP072126.1:1..5679;Dbxref=taxon:470;Is_circular=true;Name=p4KSK1;collected-by=Jawaharlal Nehru University;collection-date=2020;country=India: New Delhi;gbkey=Src;genome=plasmid;isolation-source=Respiratory specimen;lat-lon=28.5402 N 77.1662 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=p4KSK1;strain=KSK1
+CP072126.1	Genbank	gene	606	1022	.	-	.	ID=gene-J5P21_20990;Name=J5P21_20990;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J5P21_20990
+CP072126.1	Protein Homology	CDS	606	1022	.	-	0	ID=cds-QTH58476.1;Parent=gene-J5P21_20990;Dbxref=NCBI_GP:QTH58476.1;Name=QTH58476.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_002061210.1;locus_tag=J5P21_20990;product=conjugal transfer protein TraD;protein_id=QTH58476.1;transl_table=11
+CP072126.1	Genbank	gene	1303	1458	.	+	.	ID=gene-J5P21_20995;Name=J5P21_20995;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J5P21_20995
+CP072126.1	Protein Homology	CDS	1303	1458	.	+	0	ID=cds-QTH58477.1;Parent=gene-J5P21_20995;Dbxref=NCBI_GP:QTH58477.1;Name=QTH58477.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005098410.1;locus_tag=J5P21_20995;product=heme exporter protein CcmD;protein_id=QTH58477.1;transl_table=11
+CP072126.1	Genbank	gene	1458	2381	.	+	.	ID=gene-J5P21_21000;Name=J5P21_21000;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J5P21_21000
+CP072126.1	Protein Homology	CDS	1458	2381	.	+	0	ID=cds-QTH58478.1;Parent=gene-J5P21_21000;Dbxref=NCBI_GP:QTH58478.1;Name=QTH58478.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005249378.1;locus_tag=J5P21_21000;product=MobA/MobL family protein;protein_id=QTH58478.1;transl_table=11
+CP072126.1	Genbank	gene	2378	2878	.	+	.	ID=gene-J5P21_21005;Name=J5P21_21005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J5P21_21005
+CP072126.1	Protein Homology	CDS	2378	2878	.	+	0	ID=cds-QTH58479.1;Parent=gene-J5P21_21005;Dbxref=NCBI_GP:QTH58479.1;Name=QTH58479.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_018680098.1;locus_tag=J5P21_21005;product=hypothetical protein;protein_id=QTH58479.1;transl_table=11
+CP072126.1	Genbank	gene	2919	3215	.	+	.	ID=gene-J5P21_21010;Name=J5P21_21010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J5P21_21010
+CP072126.1	Protein Homology	CDS	2919	3215	.	+	0	ID=cds-QTH58473.1;Parent=gene-J5P21_21010;Dbxref=NCBI_GP:QTH58473.1;Name=QTH58473.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004282231.1;locus_tag=J5P21_21010;product=BrnT family toxin;protein_id=QTH58473.1;transl_table=11
+CP072126.1	Genbank	gene	3205	3420	.	+	.	ID=gene-J5P21_21015;Name=J5P21_21015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J5P21_21015
+CP072126.1	Protein Homology	CDS	3205	3420	.	+	0	ID=cds-QTH58474.1;Parent=gene-J5P21_21015;Dbxref=NCBI_GP:QTH58474.1;Name=QTH58474.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_002011639.1;locus_tag=J5P21_21015;product=hypothetical protein;protein_id=QTH58474.1;transl_table=11
+CP072126.1	Genbank	gene	4356	5135	.	+	.	ID=gene-J5P21_21020;Name=J5P21_21020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J5P21_21020
+CP072126.1	Protein Homology	CDS	4356	5135	.	+	0	ID=cds-QTH58475.1;Parent=gene-J5P21_21020;Dbxref=NCBI_GP:QTH58475.1;Name=QTH58475.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000422636.1;locus_tag=J5P21_21020;product=APH(3')-VI family aminoglycoside O-phosphotransferase;protein_id=QTH58475.1;transl_table=11
+CP072126.1	Genbank	gene	5627	6124	.	-	.	ID=gene-J5P21_20985;Name=J5P21_20985;gbkey=Gene;gene_biotype=protein_coding;locus_tag=J5P21_20985
+CP072126.1	GeneMarkS-2+	CDS	5627	6124	.	-	0	ID=cds-QTH58480.1;Parent=gene-J5P21_20985;Dbxref=NCBI_GP:QTH58480.1;Name=QTH58480.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=J5P21_20985;product=hypothetical protein;protein_id=QTH58480.1;transl_table=11
+

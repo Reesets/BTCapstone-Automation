@@ -1,0 +1,148 @@
+##sequence-region CP012956.1 1 47457
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP012956.1	Genbank	region	1	47457	.	+	.	ID=CP012956.1:1..47457;Dbxref=taxon:470;Is_circular=true;Name=pD36-4;clone=GC1;collected-by=Clarence Fernandez;country=Australia: Sydney;gbkey=Src;genome=plasmid;genotype=GC1;lat-lon=33.8650 S 151.2094 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pD36-4;strain=D36
+CP012956.1	Genbank	gene	1	1173	.	+	.	ID=gene-AN415_8001;Name=rep;gbkey=Gene;gene=rep;gene_biotype=protein_coding;locus_tag=AN415_8001
+CP012956.1	Genbank	CDS	1	1173	.	+	0	ID=cds-ALJ89824.1;Parent=gene-AN415_8001;Dbxref=SEED:fig|470.1059.peg.1,NCBI_GP:ALJ89824.1;Name=ALJ89824.1;Note=replication protein%3B involved in replication initiation;gbkey=CDS;gene=rep;locus_tag=AN415_8001;product=Rep;protein_id=ALJ89824.1;transl_table=11
+CP012956.1	Genbank	mobile_genetic_element	1518	2337	.	+	.	ID=id-CP012956.1:1518..2337;gbkey=mobile_element;mobile_element_type=insertion sequence:IS26
+CP012956.1	Genbank	gene	1570	2274	.	-	.	ID=gene-AN415_8002;Name=AN415_8002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8002
+CP012956.1	Genbank	CDS	1570	2274	.	-	0	ID=cds-ALJ89825.1;Parent=gene-AN415_8002;Dbxref=SEED:fig|470.1059.peg.2,NCBI_GP:ALJ89825.1;Name=ALJ89825.1;Note=transposase of IS26;gbkey=CDS;locus_tag=AN415_8002;product=Tnp26;protein_id=ALJ89825.1;transl_table=11
+CP012956.1	Genbank	gene	2265	3359	.	+	.	ID=gene-AN415_8003;Name=AN415_8003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8003
+CP012956.1	Genbank	CDS	2265	3359	.	+	0	ID=cds-ALJ89826.1;Parent=gene-AN415_8003;Dbxref=SEED:fig|470.1059.peg.3,NCBI_GP:ALJ89826.1;Name=ALJ89826.1;gbkey=CDS;locus_tag=AN415_8003;product=hypothetical protein;protein_id=ALJ89826.1;transl_table=11
+CP012956.1	Genbank	gene	3895	5190	.	-	.	ID=gene-AN415_8004;Name=umuC;gbkey=Gene;gene=umuC;gene_biotype=protein_coding;locus_tag=AN415_8004
+CP012956.1	Genbank	CDS	3895	5190	.	-	0	ID=cds-ALJ89827.1;Parent=gene-AN415_8004;Dbxref=SEED:fig|470.1059.peg.5,NCBI_GP:ALJ89827.1;Name=ALJ89827.1;Note=Error-prone%2C lesion bypass DNA polymerase V;gbkey=CDS;gene=umuC;locus_tag=AN415_8004;product=UmuC;protein_id=ALJ89827.1;transl_table=11
+CP012956.1	Genbank	mobile_genetic_element	5471	7390	.	+	.	ID=id-CP012956.1:5471..7390;gbkey=mobile_element;mobile_element_type=insertion sequence:ISAba8
+CP012956.1	Genbank	gene	5510	6283	.	-	.	ID=gene-AN415_8006;Name=AN415_8006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8006
+CP012956.1	Genbank	CDS	5510	6283	.	-	0	ID=cds-ALJ89828.1;Parent=gene-AN415_8006;Dbxref=SEED:fig|470.1059.peg.7,NCBI_GP:ALJ89828.1;Name=ALJ89828.1;Note=transposition protein;gbkey=CDS;locus_tag=AN415_8006;product=Tnp;protein_id=ALJ89828.1;transl_table=11
+CP012956.1	Genbank	gene	6352	7302	.	-	.	ID=gene-AN415_8007;Name=AN415_8007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8007
+CP012956.1	Genbank	CDS	6352	7302	.	-	0	ID=cds-ALJ89829.1;Parent=gene-AN415_8007;Dbxref=SEED:fig|470.1059.peg.8,NCBI_GP:ALJ89829.1;Name=ALJ89829.1;Note=transposition protein;gbkey=CDS;locus_tag=AN415_8007;product=Tnp;protein_id=ALJ89829.1;transl_table=11
+CP012956.1	Genbank	gene	5205	5434	.	-	.	ID=gene-AN415_8005;Name=umuD;Note=interrupted by ISAba8;gbkey=Gene;gene=umuD;gene_biotype=other;locus_tag=AN415_8005;part=1
+CP012956.1	Genbank	gene	7395	7790	.	-	.	ID=gene-AN415_8005;Name=umuD;Note=interrupted by ISAba8;gbkey=Gene;gene=umuD;gene_biotype=other;locus_tag=AN415_8005;part=2
+CP012956.1	Genbank	gene	7902	8543	.	-	.	ID=gene-AN415_8009;Name=AN415_8009;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8009
+CP012956.1	Genbank	CDS	7902	8543	.	-	0	ID=cds-ALJ89830.1;Parent=gene-AN415_8009;Dbxref=SEED:fig|470.1059.peg.10,NCBI_GP:ALJ89830.1;Name=ALJ89830.1;gbkey=CDS;locus_tag=AN415_8009;product=hypothetical protein;protein_id=ALJ89830.1;transl_table=11
+CP012956.1	Genbank	gene	8790	9896	.	-	.	ID=gene-AN415_8010;Name=AN415_8010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8010
+CP012956.1	Genbank	CDS	8790	9896	.	-	0	ID=cds-ALJ89831.1;Parent=gene-AN415_8010;Dbxref=SEED:fig|470.1059.peg.11,NCBI_GP:ALJ89831.1;Name=ALJ89831.1;Note=XRE family;gbkey=CDS;locus_tag=AN415_8010;product=Transcriptional regulator;protein_id=ALJ89831.1;transl_table=11
+CP012956.1	Genbank	gene	9909	10619	.	-	.	ID=gene-AN415_8011;Name=AN415_8011;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8011
+CP012956.1	Genbank	CDS	9909	10619	.	-	0	ID=cds-ALJ89832.1;Parent=gene-AN415_8011;Dbxref=SEED:fig|470.1059.peg.12,NCBI_GP:ALJ89832.1;Name=ALJ89832.1;gbkey=CDS;locus_tag=AN415_8011;product=hypothetical protein;protein_id=ALJ89832.1;transl_table=11
+CP012956.1	Genbank	gene	11477	12190	.	+	.	ID=gene-AN415_8012;Name=AN415_8012;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8012
+CP012956.1	Genbank	CDS	11477	12190	.	+	0	ID=cds-ALJ89833.1;Parent=gene-AN415_8012;Dbxref=SEED:fig|470.1059.peg.13,NCBI_GP:ALJ89833.1;Name=ALJ89833.1;gbkey=CDS;locus_tag=AN415_8012;product=Phosphoribosyl transferase domain;protein_id=ALJ89833.1;transl_table=11
+CP012956.1	Genbank	gene	12584	13783	.	+	.	ID=gene-AN415_8013;Name=int;gbkey=Gene;gene=int;gene_biotype=protein_coding;locus_tag=AN415_8013
+CP012956.1	Genbank	CDS	12584	13783	.	+	0	ID=cds-ALJ89834.1;Parent=gene-AN415_8013;Dbxref=SEED:fig|470.1059.peg.14,NCBI_GP:ALJ89834.1;Name=ALJ89834.1;Note=Integrase;gbkey=CDS;gene=int;locus_tag=AN415_8013;product=Int;protein_id=ALJ89834.1;transl_table=11
+CP012956.1	Genbank	gene	13829	14038	.	+	.	ID=gene-AN415_8014;Name=AN415_8014;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8014
+CP012956.1	Genbank	CDS	13829	14038	.	+	0	ID=cds-ALJ89835.1;Parent=gene-AN415_8014;Dbxref=SEED:fig|470.1059.peg.15,NCBI_GP:ALJ89835.1;Name=ALJ89835.1;gbkey=CDS;locus_tag=AN415_8014;product=hypothetical protein;protein_id=ALJ89835.1;transl_table=11
+CP012956.1	Genbank	mobile_genetic_element	14358	15423	.	+	.	ID=id-CP012956.1:14358..15423;Note=partial%3B 98%25 identical over 1066 bp of ISAba11%3B ISAba11 is 1101 bp;gbkey=mobile_element;mobile_element_type=insertion sequence:ISAba11-like
+CP012956.1	Genbank	gene	14374	15336	.	-	.	ID=gene-AN415_8015;Name=AN415_8015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8015
+CP012956.1	Genbank	CDS	14374	15336	.	-	0	ID=cds-ALJ89836.1;Parent=gene-AN415_8015;Dbxref=SEED:fig|470.1059.peg.16,NCBI_GP:ALJ89836.1;Name=ALJ89836.1;Note=transposition protein;gbkey=CDS;locus_tag=AN415_8015;product=Tnp;protein_id=ALJ89836.1;transl_table=11
+CP012956.1	Genbank	mobile_genetic_element	15424	16603	.	+	.	ID=id-CP012956.1:15424..16603;gbkey=mobile_element;mobile_element_type=insertion sequence:ISAba1
+CP012956.1	Genbank	gene	15495	16064	.	+	.	ID=gene-AN415_8016;Name=AN415_8016;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8016
+CP012956.1	Genbank	CDS	15495	16064	.	+	0	ID=cds-ALJ89837.1;Parent=gene-AN415_8016;Dbxref=SEED:fig|470.1059.peg.17,NCBI_GP:ALJ89837.1;Name=ALJ89837.1;Note=transposition protein;gbkey=CDS;locus_tag=AN415_8016;product=Tnp;protein_id=ALJ89837.1;transl_table=11
+CP012956.1	Genbank	gene	16139	16585	.	+	.	ID=gene-AN415_8017;Name=AN415_8017;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8017
+CP012956.1	Genbank	CDS	16139	16585	.	+	0	ID=cds-ALJ89838.1;Parent=gene-AN415_8017;Dbxref=SEED:fig|470.1059.peg.18,NCBI_GP:ALJ89838.1;Name=ALJ89838.1;Note=transposition protein;gbkey=CDS;locus_tag=AN415_8017;product=Tnp;protein_id=ALJ89838.1;transl_table=11
+CP012956.1	Genbank	gene	16629	17600	.	+	.	ID=gene-AN415_8018;Name=AN415_8018;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8018
+CP012956.1	Genbank	CDS	16629	17600	.	+	0	ID=cds-ALJ89839.1;Parent=gene-AN415_8018;Dbxref=SEED:fig|470.1059.peg.19,NCBI_GP:ALJ89839.1;Name=ALJ89839.1;Note=predicted calcium/sodium:proton antiporter;gbkey=CDS;locus_tag=AN415_8018;product=Inner membrane protein YrbG;protein_id=ALJ89839.1;transl_table=11
+CP012956.1	Genbank	gene	18003	18635	.	-	.	ID=gene-AN415_8019;Name=AN415_8019;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8019
+CP012956.1	Genbank	CDS	18003	18635	.	-	0	ID=cds-ALJ89840.1;Parent=gene-AN415_8019;Dbxref=SEED:fig|470.1059.peg.21,NCBI_GP:ALJ89840.1;Name=ALJ89840.1;Note=Error-prone%2C lesion bypass DNA polymerase V;gbkey=CDS;locus_tag=AN415_8019;product=UmuC;protein_id=ALJ89840.1;transl_table=11
+CP012956.1	Genbank	gene	18635	19045	.	+	.	ID=gene-AN415_8020;Name=AN415_8020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8020
+CP012956.1	Genbank	CDS	18635	19045	.	+	0	ID=cds-ALJ89841.1;Parent=gene-AN415_8020;Dbxref=SEED:fig|470.1059.peg.22,NCBI_GP:ALJ89841.1;Name=ALJ89841.1;Note=restriction subunit R;gbkey=CDS;locus_tag=AN415_8020;product=Type I restriction-modification system;protein_id=ALJ89841.1;transl_table=11
+CP012956.1	Genbank	gene	19116	20030	.	-	.	ID=gene-AN415_8021;Name=rep;gbkey=Gene;gene=rep;gene_biotype=protein_coding;locus_tag=AN415_8021
+CP012956.1	Genbank	CDS	19116	20030	.	-	0	ID=cds-ALJ89842.1;Parent=gene-AN415_8021;Dbxref=SEED:fig|470.1059.peg.23,NCBI_GP:ALJ89842.1;Name=ALJ89842.1;Note=replication initiation protein;gbkey=CDS;gene=rep;locus_tag=AN415_8021;product=Rep;protein_id=ALJ89842.1;transl_table=11
+CP012956.1	Genbank	gene	20438	21067	.	+	.	ID=gene-AN415_8022;Name=AN415_8022;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8022
+CP012956.1	Genbank	CDS	20438	21067	.	+	0	ID=cds-ALJ89843.1;Parent=gene-AN415_8022;Dbxref=SEED:fig|470.1059.peg.24,NCBI_GP:ALJ89843.1;Name=ALJ89843.1;gbkey=CDS;locus_tag=AN415_8022;product=CobQ/CobB/MinD/ParA nucleotide binding domain;protein_id=ALJ89843.1;transl_table=11
+CP012956.1	Genbank	gene	21064	21297	.	+	.	ID=gene-AN415_8023;Name=AN415_8023;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8023
+CP012956.1	Genbank	CDS	21064	21297	.	+	0	ID=cds-ALJ89844.1;Parent=gene-AN415_8023;Dbxref=SEED:fig|470.1059.peg.25,NCBI_GP:ALJ89844.1;Name=ALJ89844.1;gbkey=CDS;locus_tag=AN415_8023;product=hypothetical protein;protein_id=ALJ89844.1;transl_table=11
+CP012956.1	Genbank	gene	21430	21831	.	-	.	ID=gene-AN415_8024;Name=AN415_8024;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8024
+CP012956.1	Genbank	CDS	21430	21831	.	-	0	ID=cds-ALJ89845.1;Parent=gene-AN415_8024;Dbxref=SEED:fig|470.1059.peg.26,NCBI_GP:ALJ89845.1;Name=ALJ89845.1;gbkey=CDS;locus_tag=AN415_8024;product=hypothetical protein;protein_id=ALJ89845.1;transl_table=11
+CP012956.1	Genbank	gene	23405	24022	.	+	.	ID=gene-AN415_8025;Name=mobC;gbkey=Gene;gene=mobC;gene_biotype=protein_coding;locus_tag=AN415_8025
+CP012956.1	Genbank	CDS	23405	24022	.	+	0	ID=cds-ALJ89846.1;Parent=gene-AN415_8025;Dbxref=SEED:fig|470.1059.peg.28,NCBI_GP:ALJ89846.1;Name=ALJ89846.1;Note=mobilization protein%3B pfam05713;gbkey=CDS;gene=mobC;locus_tag=AN415_8025;product=MobC;protein_id=ALJ89846.1;transl_table=11
+CP012956.1	Genbank	gene	24040	24390	.	-	.	ID=gene-AN415_8026;Name=AN415_8026;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8026
+CP012956.1	Genbank	CDS	24040	24390	.	-	0	ID=cds-ALJ89847.1;Parent=gene-AN415_8026;Dbxref=SEED:fig|470.1059.peg.29,NCBI_GP:ALJ89847.1;Name=ALJ89847.1;gbkey=CDS;locus_tag=AN415_8026;product=hypothetical protein;protein_id=ALJ89847.1;transl_table=11
+CP012956.1	Genbank	gene	24957	25298	.	+	.	ID=gene-AN415_8027;Name=AN415_8027;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8027
+CP012956.1	Genbank	CDS	24957	25298	.	+	0	ID=cds-ALJ89848.1;Parent=gene-AN415_8027;Dbxref=SEED:fig|470.1059.peg.30,NCBI_GP:ALJ89848.1;Name=ALJ89848.1;gbkey=CDS;locus_tag=AN415_8027;product=hypothetical protein;protein_id=ALJ89848.1;transl_table=11
+CP012956.1	Genbank	gene	25558	25926	.	+	.	ID=gene-AN415_8028;Name=AN415_8028;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8028
+CP012956.1	Genbank	CDS	25558	25926	.	+	0	ID=cds-ALJ89849.1;Parent=gene-AN415_8028;Dbxref=SEED:fig|470.1059.peg.31,NCBI_GP:ALJ89849.1;Name=ALJ89849.1;gbkey=CDS;locus_tag=AN415_8028;product=Serine/threonine protein phosphatase;protein_id=ALJ89849.1;transl_table=11
+CP012956.1	Genbank	gene	26003	26686	.	+	.	ID=gene-AN415_8029;Name=AN415_8029;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8029
+CP012956.1	Genbank	CDS	26003	26686	.	+	0	ID=cds-ALJ89850.1;Parent=gene-AN415_8029;Dbxref=SEED:fig|470.1059.peg.32,NCBI_GP:ALJ89850.1;Name=ALJ89850.1;gbkey=CDS;locus_tag=AN415_8029;product=hypothetical protein;protein_id=ALJ89850.1;transl_table=11
+CP012956.1	Genbank	gene	26692	27225	.	+	.	ID=gene-AN415_8030;Name=AN415_8030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8030
+CP012956.1	Genbank	CDS	26692	27225	.	+	0	ID=cds-ALJ89851.1;Parent=gene-AN415_8030;Dbxref=SEED:fig|470.1059.peg.33,NCBI_GP:ALJ89851.1;Name=ALJ89851.1;gbkey=CDS;locus_tag=AN415_8030;product=hypothetical protein;protein_id=ALJ89851.1;transl_table=11
+CP012956.1	Genbank	direct_repeat	27179	27187	.	+	.	ID=id-AN415_8030;Note=9 bp duplication of target site due to ISAba1 insertion%3B second copy at bases 28368-28376.;gbkey=repeat_region;locus_tag=AN415_8030;rpt_type=direct
+CP012956.1	Genbank	mobile_genetic_element	27188	28368	.	+	.	ID=id-CP012956.1:27188..28368;gbkey=mobile_element;mobile_element_type=insertion sequence:ISAba1
+CP012956.1	Genbank	gene	27259	27828	.	+	.	ID=gene-AN415_8031;Name=AN415_8031;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8031
+CP012956.1	Genbank	CDS	27259	27828	.	+	0	ID=cds-ALJ89852.1;Parent=gene-AN415_8031;Dbxref=SEED:fig|470.1059.peg.34,NCBI_GP:ALJ89852.1;Name=ALJ89852.1;Note=transposition protein;gbkey=CDS;locus_tag=AN415_8031;product=Tnp;protein_id=ALJ89852.1;transl_table=11
+CP012956.1	Genbank	gene	27903	28349	.	+	.	ID=gene-AN415_8032;Name=AN415_8032;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8032
+CP012956.1	Genbank	CDS	27903	28349	.	+	0	ID=cds-ALJ89853.1;Parent=gene-AN415_8032;Dbxref=SEED:fig|470.1059.peg.35,NCBI_GP:ALJ89853.1;Name=ALJ89853.1;Note=transposition protein;gbkey=CDS;locus_tag=AN415_8032;product=Tnp;protein_id=ALJ89853.1;transl_table=11
+CP012956.1	Genbank	direct_repeat	28368	28376	.	+	.	ID=id-CP012956.1:28368..28376;Note=9 bp duplication of target site due to ISAba1 insertion%3B first copy at bases 27179-27187.;gbkey=repeat_region;rpt_type=direct
+CP012956.1	Genbank	gene	28434	28820	.	-	.	ID=gene-AN415_8033;Name=AN415_8033;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8033
+CP012956.1	Genbank	CDS	28434	28820	.	-	0	ID=cds-ALJ89854.1;Parent=gene-AN415_8033;Dbxref=SEED:fig|470.1059.peg.36,NCBI_GP:ALJ89854.1;Name=ALJ89854.1;gbkey=CDS;locus_tag=AN415_8033;product=Death on curing protein%2C Doc toxin;protein_id=ALJ89854.1;transl_table=11
+CP012956.1	Genbank	gene	29046	29381	.	-	.	ID=gene-AN415_8034;Name=AN415_8034;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8034
+CP012956.1	Genbank	CDS	29046	29381	.	-	0	ID=cds-ALJ89855.1;Parent=gene-AN415_8034;Dbxref=SEED:fig|470.1059.peg.38,NCBI_GP:ALJ89855.1;Name=ALJ89855.1;gbkey=CDS;locus_tag=AN415_8034;product=hypothetical protein;protein_id=ALJ89855.1;transl_table=11
+CP012956.1	Genbank	recombination_feature	29409	29436	.	+	.	ID=id-CP012956.1:29409..29436;Note=dif site%3B XerD/XerC binding sites;gbkey=misc_recomb
+CP012956.1	Genbank	gene	29464	29772	.	-	.	ID=gene-AN415_8035;Name=AN415_8035;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8035
+CP012956.1	Genbank	CDS	29464	29772	.	-	0	ID=cds-ALJ89856.1;Parent=gene-AN415_8035;Dbxref=SEED:fig|470.1059.peg.39,NCBI_GP:ALJ89856.1;Name=ALJ89856.1;gbkey=CDS;locus_tag=AN415_8035;product=hypothetical protein;protein_id=ALJ89856.1;transl_table=11
+CP012956.1	Genbank	gene	29765	30052	.	-	.	ID=gene-AN415_8036;Name=AN415_8036;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8036
+CP012956.1	Genbank	CDS	29765	30052	.	-	0	ID=cds-ALJ89857.1;Parent=gene-AN415_8036;Dbxref=SEED:fig|470.1059.peg.40,NCBI_GP:ALJ89857.1;Name=ALJ89857.1;gbkey=CDS;locus_tag=AN415_8036;product=hypothetical protein;protein_id=ALJ89857.1;transl_table=11
+CP012956.1	Genbank	direct_repeat	30255	30259	.	+	.	ID=id-CP012956.1:30255..30259;Note=5 bp duplication of target site due to insertion of ISAba32%3B second copy at bases 31742-31746.;gbkey=repeat_region;rpt_type=direct
+CP012956.1	Genbank	mobile_genetic_element	30260	31741	.	+	.	ID=id-CP012956.1:30260..31741;gbkey=mobile_element;mobile_element_type=insertion sequence:ISAba32
+CP012956.1	Genbank	gene	30314	31636	.	-	.	ID=gene-AN415_8037;Name=AN415_8037;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8037
+CP012956.1	Genbank	CDS	30314	31636	.	-	0	ID=cds-ALJ89858.1;Parent=gene-AN415_8037;Dbxref=SEED:fig|470.1059.peg.41,NCBI_GP:ALJ89858.1;Name=ALJ89858.1;Note=transposition protein;gbkey=CDS;locus_tag=AN415_8037;product=Tnp;protein_id=ALJ89858.1;transl_table=11
+CP012956.1	Genbank	direct_repeat	31742	31746	.	+	.	ID=id-CP012956.1:31742..31746;Note=5 bp duplication of target site due to insertion of ISAba32%3B first copy at bases 30255-30259.;gbkey=repeat_region;rpt_type=direct
+CP012956.1	Genbank	recombination_feature	31747	31774	.	+	.	ID=id-CP012956.1:31747..31774;Note=dif site%3B XerC/XerD binding sites;gbkey=misc_recomb
+CP012956.1	Genbank	gene	31780	32307	.	-	.	ID=gene-AN415_8038;Name=AN415_8038;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8038
+CP012956.1	Genbank	CDS	31780	32307	.	-	0	ID=cds-ALJ89859.1;Parent=gene-AN415_8038;Dbxref=SEED:fig|470.1059.peg.42,NCBI_GP:ALJ89859.1;Name=ALJ89859.1;gbkey=CDS;locus_tag=AN415_8038;product=hypothetical protein;protein_id=ALJ89859.1;transl_table=11
+CP012956.1	Genbank	recombination_feature	32347	32374	.	+	.	ID=id-CP012956.1:32347..32374;Note=dif site%3B XerD/XerC binding sites;gbkey=misc_recomb
+CP012956.1	Genbank	gene	32522	32899	.	+	.	ID=gene-AN415_8039;Name=resP;gbkey=Gene;gene=resP;gene_biotype=protein_coding;locus_tag=AN415_8039
+CP012956.1	Genbank	CDS	32522	32899	.	+	0	ID=cds-ALJ89860.1;Parent=gene-AN415_8039;Dbxref=SEED:fig|470.1059.peg.43,NCBI_GP:ALJ89860.1;Name=ALJ89860.1;Note=putative resolvase;gbkey=CDS;gene=resP;locus_tag=AN415_8039;product=ResP;protein_id=ALJ89860.1;transl_table=11
+CP012956.1	Genbank	gene	33140	33955	.	+	.	ID=gene-AN415_8040;Name=sul2;Note=confers resisrance to sulphonamides;gbkey=Gene;gene=sul2;gene_biotype=protein_coding;locus_tag=AN415_8040
+CP012956.1	Genbank	CDS	33140	33955	.	+	0	ID=cds-ALJ89861.1;Parent=gene-AN415_8040;Dbxref=GO:0004156,SEED:fig|470.1059.peg.44,NCBI_GP:ALJ89861.1;Name=ALJ89861.1;Note=sulphonamide-insensitive dihydropteroate;gbkey=CDS;gene=sul2;locus_tag=AN415_8040;product=Sul2;protein_id=ALJ89861.1;transl_table=11
+CP012956.1	Genbank	gene	34042	34413	.	+	.	ID=gene-AN415_8041;Name=AN415_8041;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8041
+CP012956.1	Genbank	CDS	34042	34413	.	+	0	ID=cds-ALJ89862.1;Parent=gene-AN415_8041;Dbxref=GO:0008966,SEED:fig|470.1059.peg.45,NCBI_GP:ALJ89862.1;Name=ALJ89862.1;gbkey=CDS;locus_tag=AN415_8041;product=Phosphoglucosamine mutase;protein_id=ALJ89862.1;transl_table=11
+CP012956.1	Genbank	mobile_genetic_element	34284	35102	.	+	.	ID=id-CP012956.1:34284..35102;Note=97%25 DNA identical to IS1006;gbkey=mobile_element;mobile_element_type=insertion sequence:IS1006-like
+CP012956.1	Genbank	gene	34397	35050	.	+	.	ID=gene-AN415_8042;Name=AN415_8042;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8042
+CP012956.1	Genbank	CDS	34397	35050	.	+	0	ID=cds-ALJ89863.1;Parent=gene-AN415_8042;Dbxref=SEED:fig|470.1059.peg.46,NCBI_GP:ALJ89863.1;Name=ALJ89863.1;Note=transposition protein;gbkey=CDS;locus_tag=AN415_8042;product=Tnp;protein_id=ALJ89863.1;transl_table=11
+CP012956.1	Genbank	gene	35165	35302	.	+	.	ID=gene-AN415_8043;Name=AN415_8043;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8043
+CP012956.1	Genbank	CDS	35165	35302	.	+	0	ID=cds-ALJ89864.1;Parent=gene-AN415_8043;Dbxref=SEED:fig|470.1059.peg.47,NCBI_GP:ALJ89864.1;Name=ALJ89864.1;gbkey=CDS;locus_tag=AN415_8043;product=Tnp;protein_id=ALJ89864.1;transl_table=11
+CP012956.1	Genbank	gene	35382	35627	.	-	.	ID=gene-AN415_8044;Name=AN415_8044;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8044
+CP012956.1	Genbank	CDS	35382	35627	.	-	0	ID=cds-ALJ89865.1;Parent=gene-AN415_8044;Dbxref=SEED:fig|470.1059.peg.48,NCBI_GP:ALJ89865.1;Name=ALJ89865.1;Note=related to the Tn21 protein of unknown function Urf2;gbkey=CDS;locus_tag=AN415_8044;product=hypothetical protein;protein_id=ALJ89865.1;transl_table=11
+CP012956.1	Genbank	sequence_feature	35627	39630	.	+	.	ID=id-CP012956.1:35627..39630;Note=Hybride mer module%3B derived from Tn501 and Tn1696;gbkey=misc_feature
+CP012956.1	Genbank	gene	35659	35895	.	-	.	ID=gene-AN415_8045;Name=merE;gbkey=Gene;gene=merE;gene_biotype=protein_coding;locus_tag=AN415_8045
+CP012956.1	Genbank	CDS	35659	35895	.	-	0	ID=cds-ALJ89866.1;Parent=gene-AN415_8045;Dbxref=SEED:fig|470.1059.peg.49,NCBI_GP:ALJ89866.1;Name=ALJ89866.1;Note=Mercuric transport protein;gbkey=CDS;gene=merE;locus_tag=AN415_8045;product=MerE;protein_id=ALJ89866.1;transl_table=11
+CP012956.1	Genbank	gene	35892	36257	.	-	.	ID=gene-AN415_8046;Name=merD;gbkey=Gene;gene=merD;gene_biotype=protein_coding;locus_tag=AN415_8046
+CP012956.1	Genbank	CDS	35892	36257	.	-	0	ID=cds-ALJ89867.1;Parent=gene-AN415_8046;Dbxref=SEED:fig|470.1059.peg.50,NCBI_GP:ALJ89867.1;Name=ALJ89867.1;Note=Mercuric resistance operon coregulator;gbkey=CDS;gene=merD;locus_tag=AN415_8046;product=MerD;protein_id=ALJ89867.1;transl_table=11
+CP012956.1	Genbank	sequence_feature	35895	37618	.	+	.	ID=id-CP012956.1:35895..37618;Note=derived from Tn501%3B 3 bp different from the corresponding region in Tn501;gbkey=misc_feature
+CP012956.1	Genbank	gene	36275	37960	.	-	.	ID=gene-AN415_8047;Name=merA;gbkey=Gene;gene=merA;gene_biotype=protein_coding;locus_tag=AN415_8047
+CP012956.1	Genbank	CDS	36275	37960	.	-	0	ID=cds-ALJ89868.1;Parent=gene-AN415_8047;Dbxref=SEED:fig|470.1059.peg.51,NCBI_GP:ALJ89868.1;Name=ALJ89868.1;Note=Mercuric ion reductase;gbkey=CDS;gene=merA;locus_tag=AN415_8047;product=MerA;protein_id=ALJ89868.1;transl_table=11
+CP012956.1	Genbank	sequence_feature	37638	38654	.	+	.	ID=id-CP012956.1:37638..38654;Note=derived from Tn1696%3B 2 bp different to the corresponding region in Tn1696;gbkey=misc_feature
+CP012956.1	Genbank	gene	37999	38424	.	-	.	ID=gene-AN415_8048;Name=merC;gbkey=Gene;gene=merC;gene_biotype=protein_coding;locus_tag=AN415_8048
+CP012956.1	Genbank	CDS	37999	38424	.	-	0	ID=cds-ALJ89869.1;Parent=gene-AN415_8048;Dbxref=SEED:fig|470.1059.peg.52,NCBI_GP:ALJ89869.1;Name=ALJ89869.1;Note=Mercuric transport protein;gbkey=CDS;gene=merC;locus_tag=AN415_8048;product=MerC;protein_id=ALJ89869.1;transl_table=11
+CP012956.1	Genbank	gene	38452	38727	.	-	.	ID=gene-AN415_8049;Name=merP;gbkey=Gene;gene=merP;gene_biotype=protein_coding;locus_tag=AN415_8049
+CP012956.1	Genbank	CDS	38452	38727	.	-	0	ID=cds-ALJ89870.1;Parent=gene-AN415_8049;Dbxref=SEED:fig|470.1059.peg.53,NCBI_GP:ALJ89870.1;Name=ALJ89870.1;Note=Periplasmic mercury(+2) binding protein;gbkey=CDS;gene=merP;locus_tag=AN415_8049;product=MerP;protein_id=ALJ89870.1;transl_table=11
+CP012956.1	Genbank	gene	38741	39091	.	-	.	ID=gene-AN415_8050;Name=merT;gbkey=Gene;gene=merT;gene_biotype=protein_coding;locus_tag=AN415_8050
+CP012956.1	Genbank	CDS	38741	39091	.	-	0	ID=cds-ALJ89871.1;Parent=gene-AN415_8050;Dbxref=SEED:fig|470.1059.peg.54,NCBI_GP:ALJ89871.1;Name=ALJ89871.1;Note=Mercuric transport protein;gbkey=CDS;gene=merT;locus_tag=AN415_8050;product=MerT;protein_id=ALJ89871.1;transl_table=11
+CP012956.1	Genbank	sequence_feature	39075	39630	.	+	.	ID=id-CP012956.1:39075..39630;Note=derived from Tn1696%3B 2 bp different to the corresponding region in Tn1696;gbkey=misc_feature
+CP012956.1	Genbank	gene	39163	39618	.	+	.	ID=gene-AN415_8051;Name=merR;gbkey=Gene;gene=merR;gene_biotype=protein_coding;locus_tag=AN415_8051
+CP012956.1	Genbank	CDS	39163	39618	.	+	0	ID=cds-ALJ89872.1;Parent=gene-AN415_8051;Dbxref=SEED:fig|470.1059.peg.55,NCBI_GP:ALJ89872.1;Name=ALJ89872.1;Note=Mercuric resistance operon regulatory protein;gbkey=CDS;gene=merR;locus_tag=AN415_8051;product=MerR;protein_id=ALJ89872.1;transl_table=11
+CP012956.1	Genbank	inverted_repeat	39614	39630	.	+	.	ID=id-CP012956.1:39614..39630;Note=IRmer partial%3B 17 bp of the 38 bp IRmer of Tn1696 (GenBank accession number U12338).;gbkey=repeat_region;rpt_type=inverted
+CP012956.1	Genbank	mobile_genetic_element	39631	40449	.	+	.	ID=id-CP012956.1:39631..40449;Note=98%25 DNA identical to IS1006;gbkey=mobile_element;mobile_element_type=insertion sequence:IS1006-like
+CP012956.1	Genbank	gene	39693	40397	.	+	.	ID=gene-AN415_8052;Name=AN415_8052;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8052
+CP012956.1	Genbank	CDS	39693	40397	.	+	0	ID=cds-ALJ89873.1;Parent=gene-AN415_8052;Dbxref=SEED:fig|470.1059.peg.56,NCBI_GP:ALJ89873.1;Name=ALJ89873.1;Note=transposition protein;gbkey=CDS;locus_tag=AN415_8052;product=Tnp;protein_id=ALJ89873.1;transl_table=11
+CP012956.1	Genbank	direct_repeat	40576	40583	.	+	.	ID=id-CP012956.1:40576..40583;Note=8 bp duplication of target site due to insertion of Tn4352%3B second copy at bases 44453-44460.;gbkey=repeat_region;rpt_type=direct
+CP012956.1	Genbank	mobile_genetic_element	40584	44452	.	+	.	ID=id-CP012956.1:40584..44452;Note=interrupted by ISAba1;gbkey=mobile_element;mobile_element_type=transposon:Tn4352
+CP012956.1	Genbank	mobile_genetic_element	40584	41403	.	+	.	ID=id-CP012956.1:40584..41403;gbkey=mobile_element;mobile_element_type=insertion sequence:IS26
+CP012956.1	Genbank	gene	40647	41351	.	+	.	ID=gene-AN415_8053;Name=AN415_8053;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8053
+CP012956.1	Genbank	CDS	40647	41351	.	+	0	ID=cds-ALJ89874.1;Parent=gene-AN415_8053;Dbxref=SEED:fig|470.1059.peg.58,NCBI_GP:ALJ89874.1;Name=ALJ89874.1;Note=transposition protein;gbkey=CDS;locus_tag=AN415_8053;product=Tnp26;protein_id=ALJ89874.1;transl_table=11
+CP012956.1	Genbank	gene	41541	42302	.	-	.	ID=gene-AN415_8054;Name=aphA1a;Note=confers resistance to kanamycin and neomycin;gbkey=Gene;gene=aphA1a;gene_biotype=protein_coding;locus_tag=AN415_8054
+CP012956.1	Genbank	CDS	41541	42302	.	-	0	ID=cds-ALJ89875.1;Parent=gene-AN415_8054;Dbxref=SEED:fig|470.1059.peg.59,NCBI_GP:ALJ89875.1;Name=ALJ89875.1;Note=Aminoglycoside phosphotransferase;gbkey=CDS;gene=aphA1a;locus_tag=AN415_8054;product=AphA1a;protein_id=ALJ89875.1;transl_table=11
+CP012956.1	Genbank	direct_repeat	42400	42408	.	+	.	ID=id-CP012956.1:42400..42408;Note=9 bp duplication of target site due to insertion of ISAba1%3B second copy at bases 43589-43597.;gbkey=repeat_region;rpt_type=direct
+CP012956.1	Genbank	mobile_genetic_element	42409	43588	.	+	.	ID=id-CP012956.1:42409..43588;gbkey=mobile_element;mobile_element_type=insertion sequence:ISAba1
+CP012956.1	Genbank	gene	42480	43049	.	+	.	ID=gene-AN415_8055;Name=AN415_8055;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8055
+CP012956.1	Genbank	CDS	42480	43049	.	+	0	ID=cds-ALJ89876.1;Parent=gene-AN415_8055;Dbxref=SEED:fig|470.1059.peg.60,NCBI_GP:ALJ89876.1;Name=ALJ89876.1;Note=transposition protein;gbkey=CDS;locus_tag=AN415_8055;product=Tnp;protein_id=ALJ89876.1;transl_table=11
+CP012956.1	Genbank	gene	43124	43570	.	+	.	ID=gene-AN415_8056;Name=AN415_8056;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8056
+CP012956.1	Genbank	CDS	43124	43570	.	+	0	ID=cds-ALJ89877.1;Parent=gene-AN415_8056;Dbxref=SEED:fig|470.1059.peg.61,NCBI_GP:ALJ89877.1;Name=ALJ89877.1;Note=transposition protein;gbkey=CDS;locus_tag=AN415_8056;product=Tnp;protein_id=ALJ89877.1;transl_table=11
+CP012956.1	Genbank	direct_repeat	43589	43597	.	+	.	ID=id-CP012956.1:43589..43597;Note=9 bp duplication of target site due to insertion of ISAba1%3B first copy at bases 42400-42408;gbkey=repeat_region;rpt_type=direct
+CP012956.1	Genbank	mobile_genetic_element	43633	44452	.	+	.	ID=id-CP012956.1:43633..44452;gbkey=mobile_element;mobile_element_type=insertion sequence:IS26
+CP012956.1	Genbank	gene	43696	44400	.	+	.	ID=gene-AN415_8057;Name=AN415_8057;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_8057
+CP012956.1	Genbank	CDS	43696	44400	.	+	0	ID=cds-ALJ89878.1;Parent=gene-AN415_8057;Dbxref=SEED:fig|470.1059.peg.62,NCBI_GP:ALJ89878.1;Name=ALJ89878.1;Note=transposition protein;gbkey=CDS;locus_tag=AN415_8057;product=Tnp26;protein_id=ALJ89878.1;transl_table=11
+CP012956.1	Genbank	direct_repeat	44453	44460	.	+	.	ID=id-CP012956.1:44453..44460;Note=8 bp duplication of target site due to insertion of Tn4352%3B first copy at bases 40576-40583;gbkey=repeat_region;rpt_type=direct
+CP012956.1	Genbank	gene	44904	45815	.	-	.	ID=gene-AN415_8058;Name=parB;gbkey=Gene;gene=parB;gene_biotype=protein_coding;locus_tag=AN415_8058
+CP012956.1	Genbank	CDS	44904	45815	.	-	0	ID=cds-ALJ89879.1;Parent=gene-AN415_8058;Dbxref=SEED:fig|470.1059.peg.64,NCBI_GP:ALJ89879.1;Name=ALJ89879.1;Note=Chromosome/plasmid partitioning protein;gbkey=CDS;gene=parB;locus_tag=AN415_8058;product=ParB;protein_id=ALJ89879.1;transl_table=11
+CP012956.1	Genbank	gene	45829	46602	.	-	.	ID=gene-AN415_8059;Name=parA;gbkey=Gene;gene=parA;gene_biotype=protein_coding;locus_tag=AN415_8059
+CP012956.1	Genbank	CDS	45829	46602	.	-	0	ID=cds-ALJ89880.1;Parent=gene-AN415_8059;Dbxref=SEED:fig|470.1059.peg.65,NCBI_GP:ALJ89880.1;Name=ALJ89880.1;Note=Chromosome/plasmid partitioning protein;gbkey=CDS;gene=parA;locus_tag=AN415_8059;product=ParA;protein_id=ALJ89880.1;transl_table=11
+

@@ -1,0 +1,182 @@
+##sequence-region CP027121.1 1 72105
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP027121.1	Genbank	region	1	72105	.	+	.	ID=CP027121.1:1..72105;Dbxref=taxon:470;Is_circular=true;Name=unnamed2;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=unnamed2;strain=AR_0056
+CP027121.1	Genbank	gene	27	596	.	+	.	ID=gene-C7R87_4080;Name=C7R87_4080;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4080
+CP027121.1	Genbank	CDS	27	596	.	+	0	ID=cds-AVN03797.1;Parent=gene-C7R87_4080;Dbxref=NCBI_GP:AVN03797.1;Name=AVN03797.1;gbkey=CDS;locus_tag=C7R87_4080;product=hypothetical protein;protein_id=AVN03797.1;transl_table=11
+CP027121.1	Genbank	gene	671	1117	.	+	.	ID=gene-C7R87_4081;Name=C7R87_4081;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4081
+CP027121.1	Genbank	CDS	671	1117	.	+	0	ID=cds-AVN03747.1;Parent=gene-C7R87_4081;Dbxref=NCBI_GP:AVN03747.1;Name=AVN03747.1;gbkey=CDS;locus_tag=C7R87_4081;product=transposase DDE domain protein;protein_id=AVN03747.1;transl_table=11
+CP027121.1	Genbank	gene	1079	1972	.	-	.	ID=gene-C7R87_4082;Name=C7R87_4082;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4082
+CP027121.1	Genbank	CDS	1079	1972	.	-	0	ID=cds-AVN03793.1;Parent=gene-C7R87_4082;Dbxref=NCBI_GP:AVN03793.1;Name=AVN03793.1;gbkey=CDS;locus_tag=C7R87_4082;product=hypothetical protein;protein_id=AVN03793.1;transl_table=11
+CP027121.1	Genbank	gene	1985	3088	.	-	.	ID=gene-C7R87_4083;Name=C7R87_4083;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4083
+CP027121.1	Genbank	CDS	1985	3088	.	-	0	ID=cds-AVN03720.1;Parent=gene-C7R87_4083;Dbxref=NCBI_GP:AVN03720.1;Name=AVN03720.1;gbkey=CDS;locus_tag=C7R87_4083;product=toxic anion resistance family protein;protein_id=AVN03720.1;transl_table=11
+CP027121.1	Genbank	gene	3437	3670	.	-	.	ID=gene-C7R87_4084;Name=C7R87_4084;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4084
+CP027121.1	Genbank	CDS	3437	3670	.	-	0	ID=cds-AVN03771.1;Parent=gene-C7R87_4084;Dbxref=NCBI_GP:AVN03771.1;Name=AVN03771.1;gbkey=CDS;locus_tag=C7R87_4084;product=hypothetical protein;protein_id=AVN03771.1;transl_table=11
+CP027121.1	Genbank	gene	3685	4914	.	-	.	ID=gene-C7R87_4085;Name=C7R87_4085;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4085
+CP027121.1	Genbank	CDS	3685	4914	.	-	0	ID=cds-AVN03718.1;Parent=gene-C7R87_4085;Dbxref=NCBI_GP:AVN03718.1;Name=AVN03718.1;gbkey=CDS;locus_tag=C7R87_4085;product=hypothetical protein;protein_id=AVN03718.1;transl_table=11
+CP027121.1	Genbank	gene	5050	6306	.	-	.	ID=gene-C7R87_4086;Name=C7R87_4086;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4086
+CP027121.1	Genbank	CDS	5050	6306	.	-	0	ID=cds-AVN03725.1;Parent=gene-C7R87_4086;Dbxref=NCBI_GP:AVN03725.1;Name=AVN03725.1;gbkey=CDS;locus_tag=C7R87_4086;product=parB/RepB/Spo0J family partition domain protein;protein_id=AVN03725.1;transl_table=11
+CP027121.1	Genbank	gene	6310	7083	.	-	.	ID=gene-C7R87_4087;Name=C7R87_4087;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4087
+CP027121.1	Genbank	CDS	6310	7083	.	-	0	ID=cds-AVN03755.1;Parent=gene-C7R87_4087;Dbxref=NCBI_GP:AVN03755.1;Name=AVN03755.1;gbkey=CDS;locus_tag=C7R87_4087;product=cobQ/CobB/MinD/ParA nucleotide binding domain protein;protein_id=AVN03755.1;transl_table=11
+CP027121.1	Genbank	gene	7275	7616	.	-	.	ID=gene-C7R87_4088;Name=C7R87_4088;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4088
+CP027121.1	Genbank	CDS	7275	7616	.	-	0	ID=cds-AVN03729.1;Parent=gene-C7R87_4088;Dbxref=NCBI_GP:AVN03729.1;Name=AVN03729.1;gbkey=CDS;locus_tag=C7R87_4088;product=putative type I restriction-modification system methyltransferase subunit;protein_id=AVN03729.1;transl_table=11
+CP027121.1	Genbank	gene	7639	7881	.	-	.	ID=gene-C7R87_4089;Name=C7R87_4089;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4089
+CP027121.1	Genbank	CDS	7639	7881	.	-	0	ID=cds-AVN03721.1;Parent=gene-C7R87_4089;Dbxref=NCBI_GP:AVN03721.1;Name=AVN03721.1;gbkey=CDS;locus_tag=C7R87_4089;product=putative type I restriction-modification system methyltransferase subunit;protein_id=AVN03721.1;transl_table=11
+CP027121.1	Genbank	gene	8078	8575	.	-	.	ID=gene-C7R87_4090;Name=C7R87_4090;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4090
+CP027121.1	Genbank	CDS	8078	8575	.	-	0	ID=cds-AVN03760.1;Parent=gene-C7R87_4090;Dbxref=NCBI_GP:AVN03760.1;Name=AVN03760.1;gbkey=CDS;locus_tag=C7R87_4090;product=hypothetical protein;protein_id=AVN03760.1;transl_table=11
+CP027121.1	Genbank	gene	9103	9309	.	+	.	ID=gene-C7R87_4091;Name=C7R87_4091;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4091
+CP027121.1	Genbank	CDS	9103	9309	.	+	0	ID=cds-AVN03723.1;Parent=gene-C7R87_4091;Dbxref=NCBI_GP:AVN03723.1;Name=AVN03723.1;gbkey=CDS;locus_tag=C7R87_4091;product=hypothetical protein;protein_id=AVN03723.1;transl_table=11
+CP027121.1	Genbank	gene	9315	9551	.	-	.	ID=gene-C7R87_4092;Name=C7R87_4092;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4092
+CP027121.1	Genbank	CDS	9315	9551	.	-	0	ID=cds-AVN03734.1;Parent=gene-C7R87_4092;Dbxref=NCBI_GP:AVN03734.1;Name=AVN03734.1;gbkey=CDS;locus_tag=C7R87_4092;product=hypothetical protein;protein_id=AVN03734.1;transl_table=11
+CP027121.1	Genbank	gene	9556	10245	.	-	.	ID=gene-C7R87_4093;Name=C7R87_4093;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4093
+CP027121.1	Genbank	CDS	9556	10245	.	-	0	ID=cds-AVN03714.1;Parent=gene-C7R87_4093;Dbxref=NCBI_GP:AVN03714.1;Name=AVN03714.1;gbkey=CDS;locus_tag=C7R87_4093;product=hypothetical protein;protein_id=AVN03714.1;transl_table=11
+CP027121.1	Genbank	gene	10364	10768	.	-	.	ID=gene-C7R87_4094;Name=C7R87_4094;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4094
+CP027121.1	Genbank	CDS	10364	10768	.	-	0	ID=cds-AVN03784.1;Parent=gene-C7R87_4094;Dbxref=NCBI_GP:AVN03784.1;Name=AVN03784.1;gbkey=CDS;locus_tag=C7R87_4094;product=hypothetical protein;protein_id=AVN03784.1;transl_table=11
+CP027121.1	Genbank	gene	10782	11114	.	-	.	ID=gene-C7R87_4095;Name=C7R87_4095;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4095
+CP027121.1	Genbank	CDS	10782	11114	.	-	0	ID=cds-AVN03712.1;Parent=gene-C7R87_4095;Dbxref=NCBI_GP:AVN03712.1;Name=AVN03712.1;gbkey=CDS;locus_tag=C7R87_4095;product=hypothetical protein;protein_id=AVN03712.1;transl_table=11
+CP027121.1	Genbank	gene	11475	11651	.	-	.	ID=gene-C7R87_4096;Name=C7R87_4096;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4096
+CP027121.1	Genbank	CDS	11475	11651	.	-	0	ID=cds-AVN03762.1;Parent=gene-C7R87_4096;Dbxref=NCBI_GP:AVN03762.1;Name=AVN03762.1;gbkey=CDS;locus_tag=C7R87_4096;product=hypothetical protein;protein_id=AVN03762.1;transl_table=11
+CP027121.1	Genbank	gene	11676	12002	.	-	.	ID=gene-C7R87_4097;Name=C7R87_4097;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4097
+CP027121.1	Genbank	CDS	11676	12002	.	-	0	ID=cds-AVN03752.1;Parent=gene-C7R87_4097;Dbxref=NCBI_GP:AVN03752.1;Name=AVN03752.1;gbkey=CDS;locus_tag=C7R87_4097;product=H-NS histone family protein;protein_id=AVN03752.1;transl_table=11
+CP027121.1	Genbank	gene	12045	12686	.	+	.	ID=gene-C7R87_4098;Name=C7R87_4098;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4098
+CP027121.1	Genbank	CDS	12045	12686	.	+	0	ID=cds-AVN03736.1;Parent=gene-C7R87_4098;Dbxref=NCBI_GP:AVN03736.1;Name=AVN03736.1;gbkey=CDS;locus_tag=C7R87_4098;product=hypothetical protein;protein_id=AVN03736.1;transl_table=11
+CP027121.1	Genbank	gene	12791	13612	.	-	.	ID=gene-C7R87_4099;Name=C7R87_4099;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4099
+CP027121.1	Genbank	CDS	12791	13612	.	-	0	ID=cds-AVN03776.1;Parent=gene-C7R87_4099;Dbxref=NCBI_GP:AVN03776.1;Name=AVN03776.1;gbkey=CDS;locus_tag=C7R87_4099;product=beta-lactamase;protein_id=AVN03776.1;transl_table=11
+CP027121.1	Genbank	gene	13711	14280	.	+	.	ID=gene-C7R87_4100;Name=C7R87_4100;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4100
+CP027121.1	Genbank	CDS	13711	14280	.	+	0	ID=cds-AVN03788.1;Parent=gene-C7R87_4100;Dbxref=NCBI_GP:AVN03788.1;Name=AVN03788.1;gbkey=CDS;locus_tag=C7R87_4100;product=hypothetical protein;protein_id=AVN03788.1;transl_table=11
+CP027121.1	Genbank	gene	14355	14801	.	+	.	ID=gene-C7R87_4101;Name=C7R87_4101;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4101
+CP027121.1	Genbank	CDS	14355	14801	.	+	0	ID=cds-AVN03794.1;Parent=gene-C7R87_4101;Dbxref=NCBI_GP:AVN03794.1;Name=AVN03794.1;gbkey=CDS;locus_tag=C7R87_4101;product=transposase DDE domain protein;protein_id=AVN03794.1;transl_table=11
+CP027121.1	Genbank	gene	14870	15346	.	-	.	ID=gene-C7R87_4102;Name=C7R87_4102;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4102
+CP027121.1	Genbank	CDS	14870	15346	.	-	0	ID=cds-AVN03756.1;Parent=gene-C7R87_4102;Dbxref=NCBI_GP:AVN03756.1;Name=AVN03756.1;gbkey=CDS;locus_tag=C7R87_4102;product=hypothetical protein;protein_id=AVN03756.1;transl_table=11
+CP027121.1	Genbank	gene	15625	15765	.	-	.	ID=gene-C7R87_4103;Name=C7R87_4103;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4103
+CP027121.1	Genbank	CDS	15625	15765	.	-	0	ID=cds-AVN03710.1;Parent=gene-C7R87_4103;Dbxref=NCBI_GP:AVN03710.1;Name=AVN03710.1;gbkey=CDS;locus_tag=C7R87_4103;product=hypothetical protein;protein_id=AVN03710.1;transl_table=11
+CP027121.1	Genbank	gene	15788	15979	.	-	.	ID=gene-C7R87_4104;Name=C7R87_4104;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4104
+CP027121.1	Genbank	CDS	15788	15979	.	-	0	ID=cds-AVN03761.1;Parent=gene-C7R87_4104;Dbxref=NCBI_GP:AVN03761.1;Name=AVN03761.1;gbkey=CDS;locus_tag=C7R87_4104;product=hypothetical protein;protein_id=AVN03761.1;transl_table=11
+CP027121.1	Genbank	gene	15985	16581	.	-	.	ID=gene-C7R87_4105;Name=C7R87_4105;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4105
+CP027121.1	Genbank	CDS	15985	16581	.	-	0	ID=cds-AVN03727.1;Parent=gene-C7R87_4105;Dbxref=NCBI_GP:AVN03727.1;Name=AVN03727.1;gbkey=CDS;locus_tag=C7R87_4105;product=hypothetical protein;protein_id=AVN03727.1;transl_table=11
+CP027121.1	Genbank	gene	16753	17127	.	-	.	ID=gene-C7R87_4106;Name=C7R87_4106;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4106
+CP027121.1	Genbank	CDS	16753	17127	.	-	0	ID=cds-AVN03779.1;Parent=gene-C7R87_4106;Dbxref=NCBI_GP:AVN03779.1;Name=AVN03779.1;gbkey=CDS;locus_tag=C7R87_4106;product=hypothetical protein;protein_id=AVN03779.1;transl_table=11
+CP027121.1	Genbank	gene	17282	17662	.	-	.	ID=gene-C7R87_4107;Name=C7R87_4107;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4107
+CP027121.1	Genbank	CDS	17282	17662	.	-	0	ID=cds-AVN03737.1;Parent=gene-C7R87_4107;Dbxref=NCBI_GP:AVN03737.1;Name=AVN03737.1;gbkey=CDS;locus_tag=C7R87_4107;product=hypothetical protein;protein_id=AVN03737.1;transl_table=11
+CP027121.1	Genbank	gene	17708	18232	.	-	.	ID=gene-C7R87_4108;Name=C7R87_4108;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4108
+CP027121.1	Genbank	CDS	17708	18232	.	-	0	ID=cds-AVN03787.1;Parent=gene-C7R87_4108;Dbxref=NCBI_GP:AVN03787.1;Name=AVN03787.1;gbkey=CDS;locus_tag=C7R87_4108;product=hypothetical protein;protein_id=AVN03787.1;transl_table=11
+CP027121.1	Genbank	gene	18198	19463	.	-	.	ID=gene-C7R87_4109;Name=C7R87_4109;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4109
+CP027121.1	Genbank	CDS	18198	19463	.	-	0	ID=cds-AVN03763.1;Parent=gene-C7R87_4109;Dbxref=NCBI_GP:AVN03763.1;Name=AVN03763.1;gbkey=CDS;locus_tag=C7R87_4109;product=hypothetical protein;protein_id=AVN03763.1;transl_table=11
+CP027121.1	Genbank	gene	19479	20561	.	-	.	ID=gene-C7R87_4110;Name=C7R87_4110;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4110
+CP027121.1	Genbank	CDS	19479	20561	.	-	0	ID=cds-AVN03754.1;Parent=gene-C7R87_4110;Dbxref=NCBI_GP:AVN03754.1;Name=AVN03754.1;gbkey=CDS;locus_tag=C7R87_4110;product=zeta toxin family protein;protein_id=AVN03754.1;transl_table=11
+CP027121.1	Genbank	gene	20859	22022	.	-	.	ID=gene-C7R87_4111;Name=C7R87_4111;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4111
+CP027121.1	Genbank	CDS	20859	22022	.	-	0	ID=cds-AVN03791.1;Parent=gene-C7R87_4111;Dbxref=NCBI_GP:AVN03791.1;Name=AVN03791.1;gbkey=CDS;locus_tag=C7R87_4111;product=replicase family protein;protein_id=AVN03791.1;transl_table=11
+CP027121.1	Genbank	gene	22523	22756	.	+	.	ID=gene-C7R87_4112;Name=C7R87_4112;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4112
+CP027121.1	Genbank	CDS	22523	22756	.	+	0	ID=cds-AVN03716.1;Parent=gene-C7R87_4112;Dbxref=NCBI_GP:AVN03716.1;Name=AVN03716.1;gbkey=CDS;locus_tag=C7R87_4112;product=hypothetical protein;protein_id=AVN03716.1;transl_table=11
+CP027121.1	Genbank	gene	23320	24435	.	-	.	ID=gene-C7R87_4113;Name=C7R87_4113;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4113
+CP027121.1	Genbank	CDS	23320	24435	.	-	0	ID=cds-AVN03777.1;Parent=gene-C7R87_4113;Dbxref=NCBI_GP:AVN03777.1;Name=AVN03777.1;gbkey=CDS;locus_tag=C7R87_4113;product=hypothetical protein;protein_id=AVN03777.1;transl_table=11
+CP027121.1	Genbank	gene	24634	25926	.	-	.	ID=gene-C7R87_4114;Name=C7R87_4114;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4114
+CP027121.1	Genbank	CDS	24634	25926	.	-	0	ID=cds-AVN03732.1;Parent=gene-C7R87_4114;Dbxref=NCBI_GP:AVN03732.1;Name=AVN03732.1;gbkey=CDS;locus_tag=C7R87_4114;product=hypothetical protein;protein_id=AVN03732.1;transl_table=11
+CP027121.1	Genbank	gene	26093	27085	.	+	.	ID=gene-C7R87_4115;Name=C7R87_4115;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4115
+CP027121.1	Genbank	CDS	26093	27085	.	+	0	ID=cds-AVN03741.1;Parent=gene-C7R87_4115;Dbxref=NCBI_GP:AVN03741.1;Name=AVN03741.1;gbkey=CDS;locus_tag=C7R87_4115;product=hypothetical protein;protein_id=AVN03741.1;transl_table=11
+CP027121.1	Genbank	gene	27117	27635	.	-	.	ID=gene-C7R87_4116;Name=C7R87_4116;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4116
+CP027121.1	Genbank	CDS	27117	27635	.	-	0	ID=cds-AVN03781.1;Parent=gene-C7R87_4116;Dbxref=NCBI_GP:AVN03781.1;Name=AVN03781.1;gbkey=CDS;locus_tag=C7R87_4116;product=transglycosylase SLT domain protein;protein_id=AVN03781.1;transl_table=11
+CP027121.1	Genbank	gene	27707	30709	.	-	.	ID=gene-C7R87_4117;Name=C7R87_4117;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4117
+CP027121.1	Genbank	CDS	27707	30709	.	-	0	ID=cds-AVN03722.1;Parent=gene-C7R87_4117;Dbxref=NCBI_GP:AVN03722.1;Name=AVN03722.1;gbkey=CDS;locus_tag=C7R87_4117;product=putative traG protein;protein_id=AVN03722.1;transl_table=11
+CP027121.1	Genbank	gene	30725	32152	.	-	.	ID=gene-C7R87_4118;Name=C7R87_4118;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4118
+CP027121.1	Genbank	CDS	30725	32152	.	-	0	ID=cds-AVN03749.1;Parent=gene-C7R87_4118;Dbxref=NCBI_GP:AVN03749.1;Name=AVN03749.1;gbkey=CDS;locus_tag=C7R87_4118;product=conjugative relaxosome accessory transposon family protein;protein_id=AVN03749.1;transl_table=11
+CP027121.1	Genbank	gene	32186	32515	.	-	.	ID=gene-C7R87_4119;Name=C7R87_4119;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4119
+CP027121.1	Genbank	CDS	32186	32515	.	-	0	ID=cds-AVN03709.1;Parent=gene-C7R87_4119;Dbxref=NCBI_GP:AVN03709.1;Name=AVN03709.1;gbkey=CDS;locus_tag=C7R87_4119;product=hypothetical protein;protein_id=AVN03709.1;transl_table=11
+CP027121.1	Genbank	gene	32554	33342	.	-	.	ID=gene-C7R87_4120;Name=C7R87_4120;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4120
+CP027121.1	Genbank	CDS	32554	33342	.	-	0	ID=cds-AVN03733.1;Parent=gene-C7R87_4120;Dbxref=NCBI_GP:AVN03733.1;Name=AVN03733.1;gbkey=CDS;locus_tag=C7R87_4120;product=F plasmid transfer operon family protein;protein_id=AVN03733.1;transl_table=11
+CP027121.1	Genbank	gene	33359	35416	.	-	.	ID=gene-C7R87_4121;Name=C7R87_4121;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4121
+CP027121.1	Genbank	CDS	33359	35416	.	-	0	ID=cds-AVN03772.1;Parent=gene-C7R87_4121;Dbxref=NCBI_GP:AVN03772.1;Name=AVN03772.1;gbkey=CDS;locus_tag=C7R87_4121;product=type-1V conjugative transfer system mating pair stabilization family protein;protein_id=AVN03772.1;transl_table=11
+CP027121.1	Genbank	gene	35413	36030	.	-	.	ID=gene-C7R87_4122;Name=trbC;gbkey=Gene;gene=trbC;gene_biotype=protein_coding;locus_tag=C7R87_4122
+CP027121.1	Genbank	CDS	35413	36030	.	-	0	ID=cds-AVN03724.1;Parent=gene-C7R87_4122;Dbxref=NCBI_GP:AVN03724.1;Name=AVN03724.1;gbkey=CDS;gene=trbC;locus_tag=C7R87_4122;product=type-F conjugative transfer system pilin assembly protein TrbC;protein_id=AVN03724.1;transl_table=11
+CP027121.1	Genbank	gene	36135	37178	.	-	.	ID=gene-C7R87_4123;Name=C7R87_4123;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4123
+CP027121.1	Genbank	CDS	36135	37178	.	-	0	ID=cds-AVN03753.1;Parent=gene-C7R87_4123;Dbxref=NCBI_GP:AVN03753.1;Name=AVN03753.1;gbkey=CDS;locus_tag=C7R87_4123;product=traU family protein;protein_id=AVN03753.1;transl_table=11
+CP027121.1	Genbank	gene	37175	37813	.	-	.	ID=gene-C7R87_4124;Name=traW;gbkey=Gene;gene=traW;gene_biotype=protein_coding;locus_tag=C7R87_4124
+CP027121.1	Genbank	CDS	37175	37813	.	-	0	ID=cds-AVN03783.1;Parent=gene-C7R87_4124;Dbxref=NCBI_GP:AVN03783.1;Name=AVN03783.1;gbkey=CDS;gene=traW;locus_tag=C7R87_4124;product=type-F conjugative transfer system protein TraW;protein_id=AVN03783.1;transl_table=11
+CP027121.1	Genbank	gene	37800	38240	.	-	.	ID=gene-C7R87_4125;Name=C7R87_4125;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4125
+CP027121.1	Genbank	CDS	37800	38240	.	-	0	ID=cds-AVN03735.1;Parent=gene-C7R87_4125;Dbxref=NCBI_GP:AVN03735.1;Name=AVN03735.1;gbkey=CDS;locus_tag=C7R87_4125;product=signal peptidase I;protein_id=AVN03735.1;transl_table=11
+CP027121.1	Genbank	gene	38348	38743	.	-	.	ID=gene-C7R87_4126;Name=C7R87_4126;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4126
+CP027121.1	Genbank	CDS	38348	38743	.	-	0	ID=cds-AVN03790.1;Parent=gene-C7R87_4126;Dbxref=NCBI_GP:AVN03790.1;Name=AVN03790.1;gbkey=CDS;locus_tag=C7R87_4126;product=hypothetical protein;protein_id=AVN03790.1;transl_table=11
+CP027121.1	Genbank	gene	38740	41466	.	-	.	ID=gene-C7R87_4127;Name=traC;gbkey=Gene;gene=traC;gene_biotype=protein_coding;locus_tag=C7R87_4127
+CP027121.1	Genbank	CDS	38740	41466	.	-	0	ID=cds-AVN03792.1;Parent=gene-C7R87_4127;Dbxref=NCBI_GP:AVN03792.1;Name=AVN03792.1;gbkey=CDS;gene=traC;locus_tag=C7R87_4127;product=type-IV secretion system protein TraC;protein_id=AVN03792.1;transl_table=11
+CP027121.1	Genbank	gene	41476	42120	.	-	.	ID=gene-C7R87_4128;Name=traV;gbkey=Gene;gene=traV;gene_biotype=protein_coding;locus_tag=C7R87_4128
+CP027121.1	Genbank	CDS	41476	42120	.	-	0	ID=cds-AVN03785.1;Parent=gene-C7R87_4128;Dbxref=NCBI_GP:AVN03785.1;Name=AVN03785.1;gbkey=CDS;gene=traV;locus_tag=C7R87_4128;product=type IV conjugative transfer system protein TraV;protein_id=AVN03785.1;transl_table=11
+CP027121.1	Genbank	gene	42424	43146	.	-	.	ID=gene-C7R87_4129;Name=C7R87_4129;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4129
+CP027121.1	Genbank	CDS	42424	43146	.	-	0	ID=cds-AVN03751.1;Parent=gene-C7R87_4129;Dbxref=NCBI_GP:AVN03751.1;Name=AVN03751.1;gbkey=CDS;locus_tag=C7R87_4129;product=thioredoxin-like domain protein;protein_id=AVN03751.1;transl_table=11
+CP027121.1	Genbank	gene	43148	44464	.	-	.	ID=gene-C7R87_4130;Name=C7R87_4130;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4130
+CP027121.1	Genbank	CDS	43148	44464	.	-	0	ID=cds-AVN03796.1;Parent=gene-C7R87_4130;Dbxref=NCBI_GP:AVN03796.1;Name=AVN03796.1;gbkey=CDS;locus_tag=C7R87_4130;product=bacterial conjugation TrbI-like family protein;protein_id=AVN03796.1;transl_table=11
+CP027121.1	Genbank	gene	44474	45190	.	-	.	ID=gene-C7R87_4131;Name=C7R87_4131;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4131
+CP027121.1	Genbank	CDS	44474	45190	.	-	0	ID=cds-AVN03770.1;Parent=gene-C7R87_4131;Dbxref=NCBI_GP:AVN03770.1;Name=AVN03770.1;gbkey=CDS;locus_tag=C7R87_4131;product=traK family protein;protein_id=AVN03770.1;transl_table=11
+CP027121.1	Genbank	gene	45177	45755	.	-	.	ID=gene-C7R87_4132;Name=C7R87_4132;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4132
+CP027121.1	Genbank	CDS	45177	45755	.	-	0	ID=cds-AVN03769.1;Parent=gene-C7R87_4132;Dbxref=NCBI_GP:AVN03769.1;Name=AVN03769.1;gbkey=CDS;locus_tag=C7R87_4132;product=traE family protein;protein_id=AVN03769.1;transl_table=11
+CP027121.1	Genbank	gene	45760	46053	.	-	.	ID=gene-C7R87_4133;Name=traL;gbkey=Gene;gene=traL;gene_biotype=protein_coding;locus_tag=C7R87_4133
+CP027121.1	Genbank	CDS	45760	46053	.	-	0	ID=cds-AVN03711.1;Parent=gene-C7R87_4133;Dbxref=NCBI_GP:AVN03711.1;Name=AVN03711.1;gbkey=CDS;gene=traL;locus_tag=C7R87_4133;product=type IV conjugative transfer system protein TraL;protein_id=AVN03711.1;transl_table=11
+CP027121.1	Genbank	gene	46075	46428	.	-	.	ID=gene-C7R87_4134;Name=C7R87_4134;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4134
+CP027121.1	Genbank	CDS	46075	46428	.	-	0	ID=cds-AVN03715.1;Parent=gene-C7R87_4134;Dbxref=NCBI_GP:AVN03715.1;Name=AVN03715.1;gbkey=CDS;locus_tag=C7R87_4134;product=putative membrane protein;protein_id=AVN03715.1;transl_table=11
+CP027121.1	Genbank	gene	46479	46625	.	-	.	ID=gene-C7R87_4135;Name=C7R87_4135;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4135
+CP027121.1	Genbank	CDS	46479	46625	.	-	0	ID=cds-AVN03713.1;Parent=gene-C7R87_4135;Dbxref=NCBI_GP:AVN03713.1;Name=AVN03713.1;gbkey=CDS;locus_tag=C7R87_4135;product=hypothetical protein;protein_id=AVN03713.1;transl_table=11
+CP027121.1	Genbank	gene	46732	47346	.	-	.	ID=gene-C7R87_4136;Name=C7R87_4136;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4136
+CP027121.1	Genbank	CDS	46732	47346	.	-	0	ID=cds-AVN03758.1;Parent=gene-C7R87_4136;Dbxref=NCBI_GP:AVN03758.1;Name=AVN03758.1;gbkey=CDS;locus_tag=C7R87_4136;product=transglycosylase SLT domain protein;protein_id=AVN03758.1;transl_table=11
+CP027121.1	Genbank	gene	47646	47924	.	+	.	ID=gene-C7R87_4137;Name=C7R87_4137;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4137
+CP027121.1	Genbank	CDS	47646	47924	.	+	0	ID=cds-AVN03774.1;Parent=gene-C7R87_4137;Dbxref=NCBI_GP:AVN03774.1;Name=AVN03774.1;gbkey=CDS;locus_tag=C7R87_4137;product=hypothetical protein;protein_id=AVN03774.1;transl_table=11
+CP027121.1	Genbank	gene	48238	48381	.	+	.	ID=gene-C7R87_4138;Name=C7R87_4138;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4138
+CP027121.1	Genbank	CDS	48238	48381	.	+	0	ID=cds-AVN03743.1;Parent=gene-C7R87_4138;Dbxref=NCBI_GP:AVN03743.1;Name=AVN03743.1;gbkey=CDS;locus_tag=C7R87_4138;product=hypothetical protein;protein_id=AVN03743.1;transl_table=11
+CP027121.1	Genbank	gene	48423	49061	.	-	.	ID=gene-C7R87_4139;Name=C7R87_4139;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4139
+CP027121.1	Genbank	CDS	48423	49061	.	-	0	ID=cds-AVN03768.1;Parent=gene-C7R87_4139;Dbxref=NCBI_GP:AVN03768.1;Name=AVN03768.1;gbkey=CDS;locus_tag=C7R87_4139;product=resolvase%2C N terminal domain protein;protein_id=AVN03768.1;transl_table=11
+CP027121.1	Genbank	gene	49318	49977	.	+	.	ID=gene-C7R87_4140;Name=C7R87_4140;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4140
+CP027121.1	Genbank	CDS	49318	49977	.	+	0	ID=cds-AVN03773.1;Parent=gene-C7R87_4140;Dbxref=NCBI_GP:AVN03773.1;Name=AVN03773.1;gbkey=CDS;locus_tag=C7R87_4140;product=hypothetical protein;protein_id=AVN03773.1;transl_table=11
+CP027121.1	Genbank	gene	50254	51264	.	-	.	ID=gene-C7R87_4141;Name=C7R87_4141;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4141
+CP027121.1	Genbank	CDS	50254	51264	.	-	0	ID=cds-AVN03789.1;Parent=gene-C7R87_4141;Dbxref=NCBI_GP:AVN03789.1;Name=AVN03789.1;gbkey=CDS;locus_tag=C7R87_4141;product=integrase core domain protein;protein_id=AVN03789.1;transl_table=11
+CP027121.1	Genbank	gene	52044	52232	.	+	.	ID=gene-C7R87_4142;Name=C7R87_4142;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4142
+CP027121.1	Genbank	CDS	52044	52232	.	+	0	ID=cds-AVN03726.1;Parent=gene-C7R87_4142;Dbxref=NCBI_GP:AVN03726.1;Name=AVN03726.1;gbkey=CDS;locus_tag=C7R87_4142;product=hypothetical protein;protein_id=AVN03726.1;transl_table=11
+CP027121.1	Genbank	gene	52768	53334	.	+	.	ID=gene-C7R87_4143;Name=C7R87_4143;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4143
+CP027121.1	Genbank	CDS	52768	53334	.	+	0	ID=cds-AVN03738.1;Parent=gene-C7R87_4143;Dbxref=NCBI_GP:AVN03738.1;Name=AVN03738.1;gbkey=CDS;locus_tag=C7R87_4143;product=putative membrane protein;protein_id=AVN03738.1;transl_table=11
+CP027121.1	Genbank	gene	53372	53698	.	+	.	ID=gene-C7R87_4144;Name=C7R87_4144;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4144
+CP027121.1	Genbank	CDS	53372	53698	.	+	0	ID=cds-AVN03739.1;Parent=gene-C7R87_4144;Dbxref=NCBI_GP:AVN03739.1;Name=AVN03739.1;gbkey=CDS;locus_tag=C7R87_4144;product=hypothetical protein;protein_id=AVN03739.1;transl_table=11
+CP027121.1	Genbank	gene	53752	54174	.	-	.	ID=gene-C7R87_4145;Name=C7R87_4145;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4145
+CP027121.1	Genbank	CDS	53752	54174	.	-	0	ID=cds-AVN03759.1;Parent=gene-C7R87_4145;Dbxref=NCBI_GP:AVN03759.1;Name=AVN03759.1;gbkey=CDS;locus_tag=C7R87_4145;product=hypothetical protein;protein_id=AVN03759.1;transl_table=11
+CP027121.1	Genbank	gene	54268	57543	.	-	.	ID=gene-C7R87_4146;Name=C7R87_4146;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4146
+CP027121.1	Genbank	CDS	54268	57543	.	-	0	ID=cds-AVN03767.1;Parent=gene-C7R87_4146;Dbxref=NCBI_GP:AVN03767.1;Name=AVN03767.1;gbkey=CDS;locus_tag=C7R87_4146;product=conjugative relaxase domain protein;protein_id=AVN03767.1;transl_table=11
+CP027121.1	Genbank	gene	57555	59642	.	-	.	ID=gene-C7R87_4147;Name=C7R87_4147;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4147
+CP027121.1	Genbank	CDS	57555	59642	.	-	0	ID=cds-AVN03782.1;Parent=gene-C7R87_4147;Dbxref=NCBI_GP:AVN03782.1;Name=AVN03782.1;gbkey=CDS;locus_tag=C7R87_4147;product=traM recognition site of TraD and TraG family protein;protein_id=AVN03782.1;transl_table=11
+CP027121.1	Genbank	gene	59719	60189	.	-	.	ID=gene-C7R87_4148;Name=C7R87_4148;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4148
+CP027121.1	Genbank	CDS	59719	60189	.	-	0	ID=cds-AVN03744.1;Parent=gene-C7R87_4148;Dbxref=NCBI_GP:AVN03744.1;Name=AVN03744.1;gbkey=CDS;locus_tag=C7R87_4148;product=hypothetical protein;protein_id=AVN03744.1;transl_table=11
+CP027121.1	Genbank	gene	60767	61096	.	+	.	ID=gene-C7R87_4149;Name=C7R87_4149;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4149
+CP027121.1	Genbank	CDS	60767	61096	.	+	0	ID=cds-AVN03757.1;Parent=gene-C7R87_4149;Dbxref=NCBI_GP:AVN03757.1;Name=AVN03757.1;gbkey=CDS;locus_tag=C7R87_4149;product=hypothetical protein;protein_id=AVN03757.1;transl_table=11
+CP027121.1	Genbank	gene	61126	61320	.	-	.	ID=gene-C7R87_4150;Name=C7R87_4150;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4150
+CP027121.1	Genbank	CDS	61126	61320	.	-	0	ID=cds-AVN03764.1;Parent=gene-C7R87_4150;Dbxref=NCBI_GP:AVN03764.1;Name=AVN03764.1;gbkey=CDS;locus_tag=C7R87_4150;product=hypothetical protein;protein_id=AVN03764.1;transl_table=11
+CP027121.1	Genbank	gene	61336	61668	.	-	.	ID=gene-C7R87_4151;Name=C7R87_4151;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4151
+CP027121.1	Genbank	CDS	61336	61668	.	-	0	ID=cds-AVN03731.1;Parent=gene-C7R87_4151;Dbxref=NCBI_GP:AVN03731.1;Name=AVN03731.1;gbkey=CDS;locus_tag=C7R87_4151;product=hypothetical protein;protein_id=AVN03731.1;transl_table=11
+CP027121.1	Genbank	gene	61813	62097	.	-	.	ID=gene-C7R87_4152;Name=C7R87_4152;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4152
+CP027121.1	Genbank	CDS	61813	62097	.	-	0	ID=cds-AVN03717.1;Parent=gene-C7R87_4152;Dbxref=NCBI_GP:AVN03717.1;Name=AVN03717.1;gbkey=CDS;locus_tag=C7R87_4152;product=hypothetical protein;protein_id=AVN03717.1;transl_table=11
+CP027121.1	Genbank	gene	62242	62739	.	-	.	ID=gene-C7R87_4153;Name=C7R87_4153;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4153
+CP027121.1	Genbank	CDS	62242	62739	.	-	0	ID=cds-AVN03766.1;Parent=gene-C7R87_4153;Dbxref=NCBI_GP:AVN03766.1;Name=AVN03766.1;gbkey=CDS;locus_tag=C7R87_4153;product=dnaJ domain protein;protein_id=AVN03766.1;transl_table=11
+CP027121.1	Genbank	gene	63674	63802	.	-	.	ID=gene-C7R87_4154;Name=C7R87_4154;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4154
+CP027121.1	Genbank	CDS	63674	63802	.	-	0	ID=cds-AVN03730.1;Parent=gene-C7R87_4154;Dbxref=NCBI_GP:AVN03730.1;Name=AVN03730.1;gbkey=CDS;locus_tag=C7R87_4154;product=hypothetical protein;protein_id=AVN03730.1;transl_table=11
+CP027121.1	Genbank	gene	63919	64050	.	-	.	ID=gene-C7R87_4155;Name=C7R87_4155;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4155
+CP027121.1	Genbank	CDS	63919	64050	.	-	0	ID=cds-AVN03728.1;Parent=gene-C7R87_4155;Dbxref=NCBI_GP:AVN03728.1;Name=AVN03728.1;gbkey=CDS;locus_tag=C7R87_4155;product=putative membrane protein;protein_id=AVN03728.1;transl_table=11
+CP027121.1	Genbank	gene	64144	64902	.	-	.	ID=gene-C7R87_4156;Name=C7R87_4156;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4156
+CP027121.1	Genbank	CDS	64144	64902	.	-	0	ID=cds-AVN03719.1;Parent=gene-C7R87_4156;Dbxref=NCBI_GP:AVN03719.1;Name=AVN03719.1;gbkey=CDS;locus_tag=C7R87_4156;product=hypothetical protein;protein_id=AVN03719.1;transl_table=11
+CP027121.1	Genbank	gene	64969	65364	.	-	.	ID=gene-C7R87_4157;Name=C7R87_4157;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4157
+CP027121.1	Genbank	CDS	64969	65364	.	-	0	ID=cds-AVN03775.1;Parent=gene-C7R87_4157;Dbxref=NCBI_GP:AVN03775.1;Name=AVN03775.1;gbkey=CDS;locus_tag=C7R87_4157;product=hypothetical protein;protein_id=AVN03775.1;transl_table=11
+CP027121.1	Genbank	gene	65491	66189	.	-	.	ID=gene-C7R87_4158;Name=C7R87_4158;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4158
+CP027121.1	Genbank	CDS	65491	66189	.	-	0	ID=cds-AVN03786.1;Parent=gene-C7R87_4158;Dbxref=NCBI_GP:AVN03786.1;Name=AVN03786.1;gbkey=CDS;locus_tag=C7R87_4158;product=hypothetical protein;protein_id=AVN03786.1;transl_table=11
+CP027121.1	Genbank	gene	66487	67053	.	-	.	ID=gene-C7R87_4159;Name=C7R87_4159;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4159
+CP027121.1	Genbank	CDS	66487	67053	.	-	0	ID=cds-AVN03795.1;Parent=gene-C7R87_4159;Dbxref=NCBI_GP:AVN03795.1;Name=AVN03795.1;gbkey=CDS;locus_tag=C7R87_4159;product=hypothetical protein;protein_id=AVN03795.1;transl_table=11
+CP027121.1	Genbank	gene	67254	67613	.	+	.	ID=gene-C7R87_4160;Name=C7R87_4160;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4160
+CP027121.1	Genbank	CDS	67254	67613	.	+	0	ID=cds-AVN03746.1;Parent=gene-C7R87_4160;Dbxref=NCBI_GP:AVN03746.1;Name=AVN03746.1;gbkey=CDS;locus_tag=C7R87_4160;product=hypothetical protein;protein_id=AVN03746.1;transl_table=11
+CP027121.1	Genbank	gene	67613	67912	.	+	.	ID=gene-C7R87_4161;Name=C7R87_4161;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4161
+CP027121.1	Genbank	CDS	67613	67912	.	+	0	ID=cds-AVN03765.1;Parent=gene-C7R87_4161;Dbxref=NCBI_GP:AVN03765.1;Name=AVN03765.1;gbkey=CDS;locus_tag=C7R87_4161;product=helix-turn-helix family protein;protein_id=AVN03765.1;transl_table=11
+CP027121.1	Genbank	gene	68450	68986	.	-	.	ID=gene-C7R87_4162;Name=C7R87_4162;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4162
+CP027121.1	Genbank	CDS	68450	68986	.	-	0	ID=cds-AVN03748.1;Parent=gene-C7R87_4162;Dbxref=NCBI_GP:AVN03748.1;Name=AVN03748.1;gbkey=CDS;locus_tag=C7R87_4162;product=putative lipoprotein;protein_id=AVN03748.1;transl_table=11
+CP027121.1	Genbank	gene	69036	69590	.	-	.	ID=gene-C7R87_4163;Name=C7R87_4163;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4163
+CP027121.1	Genbank	CDS	69036	69590	.	-	0	ID=cds-AVN03780.1;Parent=gene-C7R87_4163;Dbxref=NCBI_GP:AVN03780.1;Name=AVN03780.1;gbkey=CDS;locus_tag=C7R87_4163;product=hypothetical protein;protein_id=AVN03780.1;transl_table=11
+CP027121.1	Genbank	gene	69610	69828	.	-	.	ID=gene-C7R87_4164;Name=C7R87_4164;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4164
+CP027121.1	Genbank	CDS	69610	69828	.	-	0	ID=cds-AVN03745.1;Parent=gene-C7R87_4164;Dbxref=NCBI_GP:AVN03745.1;Name=AVN03745.1;gbkey=CDS;locus_tag=C7R87_4164;product=hypothetical protein;protein_id=AVN03745.1;transl_table=11
+CP027121.1	Genbank	gene	69868	70497	.	-	.	ID=gene-C7R87_4165;Name=C7R87_4165;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4165
+CP027121.1	Genbank	CDS	69868	70497	.	-	0	ID=cds-AVN03778.1;Parent=gene-C7R87_4165;Dbxref=NCBI_GP:AVN03778.1;Name=AVN03778.1;gbkey=CDS;locus_tag=C7R87_4165;product=hypothetical protein;protein_id=AVN03778.1;transl_table=11
+CP027121.1	Genbank	gene	70514	70693	.	-	.	ID=gene-C7R87_4166;Name=C7R87_4166;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4166
+CP027121.1	Genbank	CDS	70514	70693	.	-	0	ID=cds-AVN03740.1;Parent=gene-C7R87_4166;Dbxref=NCBI_GP:AVN03740.1;Name=AVN03740.1;gbkey=CDS;locus_tag=C7R87_4166;product=hypothetical protein;protein_id=AVN03740.1;transl_table=11
+CP027121.1	Genbank	gene	70669	71241	.	-	.	ID=gene-C7R87_4167;Name=C7R87_4167;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4167
+CP027121.1	Genbank	CDS	70669	71241	.	-	0	ID=cds-AVN03750.1;Parent=gene-C7R87_4167;Dbxref=NCBI_GP:AVN03750.1;Name=AVN03750.1;gbkey=CDS;locus_tag=C7R87_4167;product=hypothetical protein;protein_id=AVN03750.1;transl_table=11
+CP027121.1	Genbank	gene	71608	72090	.	-	.	ID=gene-C7R87_4168;Name=C7R87_4168;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C7R87_4168
+CP027121.1	Genbank	CDS	71608	72090	.	-	0	ID=cds-AVN03742.1;Parent=gene-C7R87_4168;Dbxref=NCBI_GP:AVN03742.1;Name=AVN03742.1;gbkey=CDS;locus_tag=C7R87_4168;product=hypothetical protein;protein_id=AVN03742.1;transl_table=11
+

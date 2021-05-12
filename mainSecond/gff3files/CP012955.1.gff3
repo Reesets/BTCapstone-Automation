@@ -1,0 +1,37 @@
+##sequence-region CP012955.1 1 9276
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP012955.1	Genbank	region	1	9276	.	+	.	ID=CP012955.1:1..9276;Dbxref=taxon:470;Is_circular=true;Name=pD36-3;clone=GC1;collected-by=Clarence Fernandez;collection-date=2008;country=Australia: Sydney;gbkey=Src;genome=plasmid;genotype=GC1;isolation-source=Wound;lat-lon=33.8650 S 151.2094 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pD36-3;strain=D36
+CP012955.1	Genbank	sequence_feature	1	9215	.	+	.	ID=id-CP012955.1:1..9215;Note=iteron 1;gbkey=misc_feature
+CP012955.1	Genbank	sequence_feature	1	88	.	+	.	ID=id-CP012955.1:1..88;Note=iteron region;gbkey=misc_feature
+CP012955.1	Genbank	sequence_feature	23	44	.	+	.	ID=id-CP012955.1:23..44;Note=iteron 2;gbkey=misc_feature
+CP012955.1	Genbank	sequence_feature	45	66	.	+	.	ID=id-CP012955.1:45..66;Note=iteron 3;gbkey=misc_feature
+CP012955.1	Genbank	sequence_feature	67	88	.	+	.	ID=id-CP012955.1:67..88;Note=iteron 4;gbkey=misc_feature
+CP012955.1	Genbank	gene	134	1090	.	+	.	ID=gene-AN415_7001;Name=repAci1;gbkey=Gene;gene=repAci1;gene_biotype=protein_coding;locus_tag=AN415_7001
+CP012955.1	Genbank	CDS	134	1090	.	+	0	ID=cds-ALJ89812.1;Parent=gene-AN415_7001;Dbxref=SEED:fig|470.1072.peg.1,NCBI_GP:ALJ89812.1;Name=ALJ89812.1;Note=replication initiator protein;gbkey=CDS;gene=repAci1;locus_tag=AN415_7001;product=RepAci1;protein_id=ALJ89812.1;transl_table=11
+CP012955.1	Genbank	gene	1083	1658	.	+	.	ID=gene-AN415_7002;Name=AN415_7002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_7002
+CP012955.1	Genbank	CDS	1083	1658	.	+	0	ID=cds-ALJ89813.1;Parent=gene-AN415_7002;Dbxref=SEED:fig|470.1072.peg.2,NCBI_GP:ALJ89813.1;Name=ALJ89813.1;gbkey=CDS;locus_tag=AN415_7002;product=Hypothetical protein;protein_id=ALJ89813.1;transl_table=11
+CP012955.1	Genbank	gene	1678	1821	.	+	.	ID=gene-AN415_7003;Name=AN415_7003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_7003
+CP012955.1	Genbank	CDS	1678	1821	.	+	0	ID=cds-ALJ89814.1;Parent=gene-AN415_7003;Dbxref=SEED:fig|470.1072.peg.3,NCBI_GP:ALJ89814.1;Name=ALJ89814.1;gbkey=CDS;locus_tag=AN415_7003;product=hypothetical protein;protein_id=ALJ89814.1;transl_table=11
+CP012955.1	Genbank	recombination_feature	1966	1993	.	+	.	ID=id-CP012955.1:1966..1993;Note=dif site%3B XerC/XerD binding sites;gbkey=misc_recomb
+CP012955.1	Genbank	gene	2029	3489	.	-	.	ID=gene-AN415_7004;Name=AN415_7004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_7004
+CP012955.1	Genbank	CDS	2029	3489	.	-	0	ID=cds-ALJ89815.1;Parent=gene-AN415_7004;Dbxref=GO:0005215,GO:0006810,GO:0006813,GO:0008324,GO:0015137,GO:0015746,GO:0016021,SEED:fig|470.1072.peg.4,NCBI_GP:ALJ89815.1;Name=ALJ89815.1;gbkey=CDS;locus_tag=AN415_7004;product=putative sulfate transporter;protein_id=ALJ89815.1;transl_table=11
+CP012955.1	Genbank	gene	3732	3956	.	-	.	ID=gene-AN415_7005;Name=AN415_7005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_7005
+CP012955.1	Genbank	CDS	3732	3956	.	-	0	ID=cds-ALJ89816.1;Parent=gene-AN415_7005;Dbxref=SEED:fig|470.1072.peg.5,NCBI_GP:ALJ89816.1;Name=ALJ89816.1;gbkey=CDS;locus_tag=AN415_7005;product=hypothetical protein;protein_id=ALJ89816.1;transl_table=11
+CP012955.1	Genbank	recombination_feature	4097	4124	.	+	.	ID=id-CP012955.1:4097..4124;Note=dif site%3B XerD/XerC binding sites;gbkey=misc_recomb
+CP012955.1	Genbank	gene	4625	4981	.	+	.	ID=gene-AN415_7006;Name=AN415_7006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_7006
+CP012955.1	Genbank	CDS	4625	4981	.	+	0	ID=cds-ALJ89817.1;Parent=gene-AN415_7006;Dbxref=SEED:fig|470.1072.peg.6,NCBI_GP:ALJ89817.1;Name=ALJ89817.1;gbkey=CDS;locus_tag=AN415_7006;product=Diaminopimelate decarboxylase;protein_id=ALJ89817.1;transl_table=11
+CP012955.1	Genbank	gene	4974	5276	.	+	.	ID=gene-AN415_7007;Name=AN415_7007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_7007
+CP012955.1	Genbank	CDS	4974	5276	.	+	0	ID=cds-ALJ89818.1;Parent=gene-AN415_7007;Dbxref=SEED:fig|470.1072.peg.7,NCBI_GP:ALJ89818.1;Name=ALJ89818.1;Note=Cro-like protein;gbkey=CDS;locus_tag=AN415_7007;product=transcriptional regulator;protein_id=ALJ89818.1;transl_table=11
+CP012955.1	Genbank	gene	5817	6119	.	+	.	ID=gene-AN415_7008;Name=AN415_7008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_7008
+CP012955.1	Genbank	CDS	5817	6119	.	+	0	ID=cds-ALJ89819.1;Parent=gene-AN415_7008;Dbxref=SEED:fig|470.1072.peg.8,NCBI_GP:ALJ89819.1;Name=ALJ89819.1;gbkey=CDS;locus_tag=AN415_7008;product=hypothetical protein;protein_id=ALJ89819.1;transl_table=11
+CP012955.1	Genbank	recombination_feature	6135	6162	.	+	.	ID=id-CP012955.1:6135..6162;Note=dif site%3B XerD/XerC binding sites;gbkey=misc_recomb
+CP012955.1	Genbank	gene	6184	6924	.	-	.	ID=gene-AN415_7009;Name=AN415_7009;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_7009
+CP012955.1	Genbank	CDS	6184	6924	.	-	0	ID=cds-ALJ89820.1;Parent=gene-AN415_7009;Dbxref=SEED:fig|470.1072.peg.9,NCBI_GP:ALJ89820.1;Name=ALJ89820.1;gbkey=CDS;locus_tag=AN415_7009;product=hypothetical protein;protein_id=ALJ89820.1;transl_table=11
+CP012955.1	Genbank	gene	7235	7621	.	+	.	ID=gene-AN415_7010;Name=AN415_7010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_7010
+CP012955.1	Genbank	CDS	7235	7621	.	+	0	ID=cds-ALJ89821.1;Parent=gene-AN415_7010;Dbxref=SEED:fig|470.1072.peg.10,NCBI_GP:ALJ89821.1;Name=ALJ89821.1;gbkey=CDS;locus_tag=AN415_7010;product=hypothetical protein;protein_id=ALJ89821.1;transl_table=11
+CP012955.1	Genbank	recombination_feature	7625	7652	.	+	.	ID=id-CP012955.1:7625..7652;Note=dif site%3B XerD/XerC binding sites;gbkey=misc_recomb
+CP012955.1	Genbank	gene	7658	7831	.	-	.	ID=gene-AN415_7011;Name=AN415_7011;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_7011
+CP012955.1	Genbank	CDS	7658	7831	.	-	0	ID=cds-ALJ89822.1;Parent=gene-AN415_7011;Dbxref=SEED:fig|470.1072.peg.11,NCBI_GP:ALJ89822.1;Name=ALJ89822.1;gbkey=CDS;locus_tag=AN415_7011;product=hypothetical protein;protein_id=ALJ89822.1;transl_table=11
+CP012955.1	Genbank	gene	7831	8202	.	-	.	ID=gene-AN415_7012;Name=AN415_7012;gbkey=Gene;gene_biotype=protein_coding;locus_tag=AN415_7012
+CP012955.1	Genbank	CDS	7831	8202	.	-	0	ID=cds-ALJ89823.1;Parent=gene-AN415_7012;Dbxref=SEED:fig|470.1072.peg.12,NCBI_GP:ALJ89823.1;Name=ALJ89823.1;gbkey=CDS;locus_tag=AN415_7012;product=Flagellar capping protein;protein_id=ALJ89823.1;transl_table=11
+

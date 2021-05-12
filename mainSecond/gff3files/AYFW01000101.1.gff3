@@ -1,0 +1,241 @@
+##sequence-region AYFW01000101.1 1 111007
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1398965
+AYFW01000101.1	Genbank	region	1	111007	.	+	.	ID=AYFW01000101.1:1..111007;Dbxref=taxon:1398965;Is_circular=true;Name=pABUH4-111;collection-date=May-2007;country=USA;gbkey=Src;genome=plasmid;isolation-source=sputum;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pABUH4-111;strain=UH2107
+AYFW01000101.1	Genbank	gene	158	352	.	+	.	ID=gene-P661_1362;Name=P661_1362;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1362
+AYFW01000101.1	Genbank	CDS	158	352	.	+	0	ID=cds-ETS68301.1;Parent=gene-P661_1362;Dbxref=NCBI_GP:ETS68301.1;Name=ETS68301.1;Note=this gene contains a nucleotide ambiguity which may be the result of a sequencing error;gbkey=CDS;locus_tag=P661_1362;product=hypothetical protein;protein_id=ETS68301.1;transl_table=11
+AYFW01000101.1	Genbank	gene	475	1035	.	+	.	ID=gene-P661_1363;Name=P661_1363;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1363
+AYFW01000101.1	Genbank	CDS	475	1035	.	+	0	ID=cds-ETS68222.1;Parent=gene-P661_1363;Dbxref=NCBI_GP:ETS68222.1;Name=ETS68222.1;Note=an automated process has identified a potential problem with this gene model%3B the current end5 and/or the end3 may need to extended or the current gene model may need to be merged with a neighboring gene model%3B the current gene model (or a revised gene model) may contain one or more premature stops and/or frameshifts;gbkey=CDS;locus_tag=P661_1363;product=transposase%2C IS4 family;protein_id=ETS68222.1;transl_table=11
+AYFW01000101.1	Genbank	gene	1169	2332	.	-	.	ID=gene-P661_1364;Name=P661_1364;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1364
+AYFW01000101.1	Genbank	CDS	1169	2332	.	-	0	ID=cds-ETS68237.1;Parent=gene-P661_1364;Dbxref=NCBI_GP:ETS68237.1;Name=ETS68237.1;gbkey=CDS;locus_tag=P661_1364;product=GroES-like protein;protein_id=ETS68237.1;transl_table=11
+AYFW01000101.1	Genbank	gene	2580	2864	.	-	.	ID=gene-P661_1365;Name=P661_1365;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1365
+AYFW01000101.1	Genbank	CDS	2580	2864	.	-	0	ID=cds-ETS68249.1;Parent=gene-P661_1365;Dbxref=NCBI_GP:ETS68249.1;Name=ETS68249.1;gbkey=CDS;locus_tag=P661_1365;product=hypothetical protein;protein_id=ETS68249.1;transl_table=11
+AYFW01000101.1	Genbank	gene	3134	3487	.	+	.	ID=gene-P661_1366;Name=P661_1366;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1366
+AYFW01000101.1	Genbank	CDS	3134	3487	.	+	0	ID=cds-ETS68239.1;Parent=gene-P661_1366;Dbxref=NCBI_GP:ETS68239.1;Name=ETS68239.1;Note=an automated process has identified a potential problem with this gene model%3B the current end5 and/or the end3 may need to extended or the current gene model may need to be merged with a neighboring gene model%3B the current gene model (or a revised gene model) may contain a frame shift;gbkey=CDS;locus_tag=P661_1366;product=transposase;protein_id=ETS68239.1;transl_table=11
+AYFW01000101.1	Genbank	gene	3444	4298	.	+	.	ID=gene-P661_1367;Name=P661_1367;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1367
+AYFW01000101.1	Genbank	CDS	3444	4298	.	+	0	ID=cds-ETS68225.1;Parent=gene-P661_1367;Dbxref=NCBI_GP:ETS68225.1;Name=ETS68225.1;Note=overlaps another CDS with the same product name;gbkey=CDS;locus_tag=P661_1367;product=integrase core domain protein;protein_id=ETS68225.1;transl_table=11
+AYFW01000101.1	Genbank	gene	4489	4764	.	+	.	ID=gene-P661_1368;Name=P661_1368;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1368
+AYFW01000101.1	Genbank	CDS	4489	4764	.	+	0	ID=cds-ETS68324.1;Parent=gene-P661_1368;Dbxref=NCBI_GP:ETS68324.1;Name=ETS68324.1;gbkey=CDS;locus_tag=P661_1368;product=hypothetical protein;protein_id=ETS68324.1;transl_table=11
+AYFW01000101.1	Genbank	gene	4786	5898	.	+	.	ID=gene-P661_1369;Name=P661_1369;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1369
+AYFW01000101.1	Genbank	CDS	4786	5898	.	+	0	ID=cds-ETS68250.1;Parent=gene-P661_1369;Dbxref=NCBI_GP:ETS68250.1;Name=ETS68250.1;gbkey=CDS;locus_tag=P661_1369;product=S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase;protein_id=ETS68250.1;transl_table=11
+AYFW01000101.1	Genbank	gene	6127	6966	.	+	.	ID=gene-P661_1370;Name=fghA_1;gbkey=Gene;gene=fghA_1;gene_biotype=protein_coding;locus_tag=P661_1370
+AYFW01000101.1	Genbank	CDS	6127	6966	.	+	0	ID=cds-ETS68333.1;Parent=gene-P661_1370;Dbxref=NCBI_GP:ETS68333.1;Name=ETS68333.1;gbkey=CDS;gene=fghA_1;locus_tag=P661_1370;product=S-formylglutathione hydrolase;protein_id=ETS68333.1;transl_table=11
+AYFW01000101.1	Genbank	gene	7290	7592	.	+	.	ID=gene-P661_1371;Name=P661_1371;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1371
+AYFW01000101.1	Genbank	CDS	7290	7592	.	+	0	ID=cds-ETS68315.1;Parent=gene-P661_1371;Dbxref=NCBI_GP:ETS68315.1;Name=ETS68315.1;gbkey=CDS;locus_tag=P661_1371;product=hypothetical protein;protein_id=ETS68315.1;transl_table=11
+AYFW01000101.1	Genbank	gene	8189	9346	.	+	.	ID=gene-P661_1372;Name=P661_1372;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1372
+AYFW01000101.1	Genbank	CDS	8189	9346	.	+	0	ID=cds-ETS68314.1;Parent=gene-P661_1372;Dbxref=NCBI_GP:ETS68314.1;Name=ETS68314.1;gbkey=CDS;locus_tag=P661_1372;product=alcohol dehydrogenase%2C iron-dependent;protein_id=ETS68314.1;transl_table=11
+AYFW01000101.1	Genbank	gene	9431	10108	.	+	.	ID=gene-P661_1373;Name=P661_1373;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1373
+AYFW01000101.1	Genbank	CDS	9431	10108	.	+	0	ID=cds-ETS68280.1;Parent=gene-P661_1373;Dbxref=NCBI_GP:ETS68280.1;Name=ETS68280.1;gbkey=CDS;locus_tag=P661_1373;product=DJ-1/PfpI family protein;protein_id=ETS68280.1;transl_table=11
+AYFW01000101.1	Genbank	gene	10309	11436	.	+	.	ID=gene-P661_1374;Name=P661_1374;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1374
+AYFW01000101.1	Genbank	CDS	10309	11436	.	+	0	ID=cds-ETS68298.1;Parent=gene-P661_1374;Dbxref=NCBI_GP:ETS68298.1;Name=ETS68298.1;gbkey=CDS;locus_tag=P661_1374;product=oxidoreductase%2C FAD/FMN dependent;protein_id=ETS68298.1;transl_table=11
+AYFW01000101.1	Genbank	gene	11520	11750	.	-	.	ID=gene-P661_1375;Name=P661_1375;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1375
+AYFW01000101.1	Genbank	CDS	11520	11750	.	-	0	ID=cds-ETS68270.1;Parent=gene-P661_1375;Dbxref=NCBI_GP:ETS68270.1;Name=ETS68270.1;gbkey=CDS;locus_tag=P661_1375;product=hypothetical protein;protein_id=ETS68270.1;transl_table=11
+AYFW01000101.1	Genbank	gene	11855	12463	.	-	.	ID=gene-P661_1376;Name=P661_1376;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1376
+AYFW01000101.1	Genbank	CDS	11855	12463	.	-	0	ID=cds-ETS68321.1;Parent=gene-P661_1376;Dbxref=NCBI_GP:ETS68321.1;Name=ETS68321.1;gbkey=CDS;locus_tag=P661_1376;product=transcriptional regulator%2C TetR family;protein_id=ETS68321.1;transl_table=11
+AYFW01000101.1	Genbank	gene	12600	12713	.	+	.	ID=gene-P661_1377;Name=P661_1377;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1377
+AYFW01000101.1	Genbank	CDS	12600	12713	.	+	0	ID=cds-ETS68232.1;Parent=gene-P661_1377;Dbxref=NCBI_GP:ETS68232.1;Name=ETS68232.1;Note=an automated process has identified a potential problem with this gene model%3B the current end5 and/or the end3 may need to extended or the current gene model may need to be merged with a neighboring gene model%3B the current gene model (or a revised gene model) may contain a premature stop;gbkey=CDS;locus_tag=P661_1377;product=hypothetical protein;protein_id=ETS68232.1;transl_table=11
+AYFW01000101.1	Genbank	gene	12723	13142	.	+	.	ID=gene-P661_1379;Name=P661_1379;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1379
+AYFW01000101.1	Genbank	CDS	12723	13142	.	+	0	ID=cds-ETS68305.1;Parent=gene-P661_1379;Dbxref=NCBI_GP:ETS68305.1;Name=ETS68305.1;Note=an automated process has identified a potential problem with this gene model%3B the current end5 and/or the end3 may need to extended or the current gene model may need to be merged with a neighboring gene model%3B the current gene model (or a revised gene model) may contain a premature stop;gbkey=CDS;locus_tag=P661_1379;product=hypothetical protein;protein_id=ETS68305.1;transl_table=11
+AYFW01000101.1	Genbank	gene	13121	13873	.	-	.	ID=gene-P661_1378;Name=P661_1378;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1378
+AYFW01000101.1	Genbank	CDS	13121	13873	.	-	0	ID=cds-ETS68241.1;Parent=gene-P661_1378;Dbxref=NCBI_GP:ETS68241.1;Name=ETS68241.1;gbkey=CDS;locus_tag=P661_1378;product=transposase%2C IS4 family;protein_id=ETS68241.1;transl_table=11
+AYFW01000101.1	Genbank	gene	14414	15277	.	-	.	ID=gene-P661_1380;Name=P661_1380;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1380
+AYFW01000101.1	Genbank	CDS	14414	15277	.	-	0	ID=cds-ETS68317.1;Parent=gene-P661_1380;Dbxref=NCBI_GP:ETS68317.1;Name=ETS68317.1;gbkey=CDS;locus_tag=P661_1380;product=hypothetical protein;protein_id=ETS68317.1;transl_table=11
+AYFW01000101.1	Genbank	gene	15956	16378	.	-	.	ID=gene-P661_1381;Name=P661_1381;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1381
+AYFW01000101.1	Genbank	CDS	15956	16378	.	-	0	ID=cds-ETS68294.1;Parent=gene-P661_1381;Dbxref=NCBI_GP:ETS68294.1;Name=ETS68294.1;gbkey=CDS;locus_tag=P661_1381;product=hypothetical protein;protein_id=ETS68294.1;transl_table=11
+AYFW01000101.1	Genbank	gene	16432	17193	.	-	.	ID=gene-P661_1382;Name=P661_1382;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1382
+AYFW01000101.1	Genbank	CDS	16432	17193	.	-	0	ID=cds-ETS68306.1;Parent=gene-P661_1382;Dbxref=NCBI_GP:ETS68306.1;Name=ETS68306.1;gbkey=CDS;locus_tag=P661_1382;product=hypothetical protein;protein_id=ETS68306.1;transl_table=11
+AYFW01000101.1	Genbank	gene	17495	17713	.	-	.	ID=gene-P661_1383;Name=P661_1383;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1383
+AYFW01000101.1	Genbank	CDS	17495	17713	.	-	0	ID=cds-ETS68285.1;Parent=gene-P661_1383;Dbxref=NCBI_GP:ETS68285.1;Name=ETS68285.1;gbkey=CDS;locus_tag=P661_1383;product=hypothetical protein;protein_id=ETS68285.1;transl_table=11
+AYFW01000101.1	Genbank	gene	17949	18269	.	-	.	ID=gene-P661_1384;Name=P661_1384;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1384
+AYFW01000101.1	Genbank	CDS	17949	18269	.	-	0	ID=cds-ETS68293.1;Parent=gene-P661_1384;Dbxref=NCBI_GP:ETS68293.1;Name=ETS68293.1;gbkey=CDS;locus_tag=P661_1384;product=hypothetical protein;protein_id=ETS68293.1;transl_table=11
+AYFW01000101.1	Genbank	gene	18505	19044	.	-	.	ID=gene-P661_1385;Name=P661_1385;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1385
+AYFW01000101.1	Genbank	CDS	18505	19044	.	-	0	ID=cds-ETS68331.1;Parent=gene-P661_1385;Dbxref=NCBI_GP:ETS68331.1;Name=ETS68331.1;gbkey=CDS;locus_tag=P661_1385;product=exonuclease;protein_id=ETS68331.1;transl_table=11
+AYFW01000101.1	Genbank	gene	19203	19364	.	-	.	ID=gene-P661_1386;Name=P661_1386;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1386
+AYFW01000101.1	Genbank	CDS	19203	19364	.	-	0	ID=cds-ETS68312.1;Parent=gene-P661_1386;Dbxref=NCBI_GP:ETS68312.1;Name=ETS68312.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P661_1386;product=hypothetical protein;protein_id=ETS68312.1;transl_table=11
+AYFW01000101.1	Genbank	gene	19369	19515	.	-	.	ID=gene-P661_1387;Name=P661_1387;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1387
+AYFW01000101.1	Genbank	CDS	19369	19515	.	-	0	ID=cds-ETS68230.1;Parent=gene-P661_1387;Dbxref=NCBI_GP:ETS68230.1;Name=ETS68230.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P661_1387;product=hypothetical protein;protein_id=ETS68230.1;transl_table=11
+AYFW01000101.1	Genbank	gene	19707	20378	.	-	.	ID=gene-P661_1388;Name=P661_1388;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1388
+AYFW01000101.1	Genbank	CDS	19707	20378	.	-	0	ID=cds-ETS68300.1;Parent=gene-P661_1388;Dbxref=NCBI_GP:ETS68300.1;Name=ETS68300.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P661_1388;product=hypothetical protein;protein_id=ETS68300.1;transl_table=11
+AYFW01000101.1	Genbank	gene	20375	20740	.	-	.	ID=gene-P661_1389;Name=P661_1389;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1389
+AYFW01000101.1	Genbank	CDS	20375	20740	.	-	0	ID=cds-ETS68323.1;Parent=gene-P661_1389;Dbxref=NCBI_GP:ETS68323.1;Name=ETS68323.1;gbkey=CDS;locus_tag=P661_1389;product=MazG nucleotide pyrophosphohydrolase domain protein;protein_id=ETS68323.1;transl_table=11
+AYFW01000101.1	Genbank	gene	20733	20990	.	-	.	ID=gene-P661_1390;Name=P661_1390;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1390
+AYFW01000101.1	Genbank	CDS	20733	20990	.	-	0	ID=cds-ETS68304.1;Parent=gene-P661_1390;Dbxref=NCBI_GP:ETS68304.1;Name=ETS68304.1;gbkey=CDS;locus_tag=P661_1390;product=hypothetical protein;protein_id=ETS68304.1;transl_table=11
+AYFW01000101.1	Genbank	gene	21021	21176	.	-	.	ID=gene-P661_1391;Name=P661_1391;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1391
+AYFW01000101.1	Genbank	CDS	21021	21176	.	-	0	ID=cds-ETS68289.1;Parent=gene-P661_1391;Dbxref=NCBI_GP:ETS68289.1;Name=ETS68289.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P661_1391;product=hypothetical protein;protein_id=ETS68289.1;transl_table=11
+AYFW01000101.1	Genbank	gene	21248	21532	.	-	.	ID=gene-P661_1392;Name=P661_1392;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1392
+AYFW01000101.1	Genbank	CDS	21248	21532	.	-	0	ID=cds-ETS68266.1;Parent=gene-P661_1392;Dbxref=NCBI_GP:ETS68266.1;Name=ETS68266.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P661_1392;product=hypothetical protein;protein_id=ETS68266.1;transl_table=11
+AYFW01000101.1	Genbank	gene	21536	22447	.	-	.	ID=gene-P661_1393;Name=P661_1393;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1393
+AYFW01000101.1	Genbank	CDS	21536	22447	.	-	0	ID=cds-ETS68332.1;Parent=gene-P661_1393;Dbxref=NCBI_GP:ETS68332.1;Name=ETS68332.1;gbkey=CDS;locus_tag=P661_1393;product=hypothetical protein;protein_id=ETS68332.1;transl_table=11
+AYFW01000101.1	Genbank	gene	22460	23467	.	-	.	ID=gene-P661_1394;Name=P661_1394;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1394
+AYFW01000101.1	Genbank	CDS	22460	23467	.	-	0	ID=cds-ETS68322.1;Parent=gene-P661_1394;Dbxref=NCBI_GP:ETS68322.1;Name=ETS68322.1;gbkey=CDS;locus_tag=P661_1394;product=ribonucleoside-diphosphate reductase%2C beta subunit;protein_id=ETS68322.1;transl_table=11
+AYFW01000101.1	Genbank	gene	23547	25919	.	-	.	ID=gene-P661_1395;Name=P661_1395;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1395
+AYFW01000101.1	Genbank	CDS	23547	25919	.	-	0	ID=cds-ETS68228.1;Parent=gene-P661_1395;Dbxref=NCBI_GP:ETS68228.1;Name=ETS68228.1;gbkey=CDS;locus_tag=P661_1395;product=ribonucleoside-diphosphate reductase%2C alpha subunit;protein_id=ETS68228.1;transl_table=11
+AYFW01000101.1	Genbank	gene	25941	26267	.	-	.	ID=gene-P661_1396;Name=P661_1396;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1396
+AYFW01000101.1	Genbank	CDS	25941	26267	.	-	0	ID=cds-ETS68220.1;Parent=gene-P661_1396;Dbxref=NCBI_GP:ETS68220.1;Name=ETS68220.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P661_1396;product=hypothetical protein;protein_id=ETS68220.1;transl_table=11
+AYFW01000101.1	Genbank	gene	26395	26997	.	-	.	ID=gene-P661_1397;Name=P661_1397;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1397
+AYFW01000101.1	Genbank	CDS	26395	26997	.	-	0	ID=cds-ETS68307.1;Parent=gene-P661_1397;Dbxref=NCBI_GP:ETS68307.1;Name=ETS68307.1;gbkey=CDS;locus_tag=P661_1397;product=hypothetical protein;protein_id=ETS68307.1;transl_table=11
+AYFW01000101.1	Genbank	gene	27129	27965	.	-	.	ID=gene-P661_1398;Name=P661_1398;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1398
+AYFW01000101.1	Genbank	CDS	27129	27965	.	-	0	ID=cds-ETS68276.1;Parent=gene-P661_1398;Dbxref=NCBI_GP:ETS68276.1;Name=ETS68276.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P661_1398;product=hypothetical protein;protein_id=ETS68276.1;transl_table=11
+AYFW01000101.1	Genbank	gene	28058	29998	.	-	.	ID=gene-P661_1399;Name=P661_1399;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1399
+AYFW01000101.1	Genbank	CDS	28058	29998	.	-	0	ID=cds-ETS68271.1;Parent=gene-P661_1399;Dbxref=NCBI_GP:ETS68271.1;Name=ETS68271.1;gbkey=CDS;locus_tag=P661_1399;product=RecF/RecN/SMC N-terminal domain protein;protein_id=ETS68271.1;transl_table=11
+AYFW01000101.1	Genbank	gene	29998	31113	.	-	.	ID=gene-P661_1400;Name=P661_1400;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1400
+AYFW01000101.1	Genbank	CDS	29998	31113	.	-	0	ID=cds-ETS68258.1;Parent=gene-P661_1400;Dbxref=NCBI_GP:ETS68258.1;Name=ETS68258.1;gbkey=CDS;locus_tag=P661_1400;product=Ser/Thr phosphatase domain protein;protein_id=ETS68258.1;transl_table=11
+AYFW01000101.1	Genbank	gene	31836	32297	.	-	.	ID=gene-P661_1401;Name=P661_1401;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1401
+AYFW01000101.1	Genbank	CDS	31836	32297	.	-	0	ID=cds-ETS68255.1;Parent=gene-P661_1401;Dbxref=NCBI_GP:ETS68255.1;Name=ETS68255.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P661_1401;product=hypothetical protein;protein_id=ETS68255.1;transl_table=11
+AYFW01000101.1	Genbank	gene	32294	32653	.	-	.	ID=gene-P661_1402;Name=P661_1402;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1402
+AYFW01000101.1	Genbank	CDS	32294	32653	.	-	0	ID=cds-ETS68296.1;Parent=gene-P661_1402;Dbxref=NCBI_GP:ETS68296.1;Name=ETS68296.1;gbkey=CDS;locus_tag=P661_1402;product=hypothetical protein;protein_id=ETS68296.1;transl_table=11
+AYFW01000101.1	Genbank	gene	32741	34939	.	-	.	ID=gene-P661_1403;Name=P661_1403;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1403
+AYFW01000101.1	Genbank	CDS	32741	34939	.	-	0	ID=cds-ETS68234.1;Parent=gene-P661_1403;Dbxref=NCBI_GP:ETS68234.1;Name=ETS68234.1;gbkey=CDS;locus_tag=P661_1403;product=RecA-like protein;protein_id=ETS68234.1;transl_table=11
+AYFW01000101.1	Genbank	gene	34942	35979	.	-	.	ID=gene-P661_1404;Name=P661_1404;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1404
+AYFW01000101.1	Genbank	CDS	34942	35979	.	-	0	ID=cds-ETS68326.1;Parent=gene-P661_1404;Dbxref=NCBI_GP:ETS68326.1;Name=ETS68326.1;gbkey=CDS;locus_tag=P661_1404;product=5'-3' exonuclease%2C N-terminal resolvase-like domain protein;protein_id=ETS68326.1;transl_table=11
+AYFW01000101.1	Genbank	gene	36042	36902	.	-	.	ID=gene-P661_1405;Name=P661_1405;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1405
+AYFW01000101.1	Genbank	CDS	36042	36902	.	-	0	ID=cds-ETS68334.1;Parent=gene-P661_1405;Dbxref=NCBI_GP:ETS68334.1;Name=ETS68334.1;gbkey=CDS;locus_tag=P661_1405;product=hypothetical protein;protein_id=ETS68334.1;transl_table=11
+AYFW01000101.1	Genbank	gene	37045	38133	.	-	.	ID=gene-P661_1406;Name=P661_1406;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1406
+AYFW01000101.1	Genbank	CDS	37045	38133	.	-	0	ID=cds-ETS68313.1;Parent=gene-P661_1406;Dbxref=NCBI_GP:ETS68313.1;Name=ETS68313.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P661_1406;product=hypothetical protein;protein_id=ETS68313.1;transl_table=11
+AYFW01000101.1	Genbank	gene	38223	39488	.	-	.	ID=gene-P661_1407;Name=P661_1407;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1407
+AYFW01000101.1	Genbank	CDS	38223	39488	.	-	0	ID=cds-ETS68286.1;Parent=gene-P661_1407;Dbxref=NCBI_GP:ETS68286.1;Name=ETS68286.1;gbkey=CDS;locus_tag=P661_1407;product=uracil-DNA glycosylase%2C family 4;protein_id=ETS68286.1;transl_table=11
+AYFW01000101.1	Genbank	gene	39485	40060	.	-	.	ID=gene-P661_1408;Name=P661_1408;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1408
+AYFW01000101.1	Genbank	CDS	39485	40060	.	-	0	ID=cds-ETS68236.1;Parent=gene-P661_1408;Dbxref=NCBI_GP:ETS68236.1;Name=ETS68236.1;gbkey=CDS;locus_tag=P661_1408;product=hypothetical protein;protein_id=ETS68236.1;transl_table=11
+AYFW01000101.1	Genbank	gene	40109	42466	.	-	.	ID=gene-P661_1409;Name=P661_1409;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1409
+AYFW01000101.1	Genbank	CDS	40109	42466	.	-	0	ID=cds-ETS68253.1;Parent=gene-P661_1409;Dbxref=NCBI_GP:ETS68253.1;Name=ETS68253.1;gbkey=CDS;locus_tag=P661_1409;product=DNA polymerase III%2C alpha subunit;protein_id=ETS68253.1;transl_table=11
+AYFW01000101.1	Genbank	gene	42512	43192	.	-	.	ID=gene-P661_1410;Name=P661_1410;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1410
+AYFW01000101.1	Genbank	CDS	42512	43192	.	-	0	ID=cds-ETS68269.1;Parent=gene-P661_1410;Dbxref=NCBI_GP:ETS68269.1;Name=ETS68269.1;gbkey=CDS;locus_tag=P661_1410;product=hypothetical protein;protein_id=ETS68269.1;transl_table=11
+AYFW01000101.1	Genbank	gene	43243	43908	.	-	.	ID=gene-P661_1411;Name=P661_1411;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1411
+AYFW01000101.1	Genbank	CDS	43243	43908	.	-	0	ID=cds-ETS68281.1;Parent=gene-P661_1411;Dbxref=NCBI_GP:ETS68281.1;Name=ETS68281.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P661_1411;product=hypothetical protein;protein_id=ETS68281.1;transl_table=11
+AYFW01000101.1	Genbank	gene	43933	45177	.	-	.	ID=gene-P661_1412;Name=P661_1412;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1412
+AYFW01000101.1	Genbank	CDS	43933	45177	.	-	0	ID=cds-ETS68327.1;Parent=gene-P661_1412;Dbxref=NCBI_GP:ETS68327.1;Name=ETS68327.1;gbkey=CDS;locus_tag=P661_1412;product=CbbQ/NirQ/NorQ C-terminal domain protein;protein_id=ETS68327.1;transl_table=11
+AYFW01000101.1	Genbank	gene	45322	47244	.	-	.	ID=gene-P661_1413;Name=P661_1413;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1413
+AYFW01000101.1	Genbank	CDS	45322	47244	.	-	0	ID=cds-ETS68265.1;Parent=gene-P661_1413;Dbxref=NCBI_GP:ETS68265.1;Name=ETS68265.1;gbkey=CDS;locus_tag=P661_1413;product=cobalamin biosynthesis protein CobT;protein_id=ETS68265.1;transl_table=11
+AYFW01000101.1	Genbank	gene	47485	47679	.	-	.	ID=gene-P661_1414;Name=P661_1414;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1414
+AYFW01000101.1	Genbank	CDS	47485	47679	.	-	0	ID=cds-ETS68231.1;Parent=gene-P661_1414;Dbxref=NCBI_GP:ETS68231.1;Name=ETS68231.1;gbkey=CDS;locus_tag=P661_1414;product=hypothetical protein;protein_id=ETS68231.1;transl_table=11
+AYFW01000101.1	Genbank	gene	48101	48520	.	+	.	ID=gene-P661_1415;Name=P661_1415;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1415
+AYFW01000101.1	Genbank	CDS	48101	48520	.	+	0	ID=cds-ETS68329.1;Parent=gene-P661_1415;Dbxref=NCBI_GP:ETS68329.1;Name=ETS68329.1;gbkey=CDS;locus_tag=P661_1415;product=DNA-binding helix-turn-helix protein;protein_id=ETS68329.1;transl_table=11
+AYFW01000101.1	Genbank	gene	48860	49444	.	+	.	ID=gene-P661_1416;Name=P661_1416;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1416
+AYFW01000101.1	Genbank	CDS	48860	49444	.	+	0	ID=cds-ETS68273.1;Parent=gene-P661_1416;Dbxref=NCBI_GP:ETS68273.1;Name=ETS68273.1;gbkey=CDS;locus_tag=P661_1416;product=site-specific recombinase%2C phage integrase family;protein_id=ETS68273.1;transl_table=11
+AYFW01000101.1	Genbank	gene	49449	49856	.	-	.	ID=gene-P661_1417;Name=P661_1417;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1417
+AYFW01000101.1	Genbank	CDS	49449	49856	.	-	0	ID=cds-ETS68247.1;Parent=gene-P661_1417;Dbxref=NCBI_GP:ETS68247.1;Name=ETS68247.1;gbkey=CDS;locus_tag=P661_1417;product=hypothetical protein;protein_id=ETS68247.1;transl_table=11
+AYFW01000101.1	Genbank	gene	50059	50736	.	+	.	ID=gene-P661_1418;Name=P661_1418;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1418
+AYFW01000101.1	Genbank	CDS	50059	50736	.	+	0	ID=cds-ETS68240.1;Parent=gene-P661_1418;Dbxref=NCBI_GP:ETS68240.1;Name=ETS68240.1;gbkey=CDS;locus_tag=P661_1418;product=VirC1 protein;protein_id=ETS68240.1;transl_table=11
+AYFW01000101.1	Genbank	gene	50733	51161	.	+	.	ID=gene-P661_1420;Name=P661_1420;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1420
+AYFW01000101.1	Genbank	CDS	50733	51161	.	+	0	ID=cds-ETS68310.1;Parent=gene-P661_1420;Dbxref=NCBI_GP:ETS68310.1;Name=ETS68310.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P661_1420;product=hypothetical protein;protein_id=ETS68310.1;transl_table=11
+AYFW01000101.1	Genbank	gene	51149	51769	.	-	.	ID=gene-P661_1419;Name=P661_1419;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1419
+AYFW01000101.1	Genbank	CDS	51149	51769	.	-	0	ID=cds-ETS68260.1;Parent=gene-P661_1419;Dbxref=NCBI_GP:ETS68260.1;Name=ETS68260.1;gbkey=CDS;locus_tag=P661_1419;product=hypothetical protein;protein_id=ETS68260.1;transl_table=11
+AYFW01000101.1	Genbank	gene	51842	52414	.	-	.	ID=gene-P661_1421;Name=P661_1421;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1421
+AYFW01000101.1	Genbank	CDS	51842	52414	.	-	0	ID=cds-ETS68223.1;Parent=gene-P661_1421;Dbxref=NCBI_GP:ETS68223.1;Name=ETS68223.1;gbkey=CDS;locus_tag=P661_1421;product=guanylate kinase;protein_id=ETS68223.1;transl_table=11
+AYFW01000101.1	Genbank	gene	52454	54157	.	-	.	ID=gene-P661_1422;Name=P661_1422;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1422
+AYFW01000101.1	Genbank	CDS	52454	54157	.	-	0	ID=cds-ETS68274.1;Parent=gene-P661_1422;Dbxref=NCBI_GP:ETS68274.1;Name=ETS68274.1;gbkey=CDS;locus_tag=P661_1422;product=ATP-dependent DNA ligase domain protein;protein_id=ETS68274.1;transl_table=11
+AYFW01000101.1	Genbank	gene	54170	54679	.	-	.	ID=gene-P661_1423;Name=P661_1423;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1423
+AYFW01000101.1	Genbank	CDS	54170	54679	.	-	0	ID=cds-ETS68263.1;Parent=gene-P661_1423;Dbxref=NCBI_GP:ETS68263.1;Name=ETS68263.1;gbkey=CDS;locus_tag=P661_1423;product=hypothetical protein;protein_id=ETS68263.1;transl_table=11
+AYFW01000101.1	Genbank	gene	54676	55284	.	-	.	ID=gene-P661_1424;Name=P661_1424;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1424
+AYFW01000101.1	Genbank	CDS	54676	55284	.	-	0	ID=cds-ETS68319.1;Parent=gene-P661_1424;Dbxref=NCBI_GP:ETS68319.1;Name=ETS68319.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P661_1424;product=hypothetical protein;protein_id=ETS68319.1;transl_table=11
+AYFW01000101.1	Genbank	gene	55278	55730	.	-	.	ID=gene-P661_1425;Name=P661_1425;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1425
+AYFW01000101.1	Genbank	CDS	55278	55730	.	-	0	ID=cds-ETS68229.1;Parent=gene-P661_1425;Dbxref=NCBI_GP:ETS68229.1;Name=ETS68229.1;gbkey=CDS;locus_tag=P661_1425;product=hypothetical protein;protein_id=ETS68229.1;transl_table=11
+AYFW01000101.1	Genbank	gene	55769	56323	.	-	.	ID=gene-P661_1426;Name=P661_1426;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1426
+AYFW01000101.1	Genbank	CDS	55769	56323	.	-	0	ID=cds-ETS68287.1;Parent=gene-P661_1426;Dbxref=NCBI_GP:ETS68287.1;Name=ETS68287.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P661_1426;product=hypothetical protein;protein_id=ETS68287.1;transl_table=11
+AYFW01000101.1	Genbank	gene	56387	57481	.	-	.	ID=gene-P661_1427;Name=P661_1427;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1427
+AYFW01000101.1	Genbank	CDS	56387	57481	.	-	0	ID=cds-ETS68309.1;Parent=gene-P661_1427;Dbxref=NCBI_GP:ETS68309.1;Name=ETS68309.1;gbkey=CDS;locus_tag=P661_1427;product=DNA primase catalytic core%2C N-terminal domain protein;protein_id=ETS68309.1;transl_table=11
+AYFW01000101.1	Genbank	gene	57569	58972	.	-	.	ID=gene-P661_1428;Name=P661_1428;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1428
+AYFW01000101.1	Genbank	CDS	57569	58972	.	-	0	ID=cds-ETS68252.1;Parent=gene-P661_1428;Dbxref=NCBI_GP:ETS68252.1;Name=ETS68252.1;gbkey=CDS;locus_tag=P661_1428;product=DnaB-like helicase C-terminal domain protein;protein_id=ETS68252.1;transl_table=11
+AYFW01000101.1	Genbank	gene	59009	59440	.	-	.	ID=gene-P661_1429;Name=P661_1429;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1429
+AYFW01000101.1	Genbank	CDS	59009	59440	.	-	0	ID=cds-ETS68284.1;Parent=gene-P661_1429;Dbxref=NCBI_GP:ETS68284.1;Name=ETS68284.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P661_1429;product=hypothetical protein;protein_id=ETS68284.1;transl_table=11
+AYFW01000101.1	Genbank	gene	59528	60259	.	-	.	ID=gene-P661_1430;Name=P661_1430;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1430
+AYFW01000101.1	Genbank	CDS	59528	60259	.	-	0	ID=cds-ETS68262.1;Parent=gene-P661_1430;Dbxref=NCBI_GP:ETS68262.1;Name=ETS68262.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P661_1430;product=hypothetical protein;protein_id=ETS68262.1;transl_table=11
+AYFW01000101.1	Genbank	gene	60376	61497	.	-	.	ID=gene-P661_1431;Name=P661_1431;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1431
+AYFW01000101.1	Genbank	CDS	60376	61497	.	-	0	ID=cds-ETS68256.1;Parent=gene-P661_1431;Dbxref=NCBI_GP:ETS68256.1;Name=ETS68256.1;gbkey=CDS;locus_tag=P661_1431;product=initiator RepB protein;protein_id=ETS68256.1;transl_table=11
+AYFW01000101.1	Genbank	gene	62388	62504	.	-	.	ID=gene-P661_1432;Name=P661_1432;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1432
+AYFW01000101.1	Genbank	CDS	62388	62504	.	-	0	ID=cds-ETS68311.1;Parent=gene-P661_1432;Dbxref=NCBI_GP:ETS68311.1;Name=ETS68311.1;gbkey=CDS;locus_tag=P661_1432;product=putative lipoprotein;protein_id=ETS68311.1;transl_table=11
+AYFW01000101.1	Genbank	gene	62501	63130	.	-	.	ID=gene-P661_1433;Name=P661_1433;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1433
+AYFW01000101.1	Genbank	CDS	62501	63130	.	-	0	ID=cds-ETS68292.1;Parent=gene-P661_1433;Dbxref=NCBI_GP:ETS68292.1;Name=ETS68292.1;gbkey=CDS;locus_tag=P661_1433;product=phage lysozyme;protein_id=ETS68292.1;transl_table=11
+AYFW01000101.1	Genbank	gene	63139	63531	.	-	.	ID=gene-P661_1434;Name=P661_1434;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1434
+AYFW01000101.1	Genbank	CDS	63139	63531	.	-	0	ID=cds-ETS68226.1;Parent=gene-P661_1434;Dbxref=NCBI_GP:ETS68226.1;Name=ETS68226.1;gbkey=CDS;locus_tag=P661_1434;product=hypothetical protein;protein_id=ETS68226.1;transl_table=11
+AYFW01000101.1	Genbank	gene	63655	63858	.	+	.	ID=gene-P661_1435;Name=P661_1435;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1435
+AYFW01000101.1	Genbank	CDS	63655	63858	.	+	0	ID=cds-ETS68224.1;Parent=gene-P661_1435;Dbxref=NCBI_GP:ETS68224.1;Name=ETS68224.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P661_1435;product=hypothetical protein;protein_id=ETS68224.1;transl_table=11
+AYFW01000101.1	Genbank	gene	63991	64242	.	-	.	ID=gene-P661_1436;Name=P661_1436;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1436
+AYFW01000101.1	Genbank	CDS	63991	64242	.	-	0	ID=cds-ETS68297.1;Parent=gene-P661_1436;Dbxref=NCBI_GP:ETS68297.1;Name=ETS68297.1;gbkey=CDS;locus_tag=P661_1436;product=hypothetical protein;protein_id=ETS68297.1;transl_table=11
+AYFW01000101.1	Genbank	gene	64252	65061	.	-	.	ID=gene-P661_1437;Name=P661_1437;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1437
+AYFW01000101.1	Genbank	CDS	64252	65061	.	-	0	ID=cds-ETS68233.1;Parent=gene-P661_1437;Dbxref=NCBI_GP:ETS68233.1;Name=ETS68233.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P661_1437;product=hypothetical protein;protein_id=ETS68233.1;transl_table=11
+AYFW01000101.1	Genbank	gene	65315	76498	.	-	.	ID=gene-P661_1438;Name=P661_1438;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1438
+AYFW01000101.1	Genbank	CDS	65315	76498	.	-	0	ID=cds-ETS68272.1;Parent=gene-P661_1438;Dbxref=NCBI_GP:ETS68272.1;Name=ETS68272.1;gbkey=CDS;locus_tag=P661_1438;product=hypothetical protein;protein_id=ETS68272.1;transl_table=11
+AYFW01000101.1	Genbank	gene	76522	77100	.	-	.	ID=gene-P661_1439;Name=P661_1439;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1439
+AYFW01000101.1	Genbank	CDS	76522	77100	.	-	0	ID=cds-ETS68251.1;Parent=gene-P661_1439;Dbxref=NCBI_GP:ETS68251.1;Name=ETS68251.1;gbkey=CDS;locus_tag=P661_1439;product=bacteriophage lambda tail assembly protein I;protein_id=ETS68251.1;transl_table=11
+AYFW01000101.1	Genbank	gene	77094	77843	.	-	.	ID=gene-P661_1440;Name=P661_1440;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1440
+AYFW01000101.1	Genbank	CDS	77094	77843	.	-	0	ID=cds-ETS68325.1;Parent=gene-P661_1440;Dbxref=NCBI_GP:ETS68325.1;Name=ETS68325.1;gbkey=CDS;locus_tag=P661_1440;product=NlpC/P60 family protein;protein_id=ETS68325.1;transl_table=11
+AYFW01000101.1	Genbank	gene	77840	78535	.	-	.	ID=gene-P661_1441;Name=P661_1441;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1441
+AYFW01000101.1	Genbank	CDS	77840	78535	.	-	0	ID=cds-ETS68336.1;Parent=gene-P661_1441;Dbxref=NCBI_GP:ETS68336.1;Name=ETS68336.1;gbkey=CDS;locus_tag=P661_1441;product=phage minor tail protein L;protein_id=ETS68336.1;transl_table=11
+AYFW01000101.1	Genbank	gene	78535	78861	.	-	.	ID=gene-P661_1442;Name=P661_1442;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1442
+AYFW01000101.1	Genbank	CDS	78535	78861	.	-	0	ID=cds-ETS68295.1;Parent=gene-P661_1442;Dbxref=NCBI_GP:ETS68295.1;Name=ETS68295.1;gbkey=CDS;locus_tag=P661_1442;product=phage minor tail protein;protein_id=ETS68295.1;transl_table=11
+AYFW01000101.1	Genbank	gene	78934	84522	.	-	.	ID=gene-P661_1443;Name=P661_1443;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1443
+AYFW01000101.1	Genbank	CDS	78934	84522	.	-	0	ID=cds-ETS68318.1;Parent=gene-P661_1443;Dbxref=NCBI_GP:ETS68318.1;Name=ETS68318.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P661_1443;product=hypothetical protein;protein_id=ETS68318.1;transl_table=11
+AYFW01000101.1	Genbank	gene	84878	85231	.	-	.	ID=gene-P661_1444;Name=P661_1444;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1444
+AYFW01000101.1	Genbank	CDS	84878	85231	.	-	0	ID=cds-ETS68277.1;Parent=gene-P661_1444;Dbxref=NCBI_GP:ETS68277.1;Name=ETS68277.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P661_1444;product=hypothetical protein;protein_id=ETS68277.1;transl_table=11
+AYFW01000101.1	Genbank	gene	85326	85871	.	-	.	ID=gene-P661_1445;Name=P661_1445;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1445
+AYFW01000101.1	Genbank	CDS	85326	85871	.	-	0	ID=cds-ETS68303.1;Parent=gene-P661_1445;Dbxref=NCBI_GP:ETS68303.1;Name=ETS68303.1;gbkey=CDS;locus_tag=P661_1445;product=hypothetical protein;protein_id=ETS68303.1;transl_table=11
+AYFW01000101.1	Genbank	gene	85956	86453	.	-	.	ID=gene-P661_1446;Name=P661_1446;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1446
+AYFW01000101.1	Genbank	CDS	85956	86453	.	-	0	ID=cds-ETS68283.1;Parent=gene-P661_1446;Dbxref=NCBI_GP:ETS68283.1;Name=ETS68283.1;gbkey=CDS;locus_tag=P661_1446;product=hypothetical protein;protein_id=ETS68283.1;transl_table=11
+AYFW01000101.1	Genbank	gene	86453	86839	.	-	.	ID=gene-P661_1447;Name=P661_1447;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1447
+AYFW01000101.1	Genbank	CDS	86453	86839	.	-	0	ID=cds-ETS68291.1;Parent=gene-P661_1447;Dbxref=NCBI_GP:ETS68291.1;Name=ETS68291.1;gbkey=CDS;locus_tag=P661_1447;product=hypothetical protein;protein_id=ETS68291.1;transl_table=11
+AYFW01000101.1	Genbank	gene	86836	87078	.	-	.	ID=gene-P661_1448;Name=P661_1448;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1448
+AYFW01000101.1	Genbank	CDS	86836	87078	.	-	0	ID=cds-ETS68278.1;Parent=gene-P661_1448;Dbxref=NCBI_GP:ETS68278.1;Name=ETS68278.1;gbkey=CDS;locus_tag=P661_1448;product=hypothetical protein;protein_id=ETS68278.1;transl_table=11
+AYFW01000101.1	Genbank	gene	87173	87796	.	-	.	ID=gene-P661_1449;Name=P661_1449;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1449
+AYFW01000101.1	Genbank	CDS	87173	87796	.	-	0	ID=cds-ETS68330.1;Parent=gene-P661_1449;Dbxref=NCBI_GP:ETS68330.1;Name=ETS68330.1;gbkey=CDS;locus_tag=P661_1449;product=hypothetical protein;protein_id=ETS68330.1;transl_table=11
+AYFW01000101.1	Genbank	gene	87870	88640	.	-	.	ID=gene-P661_1450;Name=P661_1450;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1450
+AYFW01000101.1	Genbank	CDS	87870	88640	.	-	0	ID=cds-ETS68246.1;Parent=gene-P661_1450;Dbxref=NCBI_GP:ETS68246.1;Name=ETS68246.1;gbkey=CDS;locus_tag=P661_1450;product=hypothetical protein;protein_id=ETS68246.1;transl_table=11
+AYFW01000101.1	Genbank	gene	88647	89141	.	-	.	ID=gene-P661_1451;Name=P661_1451;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1451
+AYFW01000101.1	Genbank	CDS	88647	89141	.	-	0	ID=cds-ETS68245.1;Parent=gene-P661_1451;Dbxref=NCBI_GP:ETS68245.1;Name=ETS68245.1;gbkey=CDS;locus_tag=P661_1451;product=hypothetical protein;protein_id=ETS68245.1;transl_table=11
+AYFW01000101.1	Genbank	gene	89280	90182	.	-	.	ID=gene-P661_1452;Name=P661_1452;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1452
+AYFW01000101.1	Genbank	CDS	89280	90182	.	-	0	ID=cds-ETS68288.1;Parent=gene-P661_1452;Dbxref=NCBI_GP:ETS68288.1;Name=ETS68288.1;gbkey=CDS;locus_tag=P661_1452;product=phage capsid family;protein_id=ETS68288.1;transl_table=11
+AYFW01000101.1	Genbank	gene	90318	91196	.	-	.	ID=gene-P661_1453;Name=P661_1453;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1453
+AYFW01000101.1	Genbank	CDS	90318	91196	.	-	0	ID=cds-ETS68279.1;Parent=gene-P661_1453;Dbxref=NCBI_GP:ETS68279.1;Name=ETS68279.1;gbkey=CDS;locus_tag=P661_1453;product=hypothetical protein;protein_id=ETS68279.1;transl_table=11
+AYFW01000101.1	Genbank	gene	91240	92910	.	-	.	ID=gene-P661_1454;Name=P661_1454;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1454
+AYFW01000101.1	Genbank	CDS	91240	92910	.	-	0	ID=cds-ETS68235.1;Parent=gene-P661_1454;Dbxref=NCBI_GP:ETS68235.1;Name=ETS68235.1;gbkey=CDS;locus_tag=P661_1454;product=hypothetical protein;protein_id=ETS68235.1;transl_table=11
+AYFW01000101.1	Genbank	gene	92956	94200	.	-	.	ID=gene-P661_1455;Name=P661_1455;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1455
+AYFW01000101.1	Genbank	CDS	92956	94200	.	-	0	ID=cds-ETS68238.1;Parent=gene-P661_1455;Dbxref=NCBI_GP:ETS68238.1;Name=ETS68238.1;gbkey=CDS;locus_tag=P661_1455;product=phage terminase large subunit;protein_id=ETS68238.1;transl_table=11
+AYFW01000101.1	Genbank	gene	94210	94815	.	-	.	ID=gene-P661_1456;Name=P661_1456;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1456
+AYFW01000101.1	Genbank	CDS	94210	94815	.	-	0	ID=cds-ETS68320.1;Parent=gene-P661_1456;Dbxref=NCBI_GP:ETS68320.1;Name=ETS68320.1;gbkey=CDS;locus_tag=P661_1456;product=hypothetical protein;protein_id=ETS68320.1;transl_table=11
+AYFW01000101.1	Genbank	gene	94968	95369	.	-	.	ID=gene-P661_1457;Name=P661_1457;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1457
+AYFW01000101.1	Genbank	CDS	94968	95369	.	-	0	ID=cds-ETS68316.1;Parent=gene-P661_1457;Dbxref=NCBI_GP:ETS68316.1;Name=ETS68316.1;gbkey=CDS;locus_tag=P661_1457;product=hypothetical protein;protein_id=ETS68316.1;transl_table=11
+AYFW01000101.1	Genbank	gene	95481	95876	.	-	.	ID=gene-P661_1458;Name=P661_1458;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1458
+AYFW01000101.1	Genbank	CDS	95481	95876	.	-	0	ID=cds-ETS68308.1;Parent=gene-P661_1458;Dbxref=NCBI_GP:ETS68308.1;Name=ETS68308.1;gbkey=CDS;locus_tag=P661_1458;product=hypothetical protein;protein_id=ETS68308.1;transl_table=11
+AYFW01000101.1	Genbank	gene	96258	97211	.	-	.	ID=gene-P661_1459;Name=P661_1459;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1459
+AYFW01000101.1	Genbank	CDS	96258	97211	.	-	0	ID=cds-ETS68282.1;Parent=gene-P661_1459;Dbxref=NCBI_GP:ETS68282.1;Name=ETS68282.1;gbkey=CDS;locus_tag=P661_1459;product=hypothetical protein;protein_id=ETS68282.1;transl_table=11
+AYFW01000101.1	Genbank	gene	97250	97672	.	-	.	ID=gene-P661_1460;Name=P661_1460;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1460
+AYFW01000101.1	Genbank	CDS	97250	97672	.	-	0	ID=cds-ETS68244.1;Parent=gene-P661_1460;Dbxref=NCBI_GP:ETS68244.1;Name=ETS68244.1;gbkey=CDS;locus_tag=P661_1460;product=glutaredoxin;protein_id=ETS68244.1;transl_table=11
+AYFW01000101.1	Genbank	gene	97669	98325	.	-	.	ID=gene-P661_1461;Name=P661_1461;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1461
+AYFW01000101.1	Genbank	CDS	97669	98325	.	-	0	ID=cds-ETS68242.1;Parent=gene-P661_1461;Dbxref=NCBI_GP:ETS68242.1;Name=ETS68242.1;gbkey=CDS;locus_tag=P661_1461;product=ATPase%2C AAA family;protein_id=ETS68242.1;transl_table=11
+AYFW01000101.1	Genbank	gene	98325	98975	.	-	.	ID=gene-P661_1462;Name=P661_1462;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1462
+AYFW01000101.1	Genbank	CDS	98325	98975	.	-	0	ID=cds-ETS68227.1;Parent=gene-P661_1462;Dbxref=NCBI_GP:ETS68227.1;Name=ETS68227.1;gbkey=CDS;locus_tag=P661_1462;product=ParB-like protein;protein_id=ETS68227.1;transl_table=11
+AYFW01000101.1	Genbank	gene	98972	99574	.	-	.	ID=gene-P661_1463;Name=P661_1463;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1463
+AYFW01000101.1	Genbank	CDS	98972	99574	.	-	0	ID=cds-ETS68299.1;Parent=gene-P661_1463;Dbxref=NCBI_GP:ETS68299.1;Name=ETS68299.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P661_1463;product=hypothetical protein;protein_id=ETS68299.1;transl_table=11
+AYFW01000101.1	Genbank	gene	99603	100241	.	-	.	ID=gene-P661_1464;Name=P661_1464;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1464
+AYFW01000101.1	Genbank	CDS	99603	100241	.	-	0	ID=cds-ETS68302.1;Parent=gene-P661_1464;Dbxref=NCBI_GP:ETS68302.1;Name=ETS68302.1;gbkey=CDS;locus_tag=P661_1464;product=ParB-like protein;protein_id=ETS68302.1;transl_table=11
+AYFW01000101.1	Genbank	gene	100320	102029	.	+	.	ID=gene-P661_1465;Name=P661_1465;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1465
+AYFW01000101.1	Genbank	CDS	100320	102029	.	+	0	ID=cds-ETS68268.1;Parent=gene-P661_1465;Dbxref=NCBI_GP:ETS68268.1;Name=ETS68268.1;gbkey=CDS;locus_tag=P661_1465;product=type III restriction enzyme%2C res subunit;protein_id=ETS68268.1;transl_table=11
+AYFW01000101.1	Genbank	gene	102155	102448	.	+	.	ID=gene-P661_1466;Name=P661_1466;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1466
+AYFW01000101.1	Genbank	CDS	102155	102448	.	+	0	ID=cds-ETS68335.1;Parent=gene-P661_1466;Dbxref=NCBI_GP:ETS68335.1;Name=ETS68335.1;gbkey=CDS;locus_tag=P661_1466;product=hypothetical protein;protein_id=ETS68335.1;transl_table=11
+AYFW01000101.1	Genbank	gene	102512	102790	.	-	.	ID=gene-P661_1467;Name=P661_1467;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1467
+AYFW01000101.1	Genbank	CDS	102512	102790	.	-	0	ID=cds-ETS68328.1;Parent=gene-P661_1467;Dbxref=NCBI_GP:ETS68328.1;Name=ETS68328.1;gbkey=CDS;locus_tag=P661_1467;product=hypothetical protein;protein_id=ETS68328.1;transl_table=11
+AYFW01000101.1	Genbank	gene	102825	103394	.	-	.	ID=gene-P661_1468;Name=P661_1468;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1468
+AYFW01000101.1	Genbank	CDS	102825	103394	.	-	0	ID=cds-ETS68267.1;Parent=gene-P661_1468;Dbxref=NCBI_GP:ETS68267.1;Name=ETS68267.1;gbkey=CDS;locus_tag=P661_1468;product=LysM domain protein;protein_id=ETS68267.1;transl_table=11
+AYFW01000101.1	Genbank	gene	103788	104588	.	-	.	ID=gene-P661_1469;Name=P661_1469;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1469
+AYFW01000101.1	Genbank	CDS	103788	104588	.	-	0	ID=cds-ETS68254.1;Parent=gene-P661_1469;Dbxref=NCBI_GP:ETS68254.1;Name=ETS68254.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P661_1469;product=hypothetical protein;protein_id=ETS68254.1;transl_table=11
+AYFW01000101.1	Genbank	gene	105029	105454	.	-	.	ID=gene-P661_1470;Name=P661_1470;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1470
+AYFW01000101.1	Genbank	CDS	105029	105454	.	-	0	ID=cds-ETS68290.1;Parent=gene-P661_1470;Dbxref=NCBI_GP:ETS68290.1;Name=ETS68290.1;gbkey=CDS;locus_tag=P661_1470;product=hypothetical protein;protein_id=ETS68290.1;transl_table=11
+AYFW01000101.1	Genbank	gene	106043	106156	.	+	.	ID=gene-P661_1471;Name=P661_1471;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1471
+AYFW01000101.1	Genbank	CDS	106043	106156	.	+	0	ID=cds-ETS68257.1;Parent=gene-P661_1471;Dbxref=NCBI_GP:ETS68257.1;Name=ETS68257.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P661_1471;product=hypothetical protein;protein_id=ETS68257.1;transl_table=11
+AYFW01000101.1	Genbank	gene	106187	106360	.	-	.	ID=gene-P661_1472;Name=P661_1472;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1472
+AYFW01000101.1	Genbank	CDS	106187	106360	.	-	0	ID=cds-ETS68264.1;Parent=gene-P661_1472;Dbxref=NCBI_GP:ETS68264.1;Name=ETS68264.1;gbkey=CDS;locus_tag=P661_1472;product=hypothetical protein;protein_id=ETS68264.1;transl_table=11
+AYFW01000101.1	Genbank	gene	107720	108055	.	+	.	ID=gene-P661_1473;Name=P661_1473;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1473
+AYFW01000101.1	Genbank	CDS	107720	108055	.	+	0	ID=cds-ETS68243.1;Parent=gene-P661_1473;Dbxref=NCBI_GP:ETS68243.1;Name=ETS68243.1;gbkey=CDS;locus_tag=P661_1473;product=hypothetical protein;protein_id=ETS68243.1;transl_table=11
+AYFW01000101.1	Genbank	gene	108119	108337	.	+	.	ID=gene-P661_1474;Name=P661_1474;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1474
+AYFW01000101.1	Genbank	CDS	108119	108337	.	+	0	ID=cds-ETS68261.1;Parent=gene-P661_1474;Dbxref=NCBI_GP:ETS68261.1;Name=ETS68261.1;gbkey=CDS;locus_tag=P661_1474;product=hypothetical protein;protein_id=ETS68261.1;transl_table=11
+AYFW01000101.1	Genbank	gene	108845	109093	.	+	.	ID=gene-P661_1475;Name=P661_1475;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1475
+AYFW01000101.1	Genbank	CDS	108845	109093	.	+	0	ID=cds-ETS68221.1;Parent=gene-P661_1475;Dbxref=NCBI_GP:ETS68221.1;Name=ETS68221.1;gbkey=CDS;locus_tag=P661_1475;product=hypothetical protein;protein_id=ETS68221.1;transl_table=11
+AYFW01000101.1	Genbank	gene	109169	109891	.	-	.	ID=gene-P661_1476;Name=P661_1476;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1476
+AYFW01000101.1	Genbank	CDS	109169	109891	.	-	0	ID=cds-ETS68248.1;Parent=gene-P661_1476;Dbxref=NCBI_GP:ETS68248.1;Name=ETS68248.1;gbkey=CDS;locus_tag=P661_1476;product=hypothetical protein;protein_id=ETS68248.1;transl_table=11
+AYFW01000101.1	Genbank	gene	109907	110233	.	-	.	ID=gene-P661_1477;Name=P661_1477;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1477
+AYFW01000101.1	Genbank	CDS	109907	110233	.	-	0	ID=cds-ETS68259.1;Parent=gene-P661_1477;Dbxref=NCBI_GP:ETS68259.1;Name=ETS68259.1;gbkey=CDS;locus_tag=P661_1477;product=hypothetical protein;protein_id=ETS68259.1;transl_table=11
+AYFW01000101.1	Genbank	gene	110467	110712	.	-	.	ID=gene-P661_1478;Name=P661_1478;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P661_1478
+AYFW01000101.1	Genbank	CDS	110467	110712	.	-	0	ID=cds-ETS68275.1;Parent=gene-P661_1478;Dbxref=NCBI_GP:ETS68275.1;Name=ETS68275.1;gbkey=CDS;locus_tag=P661_1478;product=hypothetical protein;protein_id=ETS68275.1;transl_table=11
+AYFW01000101.1	Genbank	gene	110750	110825	.	-	.	ID=gene-P661_1479;Name=P661_1479;gbkey=Gene;gene_biotype=tRNA;locus_tag=P661_1479
+AYFW01000101.1	Genbank	tRNA	110750	110825	.	-	.	ID=rna-P661_1479;Parent=gene-P661_1479;gbkey=tRNA;locus_tag=P661_1479;product=tRNA-Asn
+AYFW01000101.1	Genbank	exon	110750	110825	.	-	.	ID=exon-P661_1479-1;Parent=rna-P661_1479;gbkey=tRNA;locus_tag=P661_1479;product=tRNA-Asn
+

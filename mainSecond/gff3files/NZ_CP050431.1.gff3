@@ -1,0 +1,7 @@
+##sequence-region NZ_CP050431.1 1 2419
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_CP050431.1	RefSeq	region	1	2419	.	+	.	ID=NZ_CP050431.1:1..2419;Dbxref=taxon:470;Is_circular=true;Name=pPM194122_6;collected-by=AIIMS Jai Prakash Narayan Apex Trauma Center;collection-date=2019;country=India;gbkey=Src;genome=plasmid;isolation-source=BAL;lat-lon=28.5659 N 77.2111 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pPM194122_6;strain=PM194188
+NZ_CP050431.1	RefSeq	gene	1	2419	.	+	.	ID=gene-HB368_RS20615;Name=HB368_RS20615;gbkey=Gene;gene_biotype=rRNA;locus_tag=HB368_RS20615;old_locus_tag=HB368_20615
+NZ_CP050431.1	RefSeq	rRNA	1	2419	.	+	.	ID=rna-HB368_RS20615;Parent=gene-HB368_RS20615;gbkey=rRNA;locus_tag=HB368_RS20615;product=23S ribosomal RNA
+NZ_CP050431.1	RefSeq	exon	1	2419	.	+	.	ID=exon-HB368_RS20615-1;Parent=rna-HB368_RS20615;gbkey=rRNA;locus_tag=HB368_RS20615;product=23S ribosomal RNA
+

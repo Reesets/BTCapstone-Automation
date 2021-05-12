@@ -1,0 +1,20 @@
+##sequence-region AYFH01000057.1 1 5355
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1398980
+AYFH01000057.1	Genbank	region	1	5355	.	+	.	ID=AYFH01000057.1:1..5355;Dbxref=taxon:1398980;Is_circular=true;Name=pABUH2b-5.4;collection-date=Nov-2007;country=USA;gbkey=Src;genome=plasmid;isolation-source=urine;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pABUH2b-5.4;strain=UH7607
+AYFH01000057.1	Genbank	gene	433	549	.	-	.	ID=gene-P676_1851;Name=P676_1851;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P676_1851
+AYFH01000057.1	Genbank	CDS	433	549	.	-	0	ID=cds-ETR11101.1;Parent=gene-P676_1851;Dbxref=NCBI_GP:ETR11101.1;Name=ETR11101.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P676_1851;product=hypothetical protein;protein_id=ETR11101.1;transl_table=11
+AYFH01000057.1	Genbank	gene	747	1688	.	+	.	ID=gene-P676_1853;Name=P676_1853;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P676_1853
+AYFH01000057.1	Genbank	CDS	747	1688	.	+	0	ID=cds-ETR11099.1;Parent=gene-P676_1853;Dbxref=NCBI_GP:ETR11099.1;Name=ETR11099.1;gbkey=CDS;locus_tag=P676_1853;product=initiator RepB protein;protein_id=ETR11099.1;transl_table=11
+AYFH01000057.1	Genbank	gene	1678	1947	.	-	.	ID=gene-P676_1852;Name=P676_1852;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P676_1852
+AYFH01000057.1	Genbank	CDS	1678	1947	.	-	0	ID=cds-ETR11100.1;Parent=gene-P676_1852;Dbxref=NCBI_GP:ETR11100.1;Name=ETR11100.1;gbkey=CDS;locus_tag=P676_1852;product=hypothetical protein;protein_id=ETR11100.1;transl_table=11
+AYFH01000057.1	Genbank	gene	2329	3300	.	+	.	ID=gene-P676_1854;Name=P676_1854;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P676_1854
+AYFH01000057.1	Genbank	CDS	2329	3300	.	+	0	ID=cds-ETR11098.1;Parent=gene-P676_1854;Dbxref=NCBI_GP:ETR11098.1;Name=ETR11098.1;Note=an automated process has identified a potential problem with this gene model%3B the current end5 and/or the end3 may need to extended or the current gene model may need to be merged with a neighboring gene model%3B the current gene model (or a revised gene model) may contain a frame shift;gbkey=CDS;locus_tag=P676_1854;product=MobA/MobL family protein;protein_id=ETR11098.1;transl_table=11
+AYFH01000057.1	Genbank	gene	3297	3794	.	+	.	ID=gene-P676_1855;Name=P676_1855;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P676_1855
+AYFH01000057.1	Genbank	CDS	3297	3794	.	+	0	ID=cds-ETR11103.1;Parent=gene-P676_1855;Dbxref=NCBI_GP:ETR11103.1;Name=ETR11103.1;gbkey=CDS;locus_tag=P676_1855;product=hypothetical protein;protein_id=ETR11103.1;transl_table=11
+AYFH01000057.1	Genbank	gene	3906	4187	.	-	.	ID=gene-P676_1856;Name=P676_1856;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P676_1856
+AYFH01000057.1	Genbank	CDS	3906	4187	.	-	0	ID=cds-ETR11104.1;Parent=gene-P676_1856;Dbxref=NCBI_GP:ETR11104.1;Name=ETR11104.1;gbkey=CDS;locus_tag=P676_1856;product=putative addiction module toxin component YafQ;protein_id=ETR11104.1;transl_table=11
+AYFH01000057.1	Genbank	gene	4180	4473	.	-	.	ID=gene-P676_1857;Name=P676_1857;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P676_1857
+AYFH01000057.1	Genbank	CDS	4180	4473	.	-	0	ID=cds-ETR11105.1;Parent=gene-P676_1857;Dbxref=NCBI_GP:ETR11105.1;Name=ETR11105.1;gbkey=CDS;locus_tag=P676_1857;product=addiction module antitoxin%2C RelB/DinJ family;protein_id=ETR11105.1;transl_table=11
+AYFH01000057.1	Genbank	gene	4611	5057	.	-	.	ID=gene-P676_1858;Name=P676_1858;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P676_1858
+AYFH01000057.1	Genbank	CDS	4611	5057	.	-	0	ID=cds-ETR11102.1;Parent=gene-P676_1858;Dbxref=NCBI_GP:ETR11102.1;Name=ETR11102.1;gbkey=CDS;locus_tag=P676_1858;product=putative toxin-antitoxin system%2C toxin component%2C GNAT family;protein_id=ETR11102.1;transl_table=11
+

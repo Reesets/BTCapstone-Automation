@@ -1,0 +1,12 @@
+##sequence-region NZ_CP021783.1 1 2726
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_CP021783.1	RefSeq	region	1	2726	.	+	.	ID=NZ_CP021783.1:1..2726;Dbxref=taxon:470;Is_circular=true;Name=pA85-1;collected-by=Ian Carter;collection-date=2003;country=Australia:Sydney;gbkey=Src;genome=plasmid;genotype=global clone 1;isolation-source=sputum;lat-lon=33.8650 S 151.2094 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pA85-1;strain=A85
+NZ_CP021783.1	RefSeq	gene	1	1251	.	+	.	ID=gene-CBI29_RS20565;Name=CBI29_RS20565;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_RS20565;old_locus_tag=CBI29_04201
+NZ_CP021783.1	Protein Homology	CDS	1	1251	.	+	0	ID=cds-WP_031943495.1;Parent=gene-CBI29_RS20565;Dbxref=Genbank:WP_031943495.1;Name=WP_031943495.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001180320.1;locus_tag=CBI29_RS20565;product=protein rep;protein_id=WP_031943495.1;transl_table=11
+NZ_CP021783.1	RefSeq	gene	1348	1563	.	+	.	ID=gene-CBI29_RS19685;Name=CBI29_RS19685;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_RS19685;old_locus_tag=CBI29_04202
+NZ_CP021783.1	Protein Homology	CDS	1348	1563	.	+	0	ID=cds-WP_001262268.1;Parent=gene-CBI29_RS19685;Dbxref=Genbank:WP_001262268.1;Name=WP_001262268.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001262269.1;locus_tag=CBI29_RS19685;product=hypothetical protein;protein_id=WP_001262268.1;transl_table=11
+NZ_CP021783.1	RefSeq	gene	1872	2189	.	+	.	ID=gene-CBI29_RS19690;Name=CBI29_RS19690;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_RS19690;old_locus_tag=CBI29_04203
+NZ_CP021783.1	Protein Homology	CDS	1872	2189	.	+	0	ID=cds-WP_000070380.1;Parent=gene-CBI29_RS19690;Dbxref=Genbank:WP_000070380.1;Name=WP_000070380.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000070380.1;locus_tag=CBI29_RS19690;product=hypothetical protein;protein_id=WP_000070380.1;transl_table=11
+NZ_CP021783.1	RefSeq	gene	2352	2642	.	+	.	ID=gene-CBI29_RS19695;Name=CBI29_RS19695;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_RS19695;old_locus_tag=CBI29_04205
+NZ_CP021783.1	Protein Homology	CDS	2352	2642	.	+	0	ID=cds-WP_000593064.1;Parent=gene-CBI29_RS19695;Dbxref=Genbank:WP_000593064.1;Name=WP_000593064.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000593064.1;locus_tag=CBI29_RS19695;product=hypothetical protein;protein_id=WP_000593064.1;transl_table=11
+

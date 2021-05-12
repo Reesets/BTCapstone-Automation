@@ -1,0 +1,5 @@
+##sequence-region NZ_CP050525.1 1 1764
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+NZ_CP050525.1	RefSeq	region	1	1764	.	+	.	ID=NZ_CP050525.1:1..1764;Dbxref=taxon:470;Is_circular=true;Name=pVB7036_2;collected-by=Christian Medical College;collection-date=2019;country=India;gbkey=Src;genome=plasmid;isolation-source=blood;lat-lon=12.9246 N 79.1348 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pVB7036_2;strain=VB7036
+NZ_CP050525.1	RefSeq	sequence_feature	1101	1655	.	+	.	ID=id-NZ_CP050525.1:1101..1655;Note=16S ribosomal RNA rRNA prediction is too short;gbkey=misc_feature
+

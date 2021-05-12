@@ -1,0 +1,24 @@
+##sequence-region CP066240.1 1 8731
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP066240.1	Genbank	region	1	8731	.	+	.	ID=CP066240.1:1..8731;Dbxref=taxon:470;Is_circular=true;Name=pG20AB007-3;collected-by=Hallym University Dongtan Sacred Heart Hospital;collection-date=2020-04-11;country=South Korea: Hwaseong-si;gbkey=Src;genome=plasmid;isolation-source=blood;lat-lon=37.22 N 127.08 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pG20AB007-3;strain=G20AB007
+CP066240.1	Genbank	gene	615	986	.	+	.	ID=gene-JCR16_19780;Name=JCR16_19780;gbkey=Gene;gene_biotype=protein_coding;locus_tag=JCR16_19780
+CP066240.1	Protein Homology	CDS	615	986	.	+	0	ID=cds-QQE02023.1;Parent=gene-JCR16_19780;Dbxref=NCBI_GP:QQE02023.1;Name=QQE02023.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=JCR16_19780;product=hypothetical protein;protein_id=QQE02023.1;transl_table=11
+CP066240.1	Genbank	gene	986	1159	.	+	.	ID=gene-JCR16_19785;Name=JCR16_19785;gbkey=Gene;gene_biotype=protein_coding;locus_tag=JCR16_19785
+CP066240.1	Protein Homology	CDS	986	1159	.	+	0	ID=cds-QQE02024.1;Parent=gene-JCR16_19785;Dbxref=NCBI_GP:QQE02024.1;Name=QQE02024.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001282484.1;locus_tag=JCR16_19785;product=hypothetical protein;protein_id=QQE02024.1;transl_table=11
+CP066240.1	Genbank	gene	1482	1943	.	-	.	ID=gene-JCR16_19790;Name=JCR16_19790;gbkey=Gene;gene_biotype=protein_coding;locus_tag=JCR16_19790
+CP066240.1	Protein Homology	CDS	1482	1943	.	-	0	ID=cds-QQE02025.1;Parent=gene-JCR16_19790;Dbxref=NCBI_GP:QQE02025.1;Name=QQE02025.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004781077.1;locus_tag=JCR16_19790;product=DIP1984 family protein;protein_id=QQE02025.1;transl_table=11
+CP066240.1	Genbank	gene	2248	4659	.	-	.	ID=gene-JCR16_19795;Name=JCR16_19795;gbkey=Gene;gene_biotype=protein_coding;locus_tag=JCR16_19795
+CP066240.1	Protein Homology	CDS	2248	4659	.	-	0	ID=cds-QQE02026.1;Parent=gene-JCR16_19795;Dbxref=NCBI_GP:QQE02026.1;Name=QQE02026.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=JCR16_19795;product=TonB-dependent receptor;protein_id=QQE02026.1;transl_table=11
+CP066240.1	Genbank	gene	4787	5101	.	-	.	ID=gene-JCR16_19800;Name=JCR16_19800;gbkey=Gene;gene_biotype=protein_coding;locus_tag=JCR16_19800
+CP066240.1	Protein Homology	CDS	4787	5101	.	-	0	ID=cds-QQE02018.1;Parent=gene-JCR16_19800;Dbxref=NCBI_GP:QQE02018.1;Name=QQE02018.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_006582675.1;locus_tag=JCR16_19800;product=BrnA antitoxin family protein;protein_id=QQE02018.1;transl_table=11
+CP066240.1	Genbank	gene	5088	5375	.	-	.	ID=gene-JCR16_19805;Name=JCR16_19805;gbkey=Gene;gene_biotype=protein_coding;locus_tag=JCR16_19805
+CP066240.1	Protein Homology	CDS	5088	5375	.	-	0	ID=cds-QQE02019.1;Parent=gene-JCR16_19805;Dbxref=NCBI_GP:QQE02019.1;Name=QQE02019.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=JCR16_19805;product=BrnT family toxin;protein_id=QQE02019.1;transl_table=11
+CP066240.1	Genbank	gene	5748	6266	.	+	.	ID=gene-JCR16_19810;Name=JCR16_19810;gbkey=Gene;gene_biotype=protein_coding;locus_tag=JCR16_19810
+CP066240.1	Protein Homology	CDS	5748	6266	.	+	0	ID=cds-QQE02027.1;Parent=gene-JCR16_19810;Dbxref=NCBI_GP:QQE02027.1;Name=QQE02027.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=JCR16_19810;product=sel1 repeat family protein;protein_id=QQE02027.1;transl_table=11
+CP066240.1	Genbank	gene	6455	6598	.	-	.	ID=gene-JCR16_19815;Name=JCR16_19815;gbkey=Gene;gene_biotype=protein_coding;locus_tag=JCR16_19815
+CP066240.1	Protein Homology	CDS	6455	6598	.	-	0	ID=cds-QQE02020.1;Parent=gene-JCR16_19815;Dbxref=NCBI_GP:QQE02020.1;Name=QQE02020.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786602.1;locus_tag=JCR16_19815;product=hypothetical protein;protein_id=QQE02020.1;transl_table=11
+CP066240.1	Genbank	gene	6618	7193	.	-	.	ID=gene-JCR16_19820;Name=JCR16_19820;gbkey=Gene;gene_biotype=protein_coding;locus_tag=JCR16_19820
+CP066240.1	Protein Homology	CDS	6618	7193	.	-	0	ID=cds-QQE02021.1;Parent=gene-JCR16_19820;Dbxref=NCBI_GP:QQE02021.1;Name=QQE02021.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=JCR16_19820;product=helix-turn-helix domain-containing protein;protein_id=QQE02021.1;transl_table=11
+CP066240.1	Genbank	gene	7186	8136	.	-	.	ID=gene-JCR16_19825;Name=JCR16_19825;gbkey=Gene;gene_biotype=protein_coding;locus_tag=JCR16_19825
+CP066240.1	Protein Homology	CDS	7186	8136	.	-	0	ID=cds-QQE02022.1;Parent=gene-JCR16_19825;Dbxref=NCBI_GP:QQE02022.1;Name=QQE02022.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=JCR16_19825;product=replication initiation protein;protein_id=QQE02022.1;transl_table=11
+

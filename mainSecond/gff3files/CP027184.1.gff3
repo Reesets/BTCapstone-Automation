@@ -1,0 +1,164 @@
+##sequence-region CP027184.1 1 60699
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP027184.1	Genbank	region	1	60699	.	+	.	ID=CP027184.1:1..60699;Dbxref=taxon:470;Is_circular=true;Name=unnamed2;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=unnamed2;strain=AR_0052
+CP027184.1	Genbank	gene	658	882	.	+	.	ID=gene-CSB68_4133;Name=CSB68_4133;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4133
+CP027184.1	Genbank	CDS	658	882	.	+	0	ID=cds-AVI39344.1;Parent=gene-CSB68_4133;Dbxref=NCBI_GP:AVI39344.1;Name=AVI39344.1;gbkey=CDS;locus_tag=CSB68_4133;product=hypothetical protein;protein_id=AVI39344.1;transl_table=11
+CP027184.1	Genbank	gene	931	2676	.	+	.	ID=gene-CSB68_4134;Name=CSB68_4134;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4134
+CP027184.1	Genbank	CDS	931	2676	.	+	0	ID=cds-AVI39290.1;Parent=gene-CSB68_4134;Dbxref=NCBI_GP:AVI39290.1;Name=AVI39290.1;gbkey=CDS;locus_tag=CSB68_4134;product=origin of replication binding family protein;protein_id=AVI39290.1;transl_table=11
+CP027184.1	Genbank	gene	2834	4099	.	+	.	ID=gene-CSB68_4135;Name=CSB68_4135;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4135
+CP027184.1	Genbank	CDS	2834	4099	.	+	0	ID=cds-AVI39275.1;Parent=gene-CSB68_4135;Dbxref=NCBI_GP:AVI39275.1;Name=AVI39275.1;gbkey=CDS;locus_tag=CSB68_4135;product=hypothetical protein;protein_id=AVI39275.1;transl_table=11
+CP027184.1	Genbank	gene	4333	4587	.	-	.	ID=gene-CSB68_4136;Name=CSB68_4136;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4136
+CP027184.1	Genbank	CDS	4333	4587	.	-	0	ID=cds-AVI39300.1;Parent=gene-CSB68_4136;Dbxref=NCBI_GP:AVI39300.1;Name=AVI39300.1;gbkey=CDS;locus_tag=CSB68_4136;product=toxin YafO%2C type II toxin-antitoxin system family protein;protein_id=AVI39300.1;transl_table=11
+CP027184.1	Genbank	gene	4584	4781	.	-	.	ID=gene-CSB68_4137;Name=CSB68_4137;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4137
+CP027184.1	Genbank	CDS	4584	4781	.	-	0	ID=cds-AVI39278.1;Parent=gene-CSB68_4137;Dbxref=NCBI_GP:AVI39278.1;Name=AVI39278.1;gbkey=CDS;locus_tag=CSB68_4137;product=hypothetical protein;protein_id=AVI39278.1;transl_table=11
+CP027184.1	Genbank	gene	5620	5913	.	+	.	ID=gene-CSB68_4138;Name=CSB68_4138;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4138
+CP027184.1	Genbank	CDS	5620	5913	.	+	0	ID=cds-AVI39312.1;Parent=gene-CSB68_4138;Dbxref=NCBI_GP:AVI39312.1;Name=AVI39312.1;gbkey=CDS;locus_tag=CSB68_4138;product=helix-turn-helix family protein;protein_id=AVI39312.1;transl_table=11
+CP027184.1	Genbank	gene	5903	6394	.	+	.	ID=gene-CSB68_4139;Name=CSB68_4139;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4139
+CP027184.1	Genbank	CDS	5903	6394	.	+	0	ID=cds-AVI39343.1;Parent=gene-CSB68_4139;Dbxref=NCBI_GP:AVI39343.1;Name=AVI39343.1;gbkey=CDS;locus_tag=CSB68_4139;product=putative retron-type reverse transcriptase;protein_id=AVI39343.1;transl_table=11
+CP027184.1	Genbank	gene	6457	6675	.	+	.	ID=gene-CSB68_4140;Name=CSB68_4140;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4140
+CP027184.1	Genbank	CDS	6457	6675	.	+	0	ID=cds-AVI39332.1;Parent=gene-CSB68_4140;Dbxref=NCBI_GP:AVI39332.1;Name=AVI39332.1;gbkey=CDS;locus_tag=CSB68_4140;product=retron-type reverse transcriptase domain protein;protein_id=AVI39332.1;transl_table=11
+CP027184.1	Genbank	gene	6937	8511	.	+	.	ID=gene-CSB68_4141;Name=CSB68_4141;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4141
+CP027184.1	Genbank	CDS	6937	8511	.	+	0	ID=cds-AVI39293.1;Parent=gene-CSB68_4141;Dbxref=NCBI_GP:AVI39293.1;Name=AVI39293.1;gbkey=CDS;locus_tag=CSB68_4141;product=type I restriction-modification system%2C M subunit;protein_id=AVI39293.1;transl_table=11
+CP027184.1	Genbank	gene	8511	9485	.	+	.	ID=gene-CSB68_4142;Name=CSB68_4142;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4142
+CP027184.1	Genbank	CDS	8511	9485	.	+	0	ID=cds-AVI39342.1;Parent=gene-CSB68_4142;Dbxref=NCBI_GP:AVI39342.1;Name=AVI39342.1;gbkey=CDS;locus_tag=CSB68_4142;product=type I restriction modification DNA specificity domain protein;protein_id=AVI39342.1;transl_table=11
+CP027184.1	Genbank	gene	9621	10100	.	-	.	ID=gene-CSB68_4143;Name=CSB68_4143;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4143
+CP027184.1	Genbank	CDS	9621	10100	.	-	0	ID=cds-AVI39265.1;Parent=gene-CSB68_4143;Dbxref=NCBI_GP:AVI39265.1;Name=AVI39265.1;gbkey=CDS;locus_tag=CSB68_4143;product=putative tnpA transposase;protein_id=AVI39265.1;transl_table=11
+CP027184.1	Genbank	gene	10236	11636	.	-	.	ID=gene-CSB68_4144;Name=CSB68_4144;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4144
+CP027184.1	Genbank	CDS	10236	11636	.	-	0	ID=cds-AVI39326.1;Parent=gene-CSB68_4144;Dbxref=NCBI_GP:AVI39326.1;Name=AVI39326.1;gbkey=CDS;locus_tag=CSB68_4144;product=putative tnpA;protein_id=AVI39326.1;transl_table=11
+CP027184.1	Genbank	gene	12155	12415	.	-	.	ID=gene-CSB68_4145;Name=araC1;gbkey=Gene;gene=araC1;gene_biotype=protein_coding;locus_tag=CSB68_4145
+CP027184.1	Genbank	CDS	12155	12415	.	-	0	ID=cds-AVI39340.1;Parent=gene-CSB68_4145;Dbxref=NCBI_GP:AVI39340.1;Name=AVI39340.1;gbkey=CDS;gene=araC1;locus_tag=CSB68_4145;product=araC1 domain protein;protein_id=AVI39340.1;transl_table=11
+CP027184.1	Genbank	gene	13837	13959	.	-	.	ID=gene-CSB68_4146;Name=CSB68_4146;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4146
+CP027184.1	Genbank	CDS	13837	13959	.	-	0	ID=cds-AVI39280.1;Parent=gene-CSB68_4146;Dbxref=NCBI_GP:AVI39280.1;Name=AVI39280.1;gbkey=CDS;locus_tag=CSB68_4146;product=putative carbapenem-hydrolyzing beta-lactamase OXA-58;protein_id=AVI39280.1;transl_table=11
+CP027184.1	Genbank	gene	14023	14442	.	-	.	ID=gene-CSB68_4147;Name=CSB68_4147;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4147
+CP027184.1	Genbank	CDS	14023	14442	.	-	0	ID=cds-AVI39322.1;Parent=gene-CSB68_4147;Dbxref=NCBI_GP:AVI39322.1;Name=AVI39322.1;gbkey=CDS;locus_tag=CSB68_4147;product=penicillin binding transpeptidase domain protein;protein_id=AVI39322.1;transl_table=11
+CP027184.1	Genbank	gene	14645	15187	.	-	.	ID=gene-CSB68_4148;Name=CSB68_4148;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4148
+CP027184.1	Genbank	CDS	14645	15187	.	-	0	ID=cds-AVI39336.1;Parent=gene-CSB68_4148;Dbxref=NCBI_GP:AVI39336.1;Name=AVI39336.1;gbkey=CDS;locus_tag=CSB68_4148;product=DDE domain protein;protein_id=AVI39336.1;transl_table=11
+CP027184.1	Genbank	gene	15546	15812	.	-	.	ID=gene-CSB68_4149;Name=CSB68_4149;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4149
+CP027184.1	Genbank	CDS	15546	15812	.	-	0	ID=cds-AVI39283.1;Parent=gene-CSB68_4149;Dbxref=NCBI_GP:AVI39283.1;Name=AVI39283.1;gbkey=CDS;locus_tag=CSB68_4149;product=putative iSMca3 transposase;protein_id=AVI39283.1;transl_table=11
+CP027184.1	Genbank	gene	15816	16292	.	+	.	ID=gene-CSB68_4150;Name=tnpA;gbkey=Gene;gene=tnpA;gene_biotype=protein_coding;locus_tag=CSB68_4150
+CP027184.1	Genbank	CDS	15816	16292	.	+	0	ID=cds-AVI39266.1;Parent=gene-CSB68_4150;Dbxref=NCBI_GP:AVI39266.1;Name=AVI39266.1;gbkey=CDS;gene=tnpA;locus_tag=CSB68_4150;product=transposase domain protein;protein_id=AVI39266.1;transl_table=11
+CP027184.1	Genbank	gene	16398	16811	.	+	.	ID=gene-CSB68_4151;Name=CSB68_4151;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4151
+CP027184.1	Genbank	CDS	16398	16811	.	+	0	ID=cds-AVI39327.1;Parent=gene-CSB68_4151;Dbxref=NCBI_GP:AVI39327.1;Name=AVI39327.1;gbkey=CDS;locus_tag=CSB68_4151;product=putative membrane protein;protein_id=AVI39327.1;transl_table=11
+CP027184.1	Genbank	gene	16814	17077	.	+	.	ID=gene-CSB68_4152;Name=CSB68_4152;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4152
+CP027184.1	Genbank	CDS	16814	17077	.	+	0	ID=cds-AVI39277.1;Parent=gene-CSB68_4152;Dbxref=NCBI_GP:AVI39277.1;Name=AVI39277.1;gbkey=CDS;locus_tag=CSB68_4152;product=hypothetical protein;protein_id=AVI39277.1;transl_table=11
+CP027184.1	Genbank	gene	17262	17927	.	-	.	ID=gene-CSB68_4153;Name=CSB68_4153;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4153
+CP027184.1	Genbank	CDS	17262	17927	.	-	0	ID=cds-AVI39287.1;Parent=gene-CSB68_4153;Dbxref=NCBI_GP:AVI39287.1;Name=AVI39287.1;gbkey=CDS;locus_tag=CSB68_4153;product=putative p12 protein;protein_id=AVI39287.1;transl_table=11
+CP027184.1	Genbank	gene	17995	18777	.	-	.	ID=gene-CSB68_4154;Name=CSB68_4154;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4154
+CP027184.1	Genbank	CDS	17995	18777	.	-	0	ID=cds-AVI39279.1;Parent=gene-CSB68_4154;Dbxref=NCBI_GP:AVI39279.1;Name=AVI39279.1;gbkey=CDS;locus_tag=CSB68_4154;product=araC-like ligand binding domain protein;protein_id=AVI39279.1;transl_table=11
+CP027184.1	Genbank	gene	18905	19216	.	-	.	ID=gene-CSB68_4155;Name=CSB68_4155;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4155
+CP027184.1	Genbank	CDS	18905	19216	.	-	0	ID=cds-AVI39273.1;Parent=gene-CSB68_4155;Dbxref=NCBI_GP:AVI39273.1;Name=AVI39273.1;gbkey=CDS;locus_tag=CSB68_4155;product=putative transposase;protein_id=AVI39273.1;transl_table=11
+CP027184.1	Genbank	gene	19220	19657	.	-	.	ID=gene-CSB68_4156;Name=CSB68_4156;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4156
+CP027184.1	Genbank	CDS	19220	19657	.	-	0	ID=cds-AVI39276.1;Parent=gene-CSB68_4156;Dbxref=NCBI_GP:AVI39276.1;Name=AVI39276.1;gbkey=CDS;locus_tag=CSB68_4156;product=insA N-terminal domain protein;protein_id=AVI39276.1;transl_table=11
+CP027184.1	Genbank	gene	19748	20590	.	-	.	ID=gene-CSB68_4157;Name=CSB68_4157;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4157
+CP027184.1	Genbank	CDS	19748	20590	.	-	0	ID=cds-AVI39299.1;Parent=gene-CSB68_4157;Dbxref=NCBI_GP:AVI39299.1;Name=AVI39299.1;gbkey=CDS;locus_tag=CSB68_4157;product=penicillin binding transpeptidase domain protein;protein_id=AVI39299.1;transl_table=11
+CP027184.1	Genbank	gene	20779	21681	.	-	.	ID=gene-CSB68_4158;Name=CSB68_4158;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4158
+CP027184.1	Genbank	CDS	20779	21681	.	-	0	ID=cds-AVI39315.1;Parent=gene-CSB68_4158;Dbxref=NCBI_GP:AVI39315.1;Name=AVI39315.1;gbkey=CDS;locus_tag=CSB68_4158;product=DDE domain protein;protein_id=AVI39315.1;transl_table=11
+CP027184.1	Genbank	gene	21681	21998	.	-	.	ID=gene-CSB68_4159;Name=CSB68_4159;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4159
+CP027184.1	Genbank	CDS	21681	21998	.	-	0	ID=cds-AVI39333.1;Parent=gene-CSB68_4159;Dbxref=NCBI_GP:AVI39333.1;Name=AVI39333.1;gbkey=CDS;locus_tag=CSB68_4159;product=hypothetical protein;protein_id=AVI39333.1;transl_table=11
+CP027184.1	Genbank	gene	22165	22428	.	+	.	ID=gene-CSB68_4160;Name=CSB68_4160;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4160
+CP027184.1	Genbank	CDS	22165	22428	.	+	0	ID=cds-AVI39325.1;Parent=gene-CSB68_4160;Dbxref=NCBI_GP:AVI39325.1;Name=AVI39325.1;gbkey=CDS;locus_tag=CSB68_4160;product=putative transposase;protein_id=AVI39325.1;transl_table=11
+CP027184.1	Genbank	gene	22534	22947	.	+	.	ID=gene-CSB68_4161;Name=CSB68_4161;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4161
+CP027184.1	Genbank	CDS	22534	22947	.	+	0	ID=cds-AVI39313.1;Parent=gene-CSB68_4161;Dbxref=NCBI_GP:AVI39313.1;Name=AVI39313.1;gbkey=CDS;locus_tag=CSB68_4161;product=putative membrane protein;protein_id=AVI39313.1;transl_table=11
+CP027184.1	Genbank	gene	22950	23264	.	+	.	ID=gene-CSB68_4162;Name=CSB68_4162;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4162
+CP027184.1	Genbank	CDS	22950	23264	.	+	0	ID=cds-AVI39337.1;Parent=gene-CSB68_4162;Dbxref=NCBI_GP:AVI39337.1;Name=AVI39337.1;gbkey=CDS;locus_tag=CSB68_4162;product=hypothetical protein;protein_id=AVI39337.1;transl_table=11
+CP027184.1	Genbank	gene	23466	24032	.	-	.	ID=gene-CSB68_4163;Name=CSB68_4163;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4163
+CP027184.1	Genbank	CDS	23466	24032	.	-	0	ID=cds-AVI39320.1;Parent=gene-CSB68_4163;Dbxref=NCBI_GP:AVI39320.1;Name=AVI39320.1;gbkey=CDS;locus_tag=CSB68_4163;product=resolvase%2C N terminal domain protein;protein_id=AVI39320.1;transl_table=11
+CP027184.1	Genbank	gene	24669	25064	.	-	.	ID=gene-CSB68_4164;Name=CSB68_4164;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4164
+CP027184.1	Genbank	CDS	24669	25064	.	-	0	ID=cds-AVI39309.1;Parent=gene-CSB68_4164;Dbxref=NCBI_GP:AVI39309.1;Name=AVI39309.1;gbkey=CDS;locus_tag=CSB68_4164;product=integrase core domain protein;protein_id=AVI39309.1;transl_table=11
+CP027184.1	Genbank	gene	25265	25588	.	-	.	ID=gene-CSB68_4165;Name=CSB68_4165;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4165
+CP027184.1	Genbank	CDS	25265	25588	.	-	0	ID=cds-AVI39317.1;Parent=gene-CSB68_4165;Dbxref=NCBI_GP:AVI39317.1;Name=AVI39317.1;gbkey=CDS;locus_tag=CSB68_4165;product=HTH-like domain protein;protein_id=AVI39317.1;transl_table=11
+CP027184.1	Genbank	gene	25588	25836	.	-	.	ID=gene-CSB68_4166;Name=CSB68_4166;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4166
+CP027184.1	Genbank	CDS	25588	25836	.	-	0	ID=cds-AVI39271.1;Parent=gene-CSB68_4166;Dbxref=NCBI_GP:AVI39271.1;Name=AVI39271.1;gbkey=CDS;locus_tag=CSB68_4166;product=putative transposase;protein_id=AVI39271.1;transl_table=11
+CP027184.1	Genbank	gene	25806	25919	.	-	.	ID=gene-CSB68_4167;Name=CSB68_4167;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4167
+CP027184.1	Genbank	CDS	25806	25919	.	-	0	ID=cds-AVI39302.1;Parent=gene-CSB68_4167;Dbxref=NCBI_GP:AVI39302.1;Name=AVI39302.1;gbkey=CDS;locus_tag=CSB68_4167;product=putative transposase;protein_id=AVI39302.1;transl_table=11
+CP027184.1	Genbank	gene	26191	26478	.	-	.	ID=gene-CSB68_4168;Name=relE;gbkey=Gene;gene=relE;gene_biotype=protein_coding;locus_tag=CSB68_4168
+CP027184.1	Genbank	CDS	26191	26478	.	-	0	ID=cds-AVI39294.1;Parent=gene-CSB68_4168;Dbxref=NCBI_GP:AVI39294.1;Name=AVI39294.1;gbkey=CDS;gene=relE;locus_tag=CSB68_4168;product=mRNA interferase RelE;protein_id=AVI39294.1;transl_table=11
+CP027184.1	Genbank	gene	26468	26656	.	-	.	ID=gene-CSB68_4169;Name=CSB68_4169;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4169
+CP027184.1	Genbank	CDS	26468	26656	.	-	0	ID=cds-AVI39318.1;Parent=gene-CSB68_4169;Dbxref=NCBI_GP:AVI39318.1;Name=AVI39318.1;gbkey=CDS;locus_tag=CSB68_4169;product=prevent-host-death family protein;protein_id=AVI39318.1;transl_table=11
+CP027184.1	Genbank	gene	26719	27144	.	-	.	ID=gene-CSB68_4170;Name=CSB68_4170;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4170
+CP027184.1	Genbank	CDS	26719	27144	.	-	0	ID=cds-AVI39324.1;Parent=gene-CSB68_4170;Dbxref=NCBI_GP:AVI39324.1;Name=AVI39324.1;gbkey=CDS;locus_tag=CSB68_4170;product=hypothetical protein;protein_id=AVI39324.1;transl_table=11
+CP027184.1	Genbank	gene	27411	27647	.	-	.	ID=gene-CSB68_4171;Name=CSB68_4171;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4171
+CP027184.1	Genbank	CDS	27411	27647	.	-	0	ID=cds-AVI39303.1;Parent=gene-CSB68_4171;Dbxref=NCBI_GP:AVI39303.1;Name=AVI39303.1;gbkey=CDS;locus_tag=CSB68_4171;product=ribbon-helix-helix%2C copG family protein;protein_id=AVI39303.1;transl_table=11
+CP027184.1	Genbank	gene	27644	28273	.	-	.	ID=gene-CSB68_4172;Name=CSB68_4172;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4172
+CP027184.1	Genbank	CDS	27644	28273	.	-	0	ID=cds-AVI39321.1;Parent=gene-CSB68_4172;Dbxref=NCBI_GP:AVI39321.1;Name=AVI39321.1;gbkey=CDS;locus_tag=CSB68_4172;product=cobQ/CobB/MinD/ParA nucleotide binding domain protein;protein_id=AVI39321.1;transl_table=11
+CP027184.1	Genbank	gene	28698	29645	.	+	.	ID=gene-CSB68_4173;Name=CSB68_4173;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4173
+CP027184.1	Genbank	CDS	28698	29645	.	+	0	ID=cds-AVI39286.1;Parent=gene-CSB68_4173;Dbxref=NCBI_GP:AVI39286.1;Name=AVI39286.1;gbkey=CDS;locus_tag=CSB68_4173;product=initiator Replication family protein;protein_id=AVI39286.1;transl_table=11
+CP027184.1	Genbank	gene	29850	30158	.	-	.	ID=gene-CSB68_4174;Name=CSB68_4174;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4174
+CP027184.1	Genbank	CDS	29850	30158	.	-	0	ID=cds-AVI39304.1;Parent=gene-CSB68_4174;Dbxref=NCBI_GP:AVI39304.1;Name=AVI39304.1;gbkey=CDS;locus_tag=CSB68_4174;product=hypothetical protein;protein_id=AVI39304.1;transl_table=11
+CP027184.1	Genbank	gene	30171	30377	.	+	.	ID=gene-CSB68_4175;Name=CSB68_4175;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4175
+CP027184.1	Genbank	CDS	30171	30377	.	+	0	ID=cds-AVI39328.1;Parent=gene-CSB68_4175;Dbxref=NCBI_GP:AVI39328.1;Name=AVI39328.1;gbkey=CDS;locus_tag=CSB68_4175;product=replicase domain protein;protein_id=AVI39328.1;transl_table=11
+CP027184.1	Genbank	gene	30937	34491	.	+	.	ID=gene-CSB68_4176;Name=CSB68_4176;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4176
+CP027184.1	Genbank	CDS	30937	34491	.	+	0	ID=cds-AVI39282.1;Parent=gene-CSB68_4176;Dbxref=NCBI_GP:AVI39282.1;Name=AVI39282.1;gbkey=CDS;locus_tag=CSB68_4176;product=origin of replication binding family protein;protein_id=AVI39282.1;transl_table=11
+CP027184.1	Genbank	gene	34725	35222	.	-	.	ID=gene-CSB68_4177;Name=CSB68_4177;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4177
+CP027184.1	Genbank	CDS	34725	35222	.	-	0	ID=cds-AVI39292.1;Parent=gene-CSB68_4177;Dbxref=NCBI_GP:AVI39292.1;Name=AVI39292.1;gbkey=CDS;locus_tag=CSB68_4177;product=toxin YafO%2C type II toxin-antitoxin system family protein;protein_id=AVI39292.1;transl_table=11
+CP027184.1	Genbank	gene	35225	35386	.	-	.	ID=gene-CSB68_4178;Name=CSB68_4178;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4178
+CP027184.1	Genbank	CDS	35225	35386	.	-	0	ID=cds-AVI39296.1;Parent=gene-CSB68_4178;Dbxref=NCBI_GP:AVI39296.1;Name=AVI39296.1;gbkey=CDS;locus_tag=CSB68_4178;product=hypothetical protein;protein_id=AVI39296.1;transl_table=11
+CP027184.1	Genbank	gene	36018	36311	.	+	.	ID=gene-CSB68_4179;Name=CSB68_4179;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4179
+CP027184.1	Genbank	CDS	36018	36311	.	+	0	ID=cds-AVI39267.1;Parent=gene-CSB68_4179;Dbxref=NCBI_GP:AVI39267.1;Name=AVI39267.1;gbkey=CDS;locus_tag=CSB68_4179;product=helix-turn-helix family protein;protein_id=AVI39267.1;transl_table=11
+CP027184.1	Genbank	gene	36301	37203	.	+	.	ID=gene-CSB68_4180;Name=CSB68_4180;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4180
+CP027184.1	Genbank	CDS	36301	37203	.	+	0	ID=cds-AVI39338.1;Parent=gene-CSB68_4180;Dbxref=NCBI_GP:AVI39338.1;Name=AVI39338.1;gbkey=CDS;locus_tag=CSB68_4180;product=reverse transcriptase family protein;protein_id=AVI39338.1;transl_table=11
+CP027184.1	Genbank	gene	37339	38913	.	+	.	ID=gene-CSB68_4181;Name=CSB68_4181;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4181
+CP027184.1	Genbank	CDS	37339	38913	.	+	0	ID=cds-AVI39288.1;Parent=gene-CSB68_4181;Dbxref=NCBI_GP:AVI39288.1;Name=AVI39288.1;gbkey=CDS;locus_tag=CSB68_4181;product=type I restriction-modification system%2C M subunit;protein_id=AVI39288.1;transl_table=11
+CP027184.1	Genbank	gene	39801	42227	.	-	.	ID=gene-CSB68_4182;Name=CSB68_4182;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4182
+CP027184.1	Genbank	CDS	39801	42227	.	-	0	ID=cds-AVI39297.1;Parent=gene-CSB68_4182;Dbxref=NCBI_GP:AVI39297.1;Name=AVI39297.1;gbkey=CDS;locus_tag=CSB68_4182;product=tn3 transposase DDE domain protein;protein_id=AVI39297.1;transl_table=11
+CP027184.1	Genbank	gene	42295	43077	.	-	.	ID=gene-CSB68_4183;Name=CSB68_4183;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4183
+CP027184.1	Genbank	CDS	42295	43077	.	-	0	ID=cds-AVI39335.1;Parent=gene-CSB68_4183;Dbxref=NCBI_GP:AVI39335.1;Name=AVI39335.1;gbkey=CDS;locus_tag=CSB68_4183;product=araC-like ligand binding domain protein;protein_id=AVI39335.1;transl_table=11
+CP027184.1	Genbank	gene	43205	43516	.	-	.	ID=gene-CSB68_4184;Name=CSB68_4184;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4184
+CP027184.1	Genbank	CDS	43205	43516	.	-	0	ID=cds-AVI39291.1;Parent=gene-CSB68_4184;Dbxref=NCBI_GP:AVI39291.1;Name=AVI39291.1;gbkey=CDS;locus_tag=CSB68_4184;product=putative transposase;protein_id=AVI39291.1;transl_table=11
+CP027184.1	Genbank	gene	43520	43957	.	-	.	ID=gene-CSB68_4185;Name=CSB68_4185;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4185
+CP027184.1	Genbank	CDS	43520	43957	.	-	0	ID=cds-AVI39314.1;Parent=gene-CSB68_4185;Dbxref=NCBI_GP:AVI39314.1;Name=AVI39314.1;gbkey=CDS;locus_tag=CSB68_4185;product=insA N-terminal domain protein;protein_id=AVI39314.1;transl_table=11
+CP027184.1	Genbank	gene	44048	44890	.	-	.	ID=gene-CSB68_4186;Name=CSB68_4186;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4186
+CP027184.1	Genbank	CDS	44048	44890	.	-	0	ID=cds-AVI39270.1;Parent=gene-CSB68_4186;Dbxref=NCBI_GP:AVI39270.1;Name=AVI39270.1;gbkey=CDS;locus_tag=CSB68_4186;product=penicillin binding transpeptidase domain protein;protein_id=AVI39270.1;transl_table=11
+CP027184.1	Genbank	gene	45079	45981	.	-	.	ID=gene-CSB68_4187;Name=CSB68_4187;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4187
+CP027184.1	Genbank	CDS	45079	45981	.	-	0	ID=cds-AVI39269.1;Parent=gene-CSB68_4187;Dbxref=NCBI_GP:AVI39269.1;Name=AVI39269.1;gbkey=CDS;locus_tag=CSB68_4187;product=DDE domain protein;protein_id=AVI39269.1;transl_table=11
+CP027184.1	Genbank	gene	45981	46298	.	-	.	ID=gene-CSB68_4188;Name=CSB68_4188;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4188
+CP027184.1	Genbank	CDS	45981	46298	.	-	0	ID=cds-AVI39311.1;Parent=gene-CSB68_4188;Dbxref=NCBI_GP:AVI39311.1;Name=AVI39311.1;gbkey=CDS;locus_tag=CSB68_4188;product=hypothetical protein;protein_id=AVI39311.1;transl_table=11
+CP027184.1	Genbank	gene	46465	46728	.	+	.	ID=gene-CSB68_4189;Name=CSB68_4189;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4189
+CP027184.1	Genbank	CDS	46465	46728	.	+	0	ID=cds-AVI39310.1;Parent=gene-CSB68_4189;Dbxref=NCBI_GP:AVI39310.1;Name=AVI39310.1;gbkey=CDS;locus_tag=CSB68_4189;product=putative transposase;protein_id=AVI39310.1;transl_table=11
+CP027184.1	Genbank	gene	46834	47247	.	+	.	ID=gene-CSB68_4190;Name=CSB68_4190;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4190
+CP027184.1	Genbank	CDS	46834	47247	.	+	0	ID=cds-AVI39289.1;Parent=gene-CSB68_4190;Dbxref=NCBI_GP:AVI39289.1;Name=AVI39289.1;gbkey=CDS;locus_tag=CSB68_4190;product=putative membrane protein;protein_id=AVI39289.1;transl_table=11
+CP027184.1	Genbank	gene	47250	47564	.	+	.	ID=gene-CSB68_4191;Name=CSB68_4191;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4191
+CP027184.1	Genbank	CDS	47250	47564	.	+	0	ID=cds-AVI39323.1;Parent=gene-CSB68_4191;Dbxref=NCBI_GP:AVI39323.1;Name=AVI39323.1;gbkey=CDS;locus_tag=CSB68_4191;product=hypothetical protein;protein_id=AVI39323.1;transl_table=11
+CP027184.1	Genbank	gene	47699	47812	.	-	.	ID=gene-CSB68_4192;Name=CSB68_4192;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4192
+CP027184.1	Genbank	CDS	47699	47812	.	-	0	ID=cds-AVI39341.1;Parent=gene-CSB68_4192;Dbxref=NCBI_GP:AVI39341.1;Name=AVI39341.1;gbkey=CDS;locus_tag=CSB68_4192;product=hypothetical protein;protein_id=AVI39341.1;transl_table=11
+CP027184.1	Genbank	gene	47837	48541	.	+	.	ID=gene-CSB68_4193;Name=CSB68_4193;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4193
+CP027184.1	Genbank	CDS	47837	48541	.	+	0	ID=cds-AVI39284.1;Parent=gene-CSB68_4193;Dbxref=NCBI_GP:AVI39284.1;Name=AVI39284.1;gbkey=CDS;locus_tag=CSB68_4193;product=transposase IS66 family protein;protein_id=AVI39284.1;transl_table=11
+CP027184.1	Genbank	gene	48704	49213	.	-	.	ID=gene-CSB68_4194;Name=CSB68_4194;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4194
+CP027184.1	Genbank	CDS	48704	49213	.	-	0	ID=cds-AVI39274.1;Parent=gene-CSB68_4194;Dbxref=NCBI_GP:AVI39274.1;Name=AVI39274.1;gbkey=CDS;locus_tag=CSB68_4194;product=araC-like ligand binding domain protein;protein_id=AVI39274.1;transl_table=11
+CP027184.1	Genbank	gene	49341	49652	.	-	.	ID=gene-CSB68_4195;Name=CSB68_4195;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4195
+CP027184.1	Genbank	CDS	49341	49652	.	-	0	ID=cds-AVI39295.1;Parent=gene-CSB68_4195;Dbxref=NCBI_GP:AVI39295.1;Name=AVI39295.1;gbkey=CDS;locus_tag=CSB68_4195;product=putative transposase;protein_id=AVI39295.1;transl_table=11
+CP027184.1	Genbank	gene	49656	50093	.	-	.	ID=gene-CSB68_4196;Name=CSB68_4196;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4196
+CP027184.1	Genbank	CDS	49656	50093	.	-	0	ID=cds-AVI39301.1;Parent=gene-CSB68_4196;Dbxref=NCBI_GP:AVI39301.1;Name=AVI39301.1;gbkey=CDS;locus_tag=CSB68_4196;product=insA N-terminal domain protein;protein_id=AVI39301.1;transl_table=11
+CP027184.1	Genbank	gene	50184	51008	.	-	.	ID=gene-CSB68_4197;Name=CSB68_4197;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4197
+CP027184.1	Genbank	CDS	50184	51008	.	-	0	ID=cds-AVI39331.1;Parent=gene-CSB68_4197;Dbxref=NCBI_GP:AVI39331.1;Name=AVI39331.1;gbkey=CDS;locus_tag=CSB68_4197;product=penicillin binding transpeptidase domain protein;protein_id=AVI39331.1;transl_table=11
+CP027184.1	Genbank	gene	51214	51756	.	-	.	ID=gene-CSB68_4198;Name=CSB68_4198;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4198
+CP027184.1	Genbank	CDS	51214	51756	.	-	0	ID=cds-AVI39268.1;Parent=gene-CSB68_4198;Dbxref=NCBI_GP:AVI39268.1;Name=AVI39268.1;gbkey=CDS;locus_tag=CSB68_4198;product=DDE domain protein;protein_id=AVI39268.1;transl_table=11
+CP027184.1	Genbank	gene	51891	52115	.	-	.	ID=gene-CSB68_4199;Name=CSB68_4199;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4199
+CP027184.1	Genbank	CDS	51891	52115	.	-	0	ID=cds-AVI39285.1;Parent=gene-CSB68_4199;Dbxref=NCBI_GP:AVI39285.1;Name=AVI39285.1;gbkey=CDS;locus_tag=CSB68_4199;product=HTH-like domain protein;protein_id=AVI39285.1;transl_table=11
+CP027184.1	Genbank	gene	52202	52429	.	-	.	ID=gene-CSB68_4200;Name=CSB68_4200;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4200
+CP027184.1	Genbank	CDS	52202	52429	.	-	0	ID=cds-AVI39305.1;Parent=gene-CSB68_4200;Dbxref=NCBI_GP:AVI39305.1;Name=AVI39305.1;gbkey=CDS;locus_tag=CSB68_4200;product=hypothetical protein;protein_id=AVI39305.1;transl_table=11
+CP027184.1	Genbank	gene	52596	52838	.	+	.	ID=gene-CSB68_4201;Name=CSB68_4201;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4201
+CP027184.1	Genbank	CDS	52596	52838	.	+	0	ID=cds-AVI39306.1;Parent=gene-CSB68_4201;Dbxref=NCBI_GP:AVI39306.1;Name=AVI39306.1;gbkey=CDS;locus_tag=CSB68_4201;product=putative transposase;protein_id=AVI39306.1;transl_table=11
+CP027184.1	Genbank	gene	53282	53398	.	+	.	ID=gene-CSB68_4202;Name=CSB68_4202;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4202
+CP027184.1	Genbank	CDS	53282	53398	.	+	0	ID=cds-AVI39316.1;Parent=gene-CSB68_4202;Dbxref=NCBI_GP:AVI39316.1;Name=AVI39316.1;gbkey=CDS;locus_tag=CSB68_4202;product=putative membrane protein;protein_id=AVI39316.1;transl_table=11
+CP027184.1	Genbank	gene	53708	53836	.	+	.	ID=gene-CSB68_4203;Name=CSB68_4203;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4203
+CP027184.1	Genbank	CDS	53708	53836	.	+	0	ID=cds-AVI39339.1;Parent=gene-CSB68_4203;Dbxref=NCBI_GP:AVI39339.1;Name=AVI39339.1;gbkey=CDS;locus_tag=CSB68_4203;product=hypothetical protein;protein_id=AVI39339.1;transl_table=11
+CP027184.1	Genbank	gene	54274	54417	.	-	.	ID=gene-CSB68_4204;Name=CSB68_4204;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4204
+CP027184.1	Genbank	CDS	54274	54417	.	-	0	ID=cds-AVI39298.1;Parent=gene-CSB68_4204;Dbxref=NCBI_GP:AVI39298.1;Name=AVI39298.1;gbkey=CDS;locus_tag=CSB68_4204;product=putative cinH resolvase;protein_id=AVI39298.1;transl_table=11
+CP027184.1	Genbank	gene	55300	55527	.	-	.	ID=gene-CSB68_4205;Name=CSB68_4205;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4205
+CP027184.1	Genbank	CDS	55300	55527	.	-	0	ID=cds-AVI39334.1;Parent=gene-CSB68_4205;Dbxref=NCBI_GP:AVI39334.1;Name=AVI39334.1;gbkey=CDS;locus_tag=CSB68_4205;product=integrase core domain protein;protein_id=AVI39334.1;transl_table=11
+CP027184.1	Genbank	gene	55726	55944	.	-	.	ID=gene-CSB68_4206;Name=CSB68_4206;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4206
+CP027184.1	Genbank	CDS	55726	55944	.	-	0	ID=cds-AVI39308.1;Parent=gene-CSB68_4206;Dbxref=NCBI_GP:AVI39308.1;Name=AVI39308.1;gbkey=CDS;locus_tag=CSB68_4206;product=putative insB;protein_id=AVI39308.1;transl_table=11
+CP027184.1	Genbank	gene	57053	57382	.	-	.	ID=gene-CSB68_4207;Name=CSB68_4207;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4207
+CP027184.1	Genbank	CDS	57053	57382	.	-	0	ID=cds-AVI39319.1;Parent=gene-CSB68_4207;Dbxref=NCBI_GP:AVI39319.1;Name=AVI39319.1;gbkey=CDS;locus_tag=CSB68_4207;product=hypothetical protein;protein_id=AVI39319.1;transl_table=11
+CP027184.1	Genbank	gene	58009	58389	.	-	.	ID=gene-CSB68_4208;Name=CSB68_4208;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4208
+CP027184.1	Genbank	CDS	58009	58389	.	-	0	ID=cds-AVI39281.1;Parent=gene-CSB68_4208;Dbxref=NCBI_GP:AVI39281.1;Name=AVI39281.1;gbkey=CDS;locus_tag=CSB68_4208;product=cobQ/CobB/MinD/ParA nucleotide binding domain protein;protein_id=AVI39281.1;transl_table=11
+CP027184.1	Genbank	gene	58364	58597	.	-	.	ID=gene-CSB68_4209;Name=CSB68_4209;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4209
+CP027184.1	Genbank	CDS	58364	58597	.	-	0	ID=cds-AVI39329.1;Parent=gene-CSB68_4209;Dbxref=NCBI_GP:AVI39329.1;Name=AVI39329.1;gbkey=CDS;locus_tag=CSB68_4209;product=cobQ/CobB/MinD/ParA nucleotide binding domain protein;protein_id=AVI39329.1;transl_table=11
+CP027184.1	Genbank	gene	59018	59896	.	+	.	ID=gene-CSB68_4210;Name=CSB68_4210;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4210
+CP027184.1	Genbank	CDS	59018	59896	.	+	0	ID=cds-AVI39307.1;Parent=gene-CSB68_4210;Dbxref=NCBI_GP:AVI39307.1;Name=AVI39307.1;gbkey=CDS;locus_tag=CSB68_4210;product=initiator Replication family protein;protein_id=AVI39307.1;transl_table=11
+CP027184.1	Genbank	gene	60168	60476	.	-	.	ID=gene-CSB68_4211;Name=CSB68_4211;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4211
+CP027184.1	Genbank	CDS	60168	60476	.	-	0	ID=cds-AVI39272.1;Parent=gene-CSB68_4211;Dbxref=NCBI_GP:AVI39272.1;Name=AVI39272.1;gbkey=CDS;locus_tag=CSB68_4211;product=hypothetical protein;protein_id=AVI39272.1;transl_table=11
+CP027184.1	Genbank	gene	60489	60695	.	+	.	ID=gene-CSB68_4212;Name=CSB68_4212;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CSB68_4212
+CP027184.1	Genbank	CDS	60489	60695	.	+	0	ID=cds-AVI39330.1;Parent=gene-CSB68_4212;Dbxref=NCBI_GP:AVI39330.1;Name=AVI39330.1;gbkey=CDS;locus_tag=CSB68_4212;product=replicase domain protein;protein_id=AVI39330.1;transl_table=11
+

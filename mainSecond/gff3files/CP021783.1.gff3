@@ -1,0 +1,14 @@
+##sequence-region CP021783.1 1 2726
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP021783.1	Genbank	region	1	2726	.	+	.	ID=CP021783.1:1..2726;Dbxref=taxon:470;Is_circular=true;Name=pA85-1;collected-by=Ian Carter;collection-date=2003;country=Australia:Sydney;gbkey=Src;genome=plasmid;genotype=global clone 1;isolation-source=sputum;lat-lon=33.8650 S 151.2094 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pA85-1;strain=A85
+CP021783.1	Genbank	gene	1	1251	.	+	.	ID=gene-CBI29_04201;Name=rep;gbkey=Gene;gene=rep;gene_biotype=protein_coding;locus_tag=CBI29_04201
+CP021783.1	Genbank	CDS	1	1251	.	+	0	ID=cds-AHM95258.1;Parent=gene-CBI29_04201;Dbxref=NCBI_GP:AHM95258.1;Name=AHM95258.1;gbkey=CDS;gene=rep;inference=protein motif:Pfam:PF01446.11;locus_tag=CBI29_04201;product=Rep;protein_id=AHM95258.1;transl_table=11
+CP021783.1	Genbank	gene	1348	1563	.	+	.	ID=gene-CBI29_04202;Name=CBI29_04202;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_04202
+CP021783.1	Genbank	CDS	1348	1563	.	+	0	ID=cds-AHM95259.1;Parent=gene-CBI29_04202;Dbxref=NCBI_GP:AHM95259.1;Name=AHM95259.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=CBI29_04202;product=hypothetical protein;protein_id=AHM95259.1;transl_table=11
+CP021783.1	Genbank	gene	1842	2189	.	+	.	ID=gene-CBI29_04203;Name=CBI29_04203;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_04203
+CP021783.1	Genbank	CDS	1842	2189	.	+	0	ID=cds-AHM95260.1;Parent=gene-CBI29_04203;Dbxref=NCBI_GP:AHM95260.1;Name=AHM95260.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=CBI29_04203;product=hypothetical protein;protein_id=AHM95260.1;transl_table=11
+CP021783.1	Genbank	gene	2182	2355	.	+	.	ID=gene-CBI29_04204;Name=CBI29_04204;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_04204
+CP021783.1	Genbank	CDS	2182	2355	.	+	0	ID=cds-ASF79211.1;Parent=gene-CBI29_04204;Dbxref=NCBI_GP:ASF79211.1;Name=ASF79211.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=CBI29_04204;product=hypothetical protein;protein_id=ASF79211.1;transl_table=11
+CP021783.1	Genbank	gene	2352	2642	.	+	.	ID=gene-CBI29_04205;Name=CBI29_04205;gbkey=Gene;gene_biotype=protein_coding;locus_tag=CBI29_04205
+CP021783.1	Genbank	CDS	2352	2642	.	+	0	ID=cds-AHM95261.1;Parent=gene-CBI29_04205;Dbxref=NCBI_GP:AHM95261.1;Name=AHM95261.1;gbkey=CDS;inference=ab initio prediction:Prodigal:2.6;locus_tag=CBI29_04205;product=hypothetical protein;protein_id=AHM95261.1;transl_table=11
+

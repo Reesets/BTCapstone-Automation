@@ -1,0 +1,412 @@
+##sequence-region AP014650.1 1 189354
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+AP014650.1	DDBJ	region	1	189354	.	+	.	ID=AP014650.1:1..189354;Dbxref=taxon:470;Is_circular=true;Name=pIOMTU433;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=pIOMTU433;strain=IOMTU 433
+AP014650.1	DDBJ	gene	69	773	.	+	.	ID=gene-IOMTU433_p001;Name=IOMTU433_p001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p001
+AP014650.1	DDBJ	CDS	69	773	.	+	0	ID=cds-BAP68554.1;Parent=gene-IOMTU433_p001;Dbxref=NCBI_GP:BAP68554.1;Name=BAP68554.1;gbkey=CDS;locus_tag=IOMTU433_p001;product=DNA replication protein;protein_id=BAP68554.1;transl_table=11
+AP014650.1	DDBJ	gene	840	1382	.	+	.	ID=gene-IOMTU433_p002;Name=IOMTU433_p002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p002
+AP014650.1	DDBJ	CDS	840	1382	.	+	0	ID=cds-BAP68555.1;Parent=gene-IOMTU433_p002;Dbxref=NCBI_GP:BAP68555.1;Name=BAP68555.1;gbkey=CDS;locus_tag=IOMTU433_p002;product=hypothetical protein;protein_id=BAP68555.1;transl_table=11
+AP014650.1	DDBJ	gene	1741	2625	.	-	.	ID=gene-IOMTU433_p003;Name=IOMTU433_p003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p003
+AP014650.1	DDBJ	CDS	1741	2625	.	-	0	ID=cds-BAP68556.1;Parent=gene-IOMTU433_p003;Dbxref=NCBI_GP:BAP68556.1;Name=BAP68556.1;gbkey=CDS;locus_tag=IOMTU433_p003;product=aldehyde dehydrogenase;protein_id=BAP68556.1;transl_table=11
+AP014650.1	DDBJ	gene	2681	4156	.	-	.	ID=gene-IOMTU433_p004;Name=IOMTU433_p004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p004
+AP014650.1	DDBJ	CDS	2681	4156	.	-	0	ID=cds-BAP68557.1;Parent=gene-IOMTU433_p004;Dbxref=NCBI_GP:BAP68557.1;Name=BAP68557.1;gbkey=CDS;locus_tag=IOMTU433_p004;product=ATPase components of ABC transporter;protein_id=BAP68557.1;transl_table=11
+AP014650.1	DDBJ	gene	4555	5730	.	-	.	ID=gene-IOMTU433_p005;Name=IOMTU433_p005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p005
+AP014650.1	DDBJ	CDS	4555	5730	.	-	0	ID=cds-BAP68558.1;Parent=gene-IOMTU433_p005;Dbxref=NCBI_GP:BAP68558.1;Name=BAP68558.1;gbkey=CDS;locus_tag=IOMTU433_p005;product=putative transposase;protein_id=BAP68558.1;transl_table=11
+AP014650.1	DDBJ	gene	5788	5973	.	+	.	ID=gene-IOMTU433_p006;Name=IOMTU433_p006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p006
+AP014650.1	DDBJ	CDS	5788	5973	.	+	0	ID=cds-BAP68559.1;Parent=gene-IOMTU433_p006;Dbxref=NCBI_GP:BAP68559.1;Name=BAP68559.1;gbkey=CDS;locus_tag=IOMTU433_p006;product=putative permease;protein_id=BAP68559.1;transl_table=11
+AP014650.1	DDBJ	gene	6259	6474	.	+	.	ID=gene-IOMTU433_p007;Name=IOMTU433_p007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p007
+AP014650.1	DDBJ	CDS	6259	6474	.	+	0	ID=cds-BAP68560.1;Parent=gene-IOMTU433_p007;Dbxref=NCBI_GP:BAP68560.1;Name=BAP68560.1;gbkey=CDS;locus_tag=IOMTU433_p007;product=hypothetical protein;protein_id=BAP68560.1;transl_table=11
+AP014650.1	DDBJ	gene	6455	7228	.	-	.	ID=gene-IOMTU433_p008;Name=armA;gbkey=Gene;gene=armA;gene_biotype=protein_coding;locus_tag=IOMTU433_p008
+AP014650.1	DDBJ	CDS	6455	7228	.	-	0	ID=cds-BAP68561.1;Parent=gene-IOMTU433_p008;Dbxref=NCBI_GP:BAP68561.1;Name=BAP68561.1;gbkey=CDS;gene=armA;locus_tag=IOMTU433_p008;product=ribosomal RNA methyltransferase ArmA;protein_id=BAP68561.1;transl_table=11
+AP014650.1	DDBJ	gene	7470	8600	.	-	.	ID=gene-IOMTU433_p009;Name=IOMTU433_p009;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p009
+AP014650.1	DDBJ	CDS	7470	8600	.	-	0	ID=cds-BAP68562.1;Parent=gene-IOMTU433_p009;Dbxref=NCBI_GP:BAP68562.1;Name=BAP68562.1;gbkey=CDS;locus_tag=IOMTU433_p009;product=mobile element protein;protein_id=BAP68562.1;transl_table=11
+AP014650.1	DDBJ	gene	8587	8712	.	-	.	ID=gene-IOMTU433_p010;Name=IOMTU433_p010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p010
+AP014650.1	DDBJ	CDS	8587	8712	.	-	0	ID=cds-BAP68563.1;Parent=gene-IOMTU433_p010;Dbxref=NCBI_GP:BAP68563.1;Name=BAP68563.1;gbkey=CDS;locus_tag=IOMTU433_p010;product=alpha-D-GlcNAc alpha-1%2C2-L-rhamnosyltransferase;protein_id=BAP68563.1;transl_table=11
+AP014650.1	DDBJ	gene	8891	9727	.	-	.	ID=gene-IOMTU433_p011;Name=IOMTU433_p011;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p011
+AP014650.1	DDBJ	CDS	8891	9727	.	-	0	ID=cds-BAP68564.1;Parent=gene-IOMTU433_p011;Dbxref=NCBI_GP:BAP68564.1;Name=BAP68564.1;gbkey=CDS;locus_tag=IOMTU433_p011;product=transposase;protein_id=BAP68564.1;transl_table=11
+AP014650.1	DDBJ	gene	9964	11505	.	-	.	ID=gene-IOMTU433_p012;Name=IOMTU433_p012;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p012
+AP014650.1	DDBJ	CDS	9964	11505	.	-	0	ID=cds-BAP68565.1;Parent=gene-IOMTU433_p012;Dbxref=NCBI_GP:BAP68565.1;Name=BAP68565.1;gbkey=CDS;locus_tag=IOMTU433_p012;product=mobile element protein;protein_id=BAP68565.1;transl_table=11
+AP014650.1	DDBJ	gene	11681	11836	.	-	.	ID=gene-IOMTU433_p013;Name=IOMTU433_p013;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p013
+AP014650.1	DDBJ	CDS	11681	11836	.	-	0	ID=cds-BAP68566.1;Parent=gene-IOMTU433_p013;Dbxref=NCBI_GP:BAP68566.1;Name=BAP68566.1;gbkey=CDS;locus_tag=IOMTU433_p013;product=hypothetical protein;protein_id=BAP68566.1;transl_table=11
+AP014650.1	DDBJ	gene	11910	12836	.	-	.	ID=gene-IOMTU433_p014;Name=IOMTU433_p014;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p014
+AP014650.1	DDBJ	CDS	11910	12836	.	-	0	ID=cds-BAP68567.1;Parent=gene-IOMTU433_p014;Dbxref=NCBI_GP:BAP68567.1;Name=BAP68567.1;gbkey=CDS;locus_tag=IOMTU433_p014;product=dihydropteroate synthase;protein_id=BAP68567.1;transl_table=11
+AP014650.1	DDBJ	gene	12966	13976	.	+	.	ID=gene-IOMTU433_p015;Name=msbA;gbkey=Gene;gene=msbA;gene_biotype=protein_coding;locus_tag=IOMTU433_p015
+AP014650.1	DDBJ	CDS	12966	13976	.	+	0	ID=cds-BAP68568.1;Parent=gene-IOMTU433_p015;Dbxref=NCBI_GP:BAP68568.1;Name=BAP68568.1;gbkey=CDS;gene=msbA;locus_tag=IOMTU433_p015;product=lipid A export ATP-binding/permease protein MsbA;protein_id=BAP68568.1;transl_table=11
+AP014650.1	DDBJ	gene	14015	14590	.	-	.	ID=gene-IOMTU433_p016;Name=IOMTU433_p016;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p016
+AP014650.1	DDBJ	CDS	14015	14590	.	-	0	ID=cds-BAP68569.1;Parent=gene-IOMTU433_p016;Dbxref=NCBI_GP:BAP68569.1;Name=BAP68569.1;gbkey=CDS;locus_tag=IOMTU433_p016;product=maleylacetoacetate isomerase/glutathione S-transferase;protein_id=BAP68569.1;transl_table=11
+AP014650.1	DDBJ	gene	14664	15590	.	-	.	ID=gene-IOMTU433_p017;Name=blaPER-7;gbkey=Gene;gene=blaPER-7;gene_biotype=protein_coding;locus_tag=IOMTU433_p017
+AP014650.1	DDBJ	CDS	14664	15590	.	-	0	ID=cds-BAP68570.1;Parent=gene-IOMTU433_p017;Dbxref=NCBI_GP:BAP68570.1;Name=BAP68570.1;gbkey=CDS;gene=blaPER-7;locus_tag=IOMTU433_p017;product=class A beta-lactamase PER-7;protein_id=BAP68570.1;transl_table=11
+AP014650.1	DDBJ	gene	15915	17456	.	-	.	ID=gene-IOMTU433_p018;Name=IOMTU433_p018;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p018
+AP014650.1	DDBJ	CDS	15915	17456	.	-	0	ID=cds-BAP68571.1;Parent=gene-IOMTU433_p018;Dbxref=NCBI_GP:BAP68571.1;Name=BAP68571.1;gbkey=CDS;locus_tag=IOMTU433_p018;product=mobile element protein;protein_id=BAP68571.1;transl_table=11
+AP014650.1	DDBJ	gene	17632	17787	.	-	.	ID=gene-IOMTU433_p019;Name=IOMTU433_p019;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p019
+AP014650.1	DDBJ	CDS	17632	17787	.	-	0	ID=cds-BAP68572.1;Parent=gene-IOMTU433_p019;Dbxref=NCBI_GP:BAP68572.1;Name=BAP68572.1;gbkey=CDS;locus_tag=IOMTU433_p019;product=hypothetical protein;protein_id=BAP68572.1;transl_table=11
+AP014650.1	DDBJ	gene	17861	18787	.	-	.	ID=gene-IOMTU433_p020;Name=IOMTU433_p020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p020
+AP014650.1	DDBJ	CDS	17861	18787	.	-	0	ID=cds-BAP68573.1;Parent=gene-IOMTU433_p020;Dbxref=NCBI_GP:BAP68573.1;Name=BAP68573.1;gbkey=CDS;locus_tag=IOMTU433_p020;product=dihydropteroate synthase;protein_id=BAP68573.1;transl_table=11
+AP014650.1	DDBJ	gene	19233	20492	.	-	.	ID=gene-IOMTU433_p021;Name=IOMTU433_p021;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p021
+AP014650.1	DDBJ	CDS	19233	20492	.	-	0	ID=cds-BAP68574.1;Parent=gene-IOMTU433_p021;Dbxref=NCBI_GP:BAP68574.1;Name=BAP68574.1;gbkey=CDS;locus_tag=IOMTU433_p021;product=chloramphenicol resistance protein;protein_id=BAP68574.1;transl_table=11
+AP014650.1	DDBJ	gene	20687	20833	.	+	.	ID=gene-IOMTU433_p022;Name=IOMTU433_p022;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p022
+AP014650.1	DDBJ	CDS	20687	20833	.	+	0	ID=cds-BAP68575.1;Parent=gene-IOMTU433_p022;Dbxref=NCBI_GP:BAP68575.1;Name=BAP68575.1;gbkey=CDS;locus_tag=IOMTU433_p022;product=hypothetical protein;protein_id=BAP68575.1;transl_table=11
+AP014650.1	DDBJ	gene	20813	21508	.	-	.	ID=gene-IOMTU433_p023;Name=IOMTU433_p023;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p023
+AP014650.1	DDBJ	CDS	20813	21508	.	-	0	ID=cds-BAP68576.1;Parent=gene-IOMTU433_p023;Dbxref=NCBI_GP:BAP68576.1;Name=BAP68576.1;gbkey=CDS;locus_tag=IOMTU433_p023;product=streptomycin 3''-O-adenylyltransferase;protein_id=BAP68576.1;transl_table=11
+AP014650.1	DDBJ	gene	21528	21923	.	-	.	ID=gene-IOMTU433_p024;Name=IOMTU433_p024;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p024
+AP014650.1	DDBJ	CDS	21528	21923	.	-	0	ID=cds-BAP68577.1;Parent=gene-IOMTU433_p024;Dbxref=NCBI_GP:BAP68577.1;Name=BAP68577.1;gbkey=CDS;locus_tag=IOMTU433_p024;product=hypothetical protein;protein_id=BAP68577.1;transl_table=11
+AP014650.1	DDBJ	gene	22288	22992	.	-	.	ID=gene-IOMTU433_p025;Name=IOMTU433_p025;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p025
+AP014650.1	DDBJ	CDS	22288	22992	.	-	0	ID=cds-BAP68578.1;Parent=gene-IOMTU433_p025;Dbxref=NCBI_GP:BAP68578.1;Name=BAP68578.1;gbkey=CDS;locus_tag=IOMTU433_p025;product=mobile element protein;protein_id=BAP68578.1;transl_table=11
+AP014650.1	DDBJ	gene	22983	23165	.	+	.	ID=gene-IOMTU433_p026;Name=IOMTU433_p026;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p026
+AP014650.1	DDBJ	CDS	22983	23165	.	+	0	ID=cds-BAP68579.1;Parent=gene-IOMTU433_p026;Dbxref=NCBI_GP:BAP68579.1;Name=BAP68579.1;gbkey=CDS;locus_tag=IOMTU433_p026;product=hypothetical protein;protein_id=BAP68579.1;transl_table=11
+AP014650.1	DDBJ	gene	23180	23416	.	-	.	ID=gene-IOMTU433_p027;Name=IOMTU433_p027;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p027
+AP014650.1	DDBJ	CDS	23180	23416	.	-	0	ID=cds-BAP68580.1;Parent=gene-IOMTU433_p027;Dbxref=NCBI_GP:BAP68580.1;Name=BAP68580.1;gbkey=CDS;locus_tag=IOMTU433_p027;product=hypothetical protein;protein_id=BAP68580.1;transl_table=11
+AP014650.1	DDBJ	gene	23398	24414	.	-	.	ID=gene-IOMTU433_p028;Name=IOMTU433_p028;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p028
+AP014650.1	DDBJ	CDS	23398	24414	.	-	0	ID=cds-BAP68581.1;Parent=gene-IOMTU433_p028;Dbxref=NCBI_GP:BAP68581.1;Name=BAP68581.1;gbkey=CDS;locus_tag=IOMTU433_p028;product=hypothetical protein;protein_id=BAP68581.1;transl_table=11
+AP014650.1	DDBJ	gene	24418	24918	.	-	.	ID=gene-IOMTU433_p029;Name=IOMTU433_p029;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p029
+AP014650.1	DDBJ	CDS	24418	24918	.	-	0	ID=cds-BAP68582.1;Parent=gene-IOMTU433_p029;Dbxref=NCBI_GP:BAP68582.1;Name=BAP68582.1;gbkey=CDS;locus_tag=IOMTU433_p029;product=hypothetical protein;protein_id=BAP68582.1;transl_table=11
+AP014650.1	DDBJ	gene	24927	25238	.	-	.	ID=gene-IOMTU433_p030;Name=IOMTU433_p030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p030
+AP014650.1	DDBJ	CDS	24927	25238	.	-	0	ID=cds-BAP68583.1;Parent=gene-IOMTU433_p030;Dbxref=NCBI_GP:BAP68583.1;Name=BAP68583.1;gbkey=CDS;locus_tag=IOMTU433_p030;product=hypothetical protein;protein_id=BAP68583.1;transl_table=11
+AP014650.1	DDBJ	gene	25244	25750	.	-	.	ID=gene-IOMTU433_p031;Name=IOMTU433_p031;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p031
+AP014650.1	DDBJ	CDS	25244	25750	.	-	0	ID=cds-BAP68584.1;Parent=gene-IOMTU433_p031;Dbxref=NCBI_GP:BAP68584.1;Name=BAP68584.1;gbkey=CDS;locus_tag=IOMTU433_p031;product=hypothetical protein;protein_id=BAP68584.1;transl_table=11
+AP014650.1	DDBJ	gene	25743	26417	.	-	.	ID=gene-IOMTU433_p032;Name=IOMTU433_p032;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p032
+AP014650.1	DDBJ	CDS	25743	26417	.	-	0	ID=cds-BAP68585.1;Parent=gene-IOMTU433_p032;Dbxref=NCBI_GP:BAP68585.1;Name=BAP68585.1;gbkey=CDS;locus_tag=IOMTU433_p032;product=hypothetical protein;protein_id=BAP68585.1;transl_table=11
+AP014650.1	DDBJ	gene	26666	27043	.	-	.	ID=gene-IOMTU433_p033;Name=IOMTU433_p033;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p033
+AP014650.1	DDBJ	CDS	26666	27043	.	-	0	ID=cds-BAP68586.1;Parent=gene-IOMTU433_p033;Dbxref=NCBI_GP:BAP68586.1;Name=BAP68586.1;gbkey=CDS;locus_tag=IOMTU433_p033;product=hypothetical protein;protein_id=BAP68586.1;transl_table=11
+AP014650.1	DDBJ	gene	27362	27505	.	+	.	ID=gene-IOMTU433_p034;Name=IOMTU433_p034;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p034
+AP014650.1	DDBJ	CDS	27362	27505	.	+	0	ID=cds-BAP68587.1;Parent=gene-IOMTU433_p034;Dbxref=NCBI_GP:BAP68587.1;Name=BAP68587.1;gbkey=CDS;locus_tag=IOMTU433_p034;product=hypothetical protein;protein_id=BAP68587.1;transl_table=11
+AP014650.1	DDBJ	gene	27597	28232	.	+	.	ID=gene-IOMTU433_p035;Name=IOMTU433_p035;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p035
+AP014650.1	DDBJ	CDS	27597	28232	.	+	0	ID=cds-BAP68588.1;Parent=gene-IOMTU433_p035;Dbxref=NCBI_GP:BAP68588.1;Name=BAP68588.1;gbkey=CDS;locus_tag=IOMTU433_p035;product=hypothetical protein;protein_id=BAP68588.1;transl_table=11
+AP014650.1	DDBJ	gene	28606	29181	.	-	.	ID=gene-IOMTU433_p036;Name=parB;gbkey=Gene;gene=parB;gene_biotype=protein_coding;locus_tag=IOMTU433_p036
+AP014650.1	DDBJ	CDS	28606	29181	.	-	0	ID=cds-BAP68589.1;Parent=gene-IOMTU433_p036;Dbxref=NCBI_GP:BAP68589.1;Name=BAP68589.1;gbkey=CDS;gene=parB;locus_tag=IOMTU433_p036;product=chromosome partitioning protein ParB;protein_id=BAP68589.1;transl_table=11
+AP014650.1	DDBJ	gene	29791	30576	.	-	.	ID=gene-IOMTU433_p037;Name=parA;gbkey=Gene;gene=parA;gene_biotype=protein_coding;locus_tag=IOMTU433_p037
+AP014650.1	DDBJ	CDS	29791	30576	.	-	0	ID=cds-BAP68590.1;Parent=gene-IOMTU433_p037;Dbxref=NCBI_GP:BAP68590.1;Name=BAP68590.1;gbkey=CDS;gene=parA;locus_tag=IOMTU433_p037;product=chromosome partitioning protein ParA;protein_id=BAP68590.1;transl_table=11
+AP014650.1	DDBJ	gene	30604	30735	.	+	.	ID=gene-IOMTU433_p038;Name=IOMTU433_p038;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p038
+AP014650.1	DDBJ	CDS	30604	30735	.	+	0	ID=cds-BAP68591.1;Parent=gene-IOMTU433_p038;Dbxref=NCBI_GP:BAP68591.1;Name=BAP68591.1;gbkey=CDS;locus_tag=IOMTU433_p038;product=hypothetical protein;protein_id=BAP68591.1;transl_table=11
+AP014650.1	DDBJ	gene	30750	31061	.	-	.	ID=gene-IOMTU433_p039;Name=IOMTU433_p039;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p039
+AP014650.1	DDBJ	CDS	30750	31061	.	-	0	ID=cds-BAP68592.1;Parent=gene-IOMTU433_p039;Dbxref=NCBI_GP:BAP68592.1;Name=BAP68592.1;gbkey=CDS;locus_tag=IOMTU433_p039;product=hypothetical protein;protein_id=BAP68592.1;transl_table=11
+AP014650.1	DDBJ	gene	31368	32183	.	+	.	ID=gene-IOMTU433_p040;Name=IOMTU433_p040;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p040
+AP014650.1	DDBJ	CDS	31368	32183	.	+	0	ID=cds-BAP68593.1;Parent=gene-IOMTU433_p040;Dbxref=NCBI_GP:BAP68593.1;Name=BAP68593.1;gbkey=CDS;locus_tag=IOMTU433_p040;product=dihydropteroate synthase;protein_id=BAP68593.1;transl_table=11
+AP014650.1	DDBJ	gene	32270	32572	.	+	.	ID=gene-IOMTU433_p041;Name=IOMTU433_p041;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p041
+AP014650.1	DDBJ	CDS	32270	32572	.	+	0	ID=cds-BAP68594.1;Parent=gene-IOMTU433_p041;Dbxref=NCBI_GP:BAP68594.1;Name=BAP68594.1;gbkey=CDS;locus_tag=IOMTU433_p041;product=phosphoglucosamine mutase;protein_id=BAP68594.1;transl_table=11
+AP014650.1	DDBJ	gene	32539	32682	.	-	.	ID=gene-IOMTU433_p042;Name=IOMTU433_p042;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p042
+AP014650.1	DDBJ	CDS	32539	32682	.	-	0	ID=cds-BAP68595.1;Parent=gene-IOMTU433_p042;Dbxref=NCBI_GP:BAP68595.1;Name=BAP68595.1;gbkey=CDS;locus_tag=IOMTU433_p042;product=hypothetical protein;protein_id=BAP68595.1;transl_table=11
+AP014650.1	DDBJ	gene	32748	34241	.	-	.	ID=gene-IOMTU433_p043;Name=IOMTU433_p043;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p043
+AP014650.1	DDBJ	CDS	32748	34241	.	-	0	ID=cds-BAP68596.1;Parent=gene-IOMTU433_p043;Dbxref=NCBI_GP:BAP68596.1;Name=BAP68596.1;gbkey=CDS;locus_tag=IOMTU433_p043;product=transposase;protein_id=BAP68596.1;transl_table=11
+AP014650.1	DDBJ	gene	34452	34676	.	-	.	ID=gene-IOMTU433_p044;Name=IOMTU433_p044;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p044
+AP014650.1	DDBJ	CDS	34452	34676	.	-	0	ID=cds-BAP68597.1;Parent=gene-IOMTU433_p044;Dbxref=NCBI_GP:BAP68597.1;Name=BAP68597.1;gbkey=CDS;locus_tag=IOMTU433_p044;product=hypothetical protein;protein_id=BAP68597.1;transl_table=11
+AP014650.1	DDBJ	gene	34796	35626	.	-	.	ID=gene-IOMTU433_p045;Name=IOMTU433_p045;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p045
+AP014650.1	DDBJ	CDS	34796	35626	.	-	0	ID=cds-BAP68598.1;Parent=gene-IOMTU433_p045;Dbxref=NCBI_GP:BAP68598.1;Name=BAP68598.1;gbkey=CDS;locus_tag=IOMTU433_p045;product=aminoglycoside 3'-phosphotransferase 2;protein_id=BAP68598.1;transl_table=11
+AP014650.1	DDBJ	gene	35632	36477	.	-	.	ID=gene-IOMTU433_p046;Name=IOMTU433_p046;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p046
+AP014650.1	DDBJ	CDS	35632	36477	.	-	0	ID=cds-BAP68599.1;Parent=gene-IOMTU433_p046;Dbxref=NCBI_GP:BAP68599.1;Name=BAP68599.1;gbkey=CDS;locus_tag=IOMTU433_p046;product=aminoglycoside 3'-phosphotransferase;protein_id=BAP68599.1;transl_table=11
+AP014650.1	DDBJ	gene	36818	38605	.	-	.	ID=gene-IOMTU433_p047;Name=IOMTU433_p047;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p047
+AP014650.1	DDBJ	CDS	36818	38605	.	-	0	ID=cds-BAP68600.1;Parent=gene-IOMTU433_p047;Dbxref=NCBI_GP:BAP68600.1;Name=BAP68600.1;gbkey=CDS;locus_tag=IOMTU433_p047;product=hypothetical protein;protein_id=BAP68600.1;transl_table=11
+AP014650.1	DDBJ	gene	38815	39219	.	+	.	ID=gene-IOMTU433_p048;Name=IOMTU433_p048;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p048
+AP014650.1	DDBJ	CDS	38815	39219	.	+	0	ID=cds-BAP68601.1;Parent=gene-IOMTU433_p048;Dbxref=NCBI_GP:BAP68601.1;Name=BAP68601.1;gbkey=CDS;locus_tag=IOMTU433_p048;product=glycine dehydrogenase;protein_id=BAP68601.1;transl_table=11
+AP014650.1	DDBJ	gene	39268	39474	.	-	.	ID=gene-IOMTU433_p049;Name=IOMTU433_p049;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p049
+AP014650.1	DDBJ	CDS	39268	39474	.	-	0	ID=cds-BAP68602.1;Parent=gene-IOMTU433_p049;Dbxref=NCBI_GP:BAP68602.1;Name=BAP68602.1;gbkey=CDS;locus_tag=IOMTU433_p049;product=hypothetical protein;protein_id=BAP68602.1;transl_table=11
+AP014650.1	DDBJ	gene	39672	41933	.	-	.	ID=gene-IOMTU433_p050;Name=IOMTU433_p050;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p050
+AP014650.1	DDBJ	CDS	39672	41933	.	-	0	ID=cds-BAP68603.1;Parent=gene-IOMTU433_p050;Dbxref=NCBI_GP:BAP68603.1;Name=BAP68603.1;gbkey=CDS;locus_tag=IOMTU433_p050;product=DNA topoisomerase I;protein_id=BAP68603.1;transl_table=11
+AP014650.1	DDBJ	gene	42107	43210	.	+	.	ID=gene-IOMTU433_p051;Name=IOMTU433_p051;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p051
+AP014650.1	DDBJ	CDS	42107	43210	.	+	0	ID=cds-BAP68604.1;Parent=gene-IOMTU433_p051;Dbxref=NCBI_GP:BAP68604.1;Name=BAP68604.1;gbkey=CDS;locus_tag=IOMTU433_p051;product=hypothetical protein;protein_id=BAP68604.1;transl_table=11
+AP014650.1	DDBJ	gene	43526	44437	.	+	.	ID=gene-IOMTU433_p052;Name=IOMTU433_p052;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p052
+AP014650.1	DDBJ	CDS	43526	44437	.	+	0	ID=cds-BAP68605.1;Parent=gene-IOMTU433_p052;Dbxref=NCBI_GP:BAP68605.1;Name=BAP68605.1;gbkey=CDS;locus_tag=IOMTU433_p052;product=hypothetical protein;protein_id=BAP68605.1;transl_table=11
+AP014650.1	DDBJ	gene	44469	44804	.	-	.	ID=gene-IOMTU433_p053;Name=IOMTU433_p053;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p053
+AP014650.1	DDBJ	CDS	44469	44804	.	-	0	ID=cds-BAP68606.1;Parent=gene-IOMTU433_p053;Dbxref=NCBI_GP:BAP68606.1;Name=BAP68606.1;gbkey=CDS;locus_tag=IOMTU433_p053;product=hypothetical protein;protein_id=BAP68606.1;transl_table=11
+AP014650.1	DDBJ	gene	44845	45048	.	-	.	ID=gene-IOMTU433_p054;Name=IOMTU433_p054;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p054
+AP014650.1	DDBJ	CDS	44845	45048	.	-	0	ID=cds-BAP68607.1;Parent=gene-IOMTU433_p054;Dbxref=NCBI_GP:BAP68607.1;Name=BAP68607.1;gbkey=CDS;locus_tag=IOMTU433_p054;product=hypothetical protein;protein_id=BAP68607.1;transl_table=11
+AP014650.1	DDBJ	gene	45104	45433	.	-	.	ID=gene-IOMTU433_p055;Name=IOMTU433_p055;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p055
+AP014650.1	DDBJ	CDS	45104	45433	.	-	0	ID=cds-BAP68608.1;Parent=gene-IOMTU433_p055;Dbxref=NCBI_GP:BAP68608.1;Name=BAP68608.1;gbkey=CDS;locus_tag=IOMTU433_p055;product=hypothetical protein;protein_id=BAP68608.1;transl_table=11
+AP014650.1	DDBJ	gene	45414	46241	.	-	.	ID=gene-IOMTU433_p056;Name=IOMTU433_p056;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p056
+AP014650.1	DDBJ	CDS	45414	46241	.	-	0	ID=cds-BAP68609.1;Parent=gene-IOMTU433_p056;Dbxref=NCBI_GP:BAP68609.1;Name=BAP68609.1;gbkey=CDS;locus_tag=IOMTU433_p056;product=major pilus subunit of type IV secretion complex%2C VirB2;protein_id=BAP68609.1;transl_table=11
+AP014650.1	DDBJ	gene	46228	46959	.	-	.	ID=gene-IOMTU433_p057;Name=IOMTU433_p057;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p057
+AP014650.1	DDBJ	CDS	46228	46959	.	-	0	ID=cds-BAP68610.1;Parent=gene-IOMTU433_p057;Dbxref=NCBI_GP:BAP68610.1;Name=BAP68610.1;gbkey=CDS;locus_tag=IOMTU433_p057;product=hypothetical protein;protein_id=BAP68610.1;transl_table=11
+AP014650.1	DDBJ	gene	47588	47797	.	+	.	ID=gene-IOMTU433_p058;Name=IOMTU433_p058;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p058
+AP014650.1	DDBJ	CDS	47588	47797	.	+	0	ID=cds-BAP68611.1;Parent=gene-IOMTU433_p058;Dbxref=NCBI_GP:BAP68611.1;Name=BAP68611.1;gbkey=CDS;locus_tag=IOMTU433_p058;product=hypothetical protein;protein_id=BAP68611.1;transl_table=11
+AP014650.1	DDBJ	gene	47877	48302	.	+	.	ID=gene-IOMTU433_p059;Name=IOMTU433_p059;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p059
+AP014650.1	DDBJ	CDS	47877	48302	.	+	0	ID=cds-BAP68612.1;Parent=gene-IOMTU433_p059;Dbxref=NCBI_GP:BAP68612.1;Name=BAP68612.1;gbkey=CDS;locus_tag=IOMTU433_p059;product=hypothetical protein;protein_id=BAP68612.1;transl_table=11
+AP014650.1	DDBJ	gene	48423	50273	.	+	.	ID=gene-IOMTU433_p060;Name=IOMTU433_p060;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p060
+AP014650.1	DDBJ	CDS	48423	50273	.	+	0	ID=cds-BAP68613.1;Parent=gene-IOMTU433_p060;Dbxref=NCBI_GP:BAP68613.1;Name=BAP68613.1;gbkey=CDS;locus_tag=IOMTU433_p060;product=DNA primase;protein_id=BAP68613.1;transl_table=11
+AP014650.1	DDBJ	gene	50288	50404	.	-	.	ID=gene-IOMTU433_p061;Name=IOMTU433_p061;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p061
+AP014650.1	DDBJ	CDS	50288	50404	.	-	0	ID=cds-BAP68614.1;Parent=gene-IOMTU433_p061;Dbxref=NCBI_GP:BAP68614.1;Name=BAP68614.1;gbkey=CDS;locus_tag=IOMTU433_p061;product=hypothetical protein;protein_id=BAP68614.1;transl_table=11
+AP014650.1	DDBJ	gene	50658	50909	.	-	.	ID=gene-IOMTU433_p062;Name=IOMTU433_p062;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p062
+AP014650.1	DDBJ	CDS	50658	50909	.	-	0	ID=cds-BAP68615.1;Parent=gene-IOMTU433_p062;Dbxref=NCBI_GP:BAP68615.1;Name=BAP68615.1;gbkey=CDS;locus_tag=IOMTU433_p062;product=hypothetical protein;protein_id=BAP68615.1;transl_table=11
+AP014650.1	DDBJ	gene	51135	51575	.	+	.	ID=gene-IOMTU433_p063;Name=IOMTU433_p063;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p063
+AP014650.1	DDBJ	CDS	51135	51575	.	+	0	ID=cds-BAP68616.1;Parent=gene-IOMTU433_p063;Dbxref=NCBI_GP:BAP68616.1;Name=BAP68616.1;gbkey=CDS;locus_tag=IOMTU433_p063;product=hypothetical protein;protein_id=BAP68616.1;transl_table=11
+AP014650.1	DDBJ	gene	51704	52408	.	+	.	ID=gene-IOMTU433_p064;Name=IOMTU433_p064;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p064
+AP014650.1	DDBJ	CDS	51704	52408	.	+	0	ID=cds-BAP68617.1;Parent=gene-IOMTU433_p064;Dbxref=NCBI_GP:BAP68617.1;Name=BAP68617.1;gbkey=CDS;locus_tag=IOMTU433_p064;product=mobile element protein;protein_id=BAP68617.1;transl_table=11
+AP014650.1	DDBJ	gene	52593	53705	.	-	.	ID=gene-IOMTU433_p065;Name=IOMTU433_p065;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p065
+AP014650.1	DDBJ	CDS	52593	53705	.	-	0	ID=cds-BAP68618.1;Parent=gene-IOMTU433_p065;Dbxref=NCBI_GP:BAP68618.1;Name=BAP68618.1;gbkey=CDS;locus_tag=IOMTU433_p065;product=S-(hydroxymethyl)glutathione dehydrogenase;protein_id=BAP68618.1;transl_table=11
+AP014650.1	DDBJ	gene	53727	54002	.	-	.	ID=gene-IOMTU433_p066;Name=frmR;gbkey=Gene;gene=frmR;gene_biotype=protein_coding;locus_tag=IOMTU433_p066
+AP014650.1	DDBJ	CDS	53727	54002	.	-	0	ID=cds-BAP68619.1;Parent=gene-IOMTU433_p066;Dbxref=NCBI_GP:BAP68619.1;Name=BAP68619.1;gbkey=CDS;gene=frmR;locus_tag=IOMTU433_p066;product=negative transcriptional regulator FrmR;protein_id=BAP68619.1;transl_table=11
+AP014650.1	DDBJ	gene	54207	54707	.	-	.	ID=gene-IOMTU433_p067;Name=IOMTU433_p067;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p067
+AP014650.1	DDBJ	CDS	54207	54707	.	-	0	ID=cds-BAP68620.1;Parent=gene-IOMTU433_p067;Dbxref=NCBI_GP:BAP68620.1;Name=BAP68620.1;gbkey=CDS;locus_tag=IOMTU433_p067;product=mobile element protein;protein_id=BAP68620.1;transl_table=11
+AP014650.1	DDBJ	gene	54821	55129	.	-	.	ID=gene-IOMTU433_p068;Name=IOMTU433_p068;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p068
+AP014650.1	DDBJ	CDS	54821	55129	.	-	0	ID=cds-BAP68621.1;Parent=gene-IOMTU433_p068;Dbxref=NCBI_GP:BAP68621.1;Name=BAP68621.1;gbkey=CDS;locus_tag=IOMTU433_p068;product=hypothetical protein;protein_id=BAP68621.1;transl_table=11
+AP014650.1	DDBJ	gene	55309	56013	.	+	.	ID=gene-IOMTU433_p069;Name=IOMTU433_p069;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p069
+AP014650.1	DDBJ	CDS	55309	56013	.	+	0	ID=cds-BAP68622.1;Parent=gene-IOMTU433_p069;Dbxref=NCBI_GP:BAP68622.1;Name=BAP68622.1;gbkey=CDS;locus_tag=IOMTU433_p069;product=mobile element protein;protein_id=BAP68622.1;transl_table=11
+AP014650.1	DDBJ	gene	56052	56219	.	+	.	ID=gene-IOMTU433_p070;Name=IOMTU433_p070;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p070
+AP014650.1	DDBJ	CDS	56052	56219	.	+	0	ID=cds-BAP68623.1;Parent=gene-IOMTU433_p070;Dbxref=NCBI_GP:BAP68623.1;Name=BAP68623.1;gbkey=CDS;locus_tag=IOMTU433_p070;product=hypothetical protein;protein_id=BAP68623.1;transl_table=11
+AP014650.1	DDBJ	gene	56630	58669	.	-	.	ID=gene-IOMTU433_p071;Name=IOMTU433_p071;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p071
+AP014650.1	DDBJ	CDS	56630	58669	.	-	0	ID=cds-BAP68624.1;Parent=gene-IOMTU433_p071;Dbxref=NCBI_GP:BAP68624.1;Name=BAP68624.1;gbkey=CDS;locus_tag=IOMTU433_p071;product=putative ATP-dependent protease;protein_id=BAP68624.1;transl_table=11
+AP014650.1	DDBJ	gene	58699	61323	.	-	.	ID=gene-IOMTU433_p072;Name=IOMTU433_p072;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p072
+AP014650.1	DDBJ	CDS	58699	61323	.	-	0	ID=cds-BAP68625.1;Parent=gene-IOMTU433_p072;Dbxref=NCBI_GP:BAP68625.1;Name=BAP68625.1;gbkey=CDS;locus_tag=IOMTU433_p072;product=putative cytoplasmic protein;protein_id=BAP68625.1;transl_table=11
+AP014650.1	DDBJ	gene	61320	63257	.	-	.	ID=gene-IOMTU433_p073;Name=IOMTU433_p073;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p073
+AP014650.1	DDBJ	CDS	61320	63257	.	-	0	ID=cds-BAP68626.1;Parent=gene-IOMTU433_p073;Dbxref=NCBI_GP:BAP68626.1;Name=BAP68626.1;gbkey=CDS;locus_tag=IOMTU433_p073;product=hypothetical protein;protein_id=BAP68626.1;transl_table=11
+AP014650.1	DDBJ	gene	63257	66805	.	-	.	ID=gene-IOMTU433_p074;Name=IOMTU433_p074;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p074
+AP014650.1	DDBJ	CDS	63257	66805	.	-	0	ID=cds-BAP68627.1;Parent=gene-IOMTU433_p074;Dbxref=NCBI_GP:BAP68627.1;Name=BAP68627.1;gbkey=CDS;locus_tag=IOMTU433_p074;product=putative type II restriction enzyme methylase subunit;protein_id=BAP68627.1;transl_table=11
+AP014650.1	DDBJ	gene	66852	70532	.	-	.	ID=gene-IOMTU433_p075;Name=IOMTU433_p075;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p075
+AP014650.1	DDBJ	CDS	66852	70532	.	-	0	ID=cds-BAP68628.1;Parent=gene-IOMTU433_p075;Dbxref=NCBI_GP:BAP68628.1;Name=BAP68628.1;gbkey=CDS;locus_tag=IOMTU433_p075;product=ATPase-like protein;protein_id=BAP68628.1;transl_table=11
+AP014650.1	DDBJ	gene	70574	71149	.	-	.	ID=gene-IOMTU433_p076;Name=IOMTU433_p076;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p076
+AP014650.1	DDBJ	CDS	70574	71149	.	-	0	ID=cds-BAP68629.1;Parent=gene-IOMTU433_p076;Dbxref=NCBI_GP:BAP68629.1;Name=BAP68629.1;gbkey=CDS;locus_tag=IOMTU433_p076;product=putative cytoplasmic protein;protein_id=BAP68629.1;transl_table=11
+AP014650.1	DDBJ	gene	71166	71777	.	-	.	ID=gene-IOMTU433_p077;Name=IOMTU433_p077;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p077
+AP014650.1	DDBJ	CDS	71166	71777	.	-	0	ID=cds-BAP68630.1;Parent=gene-IOMTU433_p077;Dbxref=NCBI_GP:BAP68630.1;Name=BAP68630.1;gbkey=CDS;locus_tag=IOMTU433_p077;product=putative inner membrane protein;protein_id=BAP68630.1;transl_table=11
+AP014650.1	DDBJ	gene	71788	72654	.	-	.	ID=gene-IOMTU433_p078;Name=IOMTU433_p078;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p078
+AP014650.1	DDBJ	CDS	71788	72654	.	-	0	ID=cds-BAP68631.1;Parent=gene-IOMTU433_p078;Dbxref=NCBI_GP:BAP68631.1;Name=BAP68631.1;gbkey=CDS;locus_tag=IOMTU433_p078;product=hypothetical protein;protein_id=BAP68631.1;transl_table=11
+AP014650.1	DDBJ	gene	72863	73192	.	+	.	ID=gene-IOMTU433_p079;Name=IOMTU433_p079;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p079
+AP014650.1	DDBJ	CDS	72863	73192	.	+	0	ID=cds-BAP68632.1;Parent=gene-IOMTU433_p079;Dbxref=NCBI_GP:BAP68632.1;Name=BAP68632.1;gbkey=CDS;locus_tag=IOMTU433_p079;product=serine protease;protein_id=BAP68632.1;transl_table=11
+AP014650.1	DDBJ	gene	73464	74696	.	-	.	ID=gene-IOMTU433_p080;Name=bioM;gbkey=Gene;gene=bioM;gene_biotype=protein_coding;locus_tag=IOMTU433_p080
+AP014650.1	DDBJ	CDS	73464	74696	.	-	0	ID=cds-BAP68633.1;Parent=gene-IOMTU433_p080;Dbxref=NCBI_GP:BAP68633.1;Name=BAP68633.1;gbkey=CDS;gene=bioM;locus_tag=IOMTU433_p080;product=ATPase component BioM of energizing module of biotin ECF transporter;protein_id=BAP68633.1;transl_table=11
+AP014650.1	DDBJ	gene	75248	75685	.	-	.	ID=gene-IOMTU433_p081;Name=IOMTU433_p081;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p081
+AP014650.1	DDBJ	CDS	75248	75685	.	-	0	ID=cds-BAP68634.1;Parent=gene-IOMTU433_p081;Dbxref=NCBI_GP:BAP68634.1;Name=BAP68634.1;gbkey=CDS;locus_tag=IOMTU433_p081;product=hypothetical protein;protein_id=BAP68634.1;transl_table=11
+AP014650.1	DDBJ	gene	75749	76186	.	-	.	ID=gene-IOMTU433_p082;Name=IOMTU433_p082;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p082
+AP014650.1	DDBJ	CDS	75749	76186	.	-	0	ID=cds-BAP68635.1;Parent=gene-IOMTU433_p082;Dbxref=NCBI_GP:BAP68635.1;Name=BAP68635.1;gbkey=CDS;locus_tag=IOMTU433_p082;product=DNA integration/recombination/invertion protein;protein_id=BAP68635.1;transl_table=11
+AP014650.1	DDBJ	gene	76452	79418	.	+	.	ID=gene-IOMTU433_p083;Name=IOMTU433_p083;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p083
+AP014650.1	DDBJ	CDS	76452	79418	.	+	0	ID=cds-BAP68636.1;Parent=gene-IOMTU433_p083;Dbxref=NCBI_GP:BAP68636.1;Name=BAP68636.1;gbkey=CDS;locus_tag=IOMTU433_p083;product=mobile element protein;protein_id=BAP68636.1;transl_table=11
+AP014650.1	DDBJ	gene	79684	80103	.	-	.	ID=gene-IOMTU433_p084;Name=IOMTU433_p084;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p084
+AP014650.1	DDBJ	CDS	79684	80103	.	-	0	ID=cds-BAP68637.1;Parent=gene-IOMTU433_p084;Dbxref=NCBI_GP:BAP68637.1;Name=BAP68637.1;gbkey=CDS;locus_tag=IOMTU433_p084;product=hypothetical protein;protein_id=BAP68637.1;transl_table=11
+AP014650.1	DDBJ	gene	80105	80569	.	-	.	ID=gene-IOMTU433_p085;Name=IOMTU433_p085;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p085
+AP014650.1	DDBJ	CDS	80105	80569	.	-	0	ID=cds-BAP68638.1;Parent=gene-IOMTU433_p085;Dbxref=NCBI_GP:BAP68638.1;Name=BAP68638.1;gbkey=CDS;locus_tag=IOMTU433_p085;product=thioesterase family protein;protein_id=BAP68638.1;transl_table=11
+AP014650.1	DDBJ	gene	80626	81597	.	-	.	ID=gene-IOMTU433_p086;Name=IOMTU433_p086;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p086
+AP014650.1	DDBJ	CDS	80626	81597	.	-	0	ID=cds-BAP68639.1;Parent=gene-IOMTU433_p086;Dbxref=NCBI_GP:BAP68639.1;Name=BAP68639.1;gbkey=CDS;locus_tag=IOMTU433_p086;product=hypothetical protein;protein_id=BAP68639.1;transl_table=11
+AP014650.1	DDBJ	gene	81594	82220	.	-	.	ID=gene-IOMTU433_p087;Name=atuR;gbkey=Gene;gene=atuR;gene_biotype=protein_coding;locus_tag=IOMTU433_p087
+AP014650.1	DDBJ	CDS	81594	82220	.	-	0	ID=cds-BAP68640.1;Parent=gene-IOMTU433_p087;Dbxref=NCBI_GP:BAP68640.1;Name=BAP68640.1;gbkey=CDS;gene=atuR;locus_tag=IOMTU433_p087;product=acyclic terpenes utilization regulator AtuR;protein_id=BAP68640.1;transl_table=11
+AP014650.1	DDBJ	gene	82304	83173	.	-	.	ID=gene-IOMTU433_p088;Name=IOMTU433_p088;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p088
+AP014650.1	DDBJ	CDS	82304	83173	.	-	0	ID=cds-BAP68641.1;Parent=gene-IOMTU433_p088;Dbxref=NCBI_GP:BAP68641.1;Name=BAP68641.1;gbkey=CDS;locus_tag=IOMTU433_p088;product=hypothetical protein;protein_id=BAP68641.1;transl_table=11
+AP014650.1	DDBJ	gene	83830	84060	.	+	.	ID=gene-IOMTU433_p089;Name=IOMTU433_p089;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p089
+AP014650.1	DDBJ	CDS	83830	84060	.	+	0	ID=cds-BAP68642.1;Parent=gene-IOMTU433_p089;Dbxref=NCBI_GP:BAP68642.1;Name=BAP68642.1;gbkey=CDS;locus_tag=IOMTU433_p089;product=mobile element protein;protein_id=BAP68642.1;transl_table=11
+AP014650.1	DDBJ	gene	84099	85313	.	-	.	ID=gene-IOMTU433_p090;Name=IOMTU433_p090;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p090
+AP014650.1	DDBJ	CDS	84099	85313	.	-	0	ID=cds-BAP68643.1;Parent=gene-IOMTU433_p090;Dbxref=NCBI_GP:BAP68643.1;Name=BAP68643.1;gbkey=CDS;locus_tag=IOMTU433_p090;product=ferredoxin reductase;protein_id=BAP68643.1;transl_table=11
+AP014650.1	DDBJ	gene	85400	86893	.	-	.	ID=gene-IOMTU433_p091;Name=IOMTU433_p091;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p091
+AP014650.1	DDBJ	CDS	85400	86893	.	-	0	ID=cds-BAP68644.1;Parent=gene-IOMTU433_p091;Dbxref=NCBI_GP:BAP68644.1;Name=BAP68644.1;gbkey=CDS;locus_tag=IOMTU433_p091;product=putative cytochrome P450 hydroxylase;protein_id=BAP68644.1;transl_table=11
+AP014650.1	DDBJ	gene	86970	87218	.	-	.	ID=gene-IOMTU433_p092;Name=IOMTU433_p092;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p092
+AP014650.1	DDBJ	CDS	86970	87218	.	-	0	ID=cds-BAP68645.1;Parent=gene-IOMTU433_p092;Dbxref=NCBI_GP:BAP68645.1;Name=BAP68645.1;gbkey=CDS;locus_tag=IOMTU433_p092;product=ferredoxin%2C 2Fe-2S;protein_id=BAP68645.1;transl_table=11
+AP014650.1	DDBJ	gene	87430	88491	.	+	.	ID=gene-IOMTU433_p093;Name=IOMTU433_p093;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p093
+AP014650.1	DDBJ	CDS	87430	88491	.	+	0	ID=cds-BAP68646.1;Parent=gene-IOMTU433_p093;Dbxref=NCBI_GP:BAP68646.1;Name=BAP68646.1;gbkey=CDS;locus_tag=IOMTU433_p093;product=AraC family transcriptional regulator;protein_id=BAP68646.1;transl_table=11
+AP014650.1	DDBJ	gene	88732	89046	.	-	.	ID=gene-IOMTU433_p094;Name=IOMTU433_p094;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p094
+AP014650.1	DDBJ	CDS	88732	89046	.	-	0	ID=cds-BAP68647.1;Parent=gene-IOMTU433_p094;Dbxref=NCBI_GP:BAP68647.1;Name=BAP68647.1;gbkey=CDS;locus_tag=IOMTU433_p094;product=DNA integration/recombination/invertion protein;protein_id=BAP68647.1;transl_table=11
+AP014650.1	DDBJ	gene	89203	89346	.	-	.	ID=gene-IOMTU433_p095;Name=IOMTU433_p095;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p095
+AP014650.1	DDBJ	CDS	89203	89346	.	-	0	ID=cds-BAP68648.1;Parent=gene-IOMTU433_p095;Dbxref=NCBI_GP:BAP68648.1;Name=BAP68648.1;gbkey=CDS;locus_tag=IOMTU433_p095;product=mobile element protein;protein_id=BAP68648.1;transl_table=11
+AP014650.1	DDBJ	gene	89438	89761	.	-	.	ID=gene-IOMTU433_p096;Name=IOMTU433_p096;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p096
+AP014650.1	DDBJ	CDS	89438	89761	.	-	0	ID=cds-BAP68649.1;Parent=gene-IOMTU433_p096;Dbxref=NCBI_GP:BAP68649.1;Name=BAP68649.1;gbkey=CDS;locus_tag=IOMTU433_p096;product=mobile element protein;protein_id=BAP68649.1;transl_table=11
+AP014650.1	DDBJ	gene	89820	90524	.	+	.	ID=gene-IOMTU433_p097;Name=IOMTU433_p097;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p097
+AP014650.1	DDBJ	CDS	89820	90524	.	+	0	ID=cds-BAP68650.1;Parent=gene-IOMTU433_p097;Dbxref=NCBI_GP:BAP68650.1;Name=BAP68650.1;gbkey=CDS;locus_tag=IOMTU433_p097;product=mobile element protein;protein_id=BAP68650.1;transl_table=11
+AP014650.1	DDBJ	gene	90664	91293	.	+	.	ID=gene-IOMTU433_p098;Name=IOMTU433_p098;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p098
+AP014650.1	DDBJ	CDS	90664	91293	.	+	0	ID=cds-BAP68651.1;Parent=gene-IOMTU433_p098;Dbxref=NCBI_GP:BAP68651.1;Name=BAP68651.1;gbkey=CDS;locus_tag=IOMTU433_p098;product=hypothetical protein;protein_id=BAP68651.1;transl_table=11
+AP014650.1	DDBJ	gene	91290	91583	.	+	.	ID=gene-IOMTU433_p099;Name=IOMTU433_p099;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p099
+AP014650.1	DDBJ	CDS	91290	91583	.	+	0	ID=cds-BAP68652.1;Parent=gene-IOMTU433_p099;Dbxref=NCBI_GP:BAP68652.1;Name=BAP68652.1;gbkey=CDS;locus_tag=IOMTU433_p099;product=hypothetical protein;protein_id=BAP68652.1;transl_table=11
+AP014650.1	DDBJ	gene	91619	92020	.	+	.	ID=gene-IOMTU433_p100;Name=IOMTU433_p100;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p100
+AP014650.1	DDBJ	CDS	91619	92020	.	+	0	ID=cds-BAP68653.1;Parent=gene-IOMTU433_p100;Dbxref=NCBI_GP:BAP68653.1;Name=BAP68653.1;gbkey=CDS;locus_tag=IOMTU433_p100;product=hypothetical protein;protein_id=BAP68653.1;transl_table=11
+AP014650.1	DDBJ	gene	93001	93309	.	-	.	ID=gene-IOMTU433_p101;Name=IOMTU433_p101;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p101
+AP014650.1	DDBJ	CDS	93001	93309	.	-	0	ID=cds-BAP68654.1;Parent=gene-IOMTU433_p101;Dbxref=NCBI_GP:BAP68654.1;Name=BAP68654.1;gbkey=CDS;locus_tag=IOMTU433_p101;product=hypothetical protein;protein_id=BAP68654.1;transl_table=11
+AP014650.1	DDBJ	gene	93454	93849	.	-	.	ID=gene-IOMTU433_p102;Name=IOMTU433_p102;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p102
+AP014650.1	DDBJ	CDS	93454	93849	.	-	0	ID=cds-BAP68655.1;Parent=gene-IOMTU433_p102;Dbxref=NCBI_GP:BAP68655.1;Name=BAP68655.1;gbkey=CDS;locus_tag=IOMTU433_p102;product=hypothetical protein;protein_id=BAP68655.1;transl_table=11
+AP014650.1	DDBJ	gene	93863	96349	.	-	.	ID=gene-IOMTU433_p103;Name=icmO;gbkey=Gene;gene=icmO;gene_biotype=protein_coding;locus_tag=IOMTU433_p103
+AP014650.1	DDBJ	CDS	93863	96349	.	-	0	ID=cds-BAP68656.1;Parent=gene-IOMTU433_p103;Dbxref=NCBI_GP:BAP68656.1;Name=BAP68656.1;gbkey=CDS;gene=icmO;locus_tag=IOMTU433_p103;product=IcmO protein;protein_id=BAP68656.1;transl_table=11
+AP014650.1	DDBJ	gene	96387	96500	.	+	.	ID=gene-IOMTU433_p104;Name=IOMTU433_p104;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p104
+AP014650.1	DDBJ	CDS	96387	96500	.	+	0	ID=cds-BAP68657.1;Parent=gene-IOMTU433_p104;Dbxref=NCBI_GP:BAP68657.1;Name=BAP68657.1;gbkey=CDS;locus_tag=IOMTU433_p104;product=hypothetical protein;protein_id=BAP68657.1;transl_table=11
+AP014650.1	DDBJ	gene	96608	97018	.	-	.	ID=gene-IOMTU433_p105;Name=IOMTU433_p105;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p105
+AP014650.1	DDBJ	CDS	96608	97018	.	-	0	ID=cds-BAP68658.1;Parent=gene-IOMTU433_p105;Dbxref=NCBI_GP:BAP68658.1;Name=BAP68658.1;gbkey=CDS;locus_tag=IOMTU433_p105;product=hypothetical protein;protein_id=BAP68658.1;transl_table=11
+AP014650.1	DDBJ	gene	97082	100354	.	-	.	ID=gene-IOMTU433_p106;Name=icmB;gbkey=Gene;gene=icmB;gene_biotype=protein_coding;locus_tag=IOMTU433_p106
+AP014650.1	DDBJ	CDS	97082	100354	.	-	0	ID=cds-BAP68659.1;Parent=gene-IOMTU433_p106;Dbxref=NCBI_GP:BAP68659.1;Name=BAP68659.1;gbkey=CDS;gene=icmB;locus_tag=IOMTU433_p106;product=IcmB protein;protein_id=BAP68659.1;transl_table=11
+AP014650.1	DDBJ	gene	100371	101378	.	-	.	ID=gene-IOMTU433_p107;Name=IOMTU433_p107;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p107
+AP014650.1	DDBJ	CDS	100371	101378	.	-	0	ID=cds-BAP68660.1;Parent=gene-IOMTU433_p107;Dbxref=NCBI_GP:BAP68660.1;Name=BAP68660.1;gbkey=CDS;locus_tag=IOMTU433_p107;product=hypothetical protein;protein_id=BAP68660.1;transl_table=11
+AP014650.1	DDBJ	gene	101390	102148	.	-	.	ID=gene-IOMTU433_p108;Name=IOMTU433_p108;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p108
+AP014650.1	DDBJ	CDS	101390	102148	.	-	0	ID=cds-BAP68661.1;Parent=gene-IOMTU433_p108;Dbxref=NCBI_GP:BAP68661.1;Name=BAP68661.1;gbkey=CDS;locus_tag=IOMTU433_p108;product=hypothetical protein;protein_id=BAP68661.1;transl_table=11
+AP014650.1	DDBJ	gene	102227	102646	.	-	.	ID=gene-IOMTU433_p109;Name=IOMTU433_p109;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p109
+AP014650.1	DDBJ	CDS	102227	102646	.	-	0	ID=cds-BAP68662.1;Parent=gene-IOMTU433_p109;Dbxref=NCBI_GP:BAP68662.1;Name=BAP68662.1;gbkey=CDS;locus_tag=IOMTU433_p109;product=hypothetical protein;protein_id=BAP68662.1;transl_table=11
+AP014650.1	DDBJ	gene	102751	103329	.	-	.	ID=gene-IOMTU433_p110;Name=IOMTU433_p110;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p110
+AP014650.1	DDBJ	CDS	102751	103329	.	-	0	ID=cds-BAP68663.1;Parent=gene-IOMTU433_p110;Dbxref=NCBI_GP:BAP68663.1;Name=BAP68663.1;gbkey=CDS;locus_tag=IOMTU433_p110;product=hypothetical protein;protein_id=BAP68663.1;transl_table=11
+AP014650.1	DDBJ	gene	103368	104222	.	-	.	ID=gene-IOMTU433_p111;Name=IOMTU433_p111;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p111
+AP014650.1	DDBJ	CDS	103368	104222	.	-	0	ID=cds-BAP68664.1;Parent=gene-IOMTU433_p111;Dbxref=NCBI_GP:BAP68664.1;Name=BAP68664.1;gbkey=CDS;locus_tag=IOMTU433_p111;product=hypothetical protein;protein_id=BAP68664.1;transl_table=11
+AP014650.1	DDBJ	gene	104247	105878	.	-	.	ID=gene-IOMTU433_p112;Name=icmE;gbkey=Gene;gene=icmE;gene_biotype=protein_coding;locus_tag=IOMTU433_p112
+AP014650.1	DDBJ	CDS	104247	105878	.	-	0	ID=cds-BAP68665.1;Parent=gene-IOMTU433_p112;Dbxref=NCBI_GP:BAP68665.1;Name=BAP68665.1;gbkey=CDS;gene=icmE;locus_tag=IOMTU433_p112;product=IcmE protein;protein_id=BAP68665.1;transl_table=11
+AP014650.1	DDBJ	gene	105887	107017	.	-	.	ID=gene-IOMTU433_p113;Name=traN;gbkey=Gene;gene=traN;gene_biotype=protein_coding;locus_tag=IOMTU433_p113
+AP014650.1	DDBJ	CDS	105887	107017	.	-	0	ID=cds-BAP68666.1;Parent=gene-IOMTU433_p113;Dbxref=NCBI_GP:BAP68666.1;Name=BAP68666.1;gbkey=CDS;gene=traN;locus_tag=IOMTU433_p113;product=IncI1 plasmid conjugative transfer protein TraN;protein_id=BAP68666.1;transl_table=11
+AP014650.1	DDBJ	gene	107035	107751	.	-	.	ID=gene-IOMTU433_p114;Name=traM;gbkey=Gene;gene=traM;gene_biotype=protein_coding;locus_tag=IOMTU433_p114
+AP014650.1	DDBJ	CDS	107035	107751	.	-	0	ID=cds-BAP68667.1;Parent=gene-IOMTU433_p114;Dbxref=NCBI_GP:BAP68667.1;Name=BAP68667.1;gbkey=CDS;gene=traM;locus_tag=IOMTU433_p114;product=IncI1 plasmid conjugative transfer protein TraM;protein_id=BAP68667.1;transl_table=11
+AP014650.1	DDBJ	gene	107769	108062	.	-	.	ID=gene-IOMTU433_p115;Name=IOMTU433_p115;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p115
+AP014650.1	DDBJ	CDS	107769	108062	.	-	0	ID=cds-BAP68668.1;Parent=gene-IOMTU433_p115;Dbxref=NCBI_GP:BAP68668.1;Name=BAP68668.1;gbkey=CDS;locus_tag=IOMTU433_p115;product=hypothetical protein;protein_id=BAP68668.1;transl_table=11
+AP014650.1	DDBJ	gene	108480	108845	.	-	.	ID=gene-IOMTU433_p116;Name=IOMTU433_p116;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p116
+AP014650.1	DDBJ	CDS	108480	108845	.	-	0	ID=cds-BAP68669.1;Parent=gene-IOMTU433_p116;Dbxref=NCBI_GP:BAP68669.1;Name=BAP68669.1;gbkey=CDS;locus_tag=IOMTU433_p116;product=hypothetical protein;protein_id=BAP68669.1;transl_table=11
+AP014650.1	DDBJ	gene	108930	109256	.	-	.	ID=gene-IOMTU433_p117;Name=IOMTU433_p117;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p117
+AP014650.1	DDBJ	CDS	108930	109256	.	-	0	ID=cds-BAP68670.1;Parent=gene-IOMTU433_p117;Dbxref=NCBI_GP:BAP68670.1;Name=BAP68670.1;gbkey=CDS;locus_tag=IOMTU433_p117;product=hypothetical protein;protein_id=BAP68670.1;transl_table=11
+AP014650.1	DDBJ	gene	109257	109559	.	-	.	ID=gene-IOMTU433_p118;Name=IOMTU433_p118;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p118
+AP014650.1	DDBJ	CDS	109257	109559	.	-	0	ID=cds-BAP68671.1;Parent=gene-IOMTU433_p118;Dbxref=NCBI_GP:BAP68671.1;Name=BAP68671.1;gbkey=CDS;locus_tag=IOMTU433_p118;product=hypothetical protein;protein_id=BAP68671.1;transl_table=11
+AP014650.1	DDBJ	gene	109634	110080	.	-	.	ID=gene-IOMTU433_p119;Name=IOMTU433_p119;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p119
+AP014650.1	DDBJ	CDS	109634	110080	.	-	0	ID=cds-BAP68672.1;Parent=gene-IOMTU433_p119;Dbxref=NCBI_GP:BAP68672.1;Name=BAP68672.1;gbkey=CDS;locus_tag=IOMTU433_p119;product=hypothetical protein;protein_id=BAP68672.1;transl_table=11
+AP014650.1	DDBJ	gene	110219	110422	.	-	.	ID=gene-IOMTU433_p120;Name=IOMTU433_p120;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p120
+AP014650.1	DDBJ	CDS	110219	110422	.	-	0	ID=cds-BAP68673.1;Parent=gene-IOMTU433_p120;Dbxref=NCBI_GP:BAP68673.1;Name=BAP68673.1;gbkey=CDS;locus_tag=IOMTU433_p120;product=hypothetical protein;protein_id=BAP68673.1;transl_table=11
+AP014650.1	DDBJ	gene	110561	110821	.	-	.	ID=gene-IOMTU433_p121;Name=IOMTU433_p121;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p121
+AP014650.1	DDBJ	CDS	110561	110821	.	-	0	ID=cds-BAP68674.1;Parent=gene-IOMTU433_p121;Dbxref=NCBI_GP:BAP68674.1;Name=BAP68674.1;gbkey=CDS;locus_tag=IOMTU433_p121;product=hypothetical protein;protein_id=BAP68674.1;transl_table=11
+AP014650.1	DDBJ	gene	110900	111058	.	-	.	ID=gene-IOMTU433_p122;Name=IOMTU433_p122;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p122
+AP014650.1	DDBJ	CDS	110900	111058	.	-	0	ID=cds-BAP68675.1;Parent=gene-IOMTU433_p122;Dbxref=NCBI_GP:BAP68675.1;Name=BAP68675.1;gbkey=CDS;locus_tag=IOMTU433_p122;product=hypothetical protein;protein_id=BAP68675.1;transl_table=11
+AP014650.1	DDBJ	gene	111168	113072	.	-	.	ID=gene-IOMTU433_p123;Name=IOMTU433_p123;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p123
+AP014650.1	DDBJ	CDS	111168	113072	.	-	0	ID=cds-BAP68676.1;Parent=gene-IOMTU433_p123;Dbxref=NCBI_GP:BAP68676.1;Name=BAP68676.1;gbkey=CDS;locus_tag=IOMTU433_p123;product=hypothetical protein;protein_id=BAP68676.1;transl_table=11
+AP014650.1	DDBJ	gene	114010	114480	.	+	.	ID=gene-IOMTU433_p124;Name=IOMTU433_p124;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p124
+AP014650.1	DDBJ	CDS	114010	114480	.	+	0	ID=cds-BAP68677.1;Parent=gene-IOMTU433_p124;Dbxref=NCBI_GP:BAP68677.1;Name=BAP68677.1;gbkey=CDS;locus_tag=IOMTU433_p124;product=hypothetical protein;protein_id=BAP68677.1;transl_table=11
+AP014650.1	DDBJ	gene	114522	115340	.	+	.	ID=gene-IOMTU433_p125;Name=traI;gbkey=Gene;gene=traI;gene_biotype=protein_coding;locus_tag=IOMTU433_p125
+AP014650.1	DDBJ	CDS	114522	115340	.	+	0	ID=cds-BAP68678.1;Parent=gene-IOMTU433_p125;Dbxref=NCBI_GP:BAP68678.1;Name=BAP68678.1;gbkey=CDS;gene=traI;locus_tag=IOMTU433_p125;product=IncI1plasmid conjugative transfer protein TraI;protein_id=BAP68678.1;transl_table=11
+AP014650.1	DDBJ	gene	115353	116642	.	+	.	ID=gene-IOMTU433_p126;Name=pilT;gbkey=Gene;gene=pilT;gene_biotype=protein_coding;locus_tag=IOMTU433_p126
+AP014650.1	DDBJ	CDS	115353	116642	.	+	0	ID=cds-BAP68679.1;Parent=gene-IOMTU433_p126;Dbxref=NCBI_GP:BAP68679.1;Name=BAP68679.1;gbkey=CDS;gene=pilT;locus_tag=IOMTU433_p126;product=twitching motility protein PilT;protein_id=BAP68679.1;transl_table=11
+AP014650.1	DDBJ	gene	116657	116911	.	+	.	ID=gene-IOMTU433_p127;Name=IOMTU433_p127;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p127
+AP014650.1	DDBJ	CDS	116657	116911	.	+	0	ID=cds-BAP68680.1;Parent=gene-IOMTU433_p127;Dbxref=NCBI_GP:BAP68680.1;Name=BAP68680.1;gbkey=CDS;locus_tag=IOMTU433_p127;product=hypothetical protein;protein_id=BAP68680.1;transl_table=11
+AP014650.1	DDBJ	gene	116927	117985	.	+	.	ID=gene-IOMTU433_p128;Name=stbA;gbkey=Gene;gene=stbA;gene_biotype=protein_coding;locus_tag=IOMTU433_p128
+AP014650.1	DDBJ	CDS	116927	117985	.	+	0	ID=cds-BAP68681.1;Parent=gene-IOMTU433_p128;Dbxref=NCBI_GP:BAP68681.1;Name=BAP68681.1;gbkey=CDS;gene=stbA;locus_tag=IOMTU433_p128;product=StbA protein;protein_id=BAP68681.1;transl_table=11
+AP014650.1	DDBJ	gene	117999	118748	.	+	.	ID=gene-IOMTU433_p129;Name=IOMTU433_p129;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p129
+AP014650.1	DDBJ	CDS	117999	118748	.	+	0	ID=cds-BAP68682.1;Parent=gene-IOMTU433_p129;Dbxref=NCBI_GP:BAP68682.1;Name=BAP68682.1;gbkey=CDS;locus_tag=IOMTU433_p129;product=hypothetical protein;protein_id=BAP68682.1;transl_table=11
+AP014650.1	DDBJ	gene	118767	120137	.	+	.	ID=gene-IOMTU433_p130;Name=icmP;gbkey=Gene;gene=icmP;gene_biotype=protein_coding;locus_tag=IOMTU433_p130
+AP014650.1	DDBJ	CDS	118767	120137	.	+	0	ID=cds-BAP68683.1;Parent=gene-IOMTU433_p130;Dbxref=NCBI_GP:BAP68683.1;Name=BAP68683.1;gbkey=CDS;gene=icmP;locus_tag=IOMTU433_p130;product=IcmP protein;protein_id=BAP68683.1;transl_table=11
+AP014650.1	DDBJ	gene	120219	121163	.	+	.	ID=gene-IOMTU433_p131;Name=IOMTU433_p131;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p131
+AP014650.1	DDBJ	CDS	120219	121163	.	+	0	ID=cds-BAP68684.1;Parent=gene-IOMTU433_p131;Dbxref=NCBI_GP:BAP68684.1;Name=BAP68684.1;gbkey=CDS;locus_tag=IOMTU433_p131;product=hypothetical protein;protein_id=BAP68684.1;transl_table=11
+AP014650.1	DDBJ	gene	121185	122042	.	+	.	ID=gene-IOMTU433_p132;Name=IOMTU433_p132;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p132
+AP014650.1	DDBJ	CDS	121185	122042	.	+	0	ID=cds-BAP68685.1;Parent=gene-IOMTU433_p132;Dbxref=NCBI_GP:BAP68685.1;Name=BAP68685.1;gbkey=CDS;locus_tag=IOMTU433_p132;product=hypothetical protein;protein_id=BAP68685.1;transl_table=11
+AP014650.1	DDBJ	gene	122052	123020	.	+	.	ID=gene-IOMTU433_p133;Name=IOMTU433_p133;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p133
+AP014650.1	DDBJ	CDS	122052	123020	.	+	0	ID=cds-BAP68686.1;Parent=gene-IOMTU433_p133;Dbxref=NCBI_GP:BAP68686.1;Name=BAP68686.1;gbkey=CDS;locus_tag=IOMTU433_p133;product=hypothetical protein;protein_id=BAP68686.1;transl_table=11
+AP014650.1	DDBJ	gene	123013	123621	.	+	.	ID=gene-IOMTU433_p134;Name=IOMTU433_p134;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p134
+AP014650.1	DDBJ	CDS	123013	123621	.	+	0	ID=cds-BAP68687.1;Parent=gene-IOMTU433_p134;Dbxref=NCBI_GP:BAP68687.1;Name=BAP68687.1;gbkey=CDS;locus_tag=IOMTU433_p134;product=hypothetical protein;protein_id=BAP68687.1;transl_table=11
+AP014650.1	DDBJ	gene	123638	124285	.	+	.	ID=gene-IOMTU433_p135;Name=IOMTU433_p135;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p135
+AP014650.1	DDBJ	CDS	123638	124285	.	+	0	ID=cds-BAP68688.1;Parent=gene-IOMTU433_p135;Dbxref=NCBI_GP:BAP68688.1;Name=BAP68688.1;gbkey=CDS;locus_tag=IOMTU433_p135;product=hypothetical protein;protein_id=BAP68688.1;transl_table=11
+AP014650.1	DDBJ	gene	124419	125303	.	+	.	ID=gene-IOMTU433_p136;Name=parA;gbkey=Gene;gene=parA;gene_biotype=protein_coding;locus_tag=IOMTU433_p136
+AP014650.1	DDBJ	CDS	124419	125303	.	+	0	ID=cds-BAP68689.1;Parent=gene-IOMTU433_p136;Dbxref=NCBI_GP:BAP68689.1;Name=BAP68689.1;gbkey=CDS;gene=parA;locus_tag=IOMTU433_p136;product=chromosome partitioning protein ParA;protein_id=BAP68689.1;transl_table=11
+AP014650.1	DDBJ	gene	125307	126185	.	+	.	ID=gene-IOMTU433_p137;Name=parB;gbkey=Gene;gene=parB;gene_biotype=protein_coding;locus_tag=IOMTU433_p137
+AP014650.1	DDBJ	CDS	125307	126185	.	+	0	ID=cds-BAP68690.1;Parent=gene-IOMTU433_p137;Dbxref=NCBI_GP:BAP68690.1;Name=BAP68690.1;gbkey=CDS;gene=parB;locus_tag=IOMTU433_p137;product=chromosome partitioning protein ParB;protein_id=BAP68690.1;transl_table=11
+AP014650.1	DDBJ	gene	126253	127548	.	-	.	ID=gene-IOMTU433_p138;Name=IOMTU433_p138;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p138
+AP014650.1	DDBJ	CDS	126253	127548	.	-	0	ID=cds-BAP68691.1;Parent=gene-IOMTU433_p138;Dbxref=NCBI_GP:BAP68691.1;Name=BAP68691.1;gbkey=CDS;locus_tag=IOMTU433_p138;product=error-prone%2C lesion bypass DNA polymerase V;protein_id=BAP68691.1;transl_table=11
+AP014650.1	DDBJ	gene	127545	128042	.	-	.	ID=gene-IOMTU433_p139;Name=umuD;gbkey=Gene;gene=umuD;gene_biotype=protein_coding;locus_tag=IOMTU433_p139
+AP014650.1	DDBJ	CDS	127545	128042	.	-	0	ID=cds-BAP68692.1;Parent=gene-IOMTU433_p139;Dbxref=NCBI_GP:BAP68692.1;Name=BAP68692.1;gbkey=CDS;gene=umuD;locus_tag=IOMTU433_p139;product=error-prone repair protein UmuD;protein_id=BAP68692.1;transl_table=11
+AP014650.1	DDBJ	gene	128231	129277	.	-	.	ID=gene-IOMTU433_p140;Name=IOMTU433_p140;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p140
+AP014650.1	DDBJ	CDS	128231	129277	.	-	0	ID=cds-BAP68693.1;Parent=gene-IOMTU433_p140;Dbxref=NCBI_GP:BAP68693.1;Name=BAP68693.1;gbkey=CDS;locus_tag=IOMTU433_p140;product=hypothetical protein;protein_id=BAP68693.1;transl_table=11
+AP014650.1	DDBJ	gene	129267	129917	.	-	.	ID=gene-IOMTU433_p141;Name=IOMTU433_p141;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p141
+AP014650.1	DDBJ	CDS	129267	129917	.	-	0	ID=cds-BAP68694.1;Parent=gene-IOMTU433_p141;Dbxref=NCBI_GP:BAP68694.1;Name=BAP68694.1;gbkey=CDS;locus_tag=IOMTU433_p141;product=hypothetical protein;protein_id=BAP68694.1;transl_table=11
+AP014650.1	DDBJ	gene	130026	131684	.	-	.	ID=gene-IOMTU433_p142;Name=IOMTU433_p142;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p142
+AP014650.1	DDBJ	CDS	130026	131684	.	-	0	ID=cds-BAP68695.1;Parent=gene-IOMTU433_p142;Dbxref=NCBI_GP:BAP68695.1;Name=BAP68695.1;gbkey=CDS;locus_tag=IOMTU433_p142;product=hypothetical protein;protein_id=BAP68695.1;transl_table=11
+AP014650.1	DDBJ	gene	131708	131932	.	-	.	ID=gene-IOMTU433_p143;Name=IOMTU433_p143;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p143
+AP014650.1	DDBJ	CDS	131708	131932	.	-	0	ID=cds-BAP68696.1;Parent=gene-IOMTU433_p143;Dbxref=NCBI_GP:BAP68696.1;Name=BAP68696.1;gbkey=CDS;locus_tag=IOMTU433_p143;product=hypothetical protein;protein_id=BAP68696.1;transl_table=11
+AP014650.1	DDBJ	gene	131979	132374	.	-	.	ID=gene-IOMTU433_p144;Name=IOMTU433_p144;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p144
+AP014650.1	DDBJ	CDS	131979	132374	.	-	0	ID=cds-BAP68697.1;Parent=gene-IOMTU433_p144;Dbxref=NCBI_GP:BAP68697.1;Name=BAP68697.1;gbkey=CDS;locus_tag=IOMTU433_p144;product=hypothetical protein;protein_id=BAP68697.1;transl_table=11
+AP014650.1	DDBJ	gene	132388	132729	.	-	.	ID=gene-IOMTU433_p145;Name=IOMTU433_p145;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p145
+AP014650.1	DDBJ	CDS	132388	132729	.	-	0	ID=cds-BAP68698.1;Parent=gene-IOMTU433_p145;Dbxref=NCBI_GP:BAP68698.1;Name=BAP68698.1;gbkey=CDS;locus_tag=IOMTU433_p145;product=hypothetical protein;protein_id=BAP68698.1;transl_table=11
+AP014650.1	DDBJ	gene	132744	134579	.	-	.	ID=gene-IOMTU433_p146;Name=IOMTU433_p146;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p146
+AP014650.1	DDBJ	CDS	132744	134579	.	-	0	ID=cds-BAP68699.1;Parent=gene-IOMTU433_p146;Dbxref=NCBI_GP:BAP68699.1;Name=BAP68699.1;gbkey=CDS;locus_tag=IOMTU433_p146;product=hypothetical protein;protein_id=BAP68699.1;transl_table=11
+AP014650.1	DDBJ	gene	134852	135211	.	+	.	ID=gene-IOMTU433_p147;Name=IOMTU433_p147;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p147
+AP014650.1	DDBJ	CDS	134852	135211	.	+	0	ID=cds-BAP68700.1;Parent=gene-IOMTU433_p147;Dbxref=NCBI_GP:BAP68700.1;Name=BAP68700.1;gbkey=CDS;locus_tag=IOMTU433_p147;product=hypothetical protein;protein_id=BAP68700.1;transl_table=11
+AP014650.1	DDBJ	gene	135265	137544	.	-	.	ID=gene-IOMTU433_p148;Name=traY;gbkey=Gene;gene=traY;gene_biotype=protein_coding;locus_tag=IOMTU433_p148
+AP014650.1	DDBJ	CDS	135265	137544	.	-	0	ID=cds-BAP68701.1;Parent=gene-IOMTU433_p148;Dbxref=NCBI_GP:BAP68701.1;Name=BAP68701.1;gbkey=CDS;gene=traY;locus_tag=IOMTU433_p148;product=TraY protein;protein_id=BAP68701.1;transl_table=11
+AP014650.1	DDBJ	gene	138247	138816	.	+	.	ID=gene-IOMTU433_p149;Name=IOMTU433_p149;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p149
+AP014650.1	DDBJ	CDS	138247	138816	.	+	0	ID=cds-BAP68702.1;Parent=gene-IOMTU433_p149;Dbxref=NCBI_GP:BAP68702.1;Name=BAP68702.1;gbkey=CDS;locus_tag=IOMTU433_p149;product=hypothetical protein;protein_id=BAP68702.1;transl_table=11
+AP014650.1	DDBJ	gene	138819	139355	.	+	.	ID=gene-IOMTU433_p150;Name=IOMTU433_p150;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p150
+AP014650.1	DDBJ	CDS	138819	139355	.	+	0	ID=cds-BAP68703.1;Parent=gene-IOMTU433_p150;Dbxref=NCBI_GP:BAP68703.1;Name=BAP68703.1;gbkey=CDS;locus_tag=IOMTU433_p150;product=hypothetical protein;protein_id=BAP68703.1;transl_table=11
+AP014650.1	DDBJ	gene	139359	140852	.	-	.	ID=gene-IOMTU433_p151;Name=IOMTU433_p151;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p151
+AP014650.1	DDBJ	CDS	139359	140852	.	-	0	ID=cds-BAP68704.1;Parent=gene-IOMTU433_p151;Dbxref=NCBI_GP:BAP68704.1;Name=BAP68704.1;gbkey=CDS;locus_tag=IOMTU433_p151;product=hypothetical protein;protein_id=BAP68704.1;transl_table=11
+AP014650.1	DDBJ	gene	140883	141374	.	-	.	ID=gene-IOMTU433_p152;Name=IOMTU433_p152;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p152
+AP014650.1	DDBJ	CDS	140883	141374	.	-	0	ID=cds-BAP68705.1;Parent=gene-IOMTU433_p152;Dbxref=NCBI_GP:BAP68705.1;Name=BAP68705.1;gbkey=CDS;locus_tag=IOMTU433_p152;product=hypothetical protein;protein_id=BAP68705.1;transl_table=11
+AP014650.1	DDBJ	gene	141481	142023	.	-	.	ID=gene-IOMTU433_p153;Name=IOMTU433_p153;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p153
+AP014650.1	DDBJ	CDS	141481	142023	.	-	0	ID=cds-BAP68706.1;Parent=gene-IOMTU433_p153;Dbxref=NCBI_GP:BAP68706.1;Name=BAP68706.1;gbkey=CDS;locus_tag=IOMTU433_p153;product=hypothetical protein;protein_id=BAP68706.1;transl_table=11
+AP014650.1	DDBJ	gene	142017	142670	.	-	.	ID=gene-IOMTU433_p154;Name=IOMTU433_p154;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p154
+AP014650.1	DDBJ	CDS	142017	142670	.	-	0	ID=cds-BAP68707.1;Parent=gene-IOMTU433_p154;Dbxref=NCBI_GP:BAP68707.1;Name=BAP68707.1;gbkey=CDS;locus_tag=IOMTU433_p154;product=hypothetical protein;protein_id=BAP68707.1;transl_table=11
+AP014650.1	DDBJ	gene	143125	146859	.	-	.	ID=gene-IOMTU433_p155;Name=IOMTU433_p155;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p155
+AP014650.1	DDBJ	CDS	143125	146859	.	-	0	ID=cds-BAP68708.1;Parent=gene-IOMTU433_p155;Dbxref=NCBI_GP:BAP68708.1;Name=BAP68708.1;gbkey=CDS;locus_tag=IOMTU433_p155;product=hypothetical protein;protein_id=BAP68708.1;transl_table=11
+AP014650.1	DDBJ	gene	146983	148116	.	-	.	ID=gene-IOMTU433_p156;Name=traW;gbkey=Gene;gene=traW;gene_biotype=protein_coding;locus_tag=IOMTU433_p156
+AP014650.1	DDBJ	CDS	146983	148116	.	-	0	ID=cds-BAP68709.1;Parent=gene-IOMTU433_p156;Dbxref=NCBI_GP:BAP68709.1;Name=BAP68709.1;gbkey=CDS;gene=traW;locus_tag=IOMTU433_p156;product=TraW protein;protein_id=BAP68709.1;transl_table=11
+AP014650.1	DDBJ	gene	148119	149246	.	-	.	ID=gene-IOMTU433_p157;Name=smc;gbkey=Gene;gene=smc;gene_biotype=protein_coding;locus_tag=IOMTU433_p157
+AP014650.1	DDBJ	CDS	148119	149246	.	-	0	ID=cds-BAP68710.1;Parent=gene-IOMTU433_p157;Dbxref=NCBI_GP:BAP68710.1;Name=BAP68710.1;gbkey=CDS;gene=smc;locus_tag=IOMTU433_p157;product=chromosome partition protein Smc;protein_id=BAP68710.1;transl_table=11
+AP014650.1	DDBJ	gene	149247	150008	.	-	.	ID=gene-IOMTU433_p158;Name=IOMTU433_p158;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p158
+AP014650.1	DDBJ	CDS	149247	150008	.	-	0	ID=cds-BAP68711.1;Parent=gene-IOMTU433_p158;Dbxref=NCBI_GP:BAP68711.1;Name=BAP68711.1;gbkey=CDS;locus_tag=IOMTU433_p158;product=hypothetical protein;protein_id=BAP68711.1;transl_table=11
+AP014650.1	DDBJ	gene	150016	151062	.	-	.	ID=gene-IOMTU433_p159;Name=sasA;gbkey=Gene;gene=sasA;gene_biotype=protein_coding;locus_tag=IOMTU433_p159
+AP014650.1	DDBJ	CDS	150016	151062	.	-	0	ID=cds-BAP68712.1;Parent=gene-IOMTU433_p159;Dbxref=NCBI_GP:BAP68712.1;Name=BAP68712.1;gbkey=CDS;gene=sasA;locus_tag=IOMTU433_p159;product=predicted cell-wall-anchored protein SasA;protein_id=BAP68712.1;transl_table=11
+AP014650.1	DDBJ	gene	151080	151730	.	-	.	ID=gene-IOMTU433_p160;Name=IOMTU433_p160;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p160
+AP014650.1	DDBJ	CDS	151080	151730	.	-	0	ID=cds-BAP68713.1;Parent=gene-IOMTU433_p160;Dbxref=NCBI_GP:BAP68713.1;Name=BAP68713.1;gbkey=CDS;locus_tag=IOMTU433_p160;product=hypothetical protein;protein_id=BAP68713.1;transl_table=11
+AP014650.1	DDBJ	gene	151727	152116	.	-	.	ID=gene-IOMTU433_p161;Name=IOMTU433_p161;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p161
+AP014650.1	DDBJ	CDS	151727	152116	.	-	0	ID=cds-BAP68714.1;Parent=gene-IOMTU433_p161;Dbxref=NCBI_GP:BAP68714.1;Name=BAP68714.1;gbkey=CDS;locus_tag=IOMTU433_p161;product=hypothetical protein;protein_id=BAP68714.1;transl_table=11
+AP014650.1	DDBJ	gene	152147	154198	.	-	.	ID=gene-IOMTU433_p162;Name=IOMTU433_p162;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p162
+AP014650.1	DDBJ	CDS	152147	154198	.	-	0	ID=cds-BAP68715.1;Parent=gene-IOMTU433_p162;Dbxref=NCBI_GP:BAP68715.1;Name=BAP68715.1;gbkey=CDS;locus_tag=IOMTU433_p162;product=hypothetical protein;protein_id=BAP68715.1;transl_table=11
+AP014650.1	DDBJ	gene	154212	160172	.	-	.	ID=gene-IOMTU433_p163;Name=IOMTU433_p163;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p163
+AP014650.1	DDBJ	CDS	154212	160172	.	-	0	ID=cds-BAP68716.1;Parent=gene-IOMTU433_p163;Dbxref=NCBI_GP:BAP68716.1;Name=BAP68716.1;gbkey=CDS;locus_tag=IOMTU433_p163;product=putative methylase/helicase;protein_id=BAP68716.1;transl_table=11
+AP014650.1	DDBJ	gene	160187	161563	.	-	.	ID=gene-IOMTU433_p164;Name=IOMTU433_p164;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p164
+AP014650.1	DDBJ	CDS	160187	161563	.	-	0	ID=cds-BAP68717.1;Parent=gene-IOMTU433_p164;Dbxref=NCBI_GP:BAP68717.1;Name=BAP68717.1;gbkey=CDS;locus_tag=IOMTU433_p164;product=hypothetical protein;protein_id=BAP68717.1;transl_table=11
+AP014650.1	DDBJ	gene	161660	161785	.	+	.	ID=gene-IOMTU433_p165;Name=IOMTU433_p165;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p165
+AP014650.1	DDBJ	CDS	161660	161785	.	+	0	ID=cds-BAP68718.1;Parent=gene-IOMTU433_p165;Dbxref=NCBI_GP:BAP68718.1;Name=BAP68718.1;gbkey=CDS;locus_tag=IOMTU433_p165;product=hypothetical protein;protein_id=BAP68718.1;transl_table=11
+AP014650.1	DDBJ	gene	162305	163006	.	+	.	ID=gene-IOMTU433_p166;Name=IOMTU433_p166;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p166
+AP014650.1	DDBJ	CDS	162305	163006	.	+	0	ID=cds-BAP68719.1;Parent=gene-IOMTU433_p166;Dbxref=NCBI_GP:BAP68719.1;Name=BAP68719.1;gbkey=CDS;locus_tag=IOMTU433_p166;product=hypothetical protein;protein_id=BAP68719.1;transl_table=11
+AP014650.1	DDBJ	gene	163162	164886	.	+	.	ID=gene-IOMTU433_p167;Name=IOMTU433_p167;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p167
+AP014650.1	DDBJ	CDS	163162	164886	.	+	0	ID=cds-BAP68720.1;Parent=gene-IOMTU433_p167;Dbxref=NCBI_GP:BAP68720.1;Name=BAP68720.1;gbkey=CDS;locus_tag=IOMTU433_p167;product=hypothetical protein;protein_id=BAP68720.1;transl_table=11
+AP014650.1	DDBJ	gene	164931	165266	.	+	.	ID=gene-IOMTU433_p168;Name=IOMTU433_p168;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p168
+AP014650.1	DDBJ	CDS	164931	165266	.	+	0	ID=cds-BAP68721.1;Parent=gene-IOMTU433_p168;Dbxref=NCBI_GP:BAP68721.1;Name=BAP68721.1;gbkey=CDS;locus_tag=IOMTU433_p168;product=DNA-binding protein%2C H-NS family;protein_id=BAP68721.1;transl_table=11
+AP014650.1	DDBJ	gene	165344	165547	.	-	.	ID=gene-IOMTU433_p169;Name=IOMTU433_p169;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p169
+AP014650.1	DDBJ	CDS	165344	165547	.	-	0	ID=cds-BAP68722.1;Parent=gene-IOMTU433_p169;Dbxref=NCBI_GP:BAP68722.1;Name=BAP68722.1;gbkey=CDS;locus_tag=IOMTU433_p169;product=hypothetical protein;protein_id=BAP68722.1;transl_table=11
+AP014650.1	DDBJ	gene	165638	166054	.	-	.	ID=gene-IOMTU433_p170;Name=IOMTU433_p170;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p170
+AP014650.1	DDBJ	CDS	165638	166054	.	-	0	ID=cds-BAP68723.1;Parent=gene-IOMTU433_p170;Dbxref=NCBI_GP:BAP68723.1;Name=BAP68723.1;gbkey=CDS;locus_tag=IOMTU433_p170;product=hypothetical protein;protein_id=BAP68723.1;transl_table=11
+AP014650.1	DDBJ	gene	166187	166459	.	-	.	ID=gene-IOMTU433_p171;Name=IOMTU433_p171;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p171
+AP014650.1	DDBJ	CDS	166187	166459	.	-	0	ID=cds-BAP68724.1;Parent=gene-IOMTU433_p171;Dbxref=NCBI_GP:BAP68724.1;Name=BAP68724.1;gbkey=CDS;locus_tag=IOMTU433_p171;product=hypothetical protein;protein_id=BAP68724.1;transl_table=11
+AP014650.1	DDBJ	gene	166495	167037	.	-	.	ID=gene-IOMTU433_p172;Name=IOMTU433_p172;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p172
+AP014650.1	DDBJ	CDS	166495	167037	.	-	0	ID=cds-BAP68725.1;Parent=gene-IOMTU433_p172;Dbxref=NCBI_GP:BAP68725.1;Name=BAP68725.1;gbkey=CDS;locus_tag=IOMTU433_p172;product=hypothetical protein;protein_id=BAP68725.1;transl_table=11
+AP014650.1	DDBJ	gene	167027	167335	.	-	.	ID=gene-IOMTU433_p173;Name=IOMTU433_p173;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p173
+AP014650.1	DDBJ	CDS	167027	167335	.	-	0	ID=cds-BAP68726.1;Parent=gene-IOMTU433_p173;Dbxref=NCBI_GP:BAP68726.1;Name=BAP68726.1;gbkey=CDS;locus_tag=IOMTU433_p173;product=hypothetical protein;protein_id=BAP68726.1;transl_table=11
+AP014650.1	DDBJ	gene	167527	167931	.	-	.	ID=gene-IOMTU433_p174;Name=IOMTU433_p174;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p174
+AP014650.1	DDBJ	CDS	167527	167931	.	-	0	ID=cds-BAP68727.1;Parent=gene-IOMTU433_p174;Dbxref=NCBI_GP:BAP68727.1;Name=BAP68727.1;gbkey=CDS;locus_tag=IOMTU433_p174;product=hypothetical protein;protein_id=BAP68727.1;transl_table=11
+AP014650.1	DDBJ	gene	167928	168308	.	-	.	ID=gene-IOMTU433_p175;Name=IOMTU433_p175;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p175
+AP014650.1	DDBJ	CDS	167928	168308	.	-	0	ID=cds-BAP68728.1;Parent=gene-IOMTU433_p175;Dbxref=NCBI_GP:BAP68728.1;Name=BAP68728.1;gbkey=CDS;locus_tag=IOMTU433_p175;product=hypothetical protein;protein_id=BAP68728.1;transl_table=11
+AP014650.1	DDBJ	gene	168880	168993	.	+	.	ID=gene-IOMTU433_p176;Name=IOMTU433_p176;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p176
+AP014650.1	DDBJ	CDS	168880	168993	.	+	0	ID=cds-BAP68729.1;Parent=gene-IOMTU433_p176;Dbxref=NCBI_GP:BAP68729.1;Name=BAP68729.1;gbkey=CDS;locus_tag=IOMTU433_p176;product=hypothetical protein;protein_id=BAP68729.1;transl_table=11
+AP014650.1	DDBJ	gene	169015	169173	.	-	.	ID=gene-IOMTU433_p177;Name=IOMTU433_p177;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p177
+AP014650.1	DDBJ	CDS	169015	169173	.	-	0	ID=cds-BAP68730.1;Parent=gene-IOMTU433_p177;Dbxref=NCBI_GP:BAP68730.1;Name=BAP68730.1;gbkey=CDS;locus_tag=IOMTU433_p177;product=hypothetical protein;protein_id=BAP68730.1;transl_table=11
+AP014650.1	DDBJ	gene	169224	169637	.	+	.	ID=gene-IOMTU433_p178;Name=IOMTU433_p178;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p178
+AP014650.1	DDBJ	CDS	169224	169637	.	+	0	ID=cds-BAP68731.1;Parent=gene-IOMTU433_p178;Dbxref=NCBI_GP:BAP68731.1;Name=BAP68731.1;gbkey=CDS;locus_tag=IOMTU433_p178;product=hypothetical protein;protein_id=BAP68731.1;transl_table=11
+AP014650.1	DDBJ	gene	169710	171098	.	+	.	ID=gene-IOMTU433_p179;Name=IOMTU433_p179;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p179
+AP014650.1	DDBJ	CDS	169710	171098	.	+	0	ID=cds-BAP68732.1;Parent=gene-IOMTU433_p179;Dbxref=NCBI_GP:BAP68732.1;Name=BAP68732.1;gbkey=CDS;locus_tag=IOMTU433_p179;product=hypothetical protein;protein_id=BAP68732.1;transl_table=11
+AP014650.1	DDBJ	gene	171127	171330	.	-	.	ID=gene-IOMTU433_p180;Name=IOMTU433_p180;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p180
+AP014650.1	DDBJ	CDS	171127	171330	.	-	0	ID=cds-BAP68733.1;Parent=gene-IOMTU433_p180;Dbxref=NCBI_GP:BAP68733.1;Name=BAP68733.1;gbkey=CDS;locus_tag=IOMTU433_p180;product=hypothetical protein;protein_id=BAP68733.1;transl_table=11
+AP014650.1	DDBJ	gene	171721	172539	.	-	.	ID=gene-IOMTU433_p181;Name=IOMTU433_p181;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p181
+AP014650.1	DDBJ	CDS	171721	172539	.	-	0	ID=cds-BAP68734.1;Parent=gene-IOMTU433_p181;Dbxref=NCBI_GP:BAP68734.1;Name=BAP68734.1;gbkey=CDS;locus_tag=IOMTU433_p181;product=hypothetical protein;protein_id=BAP68734.1;transl_table=11
+AP014650.1	DDBJ	gene	172737	173081	.	+	.	ID=gene-IOMTU433_p182;Name=IOMTU433_p182;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p182
+AP014650.1	DDBJ	CDS	172737	173081	.	+	0	ID=cds-BAP68735.1;Parent=gene-IOMTU433_p182;Dbxref=NCBI_GP:BAP68735.1;Name=BAP68735.1;gbkey=CDS;locus_tag=IOMTU433_p182;product=hypothetical protein;protein_id=BAP68735.1;transl_table=11
+AP014650.1	DDBJ	gene	173099	173458	.	-	.	ID=gene-IOMTU433_p183;Name=IOMTU433_p183;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p183
+AP014650.1	DDBJ	CDS	173099	173458	.	-	0	ID=cds-BAP68736.1;Parent=gene-IOMTU433_p183;Dbxref=NCBI_GP:BAP68736.1;Name=BAP68736.1;gbkey=CDS;locus_tag=IOMTU433_p183;product=hypothetical protein;protein_id=BAP68736.1;transl_table=11
+AP014650.1	DDBJ	gene	173593	174162	.	-	.	ID=gene-IOMTU433_p184;Name=IOMTU433_p184;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p184
+AP014650.1	DDBJ	CDS	173593	174162	.	-	0	ID=cds-BAP68737.1;Parent=gene-IOMTU433_p184;Dbxref=NCBI_GP:BAP68737.1;Name=BAP68737.1;gbkey=CDS;locus_tag=IOMTU433_p184;product=TetR family transcriptional regulator;protein_id=BAP68737.1;transl_table=11
+AP014650.1	DDBJ	gene	174193	174588	.	-	.	ID=gene-IOMTU433_p185;Name=IOMTU433_p185;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p185
+AP014650.1	DDBJ	CDS	174193	174588	.	-	0	ID=cds-BAP68738.1;Parent=gene-IOMTU433_p185;Dbxref=NCBI_GP:BAP68738.1;Name=BAP68738.1;gbkey=CDS;locus_tag=IOMTU433_p185;product=hypothetical protein;protein_id=BAP68738.1;transl_table=11
+AP014650.1	DDBJ	gene	174589	174852	.	-	.	ID=gene-IOMTU433_p186;Name=IOMTU433_p186;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p186
+AP014650.1	DDBJ	CDS	174589	174852	.	-	0	ID=cds-BAP68739.1;Parent=gene-IOMTU433_p186;Dbxref=NCBI_GP:BAP68739.1;Name=BAP68739.1;gbkey=CDS;locus_tag=IOMTU433_p186;product=hypothetical protein;protein_id=BAP68739.1;transl_table=11
+AP014650.1	DDBJ	gene	175154	175519	.	-	.	ID=gene-IOMTU433_p187;Name=IOMTU433_p187;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p187
+AP014650.1	DDBJ	CDS	175154	175519	.	-	0	ID=cds-BAP68740.1;Parent=gene-IOMTU433_p187;Dbxref=NCBI_GP:BAP68740.1;Name=BAP68740.1;gbkey=CDS;locus_tag=IOMTU433_p187;product=hypothetical protein;protein_id=BAP68740.1;transl_table=11
+AP014650.1	DDBJ	gene	175641	176537	.	-	.	ID=gene-IOMTU433_p188;Name=IOMTU433_p188;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p188
+AP014650.1	DDBJ	CDS	175641	176537	.	-	0	ID=cds-BAP68741.1;Parent=gene-IOMTU433_p188;Dbxref=NCBI_GP:BAP68741.1;Name=BAP68741.1;gbkey=CDS;locus_tag=IOMTU433_p188;product=hypothetical protein;protein_id=BAP68741.1;transl_table=11
+AP014650.1	DDBJ	gene	176541	177047	.	-	.	ID=gene-IOMTU433_p189;Name=IOMTU433_p189;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p189
+AP014650.1	DDBJ	CDS	176541	177047	.	-	0	ID=cds-BAP68742.1;Parent=gene-IOMTU433_p189;Dbxref=NCBI_GP:BAP68742.1;Name=BAP68742.1;gbkey=CDS;locus_tag=IOMTU433_p189;product=hypothetical protein;protein_id=BAP68742.1;transl_table=11
+AP014650.1	DDBJ	gene	177061	177558	.	-	.	ID=gene-IOMTU433_p190;Name=IOMTU433_p190;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p190
+AP014650.1	DDBJ	CDS	177061	177558	.	-	0	ID=cds-BAP68743.1;Parent=gene-IOMTU433_p190;Dbxref=NCBI_GP:BAP68743.1;Name=BAP68743.1;gbkey=CDS;locus_tag=IOMTU433_p190;product=hypothetical protein;protein_id=BAP68743.1;transl_table=11
+AP014650.1	DDBJ	gene	177651	178148	.	-	.	ID=gene-IOMTU433_p191;Name=IOMTU433_p191;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p191
+AP014650.1	DDBJ	CDS	177651	178148	.	-	0	ID=cds-BAP68744.1;Parent=gene-IOMTU433_p191;Dbxref=NCBI_GP:BAP68744.1;Name=BAP68744.1;gbkey=CDS;locus_tag=IOMTU433_p191;product=hypothetical protein;protein_id=BAP68744.1;transl_table=11
+AP014650.1	DDBJ	gene	178172	178729	.	-	.	ID=gene-IOMTU433_p192;Name=IOMTU433_p192;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p192
+AP014650.1	DDBJ	CDS	178172	178729	.	-	0	ID=cds-BAP68745.1;Parent=gene-IOMTU433_p192;Dbxref=NCBI_GP:BAP68745.1;Name=BAP68745.1;gbkey=CDS;locus_tag=IOMTU433_p192;product=TetR family transcriptional regulator;protein_id=BAP68745.1;transl_table=11
+AP014650.1	DDBJ	gene	179188	179982	.	+	.	ID=gene-IOMTU433_p193;Name=IOMTU433_p193;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p193
+AP014650.1	DDBJ	CDS	179188	179982	.	+	0	ID=cds-BAP68746.1;Parent=gene-IOMTU433_p193;Dbxref=NCBI_GP:BAP68746.1;Name=BAP68746.1;gbkey=CDS;locus_tag=IOMTU433_p193;product=Zn-dependent protease with chaperone function;protein_id=BAP68746.1;transl_table=11
+AP014650.1	DDBJ	gene	180144	182258	.	+	.	ID=gene-IOMTU433_p194;Name=IOMTU433_p194;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p194
+AP014650.1	DDBJ	CDS	180144	182258	.	+	0	ID=cds-BAP68747.1;Parent=gene-IOMTU433_p194;Dbxref=NCBI_GP:BAP68747.1;Name=BAP68747.1;gbkey=CDS;locus_tag=IOMTU433_p194;product=hypothetical protein;protein_id=BAP68747.1;transl_table=11
+AP014650.1	DDBJ	gene	182259	182591	.	+	.	ID=gene-IOMTU433_p195;Name=IOMTU433_p195;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p195
+AP014650.1	DDBJ	CDS	182259	182591	.	+	0	ID=cds-BAP68748.1;Parent=gene-IOMTU433_p195;Dbxref=NCBI_GP:BAP68748.1;Name=BAP68748.1;gbkey=CDS;locus_tag=IOMTU433_p195;product=hypothetical protein;protein_id=BAP68748.1;transl_table=11
+AP014650.1	DDBJ	gene	182641	183222	.	-	.	ID=gene-IOMTU433_p196;Name=IOMTU433_p196;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p196
+AP014650.1	DDBJ	CDS	182641	183222	.	-	0	ID=cds-BAP68749.1;Parent=gene-IOMTU433_p196;Dbxref=NCBI_GP:BAP68749.1;Name=BAP68749.1;gbkey=CDS;locus_tag=IOMTU433_p196;product=hypothetical protein;protein_id=BAP68749.1;transl_table=11
+AP014650.1	DDBJ	gene	183243	184409	.	-	.	ID=gene-IOMTU433_p197;Name=finQ;gbkey=Gene;gene=finQ;gene_biotype=protein_coding;locus_tag=IOMTU433_p197
+AP014650.1	DDBJ	CDS	183243	184409	.	-	0	ID=cds-BAP68750.1;Parent=gene-IOMTU433_p197;Dbxref=NCBI_GP:BAP68750.1;Name=BAP68750.1;gbkey=CDS;gene=finQ;locus_tag=IOMTU433_p197;product=FinQ protein;protein_id=BAP68750.1;transl_table=11
+AP014650.1	DDBJ	gene	184494	185996	.	-	.	ID=gene-IOMTU433_p198;Name=IOMTU433_p198;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p198
+AP014650.1	DDBJ	CDS	184494	185996	.	-	0	ID=cds-BAP68751.1;Parent=gene-IOMTU433_p198;Dbxref=NCBI_GP:BAP68751.1;Name=BAP68751.1;gbkey=CDS;locus_tag=IOMTU433_p198;product=hypothetical protein;protein_id=BAP68751.1;transl_table=11
+AP014650.1	DDBJ	gene	185997	186224	.	-	.	ID=gene-IOMTU433_p199;Name=IOMTU433_p199;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p199
+AP014650.1	DDBJ	CDS	185997	186224	.	-	0	ID=cds-BAP68752.1;Parent=gene-IOMTU433_p199;Dbxref=NCBI_GP:BAP68752.1;Name=BAP68752.1;gbkey=CDS;locus_tag=IOMTU433_p199;product=hypothetical protein;protein_id=BAP68752.1;transl_table=11
+AP014650.1	DDBJ	gene	186325	187257	.	+	.	ID=gene-IOMTU433_p200;Name=xerC;gbkey=Gene;gene=xerC;gene_biotype=protein_coding;locus_tag=IOMTU433_p200
+AP014650.1	DDBJ	CDS	186325	187257	.	+	0	ID=cds-BAP68753.1;Parent=gene-IOMTU433_p200;Dbxref=NCBI_GP:BAP68753.1;Name=BAP68753.1;gbkey=CDS;gene=xerC;locus_tag=IOMTU433_p200;product=tyrosine recombinase XerC;protein_id=BAP68753.1;transl_table=11
+AP014650.1	DDBJ	gene	187464	187781	.	+	.	ID=gene-IOMTU433_p201;Name=IOMTU433_p201;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p201
+AP014650.1	DDBJ	CDS	187464	187781	.	+	0	ID=cds-BAP68754.1;Parent=gene-IOMTU433_p201;Dbxref=NCBI_GP:BAP68754.1;Name=BAP68754.1;gbkey=CDS;locus_tag=IOMTU433_p201;product=hypothetical protein;protein_id=BAP68754.1;transl_table=11
+AP014650.1	DDBJ	gene	187827	188183	.	+	.	ID=gene-IOMTU433_p202;Name=IOMTU433_p202;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p202
+AP014650.1	DDBJ	CDS	187827	188183	.	+	0	ID=cds-BAP68755.1;Parent=gene-IOMTU433_p202;Dbxref=NCBI_GP:BAP68755.1;Name=BAP68755.1;gbkey=CDS;locus_tag=IOMTU433_p202;product=hypothetical protein;protein_id=BAP68755.1;transl_table=11
+AP014650.1	DDBJ	gene	188237	188506	.	+	.	ID=gene-IOMTU433_p203;Name=IOMTU433_p203;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p203
+AP014650.1	DDBJ	CDS	188237	188506	.	+	0	ID=cds-BAP68756.1;Parent=gene-IOMTU433_p203;Dbxref=NCBI_GP:BAP68756.1;Name=BAP68756.1;gbkey=CDS;locus_tag=IOMTU433_p203;product=hypothetical protein;protein_id=BAP68756.1;transl_table=11
+AP014650.1	DDBJ	gene	188605	189309	.	-	.	ID=gene-IOMTU433_p204;Name=IOMTU433_p204;gbkey=Gene;gene_biotype=protein_coding;locus_tag=IOMTU433_p204
+AP014650.1	DDBJ	CDS	188605	189309	.	-	0	ID=cds-BAP68757.1;Parent=gene-IOMTU433_p204;Dbxref=NCBI_GP:BAP68757.1;Name=BAP68757.1;gbkey=CDS;locus_tag=IOMTU433_p204;product=mobile element protein;protein_id=BAP68757.1;transl_table=11
+

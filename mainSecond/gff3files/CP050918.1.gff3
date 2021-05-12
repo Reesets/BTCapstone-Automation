@@ -1,0 +1,24 @@
+##sequence-region CP050918.1 1 8731
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP050918.1	Genbank	region	1	8731	.	+	.	ID=CP050918.1:1..8731;Dbxref=taxon:470;Is_circular=true;Name=unnamed2;collected-by=Beijing Ditan Hospital%2C Capital Medical University;collection-date=2017;country=China: Beijing;gbkey=Src;genome=plasmid;isolation-source=stethoscope;lat-lon=39.9 N 116.4 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=unnamed2;strain=DT-Ab003
+CP050918.1	Genbank	gene	1	951	.	+	.	ID=gene-HFD83_19700;Name=HFD83_19700;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HFD83_19700
+CP050918.1	Protein Homology	CDS	1	951	.	+	0	ID=cds-QIX48098.1;Parent=gene-HFD83_19700;Dbxref=NCBI_GP:QIX48098.1;Name=QIX48098.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=HFD83_19700;product=replication initiation protein;protein_id=QIX48098.1;transl_table=11
+CP050918.1	Genbank	gene	944	1519	.	+	.	ID=gene-HFD83_19705;Name=HFD83_19705;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HFD83_19705
+CP050918.1	Protein Homology	CDS	944	1519	.	+	0	ID=cds-QIX48099.1;Parent=gene-HFD83_19705;Dbxref=NCBI_GP:QIX48099.1;Name=QIX48099.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=HFD83_19705;product=helix-turn-helix domain-containing protein;protein_id=QIX48099.1;transl_table=11
+CP050918.1	Genbank	gene	1539	1682	.	+	.	ID=gene-HFD83_19710;Name=HFD83_19710;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HFD83_19710
+CP050918.1	Protein Homology	CDS	1539	1682	.	+	0	ID=cds-QIX48100.1;Parent=gene-HFD83_19710;Dbxref=NCBI_GP:QIX48100.1;Name=QIX48100.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786602.1;locus_tag=HFD83_19710;product=hypothetical protein;protein_id=QIX48100.1;transl_table=11
+CP050918.1	Genbank	gene	1871	2389	.	-	.	ID=gene-HFD83_19715;Name=HFD83_19715;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HFD83_19715
+CP050918.1	Protein Homology	CDS	1871	2389	.	-	0	ID=cds-QIX48107.1;Parent=gene-HFD83_19715;Dbxref=NCBI_GP:QIX48107.1;Name=QIX48107.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=HFD83_19715;product=sel1 repeat family protein;protein_id=QIX48107.1;transl_table=11
+CP050918.1	Genbank	gene	2762	3049	.	+	.	ID=gene-HFD83_19720;Name=HFD83_19720;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HFD83_19720
+CP050918.1	Protein Homology	CDS	2762	3049	.	+	0	ID=cds-QIX48101.1;Parent=gene-HFD83_19720;Dbxref=NCBI_GP:QIX48101.1;Name=QIX48101.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=HFD83_19720;product=BrnT family toxin;protein_id=QIX48101.1;transl_table=11
+CP050918.1	Genbank	gene	3036	3350	.	+	.	ID=gene-HFD83_19725;Name=HFD83_19725;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HFD83_19725
+CP050918.1	Protein Homology	CDS	3036	3350	.	+	0	ID=cds-QIX48102.1;Parent=gene-HFD83_19725;Dbxref=NCBI_GP:QIX48102.1;Name=QIX48102.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_006582675.1;locus_tag=HFD83_19725;product=BrnA antitoxin family protein;protein_id=QIX48102.1;transl_table=11
+CP050918.1	Genbank	gene	3478	5889	.	+	.	ID=gene-HFD83_19730;Name=HFD83_19730;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HFD83_19730
+CP050918.1	Protein Homology	CDS	3478	5889	.	+	0	ID=cds-QIX48103.1;Parent=gene-HFD83_19730;Dbxref=NCBI_GP:QIX48103.1;Name=QIX48103.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=HFD83_19730;product=TonB-dependent receptor;protein_id=QIX48103.1;transl_table=11
+CP050918.1	Genbank	gene	6194	6655	.	+	.	ID=gene-HFD83_19735;Name=HFD83_19735;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HFD83_19735
+CP050918.1	Protein Homology	CDS	6194	6655	.	+	0	ID=cds-QIX48104.1;Parent=gene-HFD83_19735;Dbxref=NCBI_GP:QIX48104.1;Name=QIX48104.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004781077.1;locus_tag=HFD83_19735;product=DIP1984 family protein;protein_id=QIX48104.1;transl_table=11
+CP050918.1	Genbank	gene	6978	7151	.	-	.	ID=gene-HFD83_19740;Name=HFD83_19740;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HFD83_19740
+CP050918.1	Protein Homology	CDS	6978	7151	.	-	0	ID=cds-QIX48105.1;Parent=gene-HFD83_19740;Dbxref=NCBI_GP:QIX48105.1;Name=QIX48105.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001282484.1;locus_tag=HFD83_19740;product=hypothetical protein;protein_id=QIX48105.1;transl_table=11
+CP050918.1	Genbank	gene	7151	7522	.	-	.	ID=gene-HFD83_19745;Name=HFD83_19745;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HFD83_19745
+CP050918.1	Protein Homology	CDS	7151	7522	.	-	0	ID=cds-QIX48106.1;Parent=gene-HFD83_19745;Dbxref=NCBI_GP:QIX48106.1;Name=QIX48106.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=HFD83_19745;product=hypothetical protein;protein_id=QIX48106.1;transl_table=11
+

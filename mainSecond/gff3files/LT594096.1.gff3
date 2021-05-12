@@ -1,0 +1,28 @@
+##sequence-region LT594096.1 1 8015
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+LT594096.1	EMBL	region	1	8015	.	+	.	ID=LT594096.1:1..8015;Dbxref=taxon:470;Is_circular=true;Name=2;collection-date=1800/2014;gbkey=Src;genome=plasmid;isolation-source=NA;mol_type=genomic DNA;plasmid-name=2;serovar=NA;strain=BAL062
+LT594096.1	EMBL	gene	1	936	.	+	.	ID=gene-BAL062_P00001;Name=repE;gbkey=Gene;gene=repE;gene_biotype=protein_coding;locus_tag=BAL062_P00001
+LT594096.1	EMBL	CDS	1	936	.	+	0	ID=cds-SBS23985.1;Parent=gene-BAL062_P00001;Dbxref=NCBI_GP:SBS23985.1;Name=SBS23985.1;gbkey=CDS;gene=repE;locus_tag=BAL062_P00001;product=Uncharacterised protein;protein_id=SBS23985.1;transl_table=11
+LT594096.1	EMBL	gene	1014	1532	.	+	.	ID=gene-BAL062_P00002;Name=BAL062_P00002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAL062_P00002
+LT594096.1	EMBL	CDS	1014	1532	.	+	0	ID=cds-SBS23986.1;Parent=gene-BAL062_P00002;Dbxref=NCBI_GP:SBS23986.1;Name=SBS23986.1;gbkey=CDS;locus_tag=BAL062_P00002;product=Putative helix-turn-helix protein%2C YlxM / p13 like protein;protein_id=SBS23986.1;transl_table=11
+LT594096.1	EMBL	gene	1742	2041	.	+	.	ID=gene-BAL062_P00003;Name=BAL062_P00003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAL062_P00003
+LT594096.1	EMBL	CDS	1742	2041	.	+	0	ID=cds-SBS23987.1;Parent=gene-BAL062_P00003;Dbxref=NCBI_GP:SBS23987.1;Name=SBS23987.1;gbkey=CDS;locus_tag=BAL062_P00003;product=Uncharacterised protein;protein_id=SBS23987.1;transl_table=11
+LT594096.1	EMBL	gene	2607	2963	.	+	.	ID=gene-BAL062_P00004;Name=BAL062_P00004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAL062_P00004
+LT594096.1	EMBL	CDS	2607	2963	.	+	0	ID=cds-SBS23988.1;Parent=gene-BAL062_P00004;Dbxref=NCBI_GP:SBS23988.1;Name=SBS23988.1;gbkey=CDS;locus_tag=BAL062_P00004;product=diaminopimelate decarboxylase%2CUncharacterized protein conserved in bacteria%2CPhage derived protein Gp49-like (DUF891);protein_id=SBS23988.1;transl_table=11
+LT594096.1	EMBL	gene	2956	3258	.	+	.	ID=gene-BAL062_P00005;Name=higA;gbkey=Gene;gene=higA;gene_biotype=protein_coding;locus_tag=BAL062_P00005
+LT594096.1	EMBL	CDS	2956	3258	.	+	0	ID=cds-SBS23989.1;Parent=gene-BAL062_P00005;Dbxref=NCBI_GP:SBS23989.1;Name=SBS23989.1;gbkey=CDS;gene=higA;locus_tag=BAL062_P00005;product=putative lipoprotein%2CAntitoxin HigA%2Cantitoxin HipB%2CHelix-turn-helix;protein_id=SBS23989.1;transl_table=11
+LT594096.1	EMBL	gene	3251	3460	.	+	.	ID=gene-BAL062_P00006;Name=BAL062_P00006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAL062_P00006
+LT594096.1	EMBL	CDS	3251	3460	.	+	0	ID=cds-SBS23990.1;Parent=gene-BAL062_P00006;Dbxref=NCBI_GP:SBS23990.1;Name=SBS23990.1;gbkey=CDS;locus_tag=BAL062_P00006;product=Uncharacterised protein;protein_id=SBS23990.1;transl_table=11
+LT594096.1	EMBL	gene	3786	4247	.	-	.	ID=gene-BAL062_P00007;Name=BAL062_P00007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAL062_P00007
+LT594096.1	EMBL	CDS	3786	4247	.	-	0	ID=cds-SBS23991.1;Parent=gene-BAL062_P00007;Dbxref=NCBI_GP:SBS23991.1;Name=SBS23991.1;gbkey=CDS;locus_tag=BAL062_P00007;product=Uncharacterised protein;protein_id=SBS23991.1;transl_table=11
+LT594096.1	EMBL	gene	4552	5109	.	-	.	ID=gene-BAL062_P00008;Name=BAL062_P00008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAL062_P00008
+LT594096.1	EMBL	CDS	4552	5109	.	-	0	ID=cds-SBS23992.1;Parent=gene-BAL062_P00008;Dbxref=NCBI_GP:SBS23992.1;Name=SBS23992.1;gbkey=CDS;locus_tag=BAL062_P00008;product=putative TonB-dependent receptor protein%2CProbable TonB-dependent receptor NMB0964 precursor%2COuter membrane cobalamin receptor protein%2CTonB dependent receptor;protein_id=SBS23992.1;transl_table=11
+LT594096.1	EMBL	gene	5162	6034	.	-	.	ID=gene-BAL062_P00009;Name=BAL062_P00009;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAL062_P00009
+LT594096.1	EMBL	CDS	5162	6034	.	-	0	ID=cds-SBS23993.1;Parent=gene-BAL062_P00009;Dbxref=NCBI_GP:SBS23993.1;Name=SBS23993.1;gbkey=CDS;locus_tag=BAL062_P00009;product=Uncharacterised protein;protein_id=SBS23993.1;transl_table=11
+LT594096.1	EMBL	gene	6306	7397	.	+	.	ID=gene-BAL062_P00010;Name=mobA;gbkey=Gene;gene=mobA;gene_biotype=protein_coding;locus_tag=BAL062_P00010
+LT594096.1	EMBL	CDS	6306	7397	.	+	0	ID=cds-SBS23994.1;Parent=gene-BAL062_P00010;Dbxref=NCBI_GP:SBS23994.1;Name=SBS23994.1;gbkey=CDS;gene=mobA;locus_tag=BAL062_P00010;product=DNA strand transferase%2CDtr system oriT relaxase%2CTi-type conjugative transfer relaxase TraA%2CMobA/MobL family;protein_id=SBS23994.1;transl_table=11
+LT594096.1	EMBL	gene	7372	7581	.	+	.	ID=gene-BAL062_P00011;Name=BAL062_P00011;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAL062_P00011
+LT594096.1	EMBL	CDS	7372	7581	.	+	0	ID=cds-SBS23995.1;Parent=gene-BAL062_P00011;Dbxref=NCBI_GP:SBS23995.1;Name=SBS23995.1;gbkey=CDS;locus_tag=BAL062_P00011;product=Uncharacterised protein;protein_id=SBS23995.1;transl_table=11
+LT594096.1	EMBL	gene	7547	7726	.	-	.	ID=gene-BAL062_P00012;Name=BAL062_P00012;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BAL062_P00012
+LT594096.1	EMBL	CDS	7547	7726	.	-	0	ID=cds-SBS23996.1;Parent=gene-BAL062_P00012;Dbxref=NCBI_GP:SBS23996.1;Name=SBS23996.1;gbkey=CDS;locus_tag=BAL062_P00012;product=Uncharacterised protein;protein_id=SBS23996.1;transl_table=11
+

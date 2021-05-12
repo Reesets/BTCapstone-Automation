@@ -1,0 +1,26 @@
+##sequence-region CP050428.1 1 7695
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=470
+CP050428.1	Genbank	region	1	7695	.	+	.	ID=CP050428.1:1..7695;Dbxref=taxon:470;Is_circular=true;Name=pPM194122_3;collected-by=AIIMS Jai Prakash Narayan Apex Trauma Center;collection-date=2019;country=India;gbkey=Src;genome=plasmid;isolation-source=BAL;lat-lon=28.5659 N 77.2111 E;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pPM194122_3;strain=PM194188
+CP050428.1	Genbank	gene	1	576	.	+	.	ID=gene-HB368_20495;Name=HB368_20495;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB368_20495
+CP050428.1	Protein Homology	CDS	1	576	.	+	0	ID=cds-QJG82468.1;Parent=gene-HB368_20495;Dbxref=NCBI_GP:QJG82468.1;Name=QJG82468.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=HB368_20495;product=helix-turn-helix domain-containing protein;protein_id=QJG82468.1;transl_table=11
+CP050428.1	Genbank	gene	596	739	.	+	.	ID=gene-HB368_20500;Name=HB368_20500;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB368_20500
+CP050428.1	Protein Homology	CDS	596	739	.	+	0	ID=cds-QJG82469.1;Parent=gene-HB368_20500;Dbxref=NCBI_GP:QJG82469.1;Name=QJG82469.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786602.1;locus_tag=HB368_20500;product=hypothetical protein;protein_id=QJG82469.1;transl_table=11
+CP050428.1	Genbank	gene	945	1373	.	-	.	ID=gene-HB368_20505;Name=HB368_20505;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB368_20505
+CP050428.1	Protein Homology	CDS	945	1373	.	-	0	ID=cds-QJG82470.1;Parent=gene-HB368_20505;Dbxref=NCBI_GP:QJG82470.1;Name=QJG82470.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_016653412.1;locus_tag=HB368_20505;product=hypothetical protein;protein_id=QJG82470.1;transl_table=11
+CP050428.1	Genbank	gene	1532	1777	.	+	.	ID=gene-HB368_20510;Name=HB368_20510;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB368_20510
+CP050428.1	Protein Homology	CDS	1532	1777	.	+	0	ID=cds-QJG82478.1;Parent=gene-HB368_20510;Dbxref=NCBI_GP:QJG82478.1;Name=QJG82478.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000246756.1;locus_tag=HB368_20510;product=type II toxin-antitoxin system RelB/DinJ family antitoxin;protein_id=QJG82478.1;transl_table=11
+CP050428.1	Genbank	gene	1767	2060	.	+	.	ID=gene-HB368_20515;Name=HB368_20515;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB368_20515
+CP050428.1	Protein Homology	CDS	1767	2060	.	+	0	ID=cds-QJG82471.1;Parent=gene-HB368_20515;Dbxref=NCBI_GP:QJG82471.1;Name=QJG82471.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004970510.1;locus_tag=HB368_20515;product=type II toxin-antitoxin system RelE/ParE family toxin;protein_id=QJG82471.1;transl_table=11
+CP050428.1	Genbank	gene	2134	2553	.	+	.	ID=gene-HB368_20520;Name=HB368_20520;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB368_20520
+CP050428.1	Protein Homology	CDS	2134	2553	.	+	0	ID=cds-QJG82472.1;Parent=gene-HB368_20520;Dbxref=NCBI_GP:QJG82472.1;Name=QJG82472.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_018680121.1;locus_tag=HB368_20520;product=hypothetical protein;protein_id=QJG82472.1;transl_table=11
+CP050428.1	Genbank	gene	3299	4174	.	-	.	ID=gene-HB368_20525;Name=HB368_20525;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB368_20525
+CP050428.1	Protein Homology	CDS	3299	4174	.	-	0	ID=cds-QJG82473.1;Parent=gene-HB368_20525;Dbxref=NCBI_GP:QJG82473.1;Name=QJG82473.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:NF021640.1;locus_tag=HB368_20525;product=nucleotide-binding protein;protein_id=QJG82473.1;transl_table=11
+CP050428.1	Genbank	gene	4158	4784	.	-	.	ID=gene-HB368_20530;Name=HB368_20530;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB368_20530
+CP050428.1	GeneMarkS-2+	CDS	4158	4784	.	-	0	ID=cds-QJG82474.1;Parent=gene-HB368_20530;Dbxref=NCBI_GP:QJG82474.1;Name=QJG82474.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HB368_20530;product=hypothetical protein;protein_id=QJG82474.1;transl_table=11
+CP050428.1	Genbank	gene	4762	4944	.	-	.	ID=gene-HB368_20535;Name=HB368_20535;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB368_20535
+CP050428.1	GeneMarkS-2+	CDS	4762	4944	.	-	0	ID=cds-QJG82475.1;Parent=gene-HB368_20535;Dbxref=NCBI_GP:QJG82475.1;Name=QJG82475.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HB368_20535;product=hypothetical protein;protein_id=QJG82475.1;transl_table=11
+CP050428.1	Genbank	gene	5064	5255	.	-	.	ID=gene-HB368_20540;Name=HB368_20540;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB368_20540
+CP050428.1	Protein Homology	CDS	5064	5255	.	-	0	ID=cds-QJG82476.1;Parent=gene-HB368_20540;Dbxref=NCBI_GP:QJG82476.1;Name=QJG82476.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004641936.1;locus_tag=HB368_20540;product=hypothetical protein;protein_id=QJG82476.1;transl_table=11
+CP050428.1	Genbank	gene	6753	7703	.	+	.	ID=gene-HB368_20490;Name=HB368_20490;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HB368_20490
+CP050428.1	Protein Homology	CDS	6753	7703	.	+	0	ID=cds-QJG82477.1;Parent=gene-HB368_20490;Dbxref=NCBI_GP:QJG82477.1;Name=QJG82477.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004786597.1;locus_tag=HB368_20490;product=replication initiation protein;protein_id=QJG82477.1;transl_table=11
+
