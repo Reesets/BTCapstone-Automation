@@ -1,0 +1,4 @@
+##sequence-region CM003317.1 1 8731
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1409926
+CM003317.1	Genbank	region	1	8731	.	+	.	ID=CM003317.1:1..8731;Dbxref=taxon:1409926;Is_circular=true;Name=pMRSN58-8.7;collection-date=Jun-2010;country=USA;culture-collection=MRSN<USA>:58;gbkey=Src;genome=plasmid;isolation-source=wound;lat-lon=38.975 N 77.030 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pMRSN58-8.7;strain=MRSN 58
+

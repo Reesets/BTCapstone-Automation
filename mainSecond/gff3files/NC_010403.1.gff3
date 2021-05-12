@@ -1,0 +1,14 @@
+##sequence-region NC_010403.1 1 2726
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=509173
+NC_010403.1	RefSeq	region	1	2726	.	+	.	ID=NC_010403.1:1..2726;Dbxref=taxon:509173;Is_circular=true;Name=p4ABAYE;gbkey=Src;genome=plasmid;mol_type=genomic DNA;old-name=Acinetobacter baumannii;plasmid-name=p4ABAYE;strain=AYE
+NC_010403.1	RefSeq	gene	36	1286	.	+	.	ID=gene-ABAYE_RS00085;Name=ABAYE_RS00085;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABAYE_RS00085;old_locus_tag=p4ABAYE0001
+NC_010403.1	Protein Homology	CDS	36	1286	.	+	0	ID=cds-WP_001180321.1;Parent=gene-ABAYE_RS00085;Dbxref=Genbank:WP_001180321.1;Name=WP_001180321.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001180320.1;locus_tag=ABAYE_RS00085;product=protein rep;protein_id=WP_001180321.1;transl_table=11
+NC_010403.1	RefSeq	gene	1384	1599	.	+	.	ID=gene-ABAYE_RS00090;Name=ABAYE_RS00090;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABAYE_RS00090;old_locus_tag=p4ABAYE0002
+NC_010403.1	Protein Homology	CDS	1384	1599	.	+	0	ID=cds-WP_001262269.1;Parent=gene-ABAYE_RS00090;Dbxref=Genbank:WP_001262269.1;Name=WP_001262269.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001262269.1;locus_tag=ABAYE_RS00090;product=hypothetical protein;protein_id=WP_001262269.1;transl_table=11
+NC_010403.1	RefSeq	gene	1907	2224	.	+	.	ID=gene-ABAYE_RS00095;Name=ABAYE_RS00095;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABAYE_RS00095;old_locus_tag=p4ABAYE0003
+NC_010403.1	Protein Homology	CDS	1907	2224	.	+	0	ID=cds-WP_000070381.1;Parent=gene-ABAYE_RS00095;Dbxref=Genbank:WP_000070381.1;Name=WP_000070381.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000070380.1;locus_tag=ABAYE_RS00095;product=hypothetical protein;protein_id=WP_000070381.1;transl_table=11
+NC_010403.1	RefSeq	gene	2217	2390	.	+	.	ID=gene-ABAYE_RS20400;Name=ABAYE_RS20400;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABAYE_RS20400;old_locus_tag=p4ABAYE0004
+NC_010403.1	GeneMarkS-2+	CDS	2217	2390	.	+	0	ID=cds-WP_162097781.1;Parent=gene-ABAYE_RS20400;Dbxref=Genbank:WP_162097781.1;Name=WP_162097781.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=ABAYE_RS20400;product=hypothetical protein;protein_id=WP_162097781.1;transl_table=11
+NC_010403.1	RefSeq	gene	2387	2677	.	+	.	ID=gene-ABAYE_RS00105;Name=ABAYE_RS00105;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABAYE_RS00105;old_locus_tag=p4ABAYE0005
+NC_010403.1	Protein Homology	CDS	2387	2677	.	+	0	ID=cds-WP_000593064.1;Parent=gene-ABAYE_RS00105;Dbxref=Genbank:WP_000593064.1;Name=WP_000593064.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000593064.1;locus_tag=ABAYE_RS00105;product=hypothetical protein;protein_id=WP_000593064.1;transl_table=11
+

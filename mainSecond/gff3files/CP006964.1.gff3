@@ -1,0 +1,24 @@
+##sequence-region CP006964.1 1 8805
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1413216
+CP006964.1	Genbank	region	1	8805	.	+	.	ID=CP006964.1:1..8805;Dbxref=taxon:1413216;Is_circular=true;Name=pPKAB07;country=India: Pondicherry;gbkey=Src;genome=plasmid;isolation-source=wound infection of a hospitalized patient;mol_type=genomic DNA;nat-host=Homo sapiens;old-name=Acinetobacter baumannii AB07;plasmid-name=pPKAB07;strain=AB07
+CP006964.1	Genbank	gene	333	1283	.	+	.	ID=gene-U476_19960;Name=U476_19960;gbkey=Gene;gene_biotype=protein_coding;locus_tag=U476_19960
+CP006964.1	GeneMarkS+	CDS	333	1283	.	+	0	ID=cds-AHJ95281.1;Parent=gene-U476_19960;Dbxref=NCBI_GP:AHJ95281.1;Name=AHJ95281.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS+;locus_tag=U476_19960;product=DNA replication protein;protein_id=AHJ95281.1;transl_table=11
+CP006964.1	Genbank	gene	1276	1851	.	+	.	ID=gene-U476_19965;Name=U476_19965;gbkey=Gene;gene_biotype=protein_coding;locus_tag=U476_19965
+CP006964.1	GeneMarkS+	CDS	1276	1851	.	+	0	ID=cds-AHJ95282.1;Parent=gene-U476_19965;Dbxref=NCBI_GP:AHJ95282.1;Name=AHJ95282.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS+;locus_tag=U476_19965;product=DNA replication protein;protein_id=AHJ95282.1;transl_table=11
+CP006964.1	Genbank	gene	1871	2014	.	+	.	ID=gene-U476_19970;Name=U476_19970;gbkey=Gene;gene_biotype=protein_coding;locus_tag=U476_19970
+CP006964.1	GeneMarkS+	CDS	1871	2014	.	+	0	ID=cds-AHJ95283.1;Parent=gene-U476_19970;Dbxref=NCBI_GP:AHJ95283.1;Name=AHJ95283.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS+;locus_tag=U476_19970;product=hypothetical protein;protein_id=AHJ95283.1;transl_table=11
+CP006964.1	Genbank	gene	2203	2721	.	-	.	ID=gene-U476_19975;Name=U476_19975;gbkey=Gene;gene_biotype=protein_coding;locus_tag=U476_19975
+CP006964.1	GeneMarkS+	CDS	2203	2721	.	-	0	ID=cds-AHJ95284.1;Parent=gene-U476_19975;Dbxref=NCBI_GP:AHJ95284.1;Name=AHJ95284.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS+;locus_tag=U476_19975;product=hypothetical protein;protein_id=AHJ95284.1;transl_table=11
+CP006964.1	Genbank	gene	3094	3381	.	+	.	ID=gene-U476_19980;Name=U476_19980;gbkey=Gene;gene_biotype=protein_coding;locus_tag=U476_19980
+CP006964.1	GeneMarkS+	CDS	3094	3381	.	+	0	ID=cds-AHJ95285.1;Parent=gene-U476_19980;Dbxref=NCBI_GP:AHJ95285.1;Name=AHJ95285.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS+;locus_tag=U476_19980;product=membrane protein;protein_id=AHJ95285.1;transl_table=11
+CP006964.1	Genbank	gene	3374	3682	.	+	.	ID=gene-U476_19985;Name=U476_19985;gbkey=Gene;gene_biotype=protein_coding;locus_tag=U476_19985
+CP006964.1	GeneMarkS+	CDS	3374	3682	.	+	0	ID=cds-AHJ95286.1;Parent=gene-U476_19985;Dbxref=NCBI_GP:AHJ95286.1;Name=AHJ95286.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS+;locus_tag=U476_19985;product=hypothetical protein;protein_id=AHJ95286.1;transl_table=11
+CP006964.1	Genbank	gene	3810	6221	.	+	.	ID=gene-U476_19990;Name=U476_19990;gbkey=Gene;gene_biotype=protein_coding;locus_tag=U476_19990
+CP006964.1	GeneMarkS+	CDS	3810	6221	.	+	0	ID=cds-AHJ95287.1;Parent=gene-U476_19990;Dbxref=NCBI_GP:AHJ95287.1;Name=AHJ95287.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS+;locus_tag=U476_19990;product=tonB dependent receptor;protein_id=AHJ95287.1;transl_table=11
+CP006964.1	Genbank	gene	6526	6987	.	+	.	ID=gene-U476_19995;Name=U476_19995;gbkey=Gene;gene_biotype=protein_coding;locus_tag=U476_19995
+CP006964.1	GeneMarkS+	CDS	6526	6987	.	+	0	ID=cds-AHJ95288.1;Parent=gene-U476_19995;Dbxref=NCBI_GP:AHJ95288.1;Name=AHJ95288.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS+;locus_tag=U476_19995;product=septicolysin;protein_id=AHJ95288.1;transl_table=11
+CP006964.1	Genbank	gene	7483	7854	.	-	.	ID=gene-U476_20000;Name=U476_20000;gbkey=Gene;gene_biotype=protein_coding;locus_tag=U476_20000
+CP006964.1	GeneMarkS+	CDS	7483	7854	.	-	0	ID=cds-AHJ95289.1;Parent=gene-U476_20000;Dbxref=NCBI_GP:AHJ95289.1;Name=AHJ95289.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS+;locus_tag=U476_20000;product=hypothetical protein;protein_id=AHJ95289.1;transl_table=11
+CP006964.1	Genbank	gene	8126	8380	.	-	.	ID=gene-U476_20005;Name=U476_20005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=U476_20005
+CP006964.1	GeneMarkS+	CDS	8126	8380	.	-	0	ID=cds-AHJ95290.1;Parent=gene-U476_20005;Dbxref=NCBI_GP:AHJ95290.1;Name=AHJ95290.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS+;locus_tag=U476_20005;product=hypothetical protein;protein_id=AHJ95290.1;transl_table=11
+

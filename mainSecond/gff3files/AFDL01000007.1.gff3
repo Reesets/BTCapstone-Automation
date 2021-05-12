@@ -1,0 +1,24 @@
+##sequence-region AFDL01000007.1 1 6241
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=903893
+AFDL01000007.1	Genbank	region	1	6241	.	+	.	ID=AFDL01000007.1:1..6241;Dbxref=taxon:903893;Is_circular=true;Name=pOIFC143-6.2;collection-date=31-Jul-2003;country=USA: Walter Reed Army Medical Center%2C Washington%2C DC;gbkey=Src;genome=plasmid;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pOIFC143-6.2;strain=OIFC143
+AFDL01000007.1	Genbank	gene	235	552	.	-	.	ID=gene-ACIN5143_A4132;Name=ACIN5143_A4132;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACIN5143_A4132
+AFDL01000007.1	Genbank	CDS	235	552	.	-	0	ID=cds-EJG16426.1;Parent=gene-ACIN5143_A4132;Dbxref=NCBI_GP:EJG16426.1;Name=EJG16426.1;gbkey=CDS;locus_tag=ACIN5143_A4132;product=hypothetical protein;protein_id=EJG16426.1;transl_table=11
+AFDL01000007.1	Genbank	gene	718	921	.	-	.	ID=gene-ACIN5143_A4133;Name=ACIN5143_A4133;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACIN5143_A4133
+AFDL01000007.1	Genbank	CDS	718	921	.	-	0	ID=cds-EJG16430.1;Parent=gene-ACIN5143_A4133;Dbxref=NCBI_GP:EJG16430.1;Name=EJG16430.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=ACIN5143_A4133;product=hypothetical protein;protein_id=EJG16430.1;transl_table=11
+AFDL01000007.1	Genbank	gene	1293	1484	.	-	.	ID=gene-ACIN5143_A4134;Name=ACIN5143_A4134;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACIN5143_A4134
+AFDL01000007.1	Genbank	CDS	1293	1484	.	-	0	ID=cds-EJG16428.1;Parent=gene-ACIN5143_A4134;Dbxref=NCBI_GP:EJG16428.1;Name=EJG16428.1;gbkey=CDS;locus_tag=ACIN5143_A4134;product=hypothetical protein;protein_id=EJG16428.1;transl_table=11
+AFDL01000007.1	Genbank	gene	1750	1938	.	-	.	ID=gene-ACIN5143_A4135;Name=ACIN5143_A4135;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACIN5143_A4135
+AFDL01000007.1	Genbank	CDS	1750	1938	.	-	0	ID=cds-EJG16435.1;Parent=gene-ACIN5143_A4135;Dbxref=NCBI_GP:EJG16435.1;Name=EJG16435.1;gbkey=CDS;locus_tag=ACIN5143_A4135;product=hypothetical protein;protein_id=EJG16435.1;transl_table=11
+AFDL01000007.1	Genbank	gene	2625	3548	.	+	.	ID=gene-ACIN5143_A4136;Name=ACIN5143_A4136;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACIN5143_A4136
+AFDL01000007.1	Genbank	CDS	2625	3548	.	+	0	ID=cds-EJG16427.1;Parent=gene-ACIN5143_A4136;Dbxref=NCBI_GP:EJG16427.1;Name=EJG16427.1;gbkey=CDS;locus_tag=ACIN5143_A4136;product=initiator RepB protein;protein_id=EJG16427.1;transl_table=11
+AFDL01000007.1	Genbank	gene	3616	4161	.	+	.	ID=gene-ACIN5143_A4137;Name=ACIN5143_A4137;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACIN5143_A4137
+AFDL01000007.1	Genbank	CDS	3616	4161	.	+	0	ID=cds-EJG16429.1;Parent=gene-ACIN5143_A4137;Dbxref=NCBI_GP:EJG16429.1;Name=EJG16429.1;gbkey=CDS;locus_tag=ACIN5143_A4137;product=hypothetical protein;protein_id=EJG16429.1;transl_table=11
+AFDL01000007.1	Genbank	gene	4558	4971	.	+	.	ID=gene-ACIN5143_A4138;Name=ACIN5143_A4138;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACIN5143_A4138
+AFDL01000007.1	Genbank	CDS	4558	4971	.	+	0	ID=cds-EJG16431.1;Parent=gene-ACIN5143_A4138;Dbxref=NCBI_GP:EJG16431.1;Name=EJG16431.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=ACIN5143_A4138;product=hypothetical protein;protein_id=EJG16431.1;transl_table=11
+AFDL01000007.1	Genbank	gene	4968	5645	.	+	.	ID=gene-ACIN5143_A4139;Name=ACIN5143_A4139;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACIN5143_A4139
+AFDL01000007.1	Genbank	CDS	4968	5645	.	+	0	ID=cds-EJG16434.1;Parent=gene-ACIN5143_A4139;Dbxref=NCBI_GP:EJG16434.1;Name=EJG16434.1;gbkey=CDS;locus_tag=ACIN5143_A4139;product=hypothetical protein;protein_id=EJG16434.1;transl_table=11
+AFDL01000007.1	Genbank	gene	5645	5935	.	+	.	ID=gene-ACIN5143_A4140;Name=ACIN5143_A4140;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACIN5143_A4140
+AFDL01000007.1	Genbank	CDS	5645	5935	.	+	0	ID=cds-EJG16433.1;Parent=gene-ACIN5143_A4140;Dbxref=NCBI_GP:EJG16433.1;Name=EJG16433.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=ACIN5143_A4140;product=hypothetical protein;protein_id=EJG16433.1;transl_table=11
+AFDL01000007.1	Genbank	gene	6011	6211	.	-	.	ID=gene-ACIN5143_A4141;Name=ACIN5143_A4141;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACIN5143_A4141
+AFDL01000007.1	Genbank	CDS	6011	6211	.	-	0	ID=cds-EJG16432.1;Parent=gene-ACIN5143_A4141;Dbxref=NCBI_GP:EJG16432.1;Name=EJG16432.1;gbkey=CDS;locus_tag=ACIN5143_A4141;product=hypothetical protein;protein_id=EJG16432.1;transl_table=11
+

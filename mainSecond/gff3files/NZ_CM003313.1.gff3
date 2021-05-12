@@ -1,0 +1,10 @@
+##sequence-region NZ_CM003313.1 1 2343
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1409927
+NZ_CM003313.1	RefSeq	region	1	2343	.	+	.	ID=NZ_CM003313.1:1..2343;Dbxref=taxon:1409927;Is_circular=true;Name=pMRSN7339-2.3;collection-date=2004-09;country=USA;culture-collection=MRSN<USA>:7339;gbkey=Src;genome=plasmid;isolation-source=wound;lat-lon=38.975 N 77.030 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pMRSN7339-2.3;strain=MRSN 7339
+NZ_CM003313.1	RefSeq	gene	253	411	.	+	.	ID=gene-T634_RS19790;Name=T634_RS19790;gbkey=Gene;gene_biotype=protein_coding;locus_tag=T634_RS19790;old_locus_tag=T634_A0001
+NZ_CM003313.1	GeneMarkS-2+	CDS	253	411	.	+	0	ID=cds-WP_001990869.1;Parent=gene-T634_RS19790;Dbxref=Genbank:WP_001990869.1;Name=WP_001990869.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=T634_RS19790;product=hypothetical protein;protein_id=WP_001990869.1;transl_table=11
+NZ_CM003313.1	RefSeq	gene	947	2131	.	+	.	ID=gene-T634_RS00005;Name=T634_RS00005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=T634_RS00005;old_locus_tag=T634_A0002
+NZ_CM003313.1	Protein Homology	CDS	947	2131	.	+	0	ID=cds-WP_032071712.1;Parent=gene-T634_RS00005;Dbxref=Genbank:WP_032071712.1;Name=WP_032071712.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_003115284.1;locus_tag=T634_RS00005;product=protein rep;protein_id=WP_032071712.1;transl_table=11
+NZ_CM003313.1	RefSeq	gene	2197	2352	.	+	.	ID=gene-T634_RS19785;Name=T634_RS19785;gbkey=Gene;gene_biotype=protein_coding;locus_tag=T634_RS19785
+NZ_CM003313.1	GeneMarkS-2+	CDS	2197	2352	.	+	0	ID=cds-WP_153603842.1;Parent=gene-T634_RS19785;Dbxref=Genbank:WP_153603842.1;Name=WP_153603842.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=T634_RS19785;product=hypothetical protein;protein_id=WP_153603842.1;transl_table=11
+

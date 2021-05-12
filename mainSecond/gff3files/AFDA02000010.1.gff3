@@ -1,0 +1,20 @@
+##sequence-region AFDA02000010.1 1 5676
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=903897
+AFDA02000010.1	Genbank	region	1	5676	.	+	.	ID=AFDA02000010.1:1..5676;Dbxref=taxon:903897;Is_circular=true;Name=pNaval18-5.7;collection-date=08-Jun-2006;country=USA: National Naval Medical Center%2C Bethesda%2C MD;gbkey=Src;genome=plasmid;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pNaval18-5.7;strain=Naval-18
+AFDA02000010.1	Genbank	gene	191	382	.	+	.	ID=gene-ACINNAV18_F0001;Name=ACINNAV18_F0001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_F0001
+AFDA02000010.1	Genbank	CDS	191	382	.	+	0	ID=cds-EJP48329.1;Parent=gene-ACINNAV18_F0001;Dbxref=NCBI_GP:EJP48329.1;Name=EJP48329.1;gbkey=CDS;locus_tag=ACINNAV18_F0001;product=hypothetical protein;protein_id=EJP48329.1;transl_table=11
+AFDA02000010.1	Genbank	gene	382	1305	.	+	.	ID=gene-ACINNAV18_F0002;Name=ACINNAV18_F0002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_F0002
+AFDA02000010.1	Genbank	CDS	382	1305	.	+	0	ID=cds-EJP48334.1;Parent=gene-ACINNAV18_F0002;Dbxref=NCBI_GP:EJP48334.1;Name=EJP48334.1;gbkey=CDS;locus_tag=ACINNAV18_F0002;product=MobA/MobL family protein;protein_id=EJP48334.1;transl_table=11
+AFDA02000010.1	Genbank	gene	1599	1802	.	+	.	ID=gene-ACINNAV18_F0003;Name=ACINNAV18_F0003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_F0003
+AFDA02000010.1	Genbank	CDS	1599	1802	.	+	0	ID=cds-EJP48330.1;Parent=gene-ACINNAV18_F0003;Dbxref=NCBI_GP:EJP48330.1;Name=EJP48330.1;gbkey=CDS;locus_tag=ACINNAV18_F0003;product=hypothetical protein;protein_id=EJP48330.1;transl_table=11
+AFDA02000010.1	Genbank	gene	1842	2138	.	+	.	ID=gene-ACINNAV18_F0004;Name=ACINNAV18_F0004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_F0004
+AFDA02000010.1	Genbank	CDS	1842	2138	.	+	0	ID=cds-EJP48328.1;Parent=gene-ACINNAV18_F0004;Dbxref=NCBI_GP:EJP48328.1;Name=EJP48328.1;gbkey=CDS;locus_tag=ACINNAV18_F0004;product=PF04365 family protein;protein_id=EJP48328.1;transl_table=11
+AFDA02000010.1	Genbank	gene	2128	2343	.	+	.	ID=gene-ACINNAV18_F0005;Name=ACINNAV18_F0005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_F0005
+AFDA02000010.1	Genbank	CDS	2128	2343	.	+	0	ID=cds-EJP48331.1;Parent=gene-ACINNAV18_F0005;Dbxref=NCBI_GP:EJP48331.1;Name=EJP48331.1;gbkey=CDS;locus_tag=ACINNAV18_F0005;product=hypothetical protein;protein_id=EJP48331.1;transl_table=11
+AFDA02000010.1	Genbank	gene	3278	4057	.	+	.	ID=gene-ACINNAV18_F0006;Name=ACINNAV18_F0006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_F0006
+AFDA02000010.1	Genbank	CDS	3278	4057	.	+	0	ID=cds-EJP48333.1;Parent=gene-ACINNAV18_F0006;Dbxref=NCBI_GP:EJP48333.1;Name=EJP48333.1;gbkey=CDS;locus_tag=ACINNAV18_F0006;product=choline/ethanolamine kinase;protein_id=EJP48333.1;transl_table=11
+AFDA02000010.1	Genbank	gene	4518	4670	.	+	.	ID=gene-ACINNAV18_F0007;Name=ACINNAV18_F0007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_F0007
+AFDA02000010.1	Genbank	CDS	4518	4670	.	+	0	ID=cds-EJP48332.1;Parent=gene-ACINNAV18_F0007;Dbxref=NCBI_GP:EJP48332.1;Name=EJP48332.1;gbkey=CDS;locus_tag=ACINNAV18_F0007;product=hypothetical protein;protein_id=EJP48332.1;transl_table=11
+AFDA02000010.1	Genbank	gene	5206	5634	.	-	.	ID=gene-ACINNAV18_F0008;Name=ACINNAV18_F0008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_F0008
+AFDA02000010.1	Genbank	CDS	5206	5634	.	-	0	ID=cds-EJP48335.1;Parent=gene-ACINNAV18_F0008;Dbxref=NCBI_GP:EJP48335.1;Name=EJP48335.1;gbkey=CDS;locus_tag=ACINNAV18_F0008;product=conjugal transfer protein TraD;protein_id=EJP48335.1;transl_table=11
+

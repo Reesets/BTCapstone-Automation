@@ -1,0 +1,261 @@
+##sequence-region AYOI01000002.1 1 114115
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1398949
+AYOI01000002.1	Genbank	region	1	114115	.	+	.	ID=AYOI01000002.1:1..114115;Dbxref=taxon:1398949;Is_circular=true;Name=pABUH5-114;collection-date=Dec-2007;country=USA;gbkey=Src;genome=plasmid;isolation-source=sputum;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pABUH5-114;strain=UH10707
+AYOI01000002.1	Genbank	sequence_feature	1	113195	.	+	.	ID=id-AYOI01000002.1:1..113195;Note=putative prophage region%3B This feature was identified with Phage_Finder v2 (PMID:17062630) and has not been manually reviewed.;gbkey=misc_feature
+AYOI01000002.1	Genbank	gene	209	409	.	+	.	ID=gene-V427_0009;Name=V427_0009;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0009
+AYOI01000002.1	Genbank	CDS	209	409	.	+	0	ID=cds-ETR59173.1;Parent=gene-V427_0009;Dbxref=NCBI_GP:ETR59173.1;Name=ETR59173.1;gbkey=CDS;locus_tag=V427_0009;product=hypothetical protein;protein_id=ETR59173.1;transl_table=11
+AYOI01000002.1	Genbank	gene	569	2626	.	+	.	ID=gene-V427_0010;Name=V427_0010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0010
+AYOI01000002.1	Genbank	CDS	569	2626	.	+	0	ID=cds-ETR59222.1;Parent=gene-V427_0010;Dbxref=NCBI_GP:ETR59222.1;Name=ETR59222.1;gbkey=CDS;locus_tag=V427_0010;product=cobalamin biosynthesis protein CobT;protein_id=ETR59222.1;transl_table=11
+AYOI01000002.1	Genbank	gene	2766	3965	.	+	.	ID=gene-V427_0011;Name=V427_0011;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0011
+AYOI01000002.1	Genbank	CDS	2766	3965	.	+	0	ID=cds-ETR59149.1;Parent=gene-V427_0011;Dbxref=NCBI_GP:ETR59149.1;Name=ETR59149.1;gbkey=CDS;locus_tag=V427_0011;product=CbbQ/NirQ/NorQ C-terminal domain protein;protein_id=ETR59149.1;transl_table=11
+AYOI01000002.1	Genbank	gene	3995	4678	.	+	.	ID=gene-V427_0012;Name=V427_0012;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0012
+AYOI01000002.1	Genbank	CDS	3995	4678	.	+	0	ID=cds-ETR59220.1;Parent=gene-V427_0012;Dbxref=NCBI_GP:ETR59220.1;Name=ETR59220.1;gbkey=CDS;locus_tag=V427_0012;product=hypothetical protein;protein_id=ETR59220.1;transl_table=11
+AYOI01000002.1	Genbank	gene	4754	5443	.	+	.	ID=gene-V427_0013;Name=V427_0013;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0013
+AYOI01000002.1	Genbank	CDS	4754	5443	.	+	0	ID=cds-ETR59150.1;Parent=gene-V427_0013;Dbxref=NCBI_GP:ETR59150.1;Name=ETR59150.1;gbkey=CDS;locus_tag=V427_0013;product=hypothetical protein;protein_id=ETR59150.1;transl_table=11
+AYOI01000002.1	Genbank	gene	5475	8930	.	+	.	ID=gene-V427_0014;Name=V427_0014;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0014
+AYOI01000002.1	Genbank	CDS	5475	8930	.	+	0	ID=cds-ETR59152.1;Parent=gene-V427_0014;Dbxref=NCBI_GP:ETR59152.1;Name=ETR59152.1;gbkey=CDS;locus_tag=V427_0014;product=DNA polymerase III%2C alpha subunit;protein_id=ETR59152.1;transl_table=11
+AYOI01000002.1	Genbank	gene	9015	10121	.	+	.	ID=gene-V427_0015;Name=V427_0015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0015
+AYOI01000002.1	Genbank	CDS	9015	10121	.	+	0	ID=cds-ETR59194.1;Parent=gene-V427_0015;Dbxref=NCBI_GP:ETR59194.1;Name=ETR59194.1;gbkey=CDS;locus_tag=V427_0015;product=hypothetical protein;protein_id=ETR59194.1;transl_table=11
+AYOI01000002.1	Genbank	gene	10272	11159	.	+	.	ID=gene-V427_0016;Name=V427_0016;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0016
+AYOI01000002.1	Genbank	CDS	10272	11159	.	+	0	ID=cds-ETR59177.1;Parent=gene-V427_0016;Dbxref=NCBI_GP:ETR59177.1;Name=ETR59177.1;gbkey=CDS;locus_tag=V427_0016;product=hypothetical protein;protein_id=ETR59177.1;transl_table=11
+AYOI01000002.1	Genbank	gene	11216	12280	.	+	.	ID=gene-V427_0017;Name=V427_0017;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0017
+AYOI01000002.1	Genbank	CDS	11216	12280	.	+	0	ID=cds-ETR59219.1;Parent=gene-V427_0017;Dbxref=NCBI_GP:ETR59219.1;Name=ETR59219.1;gbkey=CDS;locus_tag=V427_0017;product=5'-3' exonuclease%2C N-terminal resolvase-like domain protein;protein_id=ETR59219.1;transl_table=11
+AYOI01000002.1	Genbank	gene	12291	13787	.	+	.	ID=gene-V427_0018;Name=V427_0018;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0018
+AYOI01000002.1	Genbank	CDS	12291	13787	.	+	0	ID=cds-ETR59159.1;Parent=gene-V427_0018;Dbxref=NCBI_GP:ETR59159.1;Name=ETR59159.1;gbkey=CDS;locus_tag=V427_0018;product=putative RecA protein;protein_id=ETR59159.1;transl_table=11
+AYOI01000002.1	Genbank	gene	13860	14213	.	+	.	ID=gene-V427_0019;Name=V427_0019;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0019
+AYOI01000002.1	Genbank	CDS	13860	14213	.	+	0	ID=cds-ETR59223.1;Parent=gene-V427_0019;Dbxref=NCBI_GP:ETR59223.1;Name=ETR59223.1;gbkey=CDS;locus_tag=V427_0019;product=hypothetical protein;protein_id=ETR59223.1;transl_table=11
+AYOI01000002.1	Genbank	gene	14210	14608	.	+	.	ID=gene-V427_0020;Name=V427_0020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0020
+AYOI01000002.1	Genbank	CDS	14210	14608	.	+	0	ID=cds-ETR59248.1;Parent=gene-V427_0020;Dbxref=NCBI_GP:ETR59248.1;Name=ETR59248.1;gbkey=CDS;locus_tag=V427_0020;product=hypothetical protein;protein_id=ETR59248.1;transl_table=11
+AYOI01000002.1	Genbank	gene	14608	15045	.	+	.	ID=gene-V427_0021;Name=V427_0021;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0021
+AYOI01000002.1	Genbank	CDS	14608	15045	.	+	0	ID=cds-ETR59187.1;Parent=gene-V427_0021;Dbxref=NCBI_GP:ETR59187.1;Name=ETR59187.1;gbkey=CDS;locus_tag=V427_0021;product=hypothetical protein;protein_id=ETR59187.1;transl_table=11
+AYOI01000002.1	Genbank	gene	15042	15560	.	+	.	ID=gene-V427_0022;Name=V427_0022;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0022
+AYOI01000002.1	Genbank	CDS	15042	15560	.	+	0	ID=cds-ETR59213.1;Parent=gene-V427_0022;Dbxref=NCBI_GP:ETR59213.1;Name=ETR59213.1;gbkey=CDS;locus_tag=V427_0022;product=hypothetical protein;protein_id=ETR59213.1;transl_table=11
+AYOI01000002.1	Genbank	gene	15557	15922	.	+	.	ID=gene-V427_0023;Name=V427_0023;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0023
+AYOI01000002.1	Genbank	CDS	15557	15922	.	+	0	ID=cds-ETR59182.1;Parent=gene-V427_0023;Dbxref=NCBI_GP:ETR59182.1;Name=ETR59182.1;gbkey=CDS;locus_tag=V427_0023;product=hypothetical protein;protein_id=ETR59182.1;transl_table=11
+AYOI01000002.1	Genbank	gene	15993	16205	.	+	.	ID=gene-V427_0024;Name=V427_0024;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0024
+AYOI01000002.1	Genbank	CDS	15993	16205	.	+	0	ID=cds-ETR59242.1;Parent=gene-V427_0024;Dbxref=NCBI_GP:ETR59242.1;Name=ETR59242.1;gbkey=CDS;locus_tag=V427_0024;product=hypothetical protein;protein_id=ETR59242.1;transl_table=11
+AYOI01000002.1	Genbank	gene	16205	16603	.	+	.	ID=gene-V427_0025;Name=V427_0025;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0025
+AYOI01000002.1	Genbank	CDS	16205	16603	.	+	0	ID=cds-ETR59221.1;Parent=gene-V427_0025;Dbxref=NCBI_GP:ETR59221.1;Name=ETR59221.1;gbkey=CDS;locus_tag=V427_0025;product=cell wall hydrolase;protein_id=ETR59221.1;transl_table=11
+AYOI01000002.1	Genbank	gene	16665	17759	.	+	.	ID=gene-V427_0026;Name=V427_0026;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0026
+AYOI01000002.1	Genbank	CDS	16665	17759	.	+	0	ID=cds-ETR59136.1;Parent=gene-V427_0026;Dbxref=NCBI_GP:ETR59136.1;Name=ETR59136.1;gbkey=CDS;locus_tag=V427_0026;product=calcineurin-like phosphoesterase family protein;protein_id=ETR59136.1;transl_table=11
+AYOI01000002.1	Genbank	gene	17759	19711	.	+	.	ID=gene-V427_0027;Name=V427_0027;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0027
+AYOI01000002.1	Genbank	CDS	17759	19711	.	+	0	ID=cds-ETR59258.1;Parent=gene-V427_0027;Dbxref=NCBI_GP:ETR59258.1;Name=ETR59258.1;gbkey=CDS;locus_tag=V427_0027;product=RecF/RecN/SMC N-terminal domain protein;protein_id=ETR59258.1;transl_table=11
+AYOI01000002.1	Genbank	gene	19812	20444	.	+	.	ID=gene-V427_0028;Name=V427_0028;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0028
+AYOI01000002.1	Genbank	CDS	19812	20444	.	+	0	ID=cds-ETR59179.1;Parent=gene-V427_0028;Dbxref=NCBI_GP:ETR59179.1;Name=ETR59179.1;gbkey=CDS;locus_tag=V427_0028;product=hypothetical protein;protein_id=ETR59179.1;transl_table=11
+AYOI01000002.1	Genbank	gene	20448	21041	.	+	.	ID=gene-V427_0029;Name=V427_0029;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0029
+AYOI01000002.1	Genbank	CDS	20448	21041	.	+	0	ID=cds-ETR59234.1;Parent=gene-V427_0029;Dbxref=NCBI_GP:ETR59234.1;Name=ETR59234.1;gbkey=CDS;locus_tag=V427_0029;product=hypothetical protein;protein_id=ETR59234.1;transl_table=11
+AYOI01000002.1	Genbank	gene	21139	21729	.	+	.	ID=gene-V427_0030;Name=V427_0030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0030
+AYOI01000002.1	Genbank	CDS	21139	21729	.	+	0	ID=cds-ETR59164.1;Parent=gene-V427_0030;Dbxref=NCBI_GP:ETR59164.1;Name=ETR59164.1;Note=an automated process has identified a potential problem with this gene model%3B the current end5 and/or the end3 may need to extended or the current gene model may need to be merged with a neighboring gene model%3B the current gene model (or a revised gene model) may contain a frame shift;gbkey=CDS;locus_tag=V427_0030;product=hypothetical protein;protein_id=ETR59164.1;transl_table=11
+AYOI01000002.1	Genbank	gene	21870	22043	.	+	.	ID=gene-V427_0031;Name=V427_0031;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0031
+AYOI01000002.1	Genbank	CDS	21870	22043	.	+	0	ID=cds-ETR59212.1;Parent=gene-V427_0031;Dbxref=NCBI_GP:ETR59212.1;Name=ETR59212.1;gbkey=CDS;locus_tag=V427_0031;product=hypothetical protein;protein_id=ETR59212.1;transl_table=11
+AYOI01000002.1	Genbank	gene	22089	24263	.	+	.	ID=gene-V427_0032;Name=V427_0032;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0032
+AYOI01000002.1	Genbank	CDS	22089	24263	.	+	0	ID=cds-ETR59140.1;Parent=gene-V427_0032;Dbxref=NCBI_GP:ETR59140.1;Name=ETR59140.1;gbkey=CDS;locus_tag=V427_0032;product=ribonucleoside-diphosphate reductase%2C alpha subunit;protein_id=ETR59140.1;transl_table=11
+AYOI01000002.1	Genbank	gene	24310	25014	.	+	.	ID=gene-V427_0033;Name=V427_0033;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0033
+AYOI01000002.1	Genbank	CDS	24310	25014	.	+	0	ID=cds-ETR59205.1;Parent=gene-V427_0033;Dbxref=NCBI_GP:ETR59205.1;Name=ETR59205.1;gbkey=CDS;locus_tag=V427_0033;product=DDE domain protein;protein_id=ETR59205.1;transl_table=11
+AYOI01000002.1	Genbank	gene	25204	25821	.	-	.	ID=gene-V427_0034;Name=V427_0034;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0034
+AYOI01000002.1	Genbank	CDS	25204	25821	.	-	0	ID=cds-ETR59139.1;Parent=gene-V427_0034;Dbxref=NCBI_GP:ETR59139.1;Name=ETR59139.1;gbkey=CDS;locus_tag=V427_0034;product=phosphotransferase enzyme family protein;protein_id=ETR59139.1;transl_table=11
+AYOI01000002.1	Genbank	gene	25861	26565	.	-	.	ID=gene-V427_0035;Name=V427_0035;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0035
+AYOI01000002.1	Genbank	CDS	25861	26565	.	-	0	ID=cds-ETR59247.1;Parent=gene-V427_0035;Dbxref=NCBI_GP:ETR59247.1;Name=ETR59247.1;gbkey=CDS;locus_tag=V427_0035;product=DDE domain protein;protein_id=ETR59247.1;transl_table=11
+AYOI01000002.1	Genbank	gene	26542	26667	.	+	.	ID=gene-V427_0037;Name=V427_0037;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0037
+AYOI01000002.1	Genbank	CDS	26542	26667	.	+	0	ID=cds-ETR59237.1;Parent=gene-V427_0037;Dbxref=NCBI_GP:ETR59237.1;Name=ETR59237.1;gbkey=CDS;locus_tag=V427_0037;product=hypothetical protein;protein_id=ETR59237.1;transl_table=11
+AYOI01000002.1	Genbank	gene	26649	27533	.	-	.	ID=gene-V427_0036;Name=V427_0036;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0036
+AYOI01000002.1	Genbank	CDS	26649	27533	.	-	0	ID=cds-ETR59181.1;Parent=gene-V427_0036;Dbxref=NCBI_GP:ETR59181.1;Name=ETR59181.1;gbkey=CDS;locus_tag=V427_0036;product=phosphotransferase enzyme family protein;protein_id=ETR59181.1;transl_table=11
+AYOI01000002.1	Genbank	gene	27589	29064	.	-	.	ID=gene-V427_0038;Name=V427_0038;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0038
+AYOI01000002.1	Genbank	CDS	27589	29064	.	-	0	ID=cds-ETR59200.1;Parent=gene-V427_0038;Dbxref=NCBI_GP:ETR59200.1;Name=ETR59200.1;gbkey=CDS;locus_tag=V427_0038;product=ABC transporter%2C ATP-binding protein;protein_id=ETR59200.1;transl_table=11
+AYOI01000002.1	Genbank	gene	29514	30218	.	-	.	ID=gene-V427_0039;Name=V427_0039;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0039
+AYOI01000002.1	Genbank	CDS	29514	30218	.	-	0	ID=cds-ETR59162.1;Parent=gene-V427_0039;Dbxref=NCBI_GP:ETR59162.1;Name=ETR59162.1;gbkey=CDS;locus_tag=V427_0039;product=DDE domain protein;protein_id=ETR59162.1;transl_table=11
+AYOI01000002.1	Genbank	gene	30348	30593	.	+	.	ID=gene-V427_0040;Name=V427_0040;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0040
+AYOI01000002.1	Genbank	CDS	30348	30593	.	+	0	ID=cds-ETR59153.1;Parent=gene-V427_0040;Dbxref=NCBI_GP:ETR59153.1;Name=ETR59153.1;gbkey=CDS;locus_tag=V427_0040;product=hypothetical protein;protein_id=ETR59153.1;transl_table=11
+AYOI01000002.1	Genbank	gene	30630	31334	.	+	.	ID=gene-V427_0041;Name=V427_0041;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0041
+AYOI01000002.1	Genbank	CDS	30630	31334	.	+	0	ID=cds-ETR59202.1;Parent=gene-V427_0041;Dbxref=NCBI_GP:ETR59202.1;Name=ETR59202.1;gbkey=CDS;locus_tag=V427_0041;product=DDE domain protein;protein_id=ETR59202.1;transl_table=11
+AYOI01000002.1	Genbank	gene	31340	31627	.	+	.	ID=gene-V427_0042;Name=V427_0042;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0042
+AYOI01000002.1	Genbank	CDS	31340	31627	.	+	0	ID=cds-ETR59141.1;Parent=gene-V427_0042;Dbxref=NCBI_GP:ETR59141.1;Name=ETR59141.1;gbkey=CDS;locus_tag=V427_0042;product=ribonucleotide-pyrophosphate reductase subunit alpha domain protein;protein_id=ETR59141.1;transl_table=11
+AYOI01000002.1	Genbank	gene	31707	32699	.	+	.	ID=gene-V427_0043;Name=V427_0043;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0043
+AYOI01000002.1	Genbank	CDS	31707	32699	.	+	0	ID=cds-ETR59134.1;Parent=gene-V427_0043;Dbxref=NCBI_GP:ETR59134.1;Name=ETR59134.1;gbkey=CDS;locus_tag=V427_0043;product=ribonucleoside-diphosphate reductase%2C beta subunit;protein_id=ETR59134.1;transl_table=11
+AYOI01000002.1	Genbank	gene	32726	33145	.	-	.	ID=gene-V427_0044;Name=V427_0044;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0044
+AYOI01000002.1	Genbank	CDS	32726	33145	.	-	0	ID=cds-ETR59209.1;Parent=gene-V427_0044;Dbxref=NCBI_GP:ETR59209.1;Name=ETR59209.1;gbkey=CDS;locus_tag=V427_0044;product=death-on-curing family protein;protein_id=ETR59209.1;transl_table=11
+AYOI01000002.1	Genbank	gene	33145	33507	.	-	.	ID=gene-V427_0045;Name=V427_0045;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0045
+AYOI01000002.1	Genbank	CDS	33145	33507	.	-	0	ID=cds-ETR59257.1;Parent=gene-V427_0045;Dbxref=NCBI_GP:ETR59257.1;Name=ETR59257.1;gbkey=CDS;locus_tag=V427_0045;product=hypothetical protein;protein_id=ETR59257.1;transl_table=11
+AYOI01000002.1	Genbank	gene	33738	34598	.	+	.	ID=gene-V427_0046;Name=thyX;gbkey=Gene;gene=thyX;gene_biotype=protein_coding;locus_tag=V427_0046
+AYOI01000002.1	Genbank	CDS	33738	34598	.	+	0	ID=cds-ETR59215.1;Parent=gene-V427_0046;Dbxref=NCBI_GP:ETR59215.1;Name=ETR59215.1;gbkey=CDS;gene=thyX;locus_tag=V427_0046;product=thymidylate synthase ThyX;protein_id=ETR59215.1;transl_table=11
+AYOI01000002.1	Genbank	gene	34595	34888	.	+	.	ID=gene-V427_0047;Name=V427_0047;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0047
+AYOI01000002.1	Genbank	CDS	34595	34888	.	+	0	ID=cds-ETR59214.1;Parent=gene-V427_0047;Dbxref=NCBI_GP:ETR59214.1;Name=ETR59214.1;gbkey=CDS;locus_tag=V427_0047;product=hypothetical protein;protein_id=ETR59214.1;transl_table=11
+AYOI01000002.1	Genbank	gene	34888	35346	.	+	.	ID=gene-V427_0048;Name=dut_2;gbkey=Gene;gene=dut_2;gene_biotype=protein_coding;locus_tag=V427_0048
+AYOI01000002.1	Genbank	CDS	34888	35346	.	+	0	ID=cds-ETR59255.1;Parent=gene-V427_0048;Dbxref=NCBI_GP:ETR59255.1;Name=ETR59255.1;gbkey=CDS;gene=dut_2;locus_tag=V427_0048;product=dUTP diphosphatase;protein_id=ETR59255.1;transl_table=11
+AYOI01000002.1	Genbank	gene	35346	36029	.	+	.	ID=gene-V427_0049;Name=V427_0049;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0049
+AYOI01000002.1	Genbank	CDS	35346	36029	.	+	0	ID=cds-ETR59217.1;Parent=gene-V427_0049;Dbxref=NCBI_GP:ETR59217.1;Name=ETR59217.1;gbkey=CDS;locus_tag=V427_0049;product=hypothetical protein;protein_id=ETR59217.1;transl_table=11
+AYOI01000002.1	Genbank	gene	36122	36325	.	+	.	ID=gene-V427_0050;Name=V427_0050;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0050
+AYOI01000002.1	Genbank	CDS	36122	36325	.	+	0	ID=cds-ETR59233.1;Parent=gene-V427_0050;Dbxref=NCBI_GP:ETR59233.1;Name=ETR59233.1;gbkey=CDS;locus_tag=V427_0050;product=hypothetical protein;protein_id=ETR59233.1;transl_table=11
+AYOI01000002.1	Genbank	gene	36660	37055	.	+	.	ID=gene-V427_0051;Name=V427_0051;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0051
+AYOI01000002.1	Genbank	CDS	36660	37055	.	+	0	ID=cds-ETR59138.1;Parent=gene-V427_0051;Dbxref=NCBI_GP:ETR59138.1;Name=ETR59138.1;gbkey=CDS;locus_tag=V427_0051;product=hypothetical protein;protein_id=ETR59138.1;transl_table=11
+AYOI01000002.1	Genbank	gene	37227	37535	.	+	.	ID=gene-V427_0052;Name=V427_0052;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0052
+AYOI01000002.1	Genbank	CDS	37227	37535	.	+	0	ID=cds-ETR59195.1;Parent=gene-V427_0052;Dbxref=NCBI_GP:ETR59195.1;Name=ETR59195.1;gbkey=CDS;locus_tag=V427_0052;product=hypothetical protein;protein_id=ETR59195.1;transl_table=11
+AYOI01000002.1	Genbank	gene	37532	37768	.	+	.	ID=gene-V427_0053;Name=V427_0053;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0053
+AYOI01000002.1	Genbank	CDS	37532	37768	.	+	0	ID=cds-ETR59148.1;Parent=gene-V427_0053;Dbxref=NCBI_GP:ETR59148.1;Name=ETR59148.1;gbkey=CDS;locus_tag=V427_0053;product=hypothetical protein;protein_id=ETR59148.1;transl_table=11
+AYOI01000002.1	Genbank	gene	37758	37961	.	+	.	ID=gene-V427_0054;Name=V427_0054;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0054
+AYOI01000002.1	Genbank	CDS	37758	37961	.	+	0	ID=cds-ETR59210.1;Parent=gene-V427_0054;Dbxref=NCBI_GP:ETR59210.1;Name=ETR59210.1;gbkey=CDS;locus_tag=V427_0054;product=hypothetical protein;protein_id=ETR59210.1;transl_table=11
+AYOI01000002.1	Genbank	gene	38035	38376	.	+	.	ID=gene-V427_0055;Name=V427_0055;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0055
+AYOI01000002.1	Genbank	CDS	38035	38376	.	+	0	ID=cds-ETR59249.1;Parent=gene-V427_0055;Dbxref=NCBI_GP:ETR59249.1;Name=ETR59249.1;gbkey=CDS;locus_tag=V427_0055;product=hypothetical protein;protein_id=ETR59249.1;transl_table=11
+AYOI01000002.1	Genbank	gene	38549	38743	.	+	.	ID=gene-V427_0056;Name=V427_0056;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0056
+AYOI01000002.1	Genbank	CDS	38549	38743	.	+	0	ID=cds-ETR59184.1;Parent=gene-V427_0056;Dbxref=NCBI_GP:ETR59184.1;Name=ETR59184.1;gbkey=CDS;locus_tag=V427_0056;product=hypothetical protein;protein_id=ETR59184.1;transl_table=11
+AYOI01000002.1	Genbank	gene	38753	39118	.	+	.	ID=gene-V427_0057;Name=V427_0057;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0057
+AYOI01000002.1	Genbank	CDS	38753	39118	.	+	0	ID=cds-ETR59238.1;Parent=gene-V427_0057;Dbxref=NCBI_GP:ETR59238.1;Name=ETR59238.1;gbkey=CDS;locus_tag=V427_0057;product=hypothetical protein;protein_id=ETR59238.1;transl_table=11
+AYOI01000002.1	Genbank	gene	39093	39944	.	+	.	ID=gene-V427_0058;Name=V427_0058;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0058
+AYOI01000002.1	Genbank	CDS	39093	39944	.	+	0	ID=cds-ETR59188.1;Parent=gene-V427_0058;Dbxref=NCBI_GP:ETR59188.1;Name=ETR59188.1;gbkey=CDS;locus_tag=V427_0058;product=hypothetical protein;protein_id=ETR59188.1;transl_table=11
+AYOI01000002.1	Genbank	gene	40027	40518	.	+	.	ID=gene-V427_0059;Name=V427_0059;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0059
+AYOI01000002.1	Genbank	CDS	40027	40518	.	+	0	ID=cds-ETR59163.1;Parent=gene-V427_0059;Dbxref=NCBI_GP:ETR59163.1;Name=ETR59163.1;gbkey=CDS;locus_tag=V427_0059;product=hypothetical protein;protein_id=ETR59163.1;transl_table=11
+AYOI01000002.1	Genbank	gene	40972	41310	.	+	.	ID=gene-V427_0060;Name=V427_0060;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0060
+AYOI01000002.1	Genbank	CDS	40972	41310	.	+	0	ID=cds-ETR59218.1;Parent=gene-V427_0060;Dbxref=NCBI_GP:ETR59218.1;Name=ETR59218.1;gbkey=CDS;locus_tag=V427_0060;product=hypothetical protein;protein_id=ETR59218.1;transl_table=11
+AYOI01000002.1	Genbank	gene	41463	42179	.	+	.	ID=gene-V427_0061;Name=V427_0061;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0061
+AYOI01000002.1	Genbank	CDS	41463	42179	.	+	0	ID=cds-ETR59252.1;Parent=gene-V427_0061;Dbxref=NCBI_GP:ETR59252.1;Name=ETR59252.1;gbkey=CDS;locus_tag=V427_0061;product=hypothetical protein;protein_id=ETR59252.1;transl_table=11
+AYOI01000002.1	Genbank	gene	42182	42415	.	+	.	ID=gene-V427_0062;Name=V427_0062;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0062
+AYOI01000002.1	Genbank	CDS	42182	42415	.	+	0	ID=cds-ETR59189.1;Parent=gene-V427_0062;Dbxref=NCBI_GP:ETR59189.1;Name=ETR59189.1;gbkey=CDS;locus_tag=V427_0062;product=hypothetical protein;protein_id=ETR59189.1;transl_table=11
+AYOI01000002.1	Genbank	gene	42596	43417	.	+	.	ID=gene-V427_0063;Name=V427_0063;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0063
+AYOI01000002.1	Genbank	CDS	42596	43417	.	+	0	ID=cds-ETR59161.1;Parent=gene-V427_0063;Dbxref=NCBI_GP:ETR59161.1;Name=ETR59161.1;gbkey=CDS;locus_tag=V427_0063;product=SPFH domain/Band 7 family protein;protein_id=ETR59161.1;transl_table=11
+AYOI01000002.1	Genbank	gene	43513	43788	.	+	.	ID=gene-V427_0064;Name=V427_0064;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0064
+AYOI01000002.1	Genbank	CDS	43513	43788	.	+	0	ID=cds-ETR59147.1;Parent=gene-V427_0064;Dbxref=NCBI_GP:ETR59147.1;Name=ETR59147.1;gbkey=CDS;locus_tag=V427_0064;product=hypothetical protein;protein_id=ETR59147.1;transl_table=11
+AYOI01000002.1	Genbank	gene	43785	44318	.	+	.	ID=gene-V427_0065;Name=V427_0065;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0065
+AYOI01000002.1	Genbank	CDS	43785	44318	.	+	0	ID=cds-ETR59185.1;Parent=gene-V427_0065;Dbxref=NCBI_GP:ETR59185.1;Name=ETR59185.1;gbkey=CDS;locus_tag=V427_0065;product=exonuclease;protein_id=ETR59185.1;transl_table=11
+AYOI01000002.1	Genbank	gene	44623	44748	.	+	.	ID=gene-V427_0066;Name=V427_0066;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0066
+AYOI01000002.1	Genbank	CDS	44623	44748	.	+	0	ID=cds-ETR59240.1;Parent=gene-V427_0066;Dbxref=NCBI_GP:ETR59240.1;Name=ETR59240.1;gbkey=CDS;locus_tag=V427_0066;product=hypothetical protein;protein_id=ETR59240.1;transl_table=11
+AYOI01000002.1	Genbank	gene	44937	45188	.	+	.	ID=gene-V427_0067;Name=V427_0067;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0067
+AYOI01000002.1	Genbank	CDS	44937	45188	.	+	0	ID=cds-ETR59231.1;Parent=gene-V427_0067;Dbxref=NCBI_GP:ETR59231.1;Name=ETR59231.1;gbkey=CDS;locus_tag=V427_0067;product=hypothetical protein;protein_id=ETR59231.1;transl_table=11
+AYOI01000002.1	Genbank	gene	45277	45987	.	+	.	ID=gene-V427_0068;Name=V427_0068;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0068
+AYOI01000002.1	Genbank	CDS	45277	45987	.	+	0	ID=cds-ETR59196.1;Parent=gene-V427_0068;Dbxref=NCBI_GP:ETR59196.1;Name=ETR59196.1;gbkey=CDS;locus_tag=V427_0068;product=hypothetical protein;protein_id=ETR59196.1;transl_table=11
+AYOI01000002.1	Genbank	gene	46106	47044	.	+	.	ID=gene-V427_0069;Name=V427_0069;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0069
+AYOI01000002.1	Genbank	CDS	46106	47044	.	+	0	ID=cds-ETR59155.1;Parent=gene-V427_0069;Dbxref=NCBI_GP:ETR59155.1;Name=ETR59155.1;gbkey=CDS;locus_tag=V427_0069;product=hypothetical protein;protein_id=ETR59155.1;transl_table=11
+AYOI01000002.1	Genbank	gene	47093	47437	.	+	.	ID=gene-V427_0070;Name=V427_0070;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0070
+AYOI01000002.1	Genbank	CDS	47093	47437	.	+	0	ID=cds-ETR59206.1;Parent=gene-V427_0070;Dbxref=NCBI_GP:ETR59206.1;Name=ETR59206.1;gbkey=CDS;locus_tag=V427_0070;product=hypothetical protein;protein_id=ETR59206.1;transl_table=11
+AYOI01000002.1	Genbank	gene	47649	48056	.	+	.	ID=gene-V427_0071;Name=V427_0071;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0071
+AYOI01000002.1	Genbank	CDS	47649	48056	.	+	0	ID=cds-ETR59160.1;Parent=gene-V427_0071;Dbxref=NCBI_GP:ETR59160.1;Name=ETR59160.1;gbkey=CDS;locus_tag=V427_0071;product=hypothetical protein;protein_id=ETR59160.1;transl_table=11
+AYOI01000002.1	Genbank	gene	48123	49325	.	+	.	ID=gene-V427_0072;Name=V427_0072;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0072
+AYOI01000002.1	Genbank	CDS	48123	49325	.	+	0	ID=cds-ETR59244.1;Parent=gene-V427_0072;Dbxref=NCBI_GP:ETR59244.1;Name=ETR59244.1;gbkey=CDS;locus_tag=V427_0072;product=ATPase%2C AAA family;protein_id=ETR59244.1;transl_table=11
+AYOI01000002.1	Genbank	gene	49396	49992	.	+	.	ID=gene-V427_0073;Name=V427_0073;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0073
+AYOI01000002.1	Genbank	CDS	49396	49992	.	+	0	ID=cds-ETR59156.1;Parent=gene-V427_0073;Dbxref=NCBI_GP:ETR59156.1;Name=ETR59156.1;gbkey=CDS;locus_tag=V427_0073;product=hypothetical protein;protein_id=ETR59156.1;transl_table=11
+AYOI01000002.1	Genbank	gene	49989	50525	.	+	.	ID=gene-V427_0074;Name=V427_0074;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0074
+AYOI01000002.1	Genbank	CDS	49989	50525	.	+	0	ID=cds-ETR59167.1;Parent=gene-V427_0074;Dbxref=NCBI_GP:ETR59167.1;Name=ETR59167.1;gbkey=CDS;locus_tag=V427_0074;product=hypothetical protein;protein_id=ETR59167.1;transl_table=11
+AYOI01000002.1	Genbank	gene	51071	51697	.	+	.	ID=gene-V427_0075;Name=V427_0075;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0075
+AYOI01000002.1	Genbank	CDS	51071	51697	.	+	0	ID=cds-ETR59216.1;Parent=gene-V427_0075;Dbxref=NCBI_GP:ETR59216.1;Name=ETR59216.1;gbkey=CDS;locus_tag=V427_0075;product=hypothetical protein;protein_id=ETR59216.1;transl_table=11
+AYOI01000002.1	Genbank	gene	51734	52174	.	+	.	ID=gene-V427_0076;Name=V427_0076;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0076
+AYOI01000002.1	Genbank	CDS	51734	52174	.	+	0	ID=cds-ETR59166.1;Parent=gene-V427_0076;Dbxref=NCBI_GP:ETR59166.1;Name=ETR59166.1;gbkey=CDS;locus_tag=V427_0076;product=hypothetical protein;protein_id=ETR59166.1;transl_table=11
+AYOI01000002.1	Genbank	gene	52174	52806	.	+	.	ID=gene-V427_0077;Name=V427_0077;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0077
+AYOI01000002.1	Genbank	CDS	52174	52806	.	+	0	ID=cds-ETR59201.1;Parent=gene-V427_0077;Dbxref=NCBI_GP:ETR59201.1;Name=ETR59201.1;gbkey=CDS;locus_tag=V427_0077;product=hypothetical protein;protein_id=ETR59201.1;transl_table=11
+AYOI01000002.1	Genbank	gene	52837	53178	.	+	.	ID=gene-V427_0078;Name=V427_0078;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0078
+AYOI01000002.1	Genbank	CDS	52837	53178	.	+	0	ID=cds-ETR59241.1;Parent=gene-V427_0078;Dbxref=NCBI_GP:ETR59241.1;Name=ETR59241.1;gbkey=CDS;locus_tag=V427_0078;product=HTH domain protein;protein_id=ETR59241.1;transl_table=11
+AYOI01000002.1	Genbank	gene	53259	53393	.	+	.	ID=gene-V427_0079;Name=V427_0079;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0079
+AYOI01000002.1	Genbank	CDS	53259	53393	.	+	0	ID=cds-ETR59190.1;Parent=gene-V427_0079;Dbxref=NCBI_GP:ETR59190.1;Name=ETR59190.1;gbkey=CDS;locus_tag=V427_0079;product=hypothetical protein;protein_id=ETR59190.1;transl_table=11
+AYOI01000002.1	Genbank	gene	53714	53965	.	+	.	ID=gene-V427_0080;Name=V427_0080;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0080
+AYOI01000002.1	Genbank	CDS	53714	53965	.	+	0	ID=cds-ETR59169.1;Parent=gene-V427_0080;Dbxref=NCBI_GP:ETR59169.1;Name=ETR59169.1;gbkey=CDS;locus_tag=V427_0080;product=hypothetical protein;protein_id=ETR59169.1;transl_table=11
+AYOI01000002.1	Genbank	gene	54101	54643	.	+	.	ID=gene-V427_0081;Name=V427_0081;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0081
+AYOI01000002.1	Genbank	CDS	54101	54643	.	+	0	ID=cds-ETR59236.1;Parent=gene-V427_0081;Dbxref=NCBI_GP:ETR59236.1;Name=ETR59236.1;gbkey=CDS;locus_tag=V427_0081;product=antirestriction protein ArdA;protein_id=ETR59236.1;transl_table=11
+AYOI01000002.1	Genbank	gene	54713	54844	.	-	.	ID=gene-V427_0082;Name=V427_0082;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0082
+AYOI01000002.1	Genbank	CDS	54713	54844	.	-	0	ID=cds-ETR59172.1;Parent=gene-V427_0082;Dbxref=NCBI_GP:ETR59172.1;Name=ETR59172.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=V427_0082;product=hypothetical protein;protein_id=ETR59172.1;transl_table=11
+AYOI01000002.1	Genbank	gene	56409	56783	.	+	.	ID=gene-V427_0083;Name=V427_0083;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0083
+AYOI01000002.1	Genbank	CDS	56409	56783	.	+	0	ID=cds-ETR59246.1;Parent=gene-V427_0083;Dbxref=NCBI_GP:ETR59246.1;Name=ETR59246.1;gbkey=CDS;locus_tag=V427_0083;product=hypothetical protein;protein_id=ETR59246.1;transl_table=11
+AYOI01000002.1	Genbank	gene	56877	57242	.	+	.	ID=gene-V427_0084;Name=V427_0084;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0084
+AYOI01000002.1	Genbank	CDS	56877	57242	.	+	0	ID=cds-ETR59235.1;Parent=gene-V427_0084;Dbxref=NCBI_GP:ETR59235.1;Name=ETR59235.1;gbkey=CDS;locus_tag=V427_0084;product=hypothetical protein;protein_id=ETR59235.1;transl_table=11
+AYOI01000002.1	Genbank	gene	59058	59759	.	+	.	ID=gene-V427_0085;Name=V427_0085;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0085
+AYOI01000002.1	Genbank	CDS	59058	59759	.	+	0	ID=cds-ETR59186.1;Parent=gene-V427_0085;Dbxref=NCBI_GP:ETR59186.1;Name=ETR59186.1;gbkey=CDS;locus_tag=V427_0085;product=hypothetical protein;protein_id=ETR59186.1;transl_table=11
+AYOI01000002.1	Genbank	gene	60253	60531	.	-	.	ID=gene-V427_0086;Name=V427_0086;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0086
+AYOI01000002.1	Genbank	CDS	60253	60531	.	-	0	ID=cds-ETR59250.1;Parent=gene-V427_0086;Dbxref=NCBI_GP:ETR59250.1;Name=ETR59250.1;gbkey=CDS;locus_tag=V427_0086;product=hypothetical protein;protein_id=ETR59250.1;transl_table=11
+AYOI01000002.1	Genbank	gene	60624	62339	.	-	.	ID=gene-V427_0087;Name=V427_0087;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0087
+AYOI01000002.1	Genbank	CDS	60624	62339	.	-	0	ID=cds-ETR59226.1;Parent=gene-V427_0087;Dbxref=NCBI_GP:ETR59226.1;Name=ETR59226.1;gbkey=CDS;locus_tag=V427_0087;product=type III restriction enzyme%2C res subunit;protein_id=ETR59226.1;transl_table=11
+AYOI01000002.1	Genbank	gene	62370	63050	.	+	.	ID=gene-V427_0088;Name=V427_0088;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0088
+AYOI01000002.1	Genbank	CDS	62370	63050	.	+	0	ID=cds-ETR59211.1;Parent=gene-V427_0088;Dbxref=NCBI_GP:ETR59211.1;Name=ETR59211.1;gbkey=CDS;locus_tag=V427_0088;product=ParB-like protein;protein_id=ETR59211.1;transl_table=11
+AYOI01000002.1	Genbank	gene	63062	63583	.	+	.	ID=gene-V427_0089;Name=V427_0089;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0089
+AYOI01000002.1	Genbank	CDS	63062	63583	.	+	0	ID=cds-ETR59180.1;Parent=gene-V427_0089;Dbxref=NCBI_GP:ETR59180.1;Name=ETR59180.1;gbkey=CDS;locus_tag=V427_0089;product=N4 Gp49/Sf6 protein 66 phage family protein;protein_id=ETR59180.1;transl_table=11
+AYOI01000002.1	Genbank	gene	63591	64232	.	+	.	ID=gene-V427_0090;Name=V427_0090;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0090
+AYOI01000002.1	Genbank	CDS	63591	64232	.	+	0	ID=cds-ETR59193.1;Parent=gene-V427_0090;Dbxref=NCBI_GP:ETR59193.1;Name=ETR59193.1;gbkey=CDS;locus_tag=V427_0090;product=ParB-like protein;protein_id=ETR59193.1;transl_table=11
+AYOI01000002.1	Genbank	gene	64268	64885	.	+	.	ID=gene-V427_0091;Name=V427_0091;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0091
+AYOI01000002.1	Genbank	CDS	64268	64885	.	+	0	ID=cds-ETR59144.1;Parent=gene-V427_0091;Dbxref=NCBI_GP:ETR59144.1;Name=ETR59144.1;gbkey=CDS;locus_tag=V427_0091;product=ABC transporter%2C ATP-binding domain protein;protein_id=ETR59144.1;transl_table=11
+AYOI01000002.1	Genbank	gene	64896	65249	.	+	.	ID=gene-V427_0092;Name=V427_0092;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0092
+AYOI01000002.1	Genbank	CDS	64896	65249	.	+	0	ID=cds-ETR59171.1;Parent=gene-V427_0092;Dbxref=NCBI_GP:ETR59171.1;Name=ETR59171.1;gbkey=CDS;locus_tag=V427_0092;product=glutaredoxin;protein_id=ETR59171.1;transl_table=11
+AYOI01000002.1	Genbank	gene	65293	66243	.	+	.	ID=gene-V427_0093;Name=V427_0093;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0093
+AYOI01000002.1	Genbank	CDS	65293	66243	.	+	0	ID=cds-ETR59230.1;Parent=gene-V427_0093;Dbxref=NCBI_GP:ETR59230.1;Name=ETR59230.1;gbkey=CDS;locus_tag=V427_0093;product=hypothetical protein;protein_id=ETR59230.1;transl_table=11
+AYOI01000002.1	Genbank	gene	66233	66559	.	+	.	ID=gene-V427_0094;Name=V427_0094;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0094
+AYOI01000002.1	Genbank	CDS	66233	66559	.	+	0	ID=cds-ETR59133.1;Parent=gene-V427_0094;Dbxref=NCBI_GP:ETR59133.1;Name=ETR59133.1;gbkey=CDS;locus_tag=V427_0094;product=hypothetical protein;protein_id=ETR59133.1;transl_table=11
+AYOI01000002.1	Genbank	gene	66662	67057	.	+	.	ID=gene-V427_0095;Name=V427_0095;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0095
+AYOI01000002.1	Genbank	CDS	66662	67057	.	+	0	ID=cds-ETR59224.1;Parent=gene-V427_0095;Dbxref=NCBI_GP:ETR59224.1;Name=ETR59224.1;gbkey=CDS;locus_tag=V427_0095;product=hypothetical protein;protein_id=ETR59224.1;transl_table=11
+AYOI01000002.1	Genbank	gene	67177	67767	.	+	.	ID=gene-V427_0096;Name=V427_0096;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0096
+AYOI01000002.1	Genbank	CDS	67177	67767	.	+	0	ID=cds-ETR59243.1;Parent=gene-V427_0096;Dbxref=NCBI_GP:ETR59243.1;Name=ETR59243.1;gbkey=CDS;locus_tag=V427_0096;product=winged helix-turn-helix DNA-binding protein;protein_id=ETR59243.1;transl_table=11
+AYOI01000002.1	Genbank	gene	67770	69014	.	+	.	ID=gene-V427_0097;Name=V427_0097;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0097
+AYOI01000002.1	Genbank	CDS	67770	69014	.	+	0	ID=cds-ETR59203.1;Parent=gene-V427_0097;Dbxref=NCBI_GP:ETR59203.1;Name=ETR59203.1;gbkey=CDS;locus_tag=V427_0097;product=Terminase-like family protein;protein_id=ETR59203.1;transl_table=11
+AYOI01000002.1	Genbank	gene	69054	70754	.	+	.	ID=gene-V427_0098;Name=V427_0098;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0098
+AYOI01000002.1	Genbank	CDS	69054	70754	.	+	0	ID=cds-ETR59259.1;Parent=gene-V427_0098;Dbxref=NCBI_GP:ETR59259.1;Name=ETR59259.1;gbkey=CDS;locus_tag=V427_0098;product=hypothetical protein;protein_id=ETR59259.1;transl_table=11
+AYOI01000002.1	Genbank	gene	70804	71655	.	+	.	ID=gene-V427_0099;Name=V427_0099;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0099
+AYOI01000002.1	Genbank	CDS	70804	71655	.	+	0	ID=cds-ETR59146.1;Parent=gene-V427_0099;Dbxref=NCBI_GP:ETR59146.1;Name=ETR59146.1;gbkey=CDS;locus_tag=V427_0099;product=hypothetical protein;protein_id=ETR59146.1;transl_table=11
+AYOI01000002.1	Genbank	gene	71826	72728	.	+	.	ID=gene-V427_0100;Name=V427_0100;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0100
+AYOI01000002.1	Genbank	CDS	71826	72728	.	+	0	ID=cds-ETR59178.1;Parent=gene-V427_0100;Dbxref=NCBI_GP:ETR59178.1;Name=ETR59178.1;gbkey=CDS;locus_tag=V427_0100;product=phage capsid family;protein_id=ETR59178.1;transl_table=11
+AYOI01000002.1	Genbank	gene	72851	73348	.	+	.	ID=gene-V427_0101;Name=V427_0101;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0101
+AYOI01000002.1	Genbank	CDS	72851	73348	.	+	0	ID=cds-ETR59245.1;Parent=gene-V427_0101;Dbxref=NCBI_GP:ETR59245.1;Name=ETR59245.1;gbkey=CDS;locus_tag=V427_0101;product=hypothetical protein;protein_id=ETR59245.1;transl_table=11
+AYOI01000002.1	Genbank	gene	73348	74121	.	+	.	ID=gene-V427_0102;Name=V427_0102;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0102
+AYOI01000002.1	Genbank	CDS	73348	74121	.	+	0	ID=cds-ETR59168.1;Parent=gene-V427_0102;Dbxref=NCBI_GP:ETR59168.1;Name=ETR59168.1;gbkey=CDS;locus_tag=V427_0102;product=hypothetical protein;protein_id=ETR59168.1;transl_table=11
+AYOI01000002.1	Genbank	gene	74121	74597	.	+	.	ID=gene-V427_0103;Name=V427_0103;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0103
+AYOI01000002.1	Genbank	CDS	74121	74597	.	+	0	ID=cds-ETR59232.1;Parent=gene-V427_0103;Dbxref=NCBI_GP:ETR59232.1;Name=ETR59232.1;gbkey=CDS;locus_tag=V427_0103;product=hypothetical protein;protein_id=ETR59232.1;transl_table=11
+AYOI01000002.1	Genbank	gene	75317	75817	.	+	.	ID=gene-V427_0104;Name=V427_0104;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0104
+AYOI01000002.1	Genbank	CDS	75317	75817	.	+	0	ID=cds-ETR59175.1;Parent=gene-V427_0104;Dbxref=NCBI_GP:ETR59175.1;Name=ETR59175.1;gbkey=CDS;locus_tag=V427_0104;product=tail protein%2C HK97 family;protein_id=ETR59175.1;transl_table=11
+AYOI01000002.1	Genbank	gene	75887	76414	.	+	.	ID=gene-V427_0105;Name=V427_0105;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0105
+AYOI01000002.1	Genbank	CDS	75887	76414	.	+	0	ID=cds-ETR59256.1;Parent=gene-V427_0105;Dbxref=NCBI_GP:ETR59256.1;Name=ETR59256.1;gbkey=CDS;locus_tag=V427_0105;product=hypothetical protein;protein_id=ETR59256.1;transl_table=11
+AYOI01000002.1	Genbank	gene	76503	76826	.	+	.	ID=gene-V427_0106;Name=V427_0106;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0106
+AYOI01000002.1	Genbank	CDS	76503	76826	.	+	0	ID=cds-ETR59207.1;Parent=gene-V427_0106;Dbxref=NCBI_GP:ETR59207.1;Name=ETR59207.1;gbkey=CDS;locus_tag=V427_0106;product=hypothetical protein;protein_id=ETR59207.1;transl_table=11
+AYOI01000002.1	Genbank	gene	77018	77161	.	+	.	ID=gene-V427_0107;Name=V427_0107;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0107
+AYOI01000002.1	Genbank	CDS	77018	77161	.	+	0	ID=cds-ETR59192.1;Parent=gene-V427_0107;Dbxref=NCBI_GP:ETR59192.1;Name=ETR59192.1;gbkey=CDS;locus_tag=V427_0107;product=hypothetical protein;protein_id=ETR59192.1;transl_table=11
+AYOI01000002.1	Genbank	gene	77178	82922	.	+	.	ID=gene-V427_0108;Name=V427_0108;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0108
+AYOI01000002.1	Genbank	CDS	77178	82922	.	+	0	ID=cds-ETR59239.1;Parent=gene-V427_0108;Dbxref=NCBI_GP:ETR59239.1;Name=ETR59239.1;gbkey=CDS;locus_tag=V427_0108;product=hypothetical protein;protein_id=ETR59239.1;transl_table=11
+AYOI01000002.1	Genbank	gene	83297	84007	.	+	.	ID=gene-V427_0109;Name=V427_0109;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0109
+AYOI01000002.1	Genbank	CDS	83297	84007	.	+	0	ID=cds-ETR59137.1;Parent=gene-V427_0109;Dbxref=NCBI_GP:ETR59137.1;Name=ETR59137.1;gbkey=CDS;locus_tag=V427_0109;product=phage minor tail protein L;protein_id=ETR59137.1;transl_table=11
+AYOI01000002.1	Genbank	gene	83994	84752	.	+	.	ID=gene-V427_0110;Name=V427_0110;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0110
+AYOI01000002.1	Genbank	CDS	83994	84752	.	+	0	ID=cds-ETR59254.1;Parent=gene-V427_0110;Dbxref=NCBI_GP:ETR59254.1;Name=ETR59254.1;gbkey=CDS;locus_tag=V427_0110;product=NlpC/P60 family protein;protein_id=ETR59254.1;transl_table=11
+AYOI01000002.1	Genbank	gene	84742	85362	.	+	.	ID=gene-V427_0111;Name=V427_0111;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0111
+AYOI01000002.1	Genbank	CDS	84742	85362	.	+	0	ID=cds-ETR59228.1;Parent=gene-V427_0111;Dbxref=NCBI_GP:ETR59228.1;Name=ETR59228.1;gbkey=CDS;locus_tag=V427_0111;product=phage tail assembly family protein;protein_id=ETR59228.1;transl_table=11
+AYOI01000002.1	Genbank	gene	85331	97006	.	+	.	ID=gene-V427_0112;Name=V427_0112;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0112
+AYOI01000002.1	Genbank	CDS	85331	97006	.	+	0	ID=cds-ETR59157.1;Parent=gene-V427_0112;Dbxref=NCBI_GP:ETR59157.1;Name=ETR59157.1;gbkey=CDS;locus_tag=V427_0112;product=putative phage tail protein;protein_id=ETR59157.1;transl_table=11
+AYOI01000002.1	Genbank	gene	97006	97563	.	+	.	ID=gene-V427_0113;Name=V427_0113;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0113
+AYOI01000002.1	Genbank	CDS	97006	97563	.	+	0	ID=cds-ETR59142.1;Parent=gene-V427_0113;Dbxref=NCBI_GP:ETR59142.1;Name=ETR59142.1;gbkey=CDS;locus_tag=V427_0113;product=PF14301 domain protein;protein_id=ETR59142.1;transl_table=11
+AYOI01000002.1	Genbank	gene	97681	97812	.	+	.	ID=gene-V427_0114;Name=V427_0114;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0114
+AYOI01000002.1	Genbank	CDS	97681	97812	.	+	0	ID=cds-ETR59183.1;Parent=gene-V427_0114;Dbxref=NCBI_GP:ETR59183.1;Name=ETR59183.1;gbkey=CDS;locus_tag=V427_0114;product=putative lipoprotein;protein_id=ETR59183.1;transl_table=11
+AYOI01000002.1	Genbank	gene	97863	98039	.	-	.	ID=gene-V427_0115;Name=V427_0115;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0115
+AYOI01000002.1	Genbank	CDS	97863	98039	.	-	0	ID=cds-ETR59151.1;Parent=gene-V427_0115;Dbxref=NCBI_GP:ETR59151.1;Name=ETR59151.1;gbkey=CDS;locus_tag=V427_0115;product=hypothetical protein;protein_id=ETR59151.1;transl_table=11
+AYOI01000002.1	Genbank	gene	98247	98564	.	+	.	ID=gene-V427_0116;Name=V427_0116;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0116
+AYOI01000002.1	Genbank	CDS	98247	98564	.	+	0	ID=cds-ETR59227.1;Parent=gene-V427_0116;Dbxref=NCBI_GP:ETR59227.1;Name=ETR59227.1;gbkey=CDS;locus_tag=V427_0116;product=hypothetical protein;protein_id=ETR59227.1;transl_table=11
+AYOI01000002.1	Genbank	gene	98564	99133	.	+	.	ID=gene-V427_0117;Name=V427_0117;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0117
+AYOI01000002.1	Genbank	CDS	98564	99133	.	+	0	ID=cds-ETR59165.1;Parent=gene-V427_0117;Dbxref=NCBI_GP:ETR59165.1;Name=ETR59165.1;gbkey=CDS;locus_tag=V427_0117;product=TIGR02594 family protein;protein_id=ETR59165.1;transl_table=11
+AYOI01000002.1	Genbank	gene	99137	99295	.	+	.	ID=gene-V427_0118;Name=V427_0118;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0118
+AYOI01000002.1	Genbank	CDS	99137	99295	.	+	0	ID=cds-ETR59229.1;Parent=gene-V427_0118;Dbxref=NCBI_GP:ETR59229.1;Name=ETR59229.1;gbkey=CDS;locus_tag=V427_0118;product=hypothetical protein;protein_id=ETR59229.1;transl_table=11
+AYOI01000002.1	Genbank	gene	100192	100830	.	+	.	ID=gene-V427_0119;Name=V427_0119;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0119
+AYOI01000002.1	Genbank	CDS	100192	100830	.	+	0	ID=cds-ETR59191.1;Parent=gene-V427_0119;Dbxref=NCBI_GP:ETR59191.1;Name=ETR59191.1;gbkey=CDS;locus_tag=V427_0119;product=initiator RepB protein;protein_id=ETR59191.1;transl_table=11
+AYOI01000002.1	Genbank	gene	101114	101686	.	+	.	ID=gene-V427_0120;Name=V427_0120;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0120
+AYOI01000002.1	Genbank	CDS	101114	101686	.	+	0	ID=cds-ETR59158.1;Parent=gene-V427_0120;Dbxref=NCBI_GP:ETR59158.1;Name=ETR59158.1;gbkey=CDS;locus_tag=V427_0120;product=hypothetical protein;protein_id=ETR59158.1;transl_table=11
+AYOI01000002.1	Genbank	gene	101755	102294	.	+	.	ID=gene-V427_0121;Name=V427_0121;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0121
+AYOI01000002.1	Genbank	CDS	101755	102294	.	+	0	ID=cds-ETR59208.1;Parent=gene-V427_0121;Dbxref=NCBI_GP:ETR59208.1;Name=ETR59208.1;gbkey=CDS;locus_tag=V427_0121;product=hypothetical protein;protein_id=ETR59208.1;transl_table=11
+AYOI01000002.1	Genbank	gene	102304	103701	.	+	.	ID=gene-V427_0122;Name=V427_0122;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0122
+AYOI01000002.1	Genbank	CDS	102304	103701	.	+	0	ID=cds-ETR59199.1;Parent=gene-V427_0122;Dbxref=NCBI_GP:ETR59199.1;Name=ETR59199.1;gbkey=CDS;locus_tag=V427_0122;product=AAA domain protein;protein_id=ETR59199.1;transl_table=11
+AYOI01000002.1	Genbank	gene	103888	105000	.	+	.	ID=gene-V427_0123;Name=V427_0123;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0123
+AYOI01000002.1	Genbank	CDS	103888	105000	.	+	0	ID=cds-ETR59198.1;Parent=gene-V427_0123;Dbxref=NCBI_GP:ETR59198.1;Name=ETR59198.1;gbkey=CDS;locus_tag=V427_0123;product=DNA primase catalytic core%2C N-terminal domain protein;protein_id=ETR59198.1;transl_table=11
+AYOI01000002.1	Genbank	gene	104997	105353	.	+	.	ID=gene-V427_0124;Name=V427_0124;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0124
+AYOI01000002.1	Genbank	CDS	104997	105353	.	+	0	ID=cds-ETR59251.1;Parent=gene-V427_0124;Dbxref=NCBI_GP:ETR59251.1;Name=ETR59251.1;gbkey=CDS;locus_tag=V427_0124;product=hypothetical protein;protein_id=ETR59251.1;transl_table=11
+AYOI01000002.1	Genbank	gene	105365	105880	.	+	.	ID=gene-V427_0125;Name=V427_0125;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0125
+AYOI01000002.1	Genbank	CDS	105365	105880	.	+	0	ID=cds-ETR59176.1;Parent=gene-V427_0125;Dbxref=NCBI_GP:ETR59176.1;Name=ETR59176.1;gbkey=CDS;locus_tag=V427_0125;product=hypothetical protein;protein_id=ETR59176.1;transl_table=11
+AYOI01000002.1	Genbank	gene	105877	106299	.	+	.	ID=gene-V427_0126;Name=V427_0126;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0126
+AYOI01000002.1	Genbank	CDS	105877	106299	.	+	0	ID=cds-ETR59260.1;Parent=gene-V427_0126;Dbxref=NCBI_GP:ETR59260.1;Name=ETR59260.1;gbkey=CDS;locus_tag=V427_0126;product=hypothetical protein;protein_id=ETR59260.1;transl_table=11
+AYOI01000002.1	Genbank	gene	106382	106981	.	+	.	ID=gene-V427_0127;Name=V427_0127;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0127
+AYOI01000002.1	Genbank	CDS	106382	106981	.	+	0	ID=cds-ETR59225.1;Parent=gene-V427_0127;Dbxref=NCBI_GP:ETR59225.1;Name=ETR59225.1;gbkey=CDS;locus_tag=V427_0127;product=hypothetical protein;protein_id=ETR59225.1;transl_table=11
+AYOI01000002.1	Genbank	gene	107002	107259	.	+	.	ID=gene-V427_0128;Name=V427_0128;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0128
+AYOI01000002.1	Genbank	CDS	107002	107259	.	+	0	ID=cds-ETR59135.1;Parent=gene-V427_0128;Dbxref=NCBI_GP:ETR59135.1;Name=ETR59135.1;gbkey=CDS;locus_tag=V427_0128;product=hypothetical protein;protein_id=ETR59135.1;transl_table=11
+AYOI01000002.1	Genbank	gene	107288	108691	.	+	.	ID=gene-V427_0129;Name=V427_0129;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0129
+AYOI01000002.1	Genbank	CDS	107288	108691	.	+	0	ID=cds-ETR59197.1;Parent=gene-V427_0129;Dbxref=NCBI_GP:ETR59197.1;Name=ETR59197.1;gbkey=CDS;locus_tag=V427_0129;product=ATP-dependent DNA ligase domain;protein_id=ETR59197.1;transl_table=11
+AYOI01000002.1	Genbank	gene	108697	109086	.	+	.	ID=gene-V427_0130;Name=V427_0130;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0130
+AYOI01000002.1	Genbank	CDS	108697	109086	.	+	0	ID=cds-ETR59143.1;Parent=gene-V427_0130;Dbxref=NCBI_GP:ETR59143.1;Name=ETR59143.1;gbkey=CDS;locus_tag=V427_0130;product=hypothetical protein;protein_id=ETR59143.1;transl_table=11
+AYOI01000002.1	Genbank	gene	109099	109725	.	+	.	ID=gene-V427_0131;Name=V427_0131;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0131
+AYOI01000002.1	Genbank	CDS	109099	109725	.	+	0	ID=cds-ETR59174.1;Parent=gene-V427_0131;Dbxref=NCBI_GP:ETR59174.1;Name=ETR59174.1;gbkey=CDS;locus_tag=V427_0131;product=guanylate kinase;protein_id=ETR59174.1;transl_table=11
+AYOI01000002.1	Genbank	gene	109805	110419	.	+	.	ID=gene-V427_0132;Name=V427_0132;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0132
+AYOI01000002.1	Genbank	CDS	109805	110419	.	+	0	ID=cds-ETR59154.1;Parent=gene-V427_0132;Dbxref=NCBI_GP:ETR59154.1;Name=ETR59154.1;gbkey=CDS;locus_tag=V427_0132;product=hypothetical protein;protein_id=ETR59154.1;transl_table=11
+AYOI01000002.1	Genbank	gene	111024	111440	.	-	.	ID=gene-V427_0133;Name=V427_0133;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0133
+AYOI01000002.1	Genbank	CDS	111024	111440	.	-	0	ID=cds-ETR59145.1;Parent=gene-V427_0133;Dbxref=NCBI_GP:ETR59145.1;Name=ETR59145.1;gbkey=CDS;locus_tag=V427_0133;product=hypothetical protein;protein_id=ETR59145.1;transl_table=11
+AYOI01000002.1	Genbank	gene	111427	112104	.	-	.	ID=gene-V427_0134;Name=V427_0134;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0134
+AYOI01000002.1	Genbank	CDS	111427	112104	.	-	0	ID=cds-ETR59204.1;Parent=gene-V427_0134;Dbxref=NCBI_GP:ETR59204.1;Name=ETR59204.1;gbkey=CDS;locus_tag=V427_0134;product=ATPase MipZ;protein_id=ETR59204.1;transl_table=11
+AYOI01000002.1	Genbank	gene	112306	112893	.	-	.	ID=gene-V427_0135;Name=V427_0135;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0135
+AYOI01000002.1	Genbank	CDS	112306	112893	.	-	0	ID=cds-ETR59170.1;Parent=gene-V427_0135;Dbxref=NCBI_GP:ETR59170.1;Name=ETR59170.1;gbkey=CDS;locus_tag=V427_0135;product=site-specific recombinase%2C phage integrase family;protein_id=ETR59170.1;transl_table=11
+AYOI01000002.1	Genbank	gene	113258	113722	.	-	.	ID=gene-V427_0136;Name=V427_0136;gbkey=Gene;gene_biotype=protein_coding;locus_tag=V427_0136
+AYOI01000002.1	Genbank	CDS	113258	113722	.	-	0	ID=cds-ETR59253.1;Parent=gene-V427_0136;Dbxref=NCBI_GP:ETR59253.1;Name=ETR59253.1;gbkey=CDS;locus_tag=V427_0136;product=hypothetical protein;protein_id=ETR59253.1;transl_table=11
+

@@ -1,0 +1,6 @@
+##sequence-region NZ_AFDL01000005.1 1 2277
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=903893
+NZ_AFDL01000005.1	RefSeq	region	1	2277	.	+	.	ID=NZ_AFDL01000005.1:1..2277;Dbxref=taxon:903893;Is_circular=true;Name=pOIFC143-2.3;collection-date=2003-07-31;country=USA: Walter Reed Army Medical Center%2C Washington%2C DC;gbkey=Src;genome=plasmid;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pOIFC143-2.3;strain=OIFC143
+NZ_AFDL01000005.1	RefSeq	gene	1994	2926	.	+	.	ID=gene-ACIN5143_RS0105305;Name=repM;gbkey=Gene;gene=repM;gene_biotype=protein_coding;locus_tag=ACIN5143_RS0105305
+NZ_AFDL01000005.1	Protein Homology	CDS	1994	2926	.	+	0	ID=cds-WP_000711927.1;Parent=gene-ACIN5143_RS0105305;Dbxref=Genbank:WP_000711927.1;Name=WP_000711927.1;gbkey=CDS;gene=repM;inference=COORDINATES: similar to AA sequence:RefSeq:WP_005265321.1;locus_tag=ACIN5143_RS0105305;product=replication initiation protein RepM;protein_id=WP_000711927.1;transl_table=11
+

@@ -1,0 +1,8 @@
+##sequence-region AFDL01000005.1 1 2277
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=903893
+AFDL01000005.1	Genbank	region	1	2277	.	+	.	ID=AFDL01000005.1:1..2277;Dbxref=taxon:903893;Is_circular=true;Name=pOIFC143-2.3;collection-date=31-Jul-2003;country=USA: Walter Reed Army Medical Center%2C Washington%2C DC;gbkey=Src;genome=plasmid;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pOIFC143-2.3;strain=OIFC143
+AFDL01000005.1	Genbank	gene	77	649	.	+	.	ID=gene-ACIN5143_A4130;Name=ACIN5143_A4130;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACIN5143_A4130
+AFDL01000005.1	Genbank	CDS	77	649	.	+	0	ID=cds-EJG16531.1;Parent=gene-ACIN5143_A4130;Dbxref=NCBI_GP:EJG16531.1;Name=EJG16531.1;gbkey=CDS;locus_tag=ACIN5143_A4130;product=initiator RepB domain protein;protein_id=EJG16531.1;transl_table=11
+AFDL01000005.1	Genbank	gene	774	1037	.	-	.	ID=gene-ACIN5143_A4131;Name=ACIN5143_A4131;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACIN5143_A4131
+AFDL01000005.1	Genbank	CDS	774	1037	.	-	0	ID=cds-EJG16530.1;Parent=gene-ACIN5143_A4131;Dbxref=NCBI_GP:EJG16530.1;Name=EJG16530.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=ACIN5143_A4131;product=hypothetical protein;protein_id=EJG16530.1;transl_table=11
+

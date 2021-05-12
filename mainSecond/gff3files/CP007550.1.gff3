@@ -1,0 +1,22 @@
+##sequence-region CP007550.1 1 8731
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1198108
+CP007550.1	Genbank	region	1	8731	.	+	.	ID=CP007550.1:1..8731;Dbxref=taxon:1198108;Is_circular=true;Name=pAC12;collection-date=2011;country=Malaysia: Hospital Sultanah Nur Zahirah%2C Kuala Terengganu;gbkey=Src;genome=plasmid;isolation-source=blood;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pAC12;strain=AC12
+CP007550.1	Genbank	gene	87	401	.	+	.	ID=gene-A478_18520;Name=A478_18520;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A478_18520
+CP007550.1	Protein Homology	CDS	87	401	.	+	0	ID=cds-AHX30522.1;Parent=gene-A478_18520;Dbxref=NCBI_GP:AHX30522.1;Name=AHX30522.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000252858.1;locus_tag=A478_18520;product=toxin-antitoxin system%2C antitoxin component;protein_id=AHX30522.1;transl_table=11
+CP007550.1	Genbank	gene	529	2940	.	+	.	ID=gene-A478_18525;Name=A478_18525;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A478_18525
+CP007550.1	Protein Homology	CDS	529	2940	.	+	0	ID=cds-AHX30523.1;Parent=gene-A478_18525;Dbxref=NCBI_GP:AHX30523.1;Name=AHX30523.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=A478_18525;product=membrane protein;protein_id=AHX30523.1;transl_table=11
+CP007550.1	Genbank	gene	3245	3706	.	+	.	ID=gene-A478_18530;Name=A478_18530;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A478_18530
+CP007550.1	Protein Homology	CDS	3245	3706	.	+	0	ID=cds-AHX30524.1;Parent=gene-A478_18530;Dbxref=NCBI_GP:AHX30524.1;Name=AHX30524.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_017397838.1;locus_tag=A478_18530;product=septicolysin;protein_id=AHX30524.1;transl_table=11
+CP007550.1	Genbank	gene	4202	4573	.	-	.	ID=gene-A478_18535;Name=A478_18535;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A478_18535
+CP007550.1	Protein Homology	CDS	4202	4573	.	-	0	ID=cds-AHX30525.1;Parent=gene-A478_18535;Dbxref=NCBI_GP:AHX30525.1;Name=AHX30525.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=A478_18535;product=hypothetical protein;protein_id=AHX30525.1;transl_table=11
+CP007550.1	Genbank	gene	4845	5099	.	-	.	ID=gene-A478_18540;Name=A478_18540;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A478_18540
+CP007550.1	Protein Homology	CDS	4845	5099	.	-	0	ID=cds-AHX30526.1;Parent=gene-A478_18540;Dbxref=NCBI_GP:AHX30526.1;Name=AHX30526.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_001014301.1;locus_tag=A478_18540;product=hypothetical protein;protein_id=AHX30526.1;transl_table=11
+CP007550.1	Genbank	gene	5783	6733	.	+	.	ID=gene-A478_18545;Name=A478_18545;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A478_18545
+CP007550.1	Protein Homology	CDS	5783	6733	.	+	0	ID=cds-AHX30527.1;Parent=gene-A478_18545;Dbxref=NCBI_GP:AHX30527.1;Name=AHX30527.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_014462896.1;locus_tag=A478_18545;product=DNA replication protein;protein_id=AHX30527.1;transl_table=11
+CP007550.1	Genbank	gene	6726	7301	.	+	.	ID=gene-A478_18550;Name=A478_18550;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A478_18550
+CP007550.1	Protein Homology	CDS	6726	7301	.	+	0	ID=cds-AHX30528.1;Parent=gene-A478_18550;Dbxref=NCBI_GP:AHX30528.1;Name=AHX30528.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=A478_18550;product=DNA replication protein;protein_id=AHX30528.1;transl_table=11
+CP007550.1	Genbank	gene	7653	8171	.	-	.	ID=gene-A478_18560;Name=A478_18560;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A478_18560
+CP007550.1	Protein Homology	CDS	7653	8171	.	-	0	ID=cds-AHX30529.1;Parent=gene-A478_18560;Dbxref=NCBI_GP:AHX30529.1;Name=AHX30529.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=A478_18560;product=hypothetical protein;protein_id=AHX30529.1;transl_table=11
+CP007550.1	Genbank	gene	8544	8831	.	+	.	ID=gene-A478_18515;Name=A478_18515;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A478_18515
+CP007550.1	Protein Homology	CDS	8544	8831	.	+	0	ID=cds-AHX30530.1;Parent=gene-A478_18515;Dbxref=NCBI_GP:AHX30530.1;Name=AHX30530.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=A478_18515;product=membrane protein;protein_id=AHX30530.1;transl_table=11
+

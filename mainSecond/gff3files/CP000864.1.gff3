@@ -1,0 +1,94 @@
+##sequence-region CP000864.1 1 28279
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=405416
+CP000864.1	Genbank	region	1	28279	.	+	.	ID=CP000864.1:1..28279;Dbxref=taxon:405416;Is_circular=true;Name=pACICU1;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=pACICU1;strain=ACICU
+CP000864.1	Genbank	direct_repeat	213	321	.	+	.	ID=id-CP000864.1:213..321;Note=iteron%2C control of plasmid replication;gbkey=repeat_region;rpt_type=direct;rpt_unit_range=213..234
+CP000864.1	Genbank	gene	375	1325	.	+	.	ID=gene-ACICU_p0001;Name=repAc1;gbkey=Gene;gene=repAc1;gene_biotype=protein_coding;locus_tag=ACICU_p0001
+CP000864.1	Genbank	CDS	375	1325	.	+	0	ID=cds-ACC58980.1;Parent=gene-ACICU_p0001;Dbxref=NCBI_GP:ACC58980.1;Name=ACC58980.1;Note=plasmid replication protein~COG:COG5527;gbkey=CDS;gene=repAc1;locus_tag=ACICU_p0001;product=replicase;protein_id=ACC58980.1;transl_table=11
+CP000864.1	Genbank	gene	1318	1893	.	+	.	ID=gene-ACICU_p0002;Name=ACICU_p0002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0002
+CP000864.1	Genbank	CDS	1318	1893	.	+	0	ID=cds-ACC58981.1;Parent=gene-ACICU_p0002;Dbxref=NCBI_GP:ACC58981.1;Name=ACC58981.1;gbkey=CDS;locus_tag=ACICU_p0002;product=DNA replication protein;protein_id=ACC58981.1;transl_table=11
+CP000864.1	Genbank	mobile_genetic_element	2607	3426	.	+	.	ID=id-CP000864.1:2607..3426;gbkey=mobile_element;mobile_element_type=insertion sequence:IS26
+CP000864.1	Genbank	inverted_repeat	2607	2620	.	+	.	ID=id-CP000864.1:2607..2620;gbkey=repeat_region;rpt_type=inverted
+CP000864.1	Genbank	gene	2658	3374	.	+	.	ID=gene-ACICU_p0003;Name=tnpA;gbkey=Gene;gene=tnpA;gene_biotype=protein_coding;locus_tag=ACICU_p0003
+CP000864.1	Genbank	CDS	2658	3374	.	+	0	ID=cds-ACC58982.1;Parent=gene-ACICU_p0003;Dbxref=NCBI_GP:ACC58982.1;Name=ACC58982.1;Note=COG:COG3316;gbkey=CDS;gene=tnpA;locus_tag=ACICU_p0003;product=transposase of IS26;protein_id=ACC58982.1;transl_table=11
+CP000864.1	Genbank	inverted_repeat	3413	3426	.	+	.	ID=id-CP000864.1:3413..3426;gbkey=repeat_region;rpt_type=inverted
+CP000864.1	Genbank	gene	3955	4263	.	+	.	ID=gene-ACICU_p0004;Name=ACICU_p0004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0004
+CP000864.1	Genbank	CDS	3955	4263	.	+	0	ID=cds-ACC58983.1;Parent=gene-ACICU_p0004;Dbxref=NCBI_GP:ACC58983.1;Name=ACC58983.1;Note=COG:COG0610;gbkey=CDS;locus_tag=ACICU_p0004;product=Type I site-specific restriction-modification system%2C R (restriction) subunit-related helicase;protein_id=ACC58983.1;transl_table=11
+CP000864.1	Genbank	gene	4468	5415	.	-	.	ID=gene-ACICU_p0005;Name=repAcix;gbkey=Gene;gene=repAcix;gene_biotype=protein_coding;locus_tag=ACICU_p0005
+CP000864.1	Genbank	CDS	4468	5415	.	-	0	ID=cds-ACC58984.1;Parent=gene-ACICU_p0005;Dbxref=NCBI_GP:ACC58984.1;Name=ACC58984.1;Note=plasmid replication protein~COG:COG5527;gbkey=CDS;gene=repAcix;locus_tag=ACICU_p0005;product=replicase;protein_id=ACC58984.1;transl_table=11
+CP000864.1	Genbank	direct_repeat	5500	5583	.	+	.	ID=id-CP000864.1:5500..5583;Note=iteron%3B control of plasmid replication;gbkey=repeat_region;rpt_type=direct;rpt_unit_range=5500..5522
+CP000864.1	Genbank	gene	5840	6469	.	+	.	ID=gene-ACICU_p0006;Name=par;gbkey=Gene;gene=par;gene_biotype=protein_coding;locus_tag=ACICU_p0006
+CP000864.1	Genbank	CDS	5840	6469	.	+	0	ID=cds-ACC58985.1;Parent=gene-ACICU_p0006;Dbxref=NCBI_GP:ACC58985.1;Name=ACC58985.1;Note=COG:COG1192;gbkey=CDS;gene=par;locus_tag=ACICU_p0006;product=ATPases involved in chromosome partitioning;protein_id=ACC58985.1;transl_table=11
+CP000864.1	Genbank	gene	6466	6702	.	+	.	ID=gene-ACICU_p0007;Name=ACICU_p0007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0007
+CP000864.1	Genbank	CDS	6466	6702	.	+	0	ID=cds-ACC58986.1;Parent=gene-ACICU_p0007;Dbxref=NCBI_GP:ACC58986.1;Name=ACC58986.1;gbkey=CDS;locus_tag=ACICU_p0007;product=hypothetical protein;protein_id=ACC58986.1;transl_table=11
+CP000864.1	Genbank	gene	6969	7394	.	+	.	ID=gene-ACICU_p0008;Name=ACICU_p0008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0008
+CP000864.1	Genbank	CDS	6969	7394	.	+	0	ID=cds-ACC58987.1;Parent=gene-ACICU_p0008;Dbxref=NCBI_GP:ACC58987.1;Name=ACC58987.1;gbkey=CDS;locus_tag=ACICU_p0008;product=hypothetical protein;protein_id=ACC58987.1;transl_table=11
+CP000864.1	Genbank	gene	7397	7645	.	+	.	ID=gene-ACICU_p0009;Name=ACICU_p0009;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0009
+CP000864.1	Genbank	CDS	7397	7645	.	+	0	ID=cds-ACC58988.1;Parent=gene-ACICU_p0009;Dbxref=NCBI_GP:ACC58988.1;Name=ACC58988.1;Note=COG:COG2161;gbkey=CDS;locus_tag=ACICU_p0009;product=Antitoxin of toxin-antitoxin stability system;protein_id=ACC58988.1;transl_table=11
+CP000864.1	Genbank	gene	7635	7922	.	+	.	ID=gene-ACICU_p0010;Name=ACICU_p0010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0010
+CP000864.1	Genbank	CDS	7635	7922	.	+	0	ID=cds-ACC58989.1;Parent=gene-ACICU_p0010;Dbxref=NCBI_GP:ACC58989.1;Name=ACC58989.1;Note=COG:COG2026;gbkey=CDS;locus_tag=ACICU_p0010;product=Cytotoxic translational repressor of toxin-antitoxin stability system;protein_id=ACC58989.1;transl_table=11
+CP000864.1	Genbank	mobile_genetic_element	8145	9480	.	+	.	ID=id-CP000864.1:8145..9480;gbkey=mobile_element;mobile_element_type=insertion sequence:ISAba2-like
+CP000864.1	Genbank	inverted_repeat	8145	8168	.	+	.	ID=id-CP000864.1:8145..8168;gbkey=repeat_region;rpt_type=inverted
+CP000864.1	Genbank	pseudogene	8194	8307	.	+	.	ID=gene-ACICU_p0011;Name=ACICU_p0011;description=InsA transposase;gbkey=Gene;gene_biotype=pseudogene;locus_tag=ACICU_p0011;pseudo=true
+CP000864.1	Genbank	pseudogene	8277	8525	.	+	.	ID=gene-ACICU_p0012;Name=ACICU_p0012;description=InsA transposase;gbkey=Gene;gene_biotype=pseudogene;locus_tag=ACICU_p0012;pseudo=true
+CP000864.1	Genbank	gene	8525	9442	.	+	.	ID=gene-ACICU_p0013;Name=insB;gbkey=Gene;gene=insB;gene_biotype=protein_coding;locus_tag=ACICU_p0013
+CP000864.1	Genbank	CDS	8525	9442	.	+	0	ID=cds-ACC58990.1;Parent=gene-ACICU_p0013;Dbxref=NCBI_GP:ACC58990.1;Name=ACC58990.1;Note=COG:COG2801;gbkey=CDS;gene=insB;locus_tag=ACICU_p0013;product=transposase;protein_id=ACC58990.1;transl_table=11
+CP000864.1	Genbank	inverted_repeat	9457	9480	.	+	.	ID=id-CP000864.1:9457..9480;gbkey=repeat_region;rpt_type=inverted
+CP000864.1	Genbank	gene	10064	10645	.	+	.	ID=gene-ACICU_p0014;Name=cinH;gbkey=Gene;gene=cinH;gene_biotype=protein_coding;locus_tag=ACICU_p0014
+CP000864.1	Genbank	CDS	10064	10645	.	+	0	ID=cds-ACC58991.1;Parent=gene-ACICU_p0014;Dbxref=NCBI_GP:ACC58991.1;Name=ACC58991.1;Note=DNA invertase Pin homologs~COG:COG1961;gbkey=CDS;gene=cinH;locus_tag=ACICU_p0014;product=Site-specific recombinase;protein_id=ACC58991.1;transl_table=11
+CP000864.1	Genbank	gene	10854	11396	.	-	.	ID=gene-ACICU_p0015;Name=ACICU_p0015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0015
+CP000864.1	Genbank	CDS	10854	11396	.	-	0	ID=cds-ACC58992.1;Parent=gene-ACICU_p0015;Dbxref=NCBI_GP:ACC58992.1;Name=ACC58992.1;Note=COG:COG0790;gbkey=CDS;locus_tag=ACICU_p0015;product=TPR repeat%2C SEL1 subfamily protein;protein_id=ACC58992.1;transl_table=11
+CP000864.1	Genbank	mobile_genetic_element	11545	13366	.	-	.	ID=id-CP000864.1:11545..13366;Note=contains ISAba2 insertion;gbkey=mobile_element;mobile_element_type=insertion sequence:ISAba3
+CP000864.1	Genbank	pseudogene	13233	13303	.	-	.	ID=gene-ACICU_p0097;Name=tnpA;Note=disrupted due to IsAba2 insertion;description=tranposase;gbkey=Gene;gene=tnpA;gene_biotype=pseudogene;locus_tag=ACICU_p0097;pseudo=true
+CP000864.1	Genbank	pseudogene	11545	11926	.	-	.	ID=gene-ACICU_p0097;Name=tnpA;Note=disrupted due to IsAba2 insertion;description=tranposase;gbkey=Gene;gene=tnpA;gene_biotype=pseudogene;locus_tag=ACICU_p0097;pseudo=true
+CP000864.1	Genbank	mobile_genetic_element	11927	13232	.	+	.	ID=id-CP000864.1:11927..13232;gbkey=mobile_element;mobile_element_type=insertion sequence:ISAba2
+CP000864.1	Genbank	inverted_repeat	11927	11951	.	+	.	ID=id-CP000864.1:11927..11951;gbkey=repeat_region;rpt_type=inverted
+CP000864.1	Genbank	gene	11976	12293	.	+	.	ID=gene-ACICU_p0017;Name=insA;gbkey=Gene;gene=insA;gene_biotype=protein_coding;locus_tag=ACICU_p0017
+CP000864.1	Genbank	CDS	11976	12293	.	+	0	ID=cds-ACC58993.1;Parent=gene-ACICU_p0017;Dbxref=NCBI_GP:ACC58993.1;Name=ACC58993.1;Note=COG:COG2963;gbkey=CDS;gene=insA;locus_tag=ACICU_p0017;product=transposase;protein_id=ACC58993.1;transl_table=11
+CP000864.1	Genbank	gene	12293	13195	.	+	.	ID=gene-ACICU_p0018;Name=insB;gbkey=Gene;gene=insB;gene_biotype=protein_coding;locus_tag=ACICU_p0018
+CP000864.1	Genbank	CDS	12293	13195	.	+	0	ID=cds-ACC58994.1;Parent=gene-ACICU_p0018;Dbxref=NCBI_GP:ACC58994.1;Name=ACC58994.1;Note=COG:COG2801;gbkey=CDS;gene=insB;locus_tag=ACICU_p0018;product=transposase;protein_id=ACC58994.1;transl_table=11
+CP000864.1	Genbank	inverted_repeat	13208	13232	.	+	.	ID=id-CP000864.1:13208..13232;gbkey=repeat_region;rpt_type=inverted
+CP000864.1	Genbank	inverted_repeat	13343	13366	.	-	.	ID=id-CP000864.1:13343..13366;gbkey=repeat_region;rpt_type=inverted
+CP000864.1	Genbank	gene	13384	14226	.	+	.	ID=gene-ACICU_p0019;Name=ACICU_p0019;Note=bla-oxa58;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0019
+CP000864.1	Genbank	CDS	13384	14226	.	+	0	ID=cds-ACC58995.1;Parent=gene-ACICU_p0019;Dbxref=NCBI_GP:ACC58995.1;Name=ACC58995.1;Note=Beta-lactamase class D~COG:COG2602;gbkey=CDS;locus_tag=ACICU_p0019;product=carbapenem-hydrolyzing oxacillinase;protein_id=ACC58995.1;transl_table=11
+CP000864.1	Genbank	mobile_genetic_element	14253	15054	.	+	.	ID=id-CP000864.1:14253..15054;gbkey=mobile_element;mobile_element_type=insertion sequence:ISAba3
+CP000864.1	Genbank	inverted_repeat	14253	14280	.	+	.	ID=id-CP000864.1:14253..14280;gbkey=repeat_region;rpt_type=inverted
+CP000864.1	Genbank	gene	14317	14754	.	+	.	ID=gene-ACICU_p0020;Name=tnpA;gbkey=Gene;gene=tnpA;gene_biotype=protein_coding;locus_tag=ACICU_p0020
+CP000864.1	Genbank	CDS	14317	14754	.	+	0	ID=cds-ACC58996.1;Parent=gene-ACICU_p0020;Dbxref=NCBI_GP:ACC58996.1;Name=ACC58996.1;Note=COG:COG2801;gbkey=CDS;gene=tnpA;locus_tag=ACICU_p0020;product=transposase;protein_id=ACC58996.1;transl_table=11
+CP000864.1	Genbank	inverted_repeat	15027	15054	.	+	.	ID=id-CP000864.1:15027..15054;gbkey=repeat_region;rpt_type=inverted
+CP000864.1	Genbank	gene	15197	15589	.	+	.	ID=gene-ACICU_p0021;Name=araC1;gbkey=Gene;gene=araC1;gene_biotype=protein_coding;locus_tag=ACICU_p0021
+CP000864.1	Genbank	CDS	15197	15589	.	+	0	ID=cds-ACC58997.1;Parent=gene-ACICU_p0021;Dbxref=NCBI_GP:ACC58997.1;Name=ACC58997.1;Note=COG:COG2207;gbkey=CDS;gene=araC1;locus_tag=ACICU_p0021;product=AraC-type DNA-binding domain-containing protein;protein_id=ACC58997.1;transl_table=11
+CP000864.1	Genbank	mobile_genetic_element	15483	16302	.	-	.	ID=id-CP000864.1:15483..16302;gbkey=mobile_element;mobile_element_type=insertion sequence:IS26
+CP000864.1	Genbank	inverted_repeat	15483	15496	.	-	.	ID=id-CP000864.1:15483..15496;gbkey=repeat_region;rpt_type=inverted
+CP000864.1	Genbank	gene	15535	16251	.	-	.	ID=gene-ACICU_p0022;Name=tnpA;gbkey=Gene;gene=tnpA;gene_biotype=protein_coding;locus_tag=ACICU_p0022
+CP000864.1	Genbank	CDS	15535	16251	.	-	0	ID=cds-ACC58998.1;Parent=gene-ACICU_p0022;Dbxref=NCBI_GP:ACC58998.1;Name=ACC58998.1;Note=COG:COG3316;gbkey=CDS;gene=tnpA;locus_tag=ACICU_p0022;product=transposase;protein_id=ACC58998.1;transl_table=11
+CP000864.1	Genbank	inverted_repeat	16289	16302	.	-	.	ID=id-CP000864.1:16289..16302;gbkey=repeat_region;rpt_type=inverted
+CP000864.1	Genbank	mobile_genetic_element	16307	17246	.	+	.	ID=id-CP000864.1:16307..17246;Note=truncated due to IS26 insertion;gbkey=mobile_element;mobile_element_type=insertion sequence:ISAba2
+CP000864.1	Genbank	gene	16307	17209	.	+	.	ID=gene-ACICU_p0023;Name=insB;gbkey=Gene;gene=insB;gene_biotype=protein_coding;locus_tag=ACICU_p0023
+CP000864.1	Genbank	CDS	16307	17209	.	+	0	ID=cds-ACC58999.1;Parent=gene-ACICU_p0023;Dbxref=NCBI_GP:ACC58999.1;Name=ACC58999.1;Note=transposase interrupted by the insertion of IS26~COG:COG2801;gbkey=CDS;gene=insB;locus_tag=ACICU_p0023;product=transposase of ISAba2;protein_id=ACC58999.1;transl_table=11
+CP000864.1	Genbank	inverted_repeat	17222	17246	.	+	.	ID=id-CP000864.1:17222..17246;gbkey=repeat_region;rpt_type=inverted
+CP000864.1	Genbank	mobile_genetic_element	17247	17380	.	-	.	ID=id-CP000864.1:17247..17380;Note=truncated due to ISAba2 insertion;gbkey=mobile_element;mobile_element_type=insertion sequence:ISAba3
+CP000864.1	Genbank	pseudogene	17247	17317	.	-	.	ID=gene-ACICU_p0096;Name=tnpA;Note=transposase%3B truncated due to IsAba2 insertion;gbkey=Gene;gene=tnpA;gene_biotype=pseudogene;locus_tag=ACICU_p0096;pseudo=true
+CP000864.1	Genbank	inverted_repeat	17357	17380	.	-	.	ID=id-CP000864.1:17357..17380;gbkey=repeat_region;rpt_type=inverted
+CP000864.1	Genbank	gene	17398	18240	.	+	.	ID=gene-ACICU_p0024;Name=ACICU_p0024;Note=bla-oxa58;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0024
+CP000864.1	Genbank	CDS	17398	18240	.	+	0	ID=cds-ACC59000.1;Parent=gene-ACICU_p0024;Dbxref=NCBI_GP:ACC59000.1;Name=ACC59000.1;Note=Beta-lactamase class D~COG:COG2602;gbkey=CDS;locus_tag=ACICU_p0024;product=carbapenem-hydrolyzing oxacillinase;protein_id=ACC59000.1;transl_table=11
+CP000864.1	Genbank	mobile_genetic_element	18267	19068	.	+	.	ID=id-CP000864.1:18267..19068;gbkey=mobile_element;mobile_element_type=insertion sequence:ISAba3
+CP000864.1	Genbank	inverted_repeat	18267	18294	.	+	.	ID=id-CP000864.1:18267..18294;gbkey=repeat_region;rpt_type=inverted
+CP000864.1	Genbank	gene	18331	18768	.	+	.	ID=gene-ACICU_p0025;Name=tnpA;gbkey=Gene;gene=tnpA;gene_biotype=protein_coding;locus_tag=ACICU_p0025
+CP000864.1	Genbank	CDS	18331	18768	.	+	0	ID=cds-ACC59001.1;Parent=gene-ACICU_p0025;Dbxref=NCBI_GP:ACC59001.1;Name=ACC59001.1;gbkey=CDS;gene=tnpA;locus_tag=ACICU_p0025;product=transposase;protein_id=ACC59001.1;transl_table=11
+CP000864.1	Genbank	inverted_repeat	19041	19068	.	+	.	ID=id-CP000864.1:19041..19068;gbkey=repeat_region;rpt_type=inverted
+CP000864.1	Genbank	gene	19211	19603	.	+	.	ID=gene-ACICU_p0026;Name=araC1;gbkey=Gene;gene=araC1;gene_biotype=protein_coding;locus_tag=ACICU_p0026
+CP000864.1	Genbank	CDS	19211	19603	.	+	0	ID=cds-ACC59002.1;Parent=gene-ACICU_p0026;Dbxref=NCBI_GP:ACC59002.1;Name=ACC59002.1;Note=COG:COG2207;gbkey=CDS;gene=araC1;locus_tag=ACICU_p0026;product=AraC-type DNA-binding domain-containing protein;protein_id=ACC59002.1;transl_table=11
+CP000864.1	Genbank	mobile_genetic_element	19497	20316	.	-	.	ID=id-CP000864.1:19497..20316;gbkey=mobile_element;mobile_element_type=insertion sequence:IS26
+CP000864.1	Genbank	inverted_repeat	19497	19510	.	-	.	ID=id-CP000864.1:19497..19510;gbkey=repeat_region;rpt_type=inverted
+CP000864.1	Genbank	gene	19549	20265	.	-	.	ID=gene-ACICU_p0027;Name=tnpA;gbkey=Gene;gene=tnpA;gene_biotype=protein_coding;locus_tag=ACICU_p0027
+CP000864.1	Genbank	CDS	19549	20265	.	-	0	ID=cds-ACC59003.1;Parent=gene-ACICU_p0027;Dbxref=NCBI_GP:ACC59003.1;Name=ACC59003.1;Note=COG:COG3316;gbkey=CDS;gene=tnpA;locus_tag=ACICU_p0027;product=transposase of IS26;protein_id=ACC59003.1;transl_table=11
+CP000864.1	Genbank	inverted_repeat	20303	20316	.	-	.	ID=id-CP000864.1:20303..20316;gbkey=repeat_region;rpt_type=inverted
+CP000864.1	Genbank	gene	20573	24127	.	+	.	ID=gene-ACICU_p0028;Name=ACICU_p0028;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0028
+CP000864.1	Genbank	CDS	20573	24127	.	+	0	ID=cds-ACC59004.1;Parent=gene-ACICU_p0028;Dbxref=NCBI_GP:ACC59004.1;Name=ACC59004.1;gbkey=CDS;locus_tag=ACICU_p0028;product=phage-related protein;protein_id=ACC59004.1;transl_table=11
+CP000864.1	Genbank	gene	25654	25947	.	+	.	ID=gene-ACICU_p0029;Name=ACICU_p0029;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0029
+CP000864.1	Genbank	CDS	25654	25947	.	+	0	ID=cds-ACC59005.1;Parent=gene-ACICU_p0029;Dbxref=NCBI_GP:ACC59005.1;Name=ACC59005.1;Note=COG:COG1396;gbkey=CDS;locus_tag=ACICU_p0029;product=Predicted transcriptional regulator;protein_id=ACC59005.1;transl_table=11
+CP000864.1	Genbank	gene	25937	26815	.	+	.	ID=gene-ACICU_p0030;Name=ACICU_p0030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0030
+CP000864.1	Genbank	CDS	25937	26815	.	+	0	ID=cds-ACC59006.1;Parent=gene-ACICU_p0030;Dbxref=NCBI_GP:ACC59006.1;Name=ACC59006.1;Note=COG:COG3344;gbkey=CDS;locus_tag=ACICU_p0030;product=Retron-type reverse transcriptase;protein_id=ACC59006.1;transl_table=11
+CP000864.1	Genbank	gene	27052	27423	.	-	.	ID=gene-ACICU_p0031;Name=ACICU_p0031;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0031
+CP000864.1	Genbank	CDS	27052	27423	.	-	0	ID=cds-ACC59007.1;Parent=gene-ACICU_p0031;Dbxref=NCBI_GP:ACC59007.1;Name=ACC59007.1;gbkey=CDS;locus_tag=ACICU_p0031;product=hypothetical protein;protein_id=ACC59007.1;transl_table=11
+

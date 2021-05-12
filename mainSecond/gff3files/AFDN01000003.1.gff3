@@ -1,0 +1,22 @@
+##sequence-region AFDN01000003.1 1 8731
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=903895
+AFDN01000003.1	Genbank	region	1	8731	.	+	.	ID=AFDN01000003.1:1..8731;Dbxref=taxon:903895;Is_circular=true;Name=pCanadaBC5-8.7;collection-date=2007;country=Canada;gbkey=Src;genome=plasmid;isolation-source=nosocomial spread of war-related MDR-ABC in a Canadian civilian hospital with origin from soldier evacuated via Landstuhl Regional Medical Center;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pCanadaBC5-8.7;strain=Canada BC-5
+AFDN01000003.1	Genbank	gene	323	1273	.	+	.	ID=gene-ACINBC5_A3886;Name=ACINBC5_A3886;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINBC5_A3886
+AFDN01000003.1	Genbank	CDS	323	1273	.	+	0	ID=cds-EJO35917.1;Parent=gene-ACINBC5_A3886;Dbxref=NCBI_GP:EJO35917.1;Name=EJO35917.1;gbkey=CDS;locus_tag=ACINBC5_A3886;product=initiator RepB protein;protein_id=EJO35917.1;transl_table=11
+AFDN01000003.1	Genbank	gene	1266	1841	.	+	.	ID=gene-ACINBC5_A3887;Name=ACINBC5_A3887;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINBC5_A3887
+AFDN01000003.1	Genbank	CDS	1266	1841	.	+	0	ID=cds-EJO35918.1;Parent=gene-ACINBC5_A3887;Dbxref=NCBI_GP:EJO35918.1;Name=EJO35918.1;gbkey=CDS;locus_tag=ACINBC5_A3887;product=hypothetical protein;protein_id=EJO35918.1;transl_table=11
+AFDN01000003.1	Genbank	gene	2193	2735	.	-	.	ID=gene-ACINBC5_A3888;Name=ACINBC5_A3888;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINBC5_A3888
+AFDN01000003.1	Genbank	CDS	2193	2735	.	-	0	ID=cds-EJO35920.1;Parent=gene-ACINBC5_A3888;Dbxref=NCBI_GP:EJO35920.1;Name=EJO35920.1;gbkey=CDS;locus_tag=ACINBC5_A3888;product=Sel1 repeat protein;protein_id=EJO35920.1;transl_table=11
+AFDN01000003.1	Genbank	gene	3075	3371	.	+	.	ID=gene-ACINBC5_A3889;Name=ACINBC5_A3889;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINBC5_A3889
+AFDN01000003.1	Genbank	CDS	3075	3371	.	+	0	ID=cds-EJO35914.1;Parent=gene-ACINBC5_A3889;Dbxref=NCBI_GP:EJO35914.1;Name=EJO35914.1;gbkey=CDS;locus_tag=ACINBC5_A3889;product=PF04365 family protein;protein_id=EJO35914.1;transl_table=11
+AFDN01000003.1	Genbank	gene	3364	3672	.	+	.	ID=gene-ACINBC5_A3890;Name=ACINBC5_A3890;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINBC5_A3890
+AFDN01000003.1	Genbank	CDS	3364	3672	.	+	0	ID=cds-EJO35921.1;Parent=gene-ACINBC5_A3890;Dbxref=NCBI_GP:EJO35921.1;Name=EJO35921.1;gbkey=CDS;locus_tag=ACINBC5_A3890;product=toxin-antitoxin system%2C antitoxin component%2C ribbon-helix-helix domain protein;protein_id=EJO35921.1;transl_table=11
+AFDN01000003.1	Genbank	gene	3800	6211	.	+	.	ID=gene-ACINBC5_A3891;Name=ACINBC5_A3891;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINBC5_A3891
+AFDN01000003.1	Genbank	CDS	3800	6211	.	+	0	ID=cds-EJO35919.1;Parent=gene-ACINBC5_A3891;Dbxref=NCBI_GP:EJO35919.1;Name=EJO35919.1;gbkey=CDS;locus_tag=ACINBC5_A3891;product=TonB-dependent receptor;protein_id=EJO35919.1;transl_table=11
+AFDN01000003.1	Genbank	gene	6516	6977	.	+	.	ID=gene-ACINBC5_A3892;Name=ACINBC5_A3892;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINBC5_A3892
+AFDN01000003.1	Genbank	CDS	6516	6977	.	+	0	ID=cds-EJO35915.1;Parent=gene-ACINBC5_A3892;Dbxref=NCBI_GP:EJO35915.1;Name=EJO35915.1;gbkey=CDS;locus_tag=ACINBC5_A3892;product=hypothetical protein;protein_id=EJO35915.1;transl_table=11
+AFDN01000003.1	Genbank	gene	7473	7844	.	-	.	ID=gene-ACINBC5_A3893;Name=ACINBC5_A3893;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINBC5_A3893
+AFDN01000003.1	Genbank	CDS	7473	7844	.	-	0	ID=cds-EJO35916.1;Parent=gene-ACINBC5_A3893;Dbxref=NCBI_GP:EJO35916.1;Name=EJO35916.1;gbkey=CDS;locus_tag=ACINBC5_A3893;product=hypothetical protein;protein_id=EJO35916.1;transl_table=11
+AFDN01000003.1	Genbank	gene	8116	8370	.	-	.	ID=gene-ACINBC5_A3894;Name=ACINBC5_A3894;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINBC5_A3894
+AFDN01000003.1	Genbank	CDS	8116	8370	.	-	0	ID=cds-EJO35913.1;Parent=gene-ACINBC5_A3894;Dbxref=NCBI_GP:EJO35913.1;Name=EJO35913.1;gbkey=CDS;locus_tag=ACINBC5_A3894;product=hypothetical protein;protein_id=EJO35913.1;transl_table=11
+

@@ -1,0 +1,4 @@
+##sequence-region CM003320.1 1 6078
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1409922
+CM003320.1	Genbank	region	1	6078	.	+	.	ID=CM003320.1:1..6078;Dbxref=taxon:1409922;Is_circular=true;Name=pMRSN3405-6;collection-date=Mar-2011;country=USA;culture-collection=MRSN<USA>:3405;gbkey=Src;genome=plasmid;isolation-source=wound;lat-lon=38.975 N 77.030 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pMRSN3405-6;strain=MRSN 3405
+

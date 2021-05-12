@@ -1,0 +1,22 @@
+##sequence-region CP007578.1 1 8685
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1224747
+CP007578.1	Genbank	region	1	8685	.	+	.	ID=CP007578.1:1..8685;Dbxref=taxon:1224747;Is_circular=true;Name=pAC30a;collection-date=2011;country=Malaysia: Koala Terenggeanu;gbkey=Src;genome=plasmid;isolation-source=endotrachial secretion;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pAC30a;strain=AC30
+CP007578.1	Genbank	gene	564	818	.	+	.	ID=gene-B856_19010;Name=B856_19010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19010
+CP007578.1	Protein Homology	CDS	564	818	.	+	0	ID=cds-AHX67205.1;Parent=gene-B856_19010;Dbxref=NCBI_GP:AHX67205.1;Name=AHX67205.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_001014301.1;locus_tag=B856_19010;product=hypothetical protein;protein_id=AHX67205.1;transl_table=11
+CP007578.1	Genbank	gene	1090	1461	.	+	.	ID=gene-B856_19015;Name=B856_19015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19015
+CP007578.1	Protein Homology	CDS	1090	1461	.	+	0	ID=cds-AHX67206.1;Parent=gene-B856_19015;Dbxref=NCBI_GP:AHX67206.1;Name=AHX67206.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000504218.1;locus_tag=B856_19015;product=hypothetical protein;protein_id=AHX67206.1;transl_table=11
+CP007578.1	Genbank	gene	1957	2418	.	-	.	ID=gene-B856_19020;Name=B856_19020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19020
+CP007578.1	Protein Homology	CDS	1957	2418	.	-	0	ID=cds-AHX67207.1;Parent=gene-B856_19020;Dbxref=NCBI_GP:AHX67207.1;Name=AHX67207.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_017397838.1;locus_tag=B856_19020;product=septicolysin;protein_id=AHX67207.1;transl_table=11
+CP007578.1	Genbank	gene	2723	5134	.	-	.	ID=gene-B856_19025;Name=B856_19025;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19025
+CP007578.1	Protein Homology	CDS	2723	5134	.	-	0	ID=cds-AHX67208.1;Parent=gene-B856_19025;Dbxref=NCBI_GP:AHX67208.1;Name=AHX67208.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000932942.1;locus_tag=B856_19025;product=membrane protein;protein_id=AHX67208.1;transl_table=11
+CP007578.1	Genbank	gene	5262	5576	.	-	.	ID=gene-B856_19030;Name=B856_19030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19030
+CP007578.1	Protein Homology	CDS	5262	5576	.	-	0	ID=cds-AHX67209.1;Parent=gene-B856_19030;Dbxref=NCBI_GP:AHX67209.1;Name=AHX67209.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000252858.1;locus_tag=B856_19030;product=toxin-antitoxin system%2C antitoxin component;protein_id=AHX67209.1;transl_table=11
+CP007578.1	Genbank	gene	5563	5850	.	-	.	ID=gene-B856_19035;Name=B856_19035;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19035
+CP007578.1	Protein Homology	CDS	5563	5850	.	-	0	ID=cds-AHX67210.1;Parent=gene-B856_19035;Dbxref=NCBI_GP:AHX67210.1;Name=AHX67210.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_019383542.1;locus_tag=B856_19035;product=membrane protein;protein_id=AHX67210.1;transl_table=11
+CP007578.1	Genbank	gene	6223	6741	.	+	.	ID=gene-B856_19040;Name=B856_19040;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19040
+CP007578.1	Protein Homology	CDS	6223	6741	.	+	0	ID=cds-AHX67211.1;Parent=gene-B856_19040;Dbxref=NCBI_GP:AHX67211.1;Name=AHX67211.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000447193.1;locus_tag=B856_19040;product=hypothetical protein;protein_id=AHX67211.1;transl_table=11
+CP007578.1	Genbank	gene	7093	7668	.	-	.	ID=gene-B856_19050;Name=B856_19050;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19050
+CP007578.1	Protein Homology	CDS	7093	7668	.	-	0	ID=cds-AHX67212.1;Parent=gene-B856_19050;Dbxref=NCBI_GP:AHX67212.1;Name=AHX67212.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_005102333.1;locus_tag=B856_19050;product=DNA replication protein;protein_id=AHX67212.1;transl_table=11
+CP007578.1	Genbank	gene	7661	8611	.	-	.	ID=gene-B856_19055;Name=B856_19055;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19055
+CP007578.1	Protein Homology	CDS	7661	8611	.	-	0	ID=cds-AHX67213.1;Parent=gene-B856_19055;Dbxref=NCBI_GP:AHX67213.1;Name=AHX67213.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_014462896.1;locus_tag=B856_19055;product=DNA replication protein;protein_id=AHX67213.1;transl_table=11
+

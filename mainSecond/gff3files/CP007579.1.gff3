@@ -1,0 +1,34 @@
+##sequence-region CP007579.1 1 16236
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1224747
+CP007579.1	Genbank	region	1	16236	.	+	.	ID=CP007579.1:1..16236;Dbxref=taxon:1224747;Is_circular=true;Name=pAC30b;collection-date=2011;country=Malaysia: Koala Terenggeanu;gbkey=Src;genome=plasmid;isolation-source=endotrachial secretion;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pAC30b;strain=AC30
+CP007579.1	Genbank	gene	1	486	.	+	.	ID=gene-B856_19060;Name=B856_19060;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19060
+CP007579.1	Protein Homology	CDS	1	486	.	+	0	ID=cds-AHX67214.1;Parent=gene-B856_19060;Dbxref=NCBI_GP:AHX67214.1;Name=AHX67214.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000269038.1;locus_tag=B856_19060;product=transposase;protein_id=AHX67214.1;transl_table=11
+CP007579.1	Genbank	gene	812	1585	.	+	.	ID=gene-B856_19065;Name=B856_19065;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19065
+CP007579.1	Protein Homology	CDS	812	1585	.	+	0	ID=cds-AHX67215.1;Parent=gene-B856_19065;Dbxref=NCBI_GP:AHX67215.1;Name=AHX67215.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000359986.1;locus_tag=B856_19065;product=16S rRNA methyltransferase;protein_id=AHX67215.1;transl_table=11
+CP007579.1	Genbank	gene	2067	2252	.	-	.	ID=gene-B856_19070;Name=B856_19070;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19070
+CP007579.1	Protein Homology	CDS	2067	2252	.	-	0	ID=cds-AHX67216.1;Parent=gene-B856_19070;Dbxref=NCBI_GP:AHX67216.1;Name=AHX67216.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_002026779.1;locus_tag=B856_19070;product=hypothetical protein;protein_id=AHX67216.1;transl_table=11
+CP007579.1	Genbank	gene	2310	3485	.	+	.	ID=gene-B856_19075;Name=B856_19075;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19075
+CP007579.1	Protein Homology	CDS	2310	3485	.	+	0	ID=cds-AHX67217.1;Parent=gene-B856_19075;Dbxref=NCBI_GP:AHX67217.1;Name=AHX67217.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_001101021.1;locus_tag=B856_19075;product=transposase;protein_id=AHX67217.1;transl_table=11
+CP007579.1	Genbank	gene	3884	5359	.	+	.	ID=gene-B856_19080;Name=B856_19080;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19080
+CP007579.1	Protein Homology	CDS	3884	5359	.	+	0	ID=cds-AHX67218.1;Parent=gene-B856_19080;Dbxref=NCBI_GP:AHX67218.1;Name=AHX67218.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000052512.1;locus_tag=B856_19080;product=ABC transporter;protein_id=AHX67218.1;transl_table=11
+CP007579.1	Genbank	gene	5415	6299	.	+	.	ID=gene-B856_19085;Name=B856_19085;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19085
+CP007579.1	Protein Homology	CDS	5415	6299	.	+	0	ID=cds-AHX67219.1;Parent=gene-B856_19085;Dbxref=NCBI_GP:AHX67219.1;Name=AHX67219.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000155092.1;locus_tag=B856_19085;product=macrolide 2'-phosphotransferase;protein_id=AHX67219.1;transl_table=11
+CP007579.1	Genbank	gene	6658	6921	.	-	.	ID=gene-B856_19090;Name=B856_19090;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19090
+CP007579.1	Protein Homology	CDS	6658	6921	.	-	0	ID=cds-AHX67220.1;Parent=gene-B856_19090;Dbxref=NCBI_GP:AHX67220.1;Name=AHX67220.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_004896925.1;locus_tag=B856_19090;product=hypothetical protein;protein_id=AHX67220.1;transl_table=11
+CP007579.1	Genbank	gene	6964	8523	.	-	.	ID=gene-B856_19095;Name=B856_19095;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19095
+CP007579.1	Protein Homology	CDS	6964	8523	.	-	0	ID=cds-AHX67221.1;Parent=gene-B856_19095;Dbxref=NCBI_GP:AHX67221.1;Name=AHX67221.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000753551.1;locus_tag=B856_19095;product=transposase;protein_id=AHX67221.1;transl_table=11
+CP007579.1	Genbank	gene	8616	8972	.	-	.	ID=gene-B856_19100;Name=B856_19100;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19100
+CP007579.1	Protein Homology	CDS	8616	8972	.	-	0	ID=cds-AHX67222.1;Parent=gene-B856_19100;Dbxref=NCBI_GP:AHX67222.1;Name=AHX67222.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000781558.1;locus_tag=B856_19100;product=transposase;protein_id=AHX67222.1;transl_table=11
+CP007579.1	Genbank	gene	8975	9259	.	-	.	ID=gene-B856_19105;Name=B856_19105;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19105
+CP007579.1	Protein Homology	CDS	8975	9259	.	-	0	ID=cds-AHX67223.1;Parent=gene-B856_19105;Dbxref=NCBI_GP:AHX67223.1;Name=AHX67223.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_008949250.1;locus_tag=B856_19105;product=hypothetical protein;protein_id=AHX67223.1;transl_table=11
+CP007579.1	Genbank	gene	9309	9671	.	-	.	ID=gene-B856_19110;Name=B856_19110;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19110
+CP007579.1	Protein Homology	CDS	9309	9671	.	-	0	ID=cds-AHX67224.1;Parent=gene-B856_19110;Dbxref=NCBI_GP:AHX67224.1;Name=AHX67224.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_004896925.1;locus_tag=B856_19110;product=DNA replication protein;protein_id=AHX67224.1;transl_table=11
+CP007579.1	Genbank	gene	11252	14140	.	-	.	ID=gene-B856_19125;Name=B856_19125;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19125
+CP007579.1	Protein Homology	CDS	11252	14140	.	-	0	ID=cds-AHX67225.1;Parent=gene-B856_19125;Dbxref=NCBI_GP:AHX67225.1;Name=AHX67225.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000624773.1;locus_tag=B856_19125;product=transposase;protein_id=AHX67225.1;transl_table=11
+CP007579.1	Genbank	gene	14224	14928	.	-	.	ID=gene-B856_19130;Name=B856_19130;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19130
+CP007579.1	Protein Homology	CDS	14224	14928	.	-	0	ID=cds-AHX67226.1;Parent=gene-B856_19130;Dbxref=NCBI_GP:AHX67226.1;Name=AHX67226.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_001067856.1;locus_tag=B856_19130;product=transposase;protein_id=AHX67226.1;transl_table=11
+CP007579.1	Genbank	gene	15029	15844	.	+	.	ID=gene-B856_19135;Name=B856_19135;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19135
+CP007579.1	Protein Homology	CDS	15029	15844	.	+	0	ID=cds-AHX67227.1;Parent=gene-B856_19135;Dbxref=NCBI_GP:AHX67227.1;Name=AHX67227.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:SwissProt:P00551.2;locus_tag=B856_19135;product=aminoglycoside phosphotransferase;protein_id=AHX67227.1;transl_table=11
+CP007579.1	Genbank	gene	15998	16177	.	-	.	ID=gene-B856_19140;Name=B856_19140;gbkey=Gene;gene_biotype=protein_coding;locus_tag=B856_19140
+CP007579.1	Protein Homology	CDS	15998	16177	.	-	0	ID=cds-AHX67228.1;Parent=gene-B856_19140;Dbxref=NCBI_GP:AHX67228.1;Name=AHX67228.1;gbkey=CDS;inference=EXISTENCE: similar to AA sequence:RefSeq:WP_000902128.1;locus_tag=B856_19140;product=hypothetical protein;protein_id=AHX67228.1;transl_table=11
+

@@ -1,0 +1,22 @@
+##sequence-region CP007713.1 1 8006
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1455315
+CP007713.1	Genbank	region	1	8006	.	+	.	ID=CP007713.1:1..8006;Dbxref=taxon:1455315;Is_circular=true;Name=pABLAC1;collected-by=Public Health Laboratory;collection-date=1997-01-02;country=USA: Los Angeles County%2C California;gbkey=Src;genome=plasmid;lat-lon=34.0500 N 118.2500 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pABLAC1;strain=LAC-4
+CP007713.1	Genbank	gene	40	258	.	-	.	ID=gene-ABLAC_p100010;Name=ABLAC_p100010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABLAC_p100010
+CP007713.1	Genbank	CDS	40	258	.	-	0	ID=cds-AIY39144.1;Parent=gene-ABLAC_p100010;Dbxref=NCBI_GP:AIY39144.1;Name=AIY39144.1;gbkey=CDS;locus_tag=ABLAC_p100010;product=hypothetical protein;protein_id=AIY39144.1;transl_table=11
+CP007713.1	Genbank	gene	946	1869	.	+	.	ID=gene-ABLAC_p100020;Name=ABLAC_p100020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABLAC_p100020
+CP007713.1	Genbank	CDS	946	1869	.	+	0	ID=cds-AIY39145.1;Parent=gene-ABLAC_p100020;Dbxref=NCBI_GP:AIY39145.1;Name=AIY39145.1;gbkey=CDS;locus_tag=ABLAC_p100020;product=Replicase C Aci3;protein_id=AIY39145.1;transl_table=11
+CP007713.1	Genbank	gene	1937	2482	.	+	.	ID=gene-ABLAC_p100030;Name=ABLAC_p100030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABLAC_p100030
+CP007713.1	Genbank	CDS	1937	2482	.	+	0	ID=cds-AIY39146.1;Parent=gene-ABLAC_p100030;Dbxref=NCBI_GP:AIY39146.1;Name=AIY39146.1;gbkey=CDS;locus_tag=ABLAC_p100030;product=Hypothetical protein with MerR superfamily HTH motif;protein_id=AIY39146.1;transl_table=11
+CP007713.1	Genbank	gene	2820	3137	.	+	.	ID=gene-ABLAC_p100040;Name=ABLAC_p100040;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABLAC_p100040
+CP007713.1	Genbank	CDS	2820	3137	.	+	0	ID=cds-AIY39147.1;Parent=gene-ABLAC_p100040;Dbxref=NCBI_GP:AIY39147.1;Name=AIY39147.1;gbkey=CDS;locus_tag=ABLAC_p100040;product=hypothetical protein;protein_id=AIY39147.1;transl_table=11
+CP007713.1	Genbank	gene	3665	4021	.	+	.	ID=gene-ABLAC_p100050;Name=ABLAC_p100050;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABLAC_p100050
+CP007713.1	Genbank	CDS	3665	4021	.	+	0	ID=cds-AIY39148.1;Parent=gene-ABLAC_p100050;Dbxref=NCBI_GP:AIY39148.1;Name=AIY39148.1;gbkey=CDS;locus_tag=ABLAC_p100050;product=RelE toxin of TA system;protein_id=AIY39148.1;transl_table=11
+CP007713.1	Genbank	gene	4014	4316	.	+	.	ID=gene-ABLAC_p100060;Name=ABLAC_p100060;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABLAC_p100060
+CP007713.1	Genbank	CDS	4014	4316	.	+	0	ID=cds-AIY39149.1;Parent=gene-ABLAC_p100060;Dbxref=NCBI_GP:AIY39149.1;Name=AIY39149.1;gbkey=CDS;locus_tag=ABLAC_p100060;product=Cro/C1 family of transcriptional regulator;protein_id=AIY39149.1;transl_table=11
+CP007713.1	Genbank	gene	4309	4518	.	+	.	ID=gene-ABLAC_p100070;Name=ABLAC_p100070;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABLAC_p100070
+CP007713.1	Genbank	CDS	4309	4518	.	+	0	ID=cds-AIY39150.1;Parent=gene-ABLAC_p100070;Dbxref=NCBI_GP:AIY39150.1;Name=AIY39150.1;gbkey=CDS;locus_tag=ABLAC_p100070;product=hypothetical protein;protein_id=AIY39150.1;transl_table=11
+CP007713.1	Genbank	gene	4616	7318	.	+	.	ID=gene-ABLAC_p100080;Name=ABLAC_p100080;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABLAC_p100080
+CP007713.1	Genbank	CDS	4616	7318	.	+	0	ID=cds-AIY39151.1;Parent=gene-ABLAC_p100080;Dbxref=NCBI_GP:AIY39151.1;Name=AIY39151.1;gbkey=CDS;locus_tag=ABLAC_p100080;product=hypothetical protein;protein_id=AIY39151.1;transl_table=11
+CP007713.1	Genbank	gene	7392	7583	.	-	.	ID=gene-ABLAC_p100090;Name=ABLAC_p100090;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABLAC_p100090
+CP007713.1	Genbank	CDS	7392	7583	.	-	0	ID=cds-AIY39152.1;Parent=gene-ABLAC_p100090;Dbxref=NCBI_GP:AIY39152.1;Name=AIY39152.1;gbkey=CDS;locus_tag=ABLAC_p100090;product=hypothetical protein;protein_id=AIY39152.1;transl_table=11
+

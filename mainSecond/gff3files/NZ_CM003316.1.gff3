@@ -1,0 +1,12 @@
+##sequence-region NZ_CM003316.1 1 2725
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1409926
+NZ_CM003316.1	RefSeq	region	1	2725	.	+	.	ID=NZ_CM003316.1:1..2725;Dbxref=taxon:1409926;Is_circular=true;Name=pMRSN58-2.7;collection-date=2010-06;country=USA;culture-collection=MRSN<USA>:58;gbkey=Src;genome=plasmid;isolation-source=wound;lat-lon=38.975 N 77.030 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pMRSN58-2.7;strain=MRSN 58
+NZ_CM003316.1	RefSeq	gene	1	1251	.	+	.	ID=gene-T633_RS00005;Name=T633_RS00005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=T633_RS00005;old_locus_tag=T633_A0001
+NZ_CM003316.1	Protein Homology	CDS	1	1251	.	+	0	ID=cds-WP_001180320.1;Parent=gene-T633_RS00005;Dbxref=Genbank:WP_001180320.1;Name=WP_001180320.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001180320.1;locus_tag=T633_RS00005;product=protein rep;protein_id=WP_001180320.1;transl_table=11
+NZ_CM003316.1	RefSeq	gene	1348	1563	.	+	.	ID=gene-T633_RS00010;Name=T633_RS00010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=T633_RS00010
+NZ_CM003316.1	Protein Homology	CDS	1348	1563	.	+	0	ID=cds-WP_001262268.1;Parent=gene-T633_RS00010;Dbxref=Genbank:WP_001262268.1;Name=WP_001262268.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_001262269.1;locus_tag=T633_RS00010;product=hypothetical protein;protein_id=WP_001262268.1;transl_table=11
+NZ_CM003316.1	RefSeq	gene	1872	2189	.	+	.	ID=gene-T633_RS00015;Name=T633_RS00015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=T633_RS00015;old_locus_tag=T633_A0003
+NZ_CM003316.1	Protein Homology	CDS	1872	2189	.	+	0	ID=cds-WP_000070380.1;Parent=gene-T633_RS00015;Dbxref=Genbank:WP_000070380.1;Name=WP_000070380.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000070380.1;locus_tag=T633_RS00015;product=hypothetical protein;protein_id=WP_000070380.1;transl_table=11
+NZ_CM003316.1	RefSeq	gene	2351	2641	.	+	.	ID=gene-T633_RS00020;Name=T633_RS00020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=T633_RS00020;old_locus_tag=T633_A0004
+NZ_CM003316.1	Protein Homology	CDS	2351	2641	.	+	0	ID=cds-WP_000593064.1;Parent=gene-T633_RS00020;Dbxref=Genbank:WP_000593064.1;Name=WP_000593064.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_000593064.1;locus_tag=T633_RS00020;product=hypothetical protein;protein_id=WP_000593064.1;transl_table=11
+

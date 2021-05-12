@@ -1,0 +1,24 @@
+##sequence-region CP003850.1 1 8721
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1096997
+CP003850.1	Genbank	region	1	8721	.	+	.	ID=CP003850.1:1..8721;Dbxref=taxon:1096997;Is_circular=true;Name=p1BJAB0868;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=p1BJAB0868;strain=BJAB0868
+CP003850.1	Genbank	gene	917	1288	.	-	.	ID=gene-BJAB0868_p0002;Name=BJAB0868_p0002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0868_p0002
+CP003850.1	Genbank	CDS	917	1288	.	-	0	ID=cds-AGQ12259.1;Parent=gene-BJAB0868_p0002;Dbxref=NCBI_GP:AGQ12259.1;Name=AGQ12259.1;Note=Similar to ACICU_p0031 in CP000864;gbkey=CDS;locus_tag=BJAB0868_p0002;product=hypothetical protein;protein_id=AGQ12259.1;transl_table=11
+CP003850.1	Genbank	gene	1560	1814	.	-	.	ID=gene-BJAB0868_p0003;Name=BJAB0868_p0003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0868_p0003
+CP003850.1	Genbank	CDS	1560	1814	.	-	0	ID=cds-AGQ12260.1;Parent=gene-BJAB0868_p0003;Dbxref=NCBI_GP:AGQ12260.1;Name=AGQ12260.1;gbkey=CDS;locus_tag=BJAB0868_p0003;product=hypothetical protein;protein_id=AGQ12260.1;transl_table=11
+CP003850.1	Genbank	gene	1936	2274	.	-	.	ID=gene-BJAB0868_p0004;Name=BJAB0868_p0004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0868_p0004
+CP003850.1	Genbank	CDS	1936	2274	.	-	0	ID=cds-AGQ12261.1;Parent=gene-BJAB0868_p0004;Dbxref=NCBI_GP:AGQ12261.1;Name=AGQ12261.1;gbkey=CDS;locus_tag=BJAB0868_p0004;product=hypothetical protein;protein_id=AGQ12261.1;transl_table=11
+CP003850.1	Genbank	gene	2487	3437	.	+	.	ID=gene-BJAB0868_p0005;Name=BJAB0868_p0005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0868_p0005
+CP003850.1	Genbank	CDS	2487	3437	.	+	0	ID=cds-AGQ12262.1;Parent=gene-BJAB0868_p0005;Dbxref=NCBI_GP:AGQ12262.1;Name=AGQ12262.1;Note=COG:COG5527;gbkey=CDS;locus_tag=BJAB0868_p0005;product=Protein involved in initiation of plasmid replication;protein_id=AGQ12262.1;transl_table=11
+CP003850.1	Genbank	gene	3430	4005	.	+	.	ID=gene-BJAB0868_p0006;Name=BJAB0868_p0006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0868_p0006
+CP003850.1	Genbank	CDS	3430	4005	.	+	0	ID=cds-AGQ12263.1;Parent=gene-BJAB0868_p0006;Dbxref=NCBI_GP:AGQ12263.1;Name=AGQ12263.1;Note=Similar to ACICU_p0002 in CP000864;gbkey=CDS;locus_tag=BJAB0868_p0006;product=hypothetical protein;protein_id=AGQ12263.1;transl_table=11
+CP003850.1	Genbank	gene	4357	4899	.	-	.	ID=gene-BJAB0868_p0007;Name=BJAB0868_p0007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0868_p0007
+CP003850.1	Genbank	CDS	4357	4899	.	-	0	ID=cds-AGQ12264.1;Parent=gene-BJAB0868_p0007;Dbxref=NCBI_GP:AGQ12264.1;Name=AGQ12264.1;Note=COG:COG0790;gbkey=CDS;locus_tag=BJAB0868_p0007;product=TPR repeat%2C SEL1 subfamily protein;protein_id=AGQ12264.1;transl_table=11
+CP003850.1	Genbank	gene	5239	5535	.	+	.	ID=gene-BJAB0868_p0008;Name=BJAB0868_p0008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0868_p0008
+CP003850.1	Genbank	CDS	5239	5535	.	+	0	ID=cds-AGQ12265.1;Parent=gene-BJAB0868_p0008;Dbxref=NCBI_GP:AGQ12265.1;Name=AGQ12265.1;Note=COG:COG2929;gbkey=CDS;locus_tag=BJAB0868_p0008;product=hypothetical protein;protein_id=AGQ12265.1;transl_table=11
+CP003850.1	Genbank	gene	5528	5836	.	+	.	ID=gene-BJAB0868_p0009;Name=BJAB0868_p0009;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0868_p0009
+CP003850.1	Genbank	CDS	5528	5836	.	+	0	ID=cds-AGQ12266.1;Parent=gene-BJAB0868_p0009;Dbxref=NCBI_GP:AGQ12266.1;Name=AGQ12266.1;Note=COG:COG3514;gbkey=CDS;locus_tag=BJAB0868_p0009;product=hypothetical protein;protein_id=AGQ12266.1;transl_table=11
+CP003850.1	Genbank	gene	5964	8375	.	+	.	ID=gene-BJAB0868_p0010;Name=BJAB0868_p0010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0868_p0010
+CP003850.1	Genbank	CDS	5964	8375	.	+	0	ID=cds-AGQ12267.1;Parent=gene-BJAB0868_p0010;Dbxref=NCBI_GP:AGQ12267.1;Name=AGQ12267.1;Note=COG:COG1629;gbkey=CDS;locus_tag=BJAB0868_p0010;product=Outer membrane receptor protein%2C mostly Fe transport;protein_id=AGQ12267.1;transl_table=11
+CP003850.1	Genbank	gene	8711	9142	.	+	.	ID=gene-BJAB0868_p0001;Name=BJAB0868_p0001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0868_p0001
+CP003850.1	Genbank	CDS	8711	9142	.	+	0	ID=cds-AGQ12258.1;Parent=gene-BJAB0868_p0001;Dbxref=NCBI_GP:AGQ12258.1;Name=AGQ12258.1;gbkey=CDS;locus_tag=BJAB0868_p0001;product=hypothetical protein;protein_id=AGQ12258.1;transl_table=11
+

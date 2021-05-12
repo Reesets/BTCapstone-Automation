@@ -1,0 +1,20 @@
+##sequence-region AFDA02000008.1 1 8422
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=903897
+AFDA02000008.1	Genbank	region	1	8422	.	+	.	ID=AFDA02000008.1:1..8422;Dbxref=taxon:903897;Is_circular=true;Name=pNaval18-8.4;collection-date=08-Jun-2006;country=USA: National Naval Medical Center%2C Bethesda%2C MD;gbkey=Src;genome=plasmid;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pNaval18-8.4;strain=Naval-18
+AFDA02000008.1	Genbank	gene	1891	2421	.	-	.	ID=gene-ACINNAV18_C0001;Name=ACINNAV18_C0001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_C0001
+AFDA02000008.1	Genbank	CDS	1891	2421	.	-	0	ID=cds-EJP48484.1;Parent=gene-ACINNAV18_C0001;Dbxref=NCBI_GP:EJP48484.1;Name=EJP48484.1;gbkey=CDS;locus_tag=ACINNAV18_C0001;product=hypothetical protein;protein_id=EJP48484.1;transl_table=11
+AFDA02000008.1	Genbank	gene	2488	3417	.	-	.	ID=gene-ACINNAV18_C0002;Name=ACINNAV18_C0002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_C0002
+AFDA02000008.1	Genbank	CDS	2488	3417	.	-	0	ID=cds-EJP48482.1;Parent=gene-ACINNAV18_C0002;Dbxref=NCBI_GP:EJP48482.1;Name=EJP48482.1;gbkey=CDS;locus_tag=ACINNAV18_C0002;product=initiator RepB protein;protein_id=EJP48482.1;transl_table=11
+AFDA02000008.1	Genbank	gene	4014	5183	.	-	.	ID=gene-ACINNAV18_C0003;Name=ACINNAV18_C0003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_C0003
+AFDA02000008.1	Genbank	CDS	4014	5183	.	-	0	ID=cds-EJP48486.1;Parent=gene-ACINNAV18_C0003;Dbxref=NCBI_GP:EJP48486.1;Name=EJP48486.1;gbkey=CDS;locus_tag=ACINNAV18_C0003;product=MobA/MobL family protein;protein_id=EJP48486.1;transl_table=11
+AFDA02000008.1	Genbank	gene	5490	5975	.	+	.	ID=gene-ACINNAV18_C0004;Name=ACINNAV18_C0004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_C0004
+AFDA02000008.1	Genbank	CDS	5490	5975	.	+	0	ID=cds-EJP48485.1;Parent=gene-ACINNAV18_C0004;Dbxref=NCBI_GP:EJP48485.1;Name=EJP48485.1;Note=an automated process has identified a potential problem with this gene model%3B the current end5 and/or the end3 may need to extended or the current gene model may need to be merged with a neighboring gene model%3B the current gene model (or a revised gene model) may contain a frame shift;gbkey=CDS;locus_tag=ACINNAV18_C0004;product=hypothetical protein;protein_id=EJP48485.1;transl_table=11
+AFDA02000008.1	Genbank	gene	6516	6761	.	-	.	ID=gene-ACINNAV18_C0005;Name=ACINNAV18_C0005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_C0005
+AFDA02000008.1	Genbank	CDS	6516	6761	.	-	0	ID=cds-EJP48479.1;Parent=gene-ACINNAV18_C0005;Dbxref=NCBI_GP:EJP48479.1;Name=EJP48479.1;gbkey=CDS;locus_tag=ACINNAV18_C0005;product=hypothetical protein;protein_id=EJP48479.1;transl_table=11
+AFDA02000008.1	Genbank	gene	6915	7139	.	+	.	ID=gene-ACINNAV18_C0006;Name=ACINNAV18_C0006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_C0006
+AFDA02000008.1	Genbank	CDS	6915	7139	.	+	0	ID=cds-EJP48481.1;Parent=gene-ACINNAV18_C0006;Dbxref=NCBI_GP:EJP48481.1;Name=EJP48481.1;gbkey=CDS;locus_tag=ACINNAV18_C0006;product=hypothetical protein;protein_id=EJP48481.1;transl_table=11
+AFDA02000008.1	Genbank	gene	7940	8065	.	+	.	ID=gene-ACINNAV18_C0007;Name=ACINNAV18_C0007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_C0007
+AFDA02000008.1	Genbank	CDS	7940	8065	.	+	0	ID=cds-EJP48483.1;Parent=gene-ACINNAV18_C0007;Dbxref=NCBI_GP:EJP48483.1;Name=EJP48483.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=ACINNAV18_C0007;product=hypothetical protein;protein_id=EJP48483.1;transl_table=11
+AFDA02000008.1	Genbank	gene	8189	8305	.	-	.	ID=gene-ACINNAV18_C0008;Name=ACINNAV18_C0008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_C0008
+AFDA02000008.1	Genbank	CDS	8189	8305	.	-	0	ID=cds-EJP48480.1;Parent=gene-ACINNAV18_C0008;Dbxref=NCBI_GP:EJP48480.1;Name=EJP48480.1;gbkey=CDS;locus_tag=ACINNAV18_C0008;product=hypothetical protein;protein_id=EJP48480.1;transl_table=11
+

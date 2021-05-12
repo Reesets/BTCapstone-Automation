@@ -1,0 +1,20 @@
+##sequence-region AYFZ01000080.2 1 5636
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1398962
+AYFZ01000080.2	Genbank	region	1	5636	.	+	.	ID=AYFZ01000080.2:1..5636;Dbxref=taxon:1398962;Is_circular=true;Name=pABUH2a-5.6;collection-date=May-2008;country=USA;gbkey=Src;genome=plasmid;isolation-source=urine;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pABUH2a-5.6;strain=UH19608
+AYFZ01000080.2	Genbank	gene	143	1168	.	+	.	ID=gene-P658_1382;Name=P658_1382;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P658_1382
+AYFZ01000080.2	Genbank	CDS	143	1168	.	+	0	ID=cds-ETQ55253.2;Parent=gene-P658_1382;Dbxref=NCBI_GP:ETQ55253.2;Name=ETQ55253.2;gbkey=CDS;locus_tag=P658_1382;product=initiator RepB domain protein;protein_id=ETQ55253.2;transl_table=11
+AYFZ01000080.2	Genbank	gene	1158	1427	.	-	.	ID=gene-P658_1374;Name=P658_1374;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P658_1374
+AYFZ01000080.2	Genbank	CDS	1158	1427	.	-	0	ID=cds-ETQ55249.1;Parent=gene-P658_1374;Dbxref=NCBI_GP:ETQ55249.1;Name=ETQ55249.1;gbkey=CDS;locus_tag=P658_1374;product=hypothetical protein;protein_id=ETQ55249.1;transl_table=11
+AYFZ01000080.2	Genbank	gene	1809	2780	.	+	.	ID=gene-P658_1376;Name=P658_1376;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P658_1376
+AYFZ01000080.2	Genbank	CDS	1809	2780	.	+	0	ID=cds-ETQ55247.1;Parent=gene-P658_1376;Dbxref=NCBI_GP:ETQ55247.1;Name=ETQ55247.1;Note=an automated process has identified a potential problem with this gene model%3B the current end5 and/or the end3 may need to extended or the current gene model may need to be merged with a neighboring gene model%3B the current gene model (or a revised gene model) may contain a frame shift;gbkey=CDS;locus_tag=P658_1376;product=MobA/MobL family protein;protein_id=ETQ55247.1;transl_table=11
+AYFZ01000080.2	Genbank	gene	2777	3274	.	+	.	ID=gene-P658_1377;Name=P658_1377;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P658_1377
+AYFZ01000080.2	Genbank	CDS	2777	3274	.	+	0	ID=cds-ETQ55251.1;Parent=gene-P658_1377;Dbxref=NCBI_GP:ETQ55251.1;Name=ETQ55251.1;gbkey=CDS;locus_tag=P658_1377;product=hypothetical protein;protein_id=ETQ55251.1;transl_table=11
+AYFZ01000080.2	Genbank	gene	3386	3667	.	-	.	ID=gene-P658_1378;Name=P658_1378;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P658_1378
+AYFZ01000080.2	Genbank	CDS	3386	3667	.	-	0	ID=cds-ETQ55248.1;Parent=gene-P658_1378;Dbxref=NCBI_GP:ETQ55248.1;Name=ETQ55248.1;gbkey=CDS;locus_tag=P658_1378;product=putative addiction module toxin component YafQ;protein_id=ETQ55248.1;transl_table=11
+AYFZ01000080.2	Genbank	gene	3660	3953	.	-	.	ID=gene-P658_1379;Name=P658_1379;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P658_1379
+AYFZ01000080.2	Genbank	CDS	3660	3953	.	-	0	ID=cds-ETQ55254.1;Parent=gene-P658_1379;Dbxref=NCBI_GP:ETQ55254.1;Name=ETQ55254.1;gbkey=CDS;locus_tag=P658_1379;product=addiction module antitoxin%2C RelB/DinJ family;protein_id=ETQ55254.1;transl_table=11
+AYFZ01000080.2	Genbank	gene	4153	4980	.	+	.	ID=gene-P658_1380;Name=P658_1380;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P658_1380
+AYFZ01000080.2	Genbank	CDS	4153	4980	.	+	0	ID=cds-ETQ55250.1;Parent=gene-P658_1380;Dbxref=NCBI_GP:ETQ55250.1;Name=ETQ55250.1;gbkey=CDS;locus_tag=P658_1380;product=putative beta-lactamase OXA-10;protein_id=ETQ55250.1;transl_table=11
+AYFZ01000080.2	Genbank	gene	5465	5581	.	-	.	ID=gene-P658_1381;Name=P658_1381;gbkey=Gene;gene_biotype=protein_coding;locus_tag=P658_1381
+AYFZ01000080.2	Genbank	CDS	5465	5581	.	-	0	ID=cds-ETQ55246.1;Parent=gene-P658_1381;Dbxref=NCBI_GP:ETQ55246.1;Name=ETQ55246.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=P658_1381;product=hypothetical protein;protein_id=ETQ55246.1;transl_table=11
+

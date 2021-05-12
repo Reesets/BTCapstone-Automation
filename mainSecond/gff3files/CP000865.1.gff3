@@ -1,0 +1,135 @@
+##sequence-region CP000865.1 1 64366
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=405416
+CP000865.1	Genbank	region	1	64366	.	+	.	ID=CP000865.1:1..64366;Dbxref=taxon:405416;Is_circular=true;Name=pACICU2;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=pACICU2;strain=ACICU
+CP000865.1	Genbank	gene	195	1307	.	+	.	ID=gene-ACICU_p0032;Name=ACICU_p0032;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0032
+CP000865.1	Genbank	CDS	195	1307	.	+	0	ID=cds-ACC59008.1;Parent=gene-ACICU_p0032;Dbxref=NCBI_GP:ACC59008.1;Name=ACC59008.1;gbkey=CDS;locus_tag=ACICU_p0032;product=plasmid replicase protein;protein_id=ACC59008.1;transl_table=11
+CP000865.1	Genbank	gene	1669	2277	.	+	.	ID=gene-ACICU_p0033;Name=ACICU_p0033;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0033
+CP000865.1	Genbank	CDS	1669	2277	.	+	0	ID=cds-ACC59009.1;Parent=gene-ACICU_p0033;Dbxref=NCBI_GP:ACC59009.1;Name=ACC59009.1;gbkey=CDS;locus_tag=ACICU_p0033;product=Zeta toxin family protein;protein_id=ACC59009.1;transl_table=11
+CP000865.1	Genbank	gene	2253	2750	.	+	.	ID=gene-ACICU_p0034;Name=ACICU_p0034;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0034
+CP000865.1	Genbank	CDS	2253	2750	.	+	0	ID=cds-ACC59010.1;Parent=gene-ACICU_p0034;Dbxref=NCBI_GP:ACC59010.1;Name=ACC59010.1;gbkey=CDS;locus_tag=ACICU_p0034;product=Hypothetical protein;protein_id=ACC59010.1;transl_table=11
+CP000865.1	Genbank	gene	2766	4031	.	+	.	ID=gene-ACICU_p0035;Name=ACICU_p0035;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0035
+CP000865.1	Genbank	CDS	2766	4031	.	+	0	ID=cds-ACC59011.1;Parent=gene-ACICU_p0035;Dbxref=NCBI_GP:ACC59011.1;Name=ACC59011.1;gbkey=CDS;locus_tag=ACICU_p0035;product=Uncharacterized conserved protein;protein_id=ACC59011.1;transl_table=11
+CP000865.1	Genbank	gene	3997	4521	.	+	.	ID=gene-ACICU_p0036;Name=ACICU_p0036;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0036
+CP000865.1	Genbank	CDS	3997	4521	.	+	0	ID=cds-ACC59012.1;Parent=gene-ACICU_p0036;Dbxref=NCBI_GP:ACC59012.1;Name=ACC59012.1;gbkey=CDS;locus_tag=ACICU_p0036;product=Hypothetical protein;protein_id=ACC59012.1;transl_table=11
+CP000865.1	Genbank	gene	4566	4946	.	+	.	ID=gene-ACICU_p0037;Name=ACICU_p0037;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0037
+CP000865.1	Genbank	CDS	4566	4946	.	+	0	ID=cds-ACC59013.1;Parent=gene-ACICU_p0037;Dbxref=NCBI_GP:ACC59013.1;Name=ACC59013.1;gbkey=CDS;locus_tag=ACICU_p0037;product=Hypothetical protein;protein_id=ACC59013.1;transl_table=11
+CP000865.1	Genbank	gene	5100	5474	.	+	.	ID=gene-ACICU_p0038;Name=ACICU_p0038;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0038
+CP000865.1	Genbank	CDS	5100	5474	.	+	0	ID=cds-ACC59014.1;Parent=gene-ACICU_p0038;Dbxref=NCBI_GP:ACC59014.1;Name=ACC59014.1;gbkey=CDS;locus_tag=ACICU_p0038;product=Hypothetical protein;protein_id=ACC59014.1;transl_table=11
+CP000865.1	Genbank	gene	5646	6242	.	+	.	ID=gene-ACICU_p0039;Name=ACICU_p0039;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0039
+CP000865.1	Genbank	CDS	5646	6242	.	+	0	ID=cds-ACC59015.1;Parent=gene-ACICU_p0039;Dbxref=NCBI_GP:ACC59015.1;Name=ACC59015.1;gbkey=CDS;locus_tag=ACICU_p0039;product=Hypothetical protein;protein_id=ACC59015.1;transl_table=11
+CP000865.1	Genbank	gene	6881	7357	.	+	.	ID=gene-ACICU_p0040;Name=ACICU_p0040;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0040
+CP000865.1	Genbank	CDS	6881	7357	.	+	0	ID=cds-ACC59016.1;Parent=gene-ACICU_p0040;Dbxref=NCBI_GP:ACC59016.1;Name=ACC59016.1;Note=Similar to Micrococcal nuclease~COG:COG1525;gbkey=CDS;locus_tag=ACICU_p0040;product=Thermonuclease protein;protein_id=ACC59016.1;transl_table=11
+CP000865.1	Genbank	gene	7423	7749	.	+	.	ID=gene-ACICU_p0041;Name=ACICU_p0041;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0041
+CP000865.1	Genbank	CDS	7423	7749	.	+	0	ID=cds-ACC59017.1;Parent=gene-ACICU_p0041;Dbxref=NCBI_GP:ACC59017.1;Name=ACC59017.1;gbkey=CDS;locus_tag=ACICU_p0041;product=Putative DNA binding protein;protein_id=ACC59017.1;transl_table=11
+CP000865.1	Genbank	gene	8656	9060	.	+	.	ID=gene-ACICU_p0042;Name=ACICU_p0042;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0042
+CP000865.1	Genbank	CDS	8656	9060	.	+	0	ID=cds-ACC59018.1;Parent=gene-ACICU_p0042;Dbxref=NCBI_GP:ACC59018.1;Name=ACC59018.1;gbkey=CDS;locus_tag=ACICU_p0042;product=Hypothetical protein;protein_id=ACC59018.1;transl_table=11
+CP000865.1	Genbank	gene	9179	9667	.	+	.	ID=gene-ACICU_p0043;Name=ACICU_p0043;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0043
+CP000865.1	Genbank	CDS	9179	9667	.	+	0	ID=cds-ACC59019.1;Parent=gene-ACICU_p0043;Dbxref=NCBI_GP:ACC59019.1;Name=ACC59019.1;Note=putative phage associated protein;gbkey=CDS;locus_tag=ACICU_p0043;product=Conserved hypothetical protein;protein_id=ACC59019.1;transl_table=11
+CP000865.1	Genbank	gene	10849	11346	.	+	.	ID=gene-ACICU_p0044;Name=ACICU_p0044;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0044
+CP000865.1	Genbank	CDS	10849	11346	.	+	0	ID=cds-ACC59020.1;Parent=gene-ACICU_p0044;Dbxref=NCBI_GP:ACC59020.1;Name=ACC59020.1;gbkey=CDS;locus_tag=ACICU_p0044;product=Hypothetical protein;protein_id=ACC59020.1;transl_table=11
+CP000865.1	Genbank	gene	11375	11785	.	+	.	ID=gene-ACICU_p0045;Name=ACICU_p0045;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0045
+CP000865.1	Genbank	CDS	11375	11785	.	+	0	ID=cds-ACC59021.1;Parent=gene-ACICU_p0045;Dbxref=NCBI_GP:ACC59021.1;Name=ACC59021.1;gbkey=CDS;locus_tag=ACICU_p0045;product=Uncharacterized conserved protein;protein_id=ACC59021.1;transl_table=11
+CP000865.1	Genbank	gene	11712	12149	.	+	.	ID=gene-ACICU_p0046;Name=ACICU_p0046;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0046
+CP000865.1	Genbank	CDS	11712	12149	.	+	0	ID=cds-ACC59022.1;Parent=gene-ACICU_p0046;Dbxref=NCBI_GP:ACC59022.1;Name=ACC59022.1;gbkey=CDS;locus_tag=ACICU_p0046;product=Uncharacterized conserved protein;protein_id=ACC59022.1;transl_table=11
+CP000865.1	Genbank	gene	12342	13115	.	+	.	ID=gene-ACICU_p0047;Name=ACICU_p0047;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0047
+CP000865.1	Genbank	CDS	12342	13115	.	+	0	ID=cds-ACC59023.1;Parent=gene-ACICU_p0047;Dbxref=NCBI_GP:ACC59023.1;Name=ACC59023.1;Note=COG:COG1192;gbkey=CDS;locus_tag=ACICU_p0047;product=ATPases involved in chromosome partitioning;protein_id=ACC59023.1;transl_table=11
+CP000865.1	Genbank	gene	13119	14375	.	+	.	ID=gene-ACICU_p0048;Name=ACICU_p0048;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0048
+CP000865.1	Genbank	CDS	13119	14375	.	+	0	ID=cds-ACC59024.1;Parent=gene-ACICU_p0048;Dbxref=NCBI_GP:ACC59024.1;Name=ACC59024.1;Note=COG:COG1475;gbkey=CDS;locus_tag=ACICU_p0048;product=Predicted transcriptional regulator;protein_id=ACC59024.1;transl_table=11
+CP000865.1	Genbank	gene	14511	15740	.	+	.	ID=gene-ACICU_p0049;Name=ACICU_p0049;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0049
+CP000865.1	Genbank	CDS	14511	15740	.	+	0	ID=cds-ACC59025.1;Parent=gene-ACICU_p0049;Dbxref=NCBI_GP:ACC59025.1;Name=ACC59025.1;gbkey=CDS;locus_tag=ACICU_p0049;product=Hypothetical protein;protein_id=ACC59025.1;transl_table=11
+CP000865.1	Genbank	gene	16337	17440	.	+	.	ID=gene-ACICU_p0050;Name=ACICU_p0050;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0050
+CP000865.1	Genbank	CDS	16337	17440	.	+	0	ID=cds-ACC59026.1;Parent=gene-ACICU_p0050;Dbxref=NCBI_GP:ACC59026.1;Name=ACC59026.1;Note=COG:COG3853;gbkey=CDS;locus_tag=ACICU_p0050;product=Conserved protein involved in tellurite resistance;protein_id=ACC59026.1;transl_table=11
+CP000865.1	Genbank	gene	17587	18732	.	+	.	ID=gene-ACICU_p0051;Name=ACICU_p0051;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0051
+CP000865.1	Genbank	CDS	17587	18732	.	+	0	ID=cds-ACC59027.1;Parent=gene-ACICU_p0051;Dbxref=NCBI_GP:ACC59027.1;Name=ACC59027.1;gbkey=CDS;locus_tag=ACICU_p0051;product=Hypothetical protein;protein_id=ACC59027.1;transl_table=11
+CP000865.1	Genbank	gene	19842	20471	.	+	.	ID=gene-ACICU_p0052;Name=ACICU_p0052;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0052
+CP000865.1	Genbank	CDS	19842	20471	.	+	0	ID=cds-ACC59028.1;Parent=gene-ACICU_p0052;Dbxref=NCBI_GP:ACC59028.1;Name=ACC59028.1;gbkey=CDS;locus_tag=ACICU_p0052;product=Hypothetical protein;protein_id=ACC59028.1;transl_table=11
+CP000865.1	Genbank	gene	20748	21302	.	+	.	ID=gene-ACICU_p0053;Name=ACICU_p0053;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0053
+CP000865.1	Genbank	CDS	20748	21302	.	+	0	ID=cds-ACC59029.1;Parent=gene-ACICU_p0053;Dbxref=NCBI_GP:ACC59029.1;Name=ACC59029.1;gbkey=CDS;locus_tag=ACICU_p0053;product=Hypothetical protein;protein_id=ACC59029.1;transl_table=11
+CP000865.1	Genbank	gene	21352	21888	.	+	.	ID=gene-ACICU_p0054;Name=ACICU_p0054;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0054
+CP000865.1	Genbank	CDS	21352	21888	.	+	0	ID=cds-ACC59030.1;Parent=gene-ACICU_p0054;Dbxref=NCBI_GP:ACC59030.1;Name=ACC59030.1;gbkey=CDS;locus_tag=ACICU_p0054;product=Hypothetical protein;protein_id=ACC59030.1;transl_table=11
+CP000865.1	Genbank	gene	23522	24100	.	+	.	ID=gene-ACICU_p0055;Name=ACICU_p0055;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0055
+CP000865.1	Genbank	CDS	23522	24100	.	+	0	ID=cds-ACC59031.1;Parent=gene-ACICU_p0055;Dbxref=NCBI_GP:ACC59031.1;Name=ACC59031.1;gbkey=CDS;locus_tag=ACICU_p0055;product=Conserved protein;protein_id=ACC59031.1;transl_table=11
+CP000865.1	Genbank	gene	25090	25506	.	-	.	ID=gene-ACICU_p0056;Name=ACICU_p0056;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0056
+CP000865.1	Genbank	CDS	25090	25506	.	-	0	ID=cds-ACC59032.1;Parent=gene-ACICU_p0056;Dbxref=NCBI_GP:ACC59032.1;Name=ACC59032.1;gbkey=CDS;locus_tag=ACICU_p0056;product=Hypothetical protein;protein_id=ACC59032.1;transl_table=11
+CP000865.1	Genbank	gene	26017	26553	.	+	.	ID=gene-ACICU_p0057;Name=ACICU_p0057;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0057
+CP000865.1	Genbank	CDS	26017	26553	.	+	0	ID=cds-ACC59033.1;Parent=gene-ACICU_p0057;Dbxref=NCBI_GP:ACC59033.1;Name=ACC59033.1;gbkey=CDS;locus_tag=ACICU_p0057;product=Hypothetical protein;protein_id=ACC59033.1;transl_table=11
+CP000865.1	Genbank	gene	26558	28717	.	+	.	ID=gene-ACICU_p0058;Name=ACICU_p0058;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0058
+CP000865.1	Genbank	CDS	26558	28717	.	+	0	ID=cds-ACC59034.1;Parent=gene-ACICU_p0058;Dbxref=NCBI_GP:ACC59034.1;Name=ACC59034.1;Note=COG:COG3505;gbkey=CDS;locus_tag=ACICU_p0058;product=Type IV secretory pathway%2C VirD4 component;protein_id=ACC59034.1;transl_table=11
+CP000865.1	Genbank	gene	28729	30879	.	+	.	ID=gene-ACICU_p0059;Name=ACICU_p0059;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0059
+CP000865.1	Genbank	CDS	28729	30879	.	+	0	ID=cds-ACC59035.1;Parent=gene-ACICU_p0059;Dbxref=NCBI_GP:ACC59035.1;Name=ACC59035.1;Note=COG:COG0507;gbkey=CDS;locus_tag=ACICU_p0059;product=TrwC protein;protein_id=ACC59035.1;transl_table=11
+CP000865.1	Genbank	gene	30845	31981	.	+	.	ID=gene-ACICU_p0060;Name=ACICU_p0060;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0060
+CP000865.1	Genbank	CDS	30845	31981	.	+	0	ID=cds-ACC59036.1;Parent=gene-ACICU_p0060;Dbxref=NCBI_GP:ACC59036.1;Name=ACC59036.1;Note=COG:TrwC protein;gbkey=CDS;locus_tag=ACICU_p0060;product=TrwC protein;protein_id=ACC59036.1;transl_table=11
+CP000865.1	Genbank	gene	32072	32497	.	+	.	ID=gene-ACICU_p0061;Name=ACICU_p0061;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0061
+CP000865.1	Genbank	CDS	32072	32497	.	+	0	ID=cds-ACC59037.1;Parent=gene-ACICU_p0061;Dbxref=NCBI_GP:ACC59037.1;Name=ACC59037.1;gbkey=CDS;locus_tag=ACICU_p0061;product=Hypothetical protein;protein_id=ACC59037.1;transl_table=11
+CP000865.1	Genbank	gene	32551	32877	.	-	.	ID=gene-ACICU_p0062;Name=ACICU_p0062;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0062
+CP000865.1	Genbank	CDS	32551	32877	.	-	0	ID=cds-ACC59038.1;Parent=gene-ACICU_p0062;Dbxref=NCBI_GP:ACC59038.1;Name=ACC59038.1;gbkey=CDS;locus_tag=ACICU_p0062;product=Hypothetical protein;protein_id=ACC59038.1;transl_table=11
+CP000865.1	Genbank	gene	32915	33481	.	-	.	ID=gene-ACICU_p0063;Name=ACICU_p0063;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0063
+CP000865.1	Genbank	CDS	32915	33481	.	-	0	ID=cds-ACC59039.1;Parent=gene-ACICU_p0063;Dbxref=NCBI_GP:ACC59039.1;Name=ACC59039.1;gbkey=CDS;locus_tag=ACICU_p0063;product=Hypothetical protein;protein_id=ACC59039.1;transl_table=11
+CP000865.1	Genbank	gene	34017	34469	.	-	.	ID=gene-ACICU_p0064;Name=ACICU_p0064;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0064
+CP000865.1	Genbank	CDS	34017	34469	.	-	0	ID=cds-ACC59040.1;Parent=gene-ACICU_p0064;Dbxref=NCBI_GP:ACC59040.1;Name=ACC59040.1;gbkey=CDS;locus_tag=ACICU_p0064;product=Hypothetical protein;protein_id=ACC59040.1;transl_table=11
+CP000865.1	Genbank	mobile_genetic_element	34926	35994	.	+	.	ID=id-CP000865.1:34926..35994;gbkey=mobile_element;mobile_element_type=insertion sequence:ISAba125
+CP000865.1	Genbank	inverted_repeat	34926	34975	.	+	.	ID=id-CP000865.1:34926..34975;Note=IRL;gbkey=repeat_region;rpt_type=Inverted
+CP000865.1	Genbank	gene	35028	35996	.	+	.	ID=gene-ACICU_p0065;Name=ACICU_p0065;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0065
+CP000865.1	Genbank	CDS	35028	35996	.	+	0	ID=cds-ACC59041.1;Parent=gene-ACICU_p0065;Dbxref=NCBI_GP:ACC59041.1;Name=ACC59041.1;Note=COG:COG2826;gbkey=CDS;locus_tag=ACICU_p0065;product=Transposase of Transposase%2C IS30 family;protein_id=ACC59041.1;transl_table=11
+CP000865.1	Genbank	inverted_repeat	35945	35994	.	+	.	ID=id-ACICU_p0065;Note=IRR;gbkey=repeat_region;locus_tag=ACICU_p0065;rpt_type=Inverted
+CP000865.1	Genbank	gene	36619	36933	.	-	.	ID=gene-ACICU_p0066;Name=ACICU_p0066;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0066
+CP000865.1	Genbank	CDS	36619	36933	.	-	0	ID=cds-ACC59042.1;Parent=gene-ACICU_p0066;Dbxref=NCBI_GP:ACC59042.1;Name=ACC59042.1;gbkey=CDS;locus_tag=ACICU_p0066;product=Hypothetical protein;protein_id=ACC59042.1;transl_table=11
+CP000865.1	Genbank	gene	37558	38049	.	+	.	ID=gene-ACICU_p0067;Name=ACICU_p0067;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0067
+CP000865.1	Genbank	CDS	37558	38049	.	+	0	ID=cds-ACC59043.1;Parent=gene-ACICU_p0067;Dbxref=NCBI_GP:ACC59043.1;Name=ACC59043.1;gbkey=CDS;locus_tag=ACICU_p0067;product=Resolvase%2C N-terminal domain;protein_id=ACC59043.1;transl_table=11
+CP000865.1	Genbank	gene	38213	38644	.	-	.	ID=gene-ACICU_p0068;Name=ACICU_p0068;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0068
+CP000865.1	Genbank	CDS	38213	38644	.	-	0	ID=cds-ACC59044.1;Parent=gene-ACICU_p0068;Dbxref=NCBI_GP:ACC59044.1;Name=ACC59044.1;gbkey=CDS;locus_tag=ACICU_p0068;product=Hypothetical protein;protein_id=ACC59044.1;transl_table=11
+CP000865.1	Genbank	gene	38670	39038	.	-	.	ID=gene-ACICU_p0069;Name=ACICU_p0069;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0069
+CP000865.1	Genbank	CDS	38670	39038	.	-	0	ID=cds-ACC59045.1;Parent=gene-ACICU_p0069;Dbxref=NCBI_GP:ACC59045.1;Name=ACC59045.1;gbkey=CDS;locus_tag=ACICU_p0069;product=Hypothetical protein;protein_id=ACC59045.1;transl_table=11
+CP000865.1	Genbank	gene	39235	39861	.	+	.	ID=gene-ACICU_p0070;Name=ACICU_p0070;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0070
+CP000865.1	Genbank	CDS	39235	39861	.	+	0	ID=cds-ACC59046.1;Parent=gene-ACICU_p0070;Dbxref=NCBI_GP:ACC59046.1;Name=ACC59046.1;Note=some contain LysM/invasin domains~COG:COG0741;gbkey=CDS;locus_tag=ACICU_p0070;product=Soluble lytic murein transglycosylase;protein_id=ACC59046.1;transl_table=11
+CP000865.1	Genbank	gene	40165	40518	.	+	.	ID=gene-ACICU_p0071;Name=ACICU_p0071;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0071
+CP000865.1	Genbank	CDS	40165	40518	.	+	0	ID=cds-ACC59047.1;Parent=gene-ACICU_p0071;Dbxref=NCBI_GP:ACC59047.1;Name=ACC59047.1;gbkey=CDS;locus_tag=ACICU_p0071;product=Hypothetical protein;protein_id=ACC59047.1;transl_table=11
+CP000865.1	Genbank	gene	40539	40832	.	+	.	ID=gene-ACICU_p0072;Name=ACICU_p0072;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0072
+CP000865.1	Genbank	CDS	40539	40832	.	+	0	ID=cds-ACC59048.1;Parent=gene-ACICU_p0072;Dbxref=NCBI_GP:ACC59048.1;Name=ACC59048.1;gbkey=CDS;locus_tag=ACICU_p0072;product=TraL;protein_id=ACC59048.1;transl_table=11
+CP000865.1	Genbank	gene	40837	41415	.	+	.	ID=gene-ACICU_p0073;Name=ACICU_p0073;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0073
+CP000865.1	Genbank	CDS	40837	41415	.	+	0	ID=cds-ACC59049.1;Parent=gene-ACICU_p0073;Dbxref=NCBI_GP:ACC59049.1;Name=ACC59049.1;Note=Similar to Acidovorax sp. JS42 protein;gbkey=CDS;locus_tag=ACICU_p0073;product=Conserved hypothetical protein;protein_id=ACC59049.1;transl_table=11
+CP000865.1	Genbank	gene	41396	42118	.	+	.	ID=gene-ACICU_p0074;Name=ACICU_p0074;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0074
+CP000865.1	Genbank	CDS	41396	42118	.	+	0	ID=cds-ACC59050.1;Parent=gene-ACICU_p0074;Dbxref=NCBI_GP:ACC59050.1;Name=ACC59050.1;Note=Similar to Acidovorax sp. JS42 protein;gbkey=CDS;locus_tag=ACICU_p0074;product=Conserved hypothetical protein;protein_id=ACC59050.1;transl_table=11
+CP000865.1	Genbank	gene	42128	43444	.	+	.	ID=gene-ACICU_p0075;Name=ACICU_p0075;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0075
+CP000865.1	Genbank	CDS	42128	43444	.	+	0	ID=cds-ACC59051.1;Parent=gene-ACICU_p0075;Dbxref=NCBI_GP:ACC59051.1;Name=ACC59051.1;gbkey=CDS;locus_tag=ACICU_p0075;product=TraB pilus assembly family protein;protein_id=ACC59051.1;transl_table=11
+CP000865.1	Genbank	gene	43606	44166	.	+	.	ID=gene-ACICU_p0076;Name=ACICU_p0076;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0076
+CP000865.1	Genbank	CDS	43606	44166	.	+	0	ID=cds-ACC59052.1;Parent=gene-ACICU_p0076;Dbxref=NCBI_GP:ACC59052.1;Name=ACC59052.1;Note=COG:COG1651;gbkey=CDS;locus_tag=ACICU_p0076;product=Protein-disulfide isomerase;protein_id=ACC59052.1;transl_table=11
+CP000865.1	Genbank	gene	44470	45114	.	+	.	ID=gene-ACICU_p0077;Name=ACICU_p0077;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0077
+CP000865.1	Genbank	CDS	44470	45114	.	+	0	ID=cds-ACC59053.1;Parent=gene-ACICU_p0077;Dbxref=NCBI_GP:ACC59053.1;Name=ACC59053.1;gbkey=CDS;locus_tag=ACICU_p0077;product=membrane lipoprotein lipid attachment site;protein_id=ACC59053.1;transl_table=11
+CP000865.1	Genbank	gene	45124	47850	.	+	.	ID=gene-ACICU_p0078;Name=ACICU_p0078;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0078
+CP000865.1	Genbank	CDS	45124	47850	.	+	0	ID=cds-ACC59054.1;Parent=gene-ACICU_p0078;Dbxref=NCBI_GP:ACC59054.1;Name=ACC59054.1;Note=COG:COG3451;gbkey=CDS;locus_tag=ACICU_p0078;product=Type IV secretory pathway%2C VirB4 component;protein_id=ACC59054.1;transl_table=11
+CP000865.1	Genbank	gene	47847	48242	.	+	.	ID=gene-ACICU_p0079;Name=ACICU_p0079;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0079
+CP000865.1	Genbank	CDS	47847	48242	.	+	0	ID=cds-ACC59055.1;Parent=gene-ACICU_p0079;Dbxref=NCBI_GP:ACC59055.1;Name=ACC59055.1;gbkey=CDS;locus_tag=ACICU_p0079;product=Hypothetical protein;protein_id=ACC59055.1;transl_table=11
+CP000865.1	Genbank	gene	48777	49415	.	+	.	ID=gene-ACICU_p0080;Name=ACICU_p0080;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0080
+CP000865.1	Genbank	CDS	48777	49415	.	+	0	ID=cds-ACC59056.1;Parent=gene-ACICU_p0080;Dbxref=NCBI_GP:ACC59056.1;Name=ACC59056.1;Note=Similar to Acidovorax sp. JS42 protein;gbkey=CDS;locus_tag=ACICU_p0080;product=Conserved hypothetical protein;protein_id=ACC59056.1;transl_table=11
+CP000865.1	Genbank	gene	49412	50455	.	+	.	ID=gene-ACICU_p0081;Name=ACICU_p0081;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0081
+CP000865.1	Genbank	CDS	49412	50455	.	+	0	ID=cds-ACC59057.1;Parent=gene-ACICU_p0081;Dbxref=NCBI_GP:ACC59057.1;Name=ACC59057.1;gbkey=CDS;locus_tag=ACICU_p0081;product=TraU family protein;protein_id=ACC59057.1;transl_table=11
+CP000865.1	Genbank	gene	50470	51177	.	+	.	ID=gene-ACICU_p0082;Name=ACICU_p0082;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0082
+CP000865.1	Genbank	CDS	50470	51177	.	+	0	ID=cds-ACC59058.1;Parent=gene-ACICU_p0082;Dbxref=NCBI_GP:ACC59058.1;Name=ACC59058.1;Note=Similar to Acidovorax sp. JS42 protein;gbkey=CDS;locus_tag=ACICU_p0082;product=Conserved hypothetical protein;protein_id=ACC59058.1;transl_table=11
+CP000865.1	Genbank	gene	51223	51882	.	+	.	ID=gene-ACICU_p0083;Name=ACICU_p0083;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0083
+CP000865.1	Genbank	CDS	51223	51882	.	+	0	ID=cds-ACC59059.1;Parent=gene-ACICU_p0083;Dbxref=NCBI_GP:ACC59059.1;Name=ACC59059.1;Note=Similar to Acidovorax sp. JS42 protein;gbkey=CDS;locus_tag=ACICU_p0083;product=Conserved hypothetical protein;protein_id=ACC59059.1;transl_table=11
+CP000865.1	Genbank	gene	51968	53233	.	+	.	ID=gene-ACICU_p0084;Name=ACICU_p0084;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0084
+CP000865.1	Genbank	CDS	51968	53233	.	+	0	ID=cds-ACC59060.1;Parent=gene-ACICU_p0084;Dbxref=NCBI_GP:ACC59060.1;Name=ACC59060.1;gbkey=CDS;locus_tag=ACICU_p0084;product=Mating pair stabilisation TraN;protein_id=ACC59060.1;transl_table=11
+CP000865.1	Genbank	gene	53250	54038	.	+	.	ID=gene-ACICU_p0085;Name=ACICU_p0085;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0085
+CP000865.1	Genbank	CDS	53250	54038	.	+	0	ID=cds-ACC59061.1;Parent=gene-ACICU_p0085;Dbxref=NCBI_GP:ACC59061.1;Name=ACC59061.1;Note=Similar to Acidovorax sp. JS42 protein;gbkey=CDS;locus_tag=ACICU_p0085;product=Conserved hypothetical protein;protein_id=ACC59061.1;transl_table=11
+CP000865.1	Genbank	gene	54077	54406	.	+	.	ID=gene-ACICU_p0086;Name=ACICU_p0086;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0086
+CP000865.1	Genbank	CDS	54077	54406	.	+	0	ID=cds-ACC59062.1;Parent=gene-ACICU_p0086;Dbxref=NCBI_GP:ACC59062.1;Name=ACC59062.1;gbkey=CDS;locus_tag=ACICU_p0086;product=Hypothetical protein;protein_id=ACC59062.1;transl_table=11
+CP000865.1	Genbank	gene	54440	54976	.	+	.	ID=gene-ACICU_p0087;Name=ACICU_p0087;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0087
+CP000865.1	Genbank	CDS	54440	54976	.	+	0	ID=cds-ACC59063.1;Parent=gene-ACICU_p0087;Dbxref=NCBI_GP:ACC59063.1;Name=ACC59063.1;gbkey=CDS;locus_tag=ACICU_p0087;product=TraH family protein;protein_id=ACC59063.1;transl_table=11
+CP000865.1	Genbank	gene	54988	55869	.	+	.	ID=gene-ACICU_p0088;Name=ACICU_p0088;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0088
+CP000865.1	Genbank	CDS	54988	55869	.	+	0	ID=cds-ACC59064.1;Parent=gene-ACICU_p0088;Dbxref=NCBI_GP:ACC59064.1;Name=ACC59064.1;gbkey=CDS;locus_tag=ACICU_p0088;product=TraH family protein;protein_id=ACC59064.1;transl_table=11
+CP000865.1	Genbank	gene	55885	58887	.	+	.	ID=gene-ACICU_p0089;Name=ACICU_p0089;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0089
+CP000865.1	Genbank	CDS	55885	58887	.	+	0	ID=cds-ACC59065.1;Parent=gene-ACICU_p0089;Dbxref=NCBI_GP:ACC59065.1;Name=ACC59065.1;gbkey=CDS;locus_tag=ACICU_p0089;product=TraG domain protein;protein_id=ACC59065.1;transl_table=11
+CP000865.1	Genbank	gene	59509	60501	.	-	.	ID=gene-ACICU_p0090;Name=ACICU_p0090;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0090
+CP000865.1	Genbank	CDS	59509	60501	.	-	0	ID=cds-ACC59066.1;Parent=gene-ACICU_p0090;Dbxref=NCBI_GP:ACC59066.1;Name=ACC59066.1;gbkey=CDS;locus_tag=ACICU_p0090;product=Uncharacterized conserved protein;protein_id=ACC59066.1;transl_table=11
+CP000865.1	Genbank	gene	60668	61354	.	+	.	ID=gene-ACICU_p0091;Name=ACICU_p0091;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0091
+CP000865.1	Genbank	CDS	60668	61354	.	+	0	ID=cds-ACC59067.1;Parent=gene-ACICU_p0091;Dbxref=NCBI_GP:ACC59067.1;Name=ACC59067.1;Note=COG:COG0389;gbkey=CDS;locus_tag=ACICU_p0091;product=Nucleotidyltransferase/DNA polymerase involved in DNA repair;protein_id=ACC59067.1;transl_table=11
+CP000865.1	Genbank	gene	61324	62109	.	+	.	ID=gene-ACICU_p0092;Name=ACICU_p0092;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0092
+CP000865.1	Genbank	CDS	61324	62109	.	+	0	ID=cds-ACC59068.1;Parent=gene-ACICU_p0092;Dbxref=NCBI_GP:ACC59068.1;Name=ACC59068.1;Note=COG:COG0389;gbkey=CDS;locus_tag=ACICU_p0092;product=Nucleotidyltransferase/DNA polymerase involved in DNA repair;protein_id=ACC59068.1;transl_table=11
+CP000865.1	Genbank	gene	62157	62579	.	+	.	ID=gene-ACICU_p0093;Name=ACICU_p0093;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0093
+CP000865.1	Genbank	CDS	62157	62579	.	+	0	ID=cds-ACC59069.1;Parent=gene-ACICU_p0093;Dbxref=NCBI_GP:ACC59069.1;Name=ACC59069.1;gbkey=CDS;locus_tag=ACICU_p0093;product=Hypothetical protein;protein_id=ACC59069.1;transl_table=11
+CP000865.1	Genbank	gene	62592	63275	.	+	.	ID=gene-ACICU_p0094;Name=ACICU_p0094;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0094
+CP000865.1	Genbank	CDS	62592	63275	.	+	0	ID=cds-ACC59070.1;Parent=gene-ACICU_p0094;Dbxref=NCBI_GP:ACC59070.1;Name=ACC59070.1;gbkey=CDS;locus_tag=ACICU_p0094;product=Uncharacterized conserved protein;protein_id=ACC59070.1;transl_table=11
+CP000865.1	Genbank	gene	63520	63819	.	-	.	ID=gene-ACICU_p0095;Name=ACICU_p0095;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACICU_p0095
+CP000865.1	Genbank	CDS	63520	63819	.	-	0	ID=cds-ACC59071.1;Parent=gene-ACICU_p0095;Dbxref=NCBI_GP:ACC59071.1;Name=ACC59071.1;gbkey=CDS;locus_tag=ACICU_p0095;product=Hypothetical protein;protein_id=ACC59071.1;transl_table=11
+

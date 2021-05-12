@@ -1,0 +1,26 @@
+##sequence-region CP000522.1 1 13408
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=400667
+CP000522.1	Genbank	region	1	13408	.	+	.	ID=CP000522.1:1..13408;Dbxref=ATCC:17978,taxon:400667;Is_circular=true;Name=pAB1;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=pAB1;strain=ATCC 17978
+CP000522.1	Genbank	gene	1	957	.	+	.	ID=gene-A1S_3471;Name=A1S_3471;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A1S_3471
+CP000522.1	Genbank	CDS	1	957	.	+	0	ID=cds-ABO13860.1;Parent=gene-A1S_3471;Dbxref=NCBI_GP:ABO13860.1;Name=ABO13860.1;gbkey=CDS;locus_tag=A1S_3471;product=hypothetical protein;protein_id=ABO13860.1;transl_table=11
+CP000522.1	Genbank	gene	950	1504	.	+	.	ID=gene-A1S_3461;Name=A1S_3461;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A1S_3461
+CP000522.1	Genbank	CDS	950	1504	.	+	0	ID=cds-ABO13850.1;Parent=gene-A1S_3461;Dbxref=NCBI_GP:ABO13850.1;Name=ABO13850.1;gbkey=CDS;locus_tag=A1S_3461;product=DNA replication protein;protein_id=ABO13850.1;transl_table=11
+CP000522.1	Genbank	gene	2523	3437	.	-	.	ID=gene-A1S_3462;Name=A1S_3462;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A1S_3462
+CP000522.1	Genbank	CDS	2523	3437	.	-	0	ID=cds-ABO13851.1;Parent=gene-A1S_3462;Dbxref=NCBI_GP:ABO13851.1;Name=ABO13851.1;gbkey=CDS;locus_tag=A1S_3462;product=hypothetical protein;protein_id=ABO13851.1;transl_table=11
+CP000522.1	Genbank	gene	3538	4788	.	+	.	ID=gene-A1S_3463;Name=A1S_3463;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A1S_3463
+CP000522.1	Genbank	CDS	3538	4788	.	+	0	ID=cds-ABO13852.1;Parent=gene-A1S_3463;Dbxref=NCBI_GP:ABO13852.1;Name=ABO13852.1;gbkey=CDS;locus_tag=A1S_3463;product=YPPCP.09C-like protein;protein_id=ABO13852.1;transl_table=11
+CP000522.1	Genbank	gene	5039	5629	.	+	.	ID=gene-A1S_3464;Name=A1S_3464;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A1S_3464
+CP000522.1	Genbank	CDS	5039	5629	.	+	0	ID=cds-ABO13853.1;Parent=gene-A1S_3464;Dbxref=NCBI_GP:ABO13853.1;Name=ABO13853.1;gbkey=CDS;locus_tag=A1S_3464;product=Cro-like protein;protein_id=ABO13853.1;transl_table=11
+CP000522.1	Genbank	gene	6340	6906	.	-	.	ID=gene-A1S_3465;Name=A1S_3465;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A1S_3465
+CP000522.1	Genbank	CDS	6340	6906	.	-	0	ID=cds-ABO13854.1;Parent=gene-A1S_3465;Dbxref=NCBI_GP:ABO13854.1;Name=ABO13854.1;gbkey=CDS;locus_tag=A1S_3465;product=hypothetical protein;protein_id=ABO13854.1;transl_table=11
+CP000522.1	Genbank	gene	7074	7685	.	-	.	ID=gene-A1S_3466;Name=A1S_3466;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A1S_3466
+CP000522.1	Genbank	CDS	7074	7685	.	-	0	ID=cds-ABO13855.1;Parent=gene-A1S_3466;Dbxref=NCBI_GP:ABO13855.1;Name=ABO13855.1;gbkey=CDS;locus_tag=A1S_3466;product=Resolvase;protein_id=ABO13855.1;transl_table=11
+CP000522.1	Genbank	gene	8602	9732	.	-	.	ID=gene-A1S_3467;Name=A1S_3467;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A1S_3467
+CP000522.1	Genbank	CDS	8602	9732	.	-	0	ID=cds-ABO13856.1;Parent=gene-A1S_3467;Dbxref=NCBI_GP:ABO13856.1;Name=ABO13856.1;gbkey=CDS;locus_tag=A1S_3467;product=hypothetical protein;protein_id=ABO13856.1;transl_table=11
+CP000522.1	Genbank	gene	10072	10374	.	-	.	ID=gene-A1S_3468;Name=A1S_3468;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A1S_3468
+CP000522.1	Genbank	CDS	10072	10374	.	-	0	ID=cds-ABO13857.1;Parent=gene-A1S_3468;Dbxref=NCBI_GP:ABO13857.1;Name=ABO13857.1;gbkey=CDS;locus_tag=A1S_3468;product=putative lipoprotein;protein_id=ABO13857.1;transl_table=11
+CP000522.1	Genbank	gene	10367	10723	.	-	.	ID=gene-A1S_3469;Name=A1S_3469;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A1S_3469
+CP000522.1	Genbank	CDS	10367	10723	.	-	0	ID=cds-ABO13858.1;Parent=gene-A1S_3469;Dbxref=NCBI_GP:ABO13858.1;Name=ABO13858.1;gbkey=CDS;locus_tag=A1S_3469;product=Diaminopimelate decarboxylase;protein_id=ABO13858.1;transl_table=11
+CP000522.1	Genbank	gene	12076	12444	.	-	.	ID=gene-A1S_3470;Name=A1S_3470;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A1S_3470
+CP000522.1	Genbank	CDS	12076	12444	.	-	0	ID=cds-ABO13859.1;Parent=gene-A1S_3470;Dbxref=NCBI_GP:ABO13859.1;Name=ABO13859.1;gbkey=CDS;locus_tag=A1S_3470;product=regulatory protein LysR;protein_id=ABO13859.1;transl_table=11
+

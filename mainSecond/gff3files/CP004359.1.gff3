@@ -1,0 +1,258 @@
+##sequence-region CP004359.1 1 110967
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=889738
+CP004359.1	Genbank	region	1	110967	.	+	.	ID=CP004359.1:1..110967;Dbxref=taxon:889738;Is_circular=true;Name=pABTJ2;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=pABTJ2;strain=MDR-TJ
+CP004359.1	Genbank	gene	565	1686	.	+	.	ID=gene-ABTJ_p2001;Name=ABTJ_p2001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2001
+CP004359.1	Genbank	CDS	565	1686	.	+	0	ID=cds-AGG91013.1;Parent=gene-ABTJ_p2001;Dbxref=NCBI_GP:AGG91013.1;Name=AGG91013.1;gbkey=CDS;locus_tag=ABTJ_p2001;product=Protein involved in initiation of plasmid replication;protein_id=AGG91013.1;transl_table=11
+CP004359.1	Genbank	gene	1803	2534	.	+	.	ID=gene-ABTJ_p2002;Name=ABTJ_p2002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2002
+CP004359.1	Genbank	CDS	1803	2534	.	+	0	ID=cds-AGG91014.1;Parent=gene-ABTJ_p2002;Dbxref=NCBI_GP:AGG91014.1;Name=AGG91014.1;gbkey=CDS;locus_tag=ABTJ_p2002;product=hypothetical protein;protein_id=AGG91014.1;transl_table=11
+CP004359.1	Genbank	gene	2622	3053	.	+	.	ID=gene-ABTJ_p2003;Name=ABTJ_p2003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2003
+CP004359.1	Genbank	CDS	2622	3053	.	+	0	ID=cds-AGG91015.1;Parent=gene-ABTJ_p2003;Dbxref=NCBI_GP:AGG91015.1;Name=AGG91015.1;gbkey=CDS;locus_tag=ABTJ_p2003;product=hypothetical protein;protein_id=AGG91015.1;transl_table=11
+CP004359.1	Genbank	gene	3090	4493	.	+	.	ID=gene-ABTJ_p2004;Name=ABTJ_p2004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2004
+CP004359.1	Genbank	CDS	3090	4493	.	+	0	ID=cds-AGG91016.1;Parent=gene-ABTJ_p2004;Dbxref=NCBI_GP:AGG91016.1;Name=AGG91016.1;gbkey=CDS;locus_tag=ABTJ_p2004;product=Replicative DNA helicase;protein_id=AGG91016.1;transl_table=11
+CP004359.1	Genbank	gene	4581	5675	.	+	.	ID=gene-ABTJ_p2005;Name=ABTJ_p2005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2005
+CP004359.1	Genbank	CDS	4581	5675	.	+	0	ID=cds-AGG91017.1;Parent=gene-ABTJ_p2005;Dbxref=NCBI_GP:AGG91017.1;Name=AGG91017.1;gbkey=CDS;locus_tag=ABTJ_p2005;product=DNA primase (bacterial type);protein_id=AGG91017.1;transl_table=11
+CP004359.1	Genbank	gene	5739	6293	.	+	.	ID=gene-ABTJ_p2006;Name=ABTJ_p2006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2006
+CP004359.1	Genbank	CDS	5739	6293	.	+	0	ID=cds-AGG91018.1;Parent=gene-ABTJ_p2006;Dbxref=NCBI_GP:AGG91018.1;Name=AGG91018.1;gbkey=CDS;locus_tag=ABTJ_p2006;product=hypothetical protein;protein_id=AGG91018.1;transl_table=11
+CP004359.1	Genbank	gene	6293	6784	.	+	.	ID=gene-ABTJ_p2007;Name=ABTJ_p2007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2007
+CP004359.1	Genbank	CDS	6293	6784	.	+	0	ID=cds-AGG91019.1;Parent=gene-ABTJ_p2007;Dbxref=NCBI_GP:AGG91019.1;Name=AGG91019.1;gbkey=CDS;locus_tag=ABTJ_p2007;product=hypothetical protein;protein_id=AGG91019.1;transl_table=11
+CP004359.1	Genbank	gene	6778	7386	.	+	.	ID=gene-ABTJ_p2008;Name=ABTJ_p2008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2008
+CP004359.1	Genbank	CDS	6778	7386	.	+	0	ID=cds-AGG91020.1;Parent=gene-ABTJ_p2008;Dbxref=NCBI_GP:AGG91020.1;Name=AGG91020.1;gbkey=CDS;locus_tag=ABTJ_p2008;product=hypothetical protein;protein_id=AGG91020.1;transl_table=11
+CP004359.1	Genbank	gene	7383	7892	.	+	.	ID=gene-ABTJ_p2009;Name=ABTJ_p2009;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2009
+CP004359.1	Genbank	CDS	7383	7892	.	+	0	ID=cds-AGG91021.1;Parent=gene-ABTJ_p2009;Dbxref=NCBI_GP:AGG91021.1;Name=AGG91021.1;gbkey=CDS;locus_tag=ABTJ_p2009;product=hypothetical protein;protein_id=AGG91021.1;transl_table=11
+CP004359.1	Genbank	gene	7905	9608	.	+	.	ID=gene-ABTJ_p2010;Name=ABTJ_p2010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2010
+CP004359.1	Genbank	CDS	7905	9608	.	+	0	ID=cds-AGG91022.1;Parent=gene-ABTJ_p2010;Dbxref=NCBI_GP:AGG91022.1;Name=AGG91022.1;gbkey=CDS;locus_tag=ABTJ_p2010;product=ATP dependent DNA ligase domain;protein_id=AGG91022.1;transl_table=11
+CP004359.1	Genbank	gene	9648	10220	.	+	.	ID=gene-ABTJ_p2011;Name=ABTJ_p2011;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2011
+CP004359.1	Genbank	CDS	9648	10220	.	+	0	ID=cds-AGG91023.1;Parent=gene-ABTJ_p2011;Dbxref=NCBI_GP:AGG91023.1;Name=AGG91023.1;gbkey=CDS;locus_tag=ABTJ_p2011;product=Guanylate kinase;protein_id=AGG91023.1;transl_table=11
+CP004359.1	Genbank	gene	10293	10913	.	+	.	ID=gene-ABTJ_p2012;Name=ABTJ_p2012;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2012
+CP004359.1	Genbank	CDS	10293	10913	.	+	0	ID=cds-AGG91024.1;Parent=gene-ABTJ_p2012;Dbxref=NCBI_GP:AGG91024.1;Name=AGG91024.1;gbkey=CDS;locus_tag=ABTJ_p2012;product=hypothetical protein;protein_id=AGG91024.1;transl_table=11
+CP004359.1	Genbank	gene	10901	11329	.	-	.	ID=gene-ABTJ_p2013;Name=ABTJ_p2013;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2013
+CP004359.1	Genbank	CDS	10901	11329	.	-	0	ID=cds-AGG91025.1;Parent=gene-ABTJ_p2013;Dbxref=NCBI_GP:AGG91025.1;Name=AGG91025.1;gbkey=CDS;locus_tag=ABTJ_p2013;product=hypothetical protein;protein_id=AGG91025.1;transl_table=11
+CP004359.1	Genbank	gene	11326	12003	.	-	.	ID=gene-ABTJ_p2014;Name=ABTJ_p2014;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2014
+CP004359.1	Genbank	CDS	11326	12003	.	-	0	ID=cds-AGG91026.1;Parent=gene-ABTJ_p2014;Dbxref=NCBI_GP:AGG91026.1;Name=AGG91026.1;gbkey=CDS;locus_tag=ABTJ_p2014;product=ATPases involved in chromosome partitioning;protein_id=AGG91026.1;transl_table=11
+CP004359.1	Genbank	gene	12206	12613	.	+	.	ID=gene-ABTJ_p2015;Name=ABTJ_p2015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2015
+CP004359.1	Genbank	CDS	12206	12613	.	+	0	ID=cds-AGG91027.1;Parent=gene-ABTJ_p2015;Dbxref=NCBI_GP:AGG91027.1;Name=AGG91027.1;gbkey=CDS;locus_tag=ABTJ_p2015;product=hypothetical protein;protein_id=AGG91027.1;transl_table=11
+CP004359.1	Genbank	gene	12618	13202	.	-	.	ID=gene-ABTJ_p2016;Name=ABTJ_p2016;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2016
+CP004359.1	Genbank	CDS	12618	13202	.	-	0	ID=cds-AGG91028.1;Parent=gene-ABTJ_p2016;Dbxref=NCBI_GP:AGG91028.1;Name=AGG91028.1;gbkey=CDS;locus_tag=ABTJ_p2016;product=Site-specific recombinase XerD;protein_id=AGG91028.1;transl_table=11
+CP004359.1	Genbank	gene	13456	13545	.	+	.	ID=gene-ABTJ_p2017;Name=ABTJ_p2017;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2017
+CP004359.1	Genbank	CDS	13456	13545	.	+	0	ID=cds-AGG91029.1;Parent=gene-ABTJ_p2017;Dbxref=NCBI_GP:AGG91029.1;Name=AGG91029.1;gbkey=CDS;locus_tag=ABTJ_p2017;product=hypothetical protein;protein_id=AGG91029.1;transl_table=11
+CP004359.1	Genbank	gene	13542	13961	.	-	.	ID=gene-ABTJ_p2018;Name=ABTJ_p2018;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2018
+CP004359.1	Genbank	CDS	13542	13961	.	-	0	ID=cds-AGG91030.1;Parent=gene-ABTJ_p2018;Dbxref=NCBI_GP:AGG91030.1;Name=AGG91030.1;gbkey=CDS;locus_tag=ABTJ_p2018;product=helix-turn-helix protein;protein_id=AGG91030.1;transl_table=11
+CP004359.1	Genbank	gene	14383	14577	.	+	.	ID=gene-ABTJ_p2019;Name=ABTJ_p2019;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2019
+CP004359.1	Genbank	CDS	14383	14577	.	+	0	ID=cds-AGG91031.1;Parent=gene-ABTJ_p2019;Dbxref=NCBI_GP:AGG91031.1;Name=AGG91031.1;gbkey=CDS;locus_tag=ABTJ_p2019;product=hypothetical protein;protein_id=AGG91031.1;transl_table=11
+CP004359.1	Genbank	gene	14818	16740	.	+	.	ID=gene-ABTJ_p2020;Name=ABTJ_p2020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2020
+CP004359.1	Genbank	CDS	14818	16740	.	+	0	ID=cds-AGG91032.1;Parent=gene-ABTJ_p2020;Dbxref=NCBI_GP:AGG91032.1;Name=AGG91032.1;gbkey=CDS;locus_tag=ABTJ_p2020;product=Cobalamin biosynthesis protein CobT (nicotinate-mononucleotide:5%2C 6-dimethylbenzimidazole phosphoribosyltransferase);protein_id=AGG91032.1;transl_table=11
+CP004359.1	Genbank	gene	16885	18129	.	+	.	ID=gene-ABTJ_p2021;Name=ABTJ_p2021;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2021
+CP004359.1	Genbank	CDS	16885	18129	.	+	0	ID=cds-AGG91033.1;Parent=gene-ABTJ_p2021;Dbxref=NCBI_GP:AGG91033.1;Name=AGG91033.1;gbkey=CDS;locus_tag=ABTJ_p2021;product=CbbQ/NirQ/NorQ C-terminal/AAA domain (dynein-related subfamily);protein_id=AGG91033.1;transl_table=11
+CP004359.1	Genbank	gene	18154	18819	.	+	.	ID=gene-ABTJ_p2022;Name=ABTJ_p2022;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2022
+CP004359.1	Genbank	CDS	18154	18819	.	+	0	ID=cds-AGG91034.1;Parent=gene-ABTJ_p2022;Dbxref=NCBI_GP:AGG91034.1;Name=AGG91034.1;gbkey=CDS;locus_tag=ABTJ_p2022;product=hypothetical protein;protein_id=AGG91034.1;transl_table=11
+CP004359.1	Genbank	gene	18870	19550	.	+	.	ID=gene-ABTJ_p2023;Name=ABTJ_p2023;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2023
+CP004359.1	Genbank	CDS	18870	19550	.	+	0	ID=cds-AGG91035.1;Parent=gene-ABTJ_p2023;Dbxref=NCBI_GP:AGG91035.1;Name=AGG91035.1;gbkey=CDS;locus_tag=ABTJ_p2023;product=hypothetical protein;protein_id=AGG91035.1;transl_table=11
+CP004359.1	Genbank	gene	19596	21953	.	+	.	ID=gene-ABTJ_p2024;Name=ABTJ_p2024;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2024
+CP004359.1	Genbank	CDS	19596	21953	.	+	0	ID=cds-AGG91036.1;Parent=gene-ABTJ_p2024;Dbxref=NCBI_GP:AGG91036.1;Name=AGG91036.1;gbkey=CDS;locus_tag=ABTJ_p2024;product=DNA polymerase III%2C alpha subunit;protein_id=AGG91036.1;transl_table=11
+CP004359.1	Genbank	gene	22002	22577	.	+	.	ID=gene-ABTJ_p2025;Name=ABTJ_p2025;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2025
+CP004359.1	Genbank	CDS	22002	22577	.	+	0	ID=cds-AGG91037.1;Parent=gene-ABTJ_p2025;Dbxref=NCBI_GP:AGG91037.1;Name=AGG91037.1;gbkey=CDS;locus_tag=ABTJ_p2025;product=NUMOD4 motif protein;protein_id=AGG91037.1;transl_table=11
+CP004359.1	Genbank	gene	22574	23839	.	+	.	ID=gene-ABTJ_p2026;Name=ABTJ_p2026;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2026
+CP004359.1	Genbank	CDS	22574	23839	.	+	0	ID=cds-AGG91038.1;Parent=gene-ABTJ_p2026;Dbxref=NCBI_GP:AGG91038.1;Name=AGG91038.1;gbkey=CDS;locus_tag=ABTJ_p2026;product=DNA polymerase III%2C alpha subunit;protein_id=AGG91038.1;transl_table=11
+CP004359.1	Genbank	gene	23929	25017	.	+	.	ID=gene-ABTJ_p2027;Name=ABTJ_p2027;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2027
+CP004359.1	Genbank	CDS	23929	25017	.	+	0	ID=cds-AGG91039.1;Parent=gene-ABTJ_p2027;Dbxref=NCBI_GP:AGG91039.1;Name=AGG91039.1;gbkey=CDS;locus_tag=ABTJ_p2027;product=hypothetical protein;protein_id=AGG91039.1;transl_table=11
+CP004359.1	Genbank	gene	25160	26020	.	+	.	ID=gene-ABTJ_p2028;Name=ABTJ_p2028;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2028
+CP004359.1	Genbank	CDS	25160	26020	.	+	0	ID=cds-AGG91040.1;Parent=gene-ABTJ_p2028;Dbxref=NCBI_GP:AGG91040.1;Name=AGG91040.1;gbkey=CDS;locus_tag=ABTJ_p2028;product=hypothetical protein;protein_id=AGG91040.1;transl_table=11
+CP004359.1	Genbank	gene	26164	27120	.	+	.	ID=gene-ABTJ_p2029;Name=ABTJ_p2029;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2029
+CP004359.1	Genbank	CDS	26164	27120	.	+	0	ID=cds-AGG91041.1;Parent=gene-ABTJ_p2029;Dbxref=NCBI_GP:AGG91041.1;Name=AGG91041.1;gbkey=CDS;locus_tag=ABTJ_p2029;product=5''-3'' exonuclease (including N-terminal domain of PolI);protein_id=AGG91041.1;transl_table=11
+CP004359.1	Genbank	gene	27123	29321	.	+	.	ID=gene-ABTJ_p2030;Name=ABTJ_p2030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2030
+CP004359.1	Genbank	CDS	27123	29321	.	+	0	ID=cds-AGG91042.1;Parent=gene-ABTJ_p2030;Dbxref=NCBI_GP:AGG91042.1;Name=AGG91042.1;gbkey=CDS;locus_tag=ABTJ_p2030;product=RecA/RadA recombinase;protein_id=AGG91042.1;transl_table=11
+CP004359.1	Genbank	gene	29409	29768	.	+	.	ID=gene-ABTJ_p2031;Name=ABTJ_p2031;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2031
+CP004359.1	Genbank	CDS	29409	29768	.	+	0	ID=cds-AGG91043.1;Parent=gene-ABTJ_p2031;Dbxref=NCBI_GP:AGG91043.1;Name=AGG91043.1;gbkey=CDS;locus_tag=ABTJ_p2031;product=hypothetical protein;protein_id=AGG91043.1;transl_table=11
+CP004359.1	Genbank	gene	29765	30226	.	+	.	ID=gene-ABTJ_p2032;Name=ABTJ_p2032;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2032
+CP004359.1	Genbank	CDS	29765	30226	.	+	0	ID=cds-AGG91044.1;Parent=gene-ABTJ_p2032;Dbxref=NCBI_GP:AGG91044.1;Name=AGG91044.1;gbkey=CDS;locus_tag=ABTJ_p2032;product=hypothetical protein;protein_id=AGG91044.1;transl_table=11
+CP004359.1	Genbank	gene	30226	30606	.	+	.	ID=gene-ABTJ_p2033;Name=ABTJ_p2033;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2033
+CP004359.1	Genbank	CDS	30226	30606	.	+	0	ID=cds-AGG91045.1;Parent=gene-ABTJ_p2033;Dbxref=NCBI_GP:AGG91045.1;Name=AGG91045.1;gbkey=CDS;locus_tag=ABTJ_p2033;product=hypothetical protein;protein_id=AGG91045.1;transl_table=11
+CP004359.1	Genbank	gene	30694	30915	.	+	.	ID=gene-ABTJ_p2034;Name=ABTJ_p2034;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2034
+CP004359.1	Genbank	CDS	30694	30915	.	+	0	ID=cds-AGG91046.1;Parent=gene-ABTJ_p2034;Dbxref=NCBI_GP:AGG91046.1;Name=AGG91046.1;gbkey=CDS;locus_tag=ABTJ_p2034;product=hypothetical protein;protein_id=AGG91046.1;transl_table=11
+CP004359.1	Genbank	gene	30949	32064	.	+	.	ID=gene-ABTJ_p2035;Name=ABTJ_p2035;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2035
+CP004359.1	Genbank	CDS	30949	32064	.	+	0	ID=cds-AGG91047.1;Parent=gene-ABTJ_p2035;Dbxref=NCBI_GP:AGG91047.1;Name=AGG91047.1;gbkey=CDS;locus_tag=ABTJ_p2035;product=DNA repair exonuclease;protein_id=AGG91047.1;transl_table=11
+CP004359.1	Genbank	gene	32064	34004	.	+	.	ID=gene-ABTJ_p2036;Name=ABTJ_p2036;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2036
+CP004359.1	Genbank	CDS	32064	34004	.	+	0	ID=cds-AGG91048.1;Parent=gene-ABTJ_p2036;Dbxref=NCBI_GP:AGG91048.1;Name=AGG91048.1;gbkey=CDS;locus_tag=ABTJ_p2036;product=RecF/RecN/SMC N terminal domain protein;protein_id=AGG91048.1;transl_table=11
+CP004359.1	Genbank	gene	34097	34933	.	+	.	ID=gene-ABTJ_p2037;Name=ABTJ_p2037;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2037
+CP004359.1	Genbank	CDS	34097	34933	.	+	0	ID=cds-AGG91049.1;Parent=gene-ABTJ_p2037;Dbxref=NCBI_GP:AGG91049.1;Name=AGG91049.1;gbkey=CDS;locus_tag=ABTJ_p2037;product=hypothetical protein;protein_id=AGG91049.1;transl_table=11
+CP004359.1	Genbank	gene	35065	35667	.	+	.	ID=gene-ABTJ_p2038;Name=ABTJ_p2038;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2038
+CP004359.1	Genbank	CDS	35065	35667	.	+	0	ID=cds-AGG91050.1;Parent=gene-ABTJ_p2038;Dbxref=NCBI_GP:AGG91050.1;Name=AGG91050.1;gbkey=CDS;locus_tag=ABTJ_p2038;product=hypothetical protein;protein_id=AGG91050.1;transl_table=11
+CP004359.1	Genbank	gene	35741	36121	.	+	.	ID=gene-ABTJ_p2039;Name=ABTJ_p2039;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2039
+CP004359.1	Genbank	CDS	35741	36121	.	+	0	ID=cds-AGG91051.1;Parent=gene-ABTJ_p2039;Dbxref=NCBI_GP:AGG91051.1;Name=AGG91051.1;gbkey=CDS;locus_tag=ABTJ_p2039;product=hypothetical protein;protein_id=AGG91051.1;transl_table=11
+CP004359.1	Genbank	gene	36143	38515	.	+	.	ID=gene-ABTJ_p2040;Name=ABTJ_p2040;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2040
+CP004359.1	Genbank	CDS	36143	38515	.	+	0	ID=cds-AGG91052.1;Parent=gene-ABTJ_p2040;Dbxref=NCBI_GP:AGG91052.1;Name=AGG91052.1;gbkey=CDS;locus_tag=ABTJ_p2040;product=ribonucleoside-diphosphate reductase%2C alpha subunit;protein_id=AGG91052.1;transl_table=11
+CP004359.1	Genbank	gene	38673	39602	.	+	.	ID=gene-ABTJ_p2041;Name=ABTJ_p2041;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2041
+CP004359.1	Genbank	CDS	38673	39602	.	+	0	ID=cds-AGG91053.1;Parent=gene-ABTJ_p2041;Dbxref=NCBI_GP:AGG91053.1;Name=AGG91053.1;gbkey=CDS;locus_tag=ABTJ_p2041;product=Ribonucleotide reductase%2C beta subunit;protein_id=AGG91053.1;transl_table=11
+CP004359.1	Genbank	gene	39615	40526	.	+	.	ID=gene-ABTJ_p2042;Name=ABTJ_p2042;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2042
+CP004359.1	Genbank	CDS	39615	40526	.	+	0	ID=cds-AGG91054.1;Parent=gene-ABTJ_p2042;Dbxref=NCBI_GP:AGG91054.1;Name=AGG91054.1;gbkey=CDS;locus_tag=ABTJ_p2042;product=hypothetical protein;protein_id=AGG91054.1;transl_table=11
+CP004359.1	Genbank	gene	40530	40814	.	+	.	ID=gene-ABTJ_p2043;Name=ABTJ_p2043;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2043
+CP004359.1	Genbank	CDS	40530	40814	.	+	0	ID=cds-AGG91055.1;Parent=gene-ABTJ_p2043;Dbxref=NCBI_GP:AGG91055.1;Name=AGG91055.1;gbkey=CDS;locus_tag=ABTJ_p2043;product=hypothetical protein;protein_id=AGG91055.1;transl_table=11
+CP004359.1	Genbank	gene	40814	41041	.	+	.	ID=gene-ABTJ_p2044;Name=ABTJ_p2044;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2044
+CP004359.1	Genbank	CDS	40814	41041	.	+	0	ID=cds-AGG91056.1;Parent=gene-ABTJ_p2044;Dbxref=NCBI_GP:AGG91056.1;Name=AGG91056.1;gbkey=CDS;locus_tag=ABTJ_p2044;product=hypothetical protein;protein_id=AGG91056.1;transl_table=11
+CP004359.1	Genbank	gene	41072	41329	.	+	.	ID=gene-ABTJ_p2045;Name=ABTJ_p2045;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2045
+CP004359.1	Genbank	CDS	41072	41329	.	+	0	ID=cds-AGG91057.1;Parent=gene-ABTJ_p2045;Dbxref=NCBI_GP:AGG91057.1;Name=AGG91057.1;gbkey=CDS;locus_tag=ABTJ_p2045;product=hypothetical protein;protein_id=AGG91057.1;transl_table=11
+CP004359.1	Genbank	gene	41322	41687	.	+	.	ID=gene-ABTJ_p2046;Name=ABTJ_p2046;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2046
+CP004359.1	Genbank	CDS	41322	41687	.	+	0	ID=cds-AGG91058.1;Parent=gene-ABTJ_p2046;Dbxref=NCBI_GP:AGG91058.1;Name=AGG91058.1;gbkey=CDS;locus_tag=ABTJ_p2046;product=MazG nucleotide pyrophosphohydrolase domain protein;protein_id=AGG91058.1;transl_table=11
+CP004359.1	Genbank	gene	41684	42355	.	+	.	ID=gene-ABTJ_p2047;Name=ABTJ_p2047;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2047
+CP004359.1	Genbank	CDS	41684	42355	.	+	0	ID=cds-AGG91059.1;Parent=gene-ABTJ_p2047;Dbxref=NCBI_GP:AGG91059.1;Name=AGG91059.1;gbkey=CDS;locus_tag=ABTJ_p2047;product=hypothetical protein;protein_id=AGG91059.1;transl_table=11
+CP004359.1	Genbank	gene	42547	42693	.	+	.	ID=gene-ABTJ_p2048;Name=ABTJ_p2048;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2048
+CP004359.1	Genbank	CDS	42547	42693	.	+	0	ID=cds-AGG91060.1;Parent=gene-ABTJ_p2048;Dbxref=NCBI_GP:AGG91060.1;Name=AGG91060.1;gbkey=CDS;locus_tag=ABTJ_p2048;product=hypothetical protein;protein_id=AGG91060.1;transl_table=11
+CP004359.1	Genbank	gene	42698	42859	.	+	.	ID=gene-ABTJ_p2049;Name=ABTJ_p2049;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2049
+CP004359.1	Genbank	CDS	42698	42859	.	+	0	ID=cds-AGG91061.1;Parent=gene-ABTJ_p2049;Dbxref=NCBI_GP:AGG91061.1;Name=AGG91061.1;gbkey=CDS;locus_tag=ABTJ_p2049;product=hypothetical protein;protein_id=AGG91061.1;transl_table=11
+CP004359.1	Genbank	gene	43018	43557	.	+	.	ID=gene-ABTJ_p2050;Name=ABTJ_p2050;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2050
+CP004359.1	Genbank	CDS	43018	43557	.	+	0	ID=cds-AGG91062.1;Parent=gene-ABTJ_p2050;Dbxref=NCBI_GP:AGG91062.1;Name=AGG91062.1;gbkey=CDS;locus_tag=ABTJ_p2050;product=DNA polymerase III%2C epsilon subunit and related 3''-5'' exonucleases;protein_id=AGG91062.1;transl_table=11
+CP004359.1	Genbank	gene	43554	43796	.	+	.	ID=gene-ABTJ_p2051;Name=ABTJ_p2051;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2051
+CP004359.1	Genbank	CDS	43554	43796	.	+	0	ID=cds-AGG91063.1;Parent=gene-ABTJ_p2051;Dbxref=NCBI_GP:AGG91063.1;Name=AGG91063.1;gbkey=CDS;locus_tag=ABTJ_p2051;product=hypothetical protein;protein_id=AGG91063.1;transl_table=11
+CP004359.1	Genbank	gene	43793	44113	.	+	.	ID=gene-ABTJ_p2052;Name=ABTJ_p2052;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2052
+CP004359.1	Genbank	CDS	43793	44113	.	+	0	ID=cds-AGG91064.1;Parent=gene-ABTJ_p2052;Dbxref=NCBI_GP:AGG91064.1;Name=AGG91064.1;gbkey=CDS;locus_tag=ABTJ_p2052;product=hypothetical protein;protein_id=AGG91064.1;transl_table=11
+CP004359.1	Genbank	gene	44053	44205	.	-	.	ID=gene-ABTJ_p2053;Name=ABTJ_p2053;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2053
+CP004359.1	Genbank	CDS	44053	44205	.	-	0	ID=cds-AGG91065.1;Parent=gene-ABTJ_p2053;Dbxref=NCBI_GP:AGG91065.1;Name=AGG91065.1;gbkey=CDS;locus_tag=ABTJ_p2053;product=hypothetical protein;protein_id=AGG91065.1;transl_table=11
+CP004359.1	Genbank	gene	44349	44567	.	+	.	ID=gene-ABTJ_p2054;Name=ABTJ_p2054;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2054
+CP004359.1	Genbank	CDS	44349	44567	.	+	0	ID=cds-AGG91066.1;Parent=gene-ABTJ_p2054;Dbxref=NCBI_GP:AGG91066.1;Name=AGG91066.1;gbkey=CDS;locus_tag=ABTJ_p2054;product=hypothetical protein;protein_id=AGG91066.1;transl_table=11
+CP004359.1	Genbank	gene	44854	45630	.	+	.	ID=gene-ABTJ_p2055;Name=ABTJ_p2055;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2055
+CP004359.1	Genbank	CDS	44854	45630	.	+	0	ID=cds-AGG91067.1;Parent=gene-ABTJ_p2055;Dbxref=NCBI_GP:AGG91067.1;Name=AGG91067.1;gbkey=CDS;locus_tag=ABTJ_p2055;product=hypothetical protein;protein_id=AGG91067.1;transl_table=11
+CP004359.1	Genbank	gene	45684	46127	.	+	.	ID=gene-ABTJ_p2056;Name=ABTJ_p2056;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2056
+CP004359.1	Genbank	CDS	45684	46127	.	+	0	ID=cds-AGG91068.1;Parent=gene-ABTJ_p2056;Dbxref=NCBI_GP:AGG91068.1;Name=AGG91068.1;gbkey=CDS;locus_tag=ABTJ_p2056;product=hypothetical protein;protein_id=AGG91068.1;transl_table=11
+CP004359.1	Genbank	gene	46140	46652	.	+	.	ID=gene-ABTJ_p2057;Name=ABTJ_p2057;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2057
+CP004359.1	Genbank	CDS	46140	46652	.	+	0	ID=cds-AGG91069.1;Parent=gene-ABTJ_p2057;Dbxref=NCBI_GP:AGG91069.1;Name=AGG91069.1;gbkey=CDS;locus_tag=ABTJ_p2057;product=hypothetical protein;protein_id=AGG91069.1;transl_table=11
+CP004359.1	Genbank	gene	46785	47648	.	+	.	ID=gene-ABTJ_p2058;Name=ABTJ_p2058;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2058
+CP004359.1	Genbank	CDS	46785	47648	.	+	0	ID=cds-AGG91070.1;Parent=gene-ABTJ_p2058;Dbxref=NCBI_GP:AGG91070.1;Name=AGG91070.1;gbkey=CDS;locus_tag=ABTJ_p2058;product=hypothetical protein;protein_id=AGG91070.1;transl_table=11
+CP004359.1	Genbank	gene	48009	48941	.	+	.	ID=gene-ABTJ_p2059;Name=ABTJ_p2059;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2059
+CP004359.1	Genbank	CDS	48009	48941	.	+	0	ID=cds-AGG91071.1;Parent=gene-ABTJ_p2059;Dbxref=NCBI_GP:AGG91071.1;Name=AGG91071.1;gbkey=CDS;locus_tag=ABTJ_p2059;product=Transposase DDE domain protein;protein_id=AGG91071.1;transl_table=11
+CP004359.1	Genbank	gene	48920	49339	.	-	.	ID=gene-ABTJ_p2060;Name=ABTJ_p2060;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2060
+CP004359.1	Genbank	CDS	48920	49339	.	-	0	ID=cds-AGG91072.1;Parent=gene-ABTJ_p2060;Dbxref=NCBI_GP:AGG91072.1;Name=AGG91072.1;gbkey=CDS;locus_tag=ABTJ_p2060;product=hypothetical protein;protein_id=AGG91072.1;transl_table=11
+CP004359.1	Genbank	gene	49599	50207	.	+	.	ID=gene-ABTJ_p2061;Name=ABTJ_p2061;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2061
+CP004359.1	Genbank	CDS	49599	50207	.	+	0	ID=cds-AGG91073.1;Parent=gene-ABTJ_p2061;Dbxref=NCBI_GP:AGG91073.1;Name=AGG91073.1;gbkey=CDS;locus_tag=ABTJ_p2061;product=Transcriptional regulator;protein_id=AGG91073.1;transl_table=11
+CP004359.1	Genbank	gene	50312	50542	.	+	.	ID=gene-ABTJ_p2062;Name=ABTJ_p2062;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2062
+CP004359.1	Genbank	CDS	50312	50542	.	+	0	ID=cds-AGG91074.1;Parent=gene-ABTJ_p2062;Dbxref=NCBI_GP:AGG91074.1;Name=AGG91074.1;gbkey=CDS;locus_tag=ABTJ_p2062;product=hypothetical protein;protein_id=AGG91074.1;transl_table=11
+CP004359.1	Genbank	gene	50626	51753	.	-	.	ID=gene-ABTJ_p2063;Name=ABTJ_p2063;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2063
+CP004359.1	Genbank	CDS	50626	51753	.	-	0	ID=cds-AGG91075.1;Parent=gene-ABTJ_p2063;Dbxref=NCBI_GP:AGG91075.1;Name=AGG91075.1;gbkey=CDS;locus_tag=ABTJ_p2063;product=NADH:flavin oxidoreductase%2C Old Yellow Enzyme family;protein_id=AGG91075.1;transl_table=11
+CP004359.1	Genbank	gene	51954	52631	.	-	.	ID=gene-ABTJ_p2064;Name=ABTJ_p2064;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2064
+CP004359.1	Genbank	CDS	51954	52631	.	-	0	ID=cds-AGG91076.1;Parent=gene-ABTJ_p2064;Dbxref=NCBI_GP:AGG91076.1;Name=AGG91076.1;gbkey=CDS;locus_tag=ABTJ_p2064;product=Putative intracellular protease/amidase;protein_id=AGG91076.1;transl_table=11
+CP004359.1	Genbank	gene	52716	53873	.	-	.	ID=gene-ABTJ_p2065;Name=ABTJ_p2065;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2065
+CP004359.1	Genbank	CDS	52716	53873	.	-	0	ID=cds-AGG91077.1;Parent=gene-ABTJ_p2065;Dbxref=NCBI_GP:AGG91077.1;Name=AGG91077.1;gbkey=CDS;locus_tag=ABTJ_p2065;product=putative oxidoreductases%2C Fe-dependent alcohol dehydrogenase family;protein_id=AGG91077.1;transl_table=11
+CP004359.1	Genbank	gene	54470	54772	.	-	.	ID=gene-ABTJ_p2066;Name=ABTJ_p2066;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2066
+CP004359.1	Genbank	CDS	54470	54772	.	-	0	ID=cds-AGG91078.1;Parent=gene-ABTJ_p2066;Dbxref=NCBI_GP:AGG91078.1;Name=AGG91078.1;gbkey=CDS;locus_tag=ABTJ_p2066;product=hypothetical protein;protein_id=AGG91078.1;transl_table=11
+CP004359.1	Genbank	gene	55096	55935	.	-	.	ID=gene-ABTJ_p2067;Name=ABTJ_p2067;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2067
+CP004359.1	Genbank	CDS	55096	55935	.	-	0	ID=cds-AGG91079.1;Parent=gene-ABTJ_p2067;Dbxref=NCBI_GP:AGG91079.1;Name=AGG91079.1;gbkey=CDS;locus_tag=ABTJ_p2067;product=S-formylglutathione hydrolase;protein_id=AGG91079.1;transl_table=11
+CP004359.1	Genbank	gene	56164	57276	.	-	.	ID=gene-ABTJ_p2068;Name=ABTJ_p2068;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2068
+CP004359.1	Genbank	CDS	56164	57276	.	-	0	ID=cds-AGG91080.1;Parent=gene-ABTJ_p2068;Dbxref=NCBI_GP:AGG91080.1;Name=AGG91080.1;gbkey=CDS;locus_tag=ABTJ_p2068;product=S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase;protein_id=AGG91080.1;transl_table=11
+CP004359.1	Genbank	gene	57298	57573	.	-	.	ID=gene-ABTJ_p2069;Name=ABTJ_p2069;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2069
+CP004359.1	Genbank	CDS	57298	57573	.	-	0	ID=cds-AGG91081.1;Parent=gene-ABTJ_p2069;Dbxref=NCBI_GP:AGG91081.1;Name=AGG91081.1;gbkey=CDS;locus_tag=ABTJ_p2069;product=hypothetical protein;protein_id=AGG91081.1;transl_table=11
+CP004359.1	Genbank	gene	57764	58618	.	-	.	ID=gene-ABTJ_p2070;Name=ABTJ_p2070;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2070
+CP004359.1	Genbank	CDS	57764	58618	.	-	0	ID=cds-AGG91082.1;Parent=gene-ABTJ_p2070;Dbxref=NCBI_GP:AGG91082.1;Name=AGG91082.1;gbkey=CDS;locus_tag=ABTJ_p2070;product=Transposase-like protein;protein_id=AGG91082.1;transl_table=11
+CP004359.1	Genbank	gene	58575	58928	.	-	.	ID=gene-ABTJ_p2071;Name=ABTJ_p2071;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2071
+CP004359.1	Genbank	CDS	58575	58928	.	-	0	ID=cds-AGG91083.1;Parent=gene-ABTJ_p2071;Dbxref=NCBI_GP:AGG91083.1;Name=AGG91083.1;gbkey=CDS;locus_tag=ABTJ_p2071;product=Transposase-like protein;protein_id=AGG91083.1;transl_table=11
+CP004359.1	Genbank	gene	59021	59482	.	+	.	ID=gene-ABTJ_p2072;Name=ABTJ_p2072;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2072
+CP004359.1	Genbank	CDS	59021	59482	.	+	0	ID=cds-AGG91084.1;Parent=gene-ABTJ_p2072;Dbxref=NCBI_GP:AGG91084.1;Name=AGG91084.1;gbkey=CDS;locus_tag=ABTJ_p2072;product=Protein of unknown function (DUF3296);protein_id=AGG91084.1;transl_table=11
+CP004359.1	Genbank	gene	59730	60893	.	+	.	ID=gene-ABTJ_p2073;Name=ABTJ_p2073;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2073
+CP004359.1	Genbank	CDS	59730	60893	.	+	0	ID=cds-AGG91085.1;Parent=gene-ABTJ_p2073;Dbxref=NCBI_GP:AGG91085.1;Name=AGG91085.1;gbkey=CDS;locus_tag=ABTJ_p2073;product=Threonine dehydrogenase- related Zn-dependent dehydrogenase;protein_id=AGG91085.1;transl_table=11
+CP004359.1	Genbank	gene	61027	61587	.	-	.	ID=gene-ABTJ_p2074;Name=ABTJ_p2074;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2074
+CP004359.1	Genbank	CDS	61027	61587	.	-	0	ID=cds-AGG91086.1;Parent=gene-ABTJ_p2074;Dbxref=NCBI_GP:AGG91086.1;Name=AGG91086.1;gbkey=CDS;locus_tag=ABTJ_p2074;product=Transposase DDE domain protein;protein_id=AGG91086.1;transl_table=11
+CP004359.1	Genbank	gene	61710	61904	.	-	.	ID=gene-ABTJ_p2075;Name=ABTJ_p2075;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2075
+CP004359.1	Genbank	CDS	61710	61904	.	-	0	ID=cds-AGG91087.1;Parent=gene-ABTJ_p2075;Dbxref=NCBI_GP:AGG91087.1;Name=AGG91087.1;gbkey=CDS;locus_tag=ABTJ_p2075;product=hypothetical protein;protein_id=AGG91087.1;transl_table=11
+CP004359.1	Genbank	gene	62204	62279	.	+	.	ID=gene-ABTJ_p2076;Name=ABTJ_p2076;gbkey=Gene;gene_biotype=tRNA;locus_tag=ABTJ_p2076
+CP004359.1	Genbank	tRNA	62204	62279	.	+	.	ID=rna-ABTJ_p2076;Parent=gene-ABTJ_p2076;gbkey=tRNA;locus_tag=ABTJ_p2076;product=tRNA-OTHER
+CP004359.1	Genbank	exon	62204	62279	.	+	.	ID=exon-ABTJ_p2076-1;Parent=rna-ABTJ_p2076;gbkey=tRNA;locus_tag=ABTJ_p2076;product=tRNA-OTHER
+CP004359.1	Genbank	gene	62317	62562	.	+	.	ID=gene-ABTJ_p2077;Name=ABTJ_p2077;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2077
+CP004359.1	Genbank	CDS	62317	62562	.	+	0	ID=cds-AGG91088.1;Parent=gene-ABTJ_p2077;Dbxref=NCBI_GP:AGG91088.1;Name=AGG91088.1;gbkey=CDS;locus_tag=ABTJ_p2077;product=hypothetical protein;protein_id=AGG91088.1;transl_table=11
+CP004359.1	Genbank	gene	62796	63122	.	+	.	ID=gene-ABTJ_p2078;Name=ABTJ_p2078;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2078
+CP004359.1	Genbank	CDS	62796	63122	.	+	0	ID=cds-AGG91089.1;Parent=gene-ABTJ_p2078;Dbxref=NCBI_GP:AGG91089.1;Name=AGG91089.1;gbkey=CDS;locus_tag=ABTJ_p2078;product=hypothetical protein;protein_id=AGG91089.1;transl_table=11
+CP004359.1	Genbank	gene	63342	63860	.	+	.	ID=gene-ABTJ_p2079;Name=ABTJ_p2079;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2079
+CP004359.1	Genbank	CDS	63342	63860	.	+	0	ID=cds-AGG91090.1;Parent=gene-ABTJ_p2079;Dbxref=NCBI_GP:AGG91090.1;Name=AGG91090.1;gbkey=CDS;locus_tag=ABTJ_p2079;product=hypothetical protein;protein_id=AGG91090.1;transl_table=11
+CP004359.1	Genbank	gene	63936	64184	.	-	.	ID=gene-ABTJ_p2080;Name=ABTJ_p2080;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2080
+CP004359.1	Genbank	CDS	63936	64184	.	-	0	ID=cds-AGG91091.1;Parent=gene-ABTJ_p2080;Dbxref=NCBI_GP:AGG91091.1;Name=AGG91091.1;gbkey=CDS;locus_tag=ABTJ_p2080;product=hypothetical protein;protein_id=AGG91091.1;transl_table=11
+CP004359.1	Genbank	gene	64243	64584	.	-	.	ID=gene-ABTJ_p2081;Name=ABTJ_p2081;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2081
+CP004359.1	Genbank	CDS	64243	64584	.	-	0	ID=cds-AGG91092.1;Parent=gene-ABTJ_p2081;Dbxref=NCBI_GP:AGG91092.1;Name=AGG91092.1;gbkey=CDS;locus_tag=ABTJ_p2081;product=hypothetical protein;protein_id=AGG91092.1;transl_table=11
+CP004359.1	Genbank	gene	64692	64910	.	-	.	ID=gene-ABTJ_p2082;Name=ABTJ_p2082;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2082
+CP004359.1	Genbank	CDS	64692	64910	.	-	0	ID=cds-AGG91093.1;Parent=gene-ABTJ_p2082;Dbxref=NCBI_GP:AGG91093.1;Name=AGG91093.1;gbkey=CDS;locus_tag=ABTJ_p2082;product=hypothetical protein;protein_id=AGG91093.1;transl_table=11
+CP004359.1	Genbank	gene	64974	65309	.	-	.	ID=gene-ABTJ_p2083;Name=ABTJ_p2083;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2083
+CP004359.1	Genbank	CDS	64974	65309	.	-	0	ID=cds-AGG91094.1;Parent=gene-ABTJ_p2083;Dbxref=NCBI_GP:AGG91094.1;Name=AGG91094.1;gbkey=CDS;locus_tag=ABTJ_p2083;product=hypothetical protein;protein_id=AGG91094.1;transl_table=11
+CP004359.1	Genbank	gene	66636	66842	.	+	.	ID=gene-ABTJ_p2084;Name=ABTJ_p2084;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2084
+CP004359.1	Genbank	CDS	66636	66842	.	+	0	ID=cds-AGG91095.1;Parent=gene-ABTJ_p2084;Dbxref=NCBI_GP:AGG91095.1;Name=AGG91095.1;gbkey=CDS;locus_tag=ABTJ_p2084;product=hypothetical protein;protein_id=AGG91095.1;transl_table=11
+CP004359.1	Genbank	gene	66994	67287	.	+	.	ID=gene-ABTJ_p2085;Name=ABTJ_p2085;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2085
+CP004359.1	Genbank	CDS	66994	67287	.	+	0	ID=cds-AGG91096.1;Parent=gene-ABTJ_p2085;Dbxref=NCBI_GP:AGG91096.1;Name=AGG91096.1;gbkey=CDS;locus_tag=ABTJ_p2085;product=hypothetical protein;protein_id=AGG91096.1;transl_table=11
+CP004359.1	Genbank	gene	67575	68000	.	+	.	ID=gene-ABTJ_p2086;Name=ABTJ_p2086;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2086
+CP004359.1	Genbank	CDS	67575	68000	.	+	0	ID=cds-AGG91097.1;Parent=gene-ABTJ_p2086;Dbxref=NCBI_GP:AGG91097.1;Name=AGG91097.1;gbkey=CDS;locus_tag=ABTJ_p2086;product=hypothetical protein;protein_id=AGG91097.1;transl_table=11
+CP004359.1	Genbank	gene	68441	69241	.	+	.	ID=gene-ABTJ_p2087;Name=ABTJ_p2087;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2087
+CP004359.1	Genbank	CDS	68441	69241	.	+	0	ID=cds-AGG91098.1;Parent=gene-ABTJ_p2087;Dbxref=NCBI_GP:AGG91098.1;Name=AGG91098.1;gbkey=CDS;locus_tag=ABTJ_p2087;product=hypothetical protein;protein_id=AGG91098.1;transl_table=11
+CP004359.1	Genbank	gene	69635	70204	.	+	.	ID=gene-ABTJ_p2088;Name=ABTJ_p2088;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2088
+CP004359.1	Genbank	CDS	69635	70204	.	+	0	ID=cds-AGG91099.1;Parent=gene-ABTJ_p2088;Dbxref=NCBI_GP:AGG91099.1;Name=AGG91099.1;gbkey=CDS;locus_tag=ABTJ_p2088;product=LysM domain protein;protein_id=AGG91099.1;transl_table=11
+CP004359.1	Genbank	gene	70239	70517	.	+	.	ID=gene-ABTJ_p2089;Name=ABTJ_p2089;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2089
+CP004359.1	Genbank	CDS	70239	70517	.	+	0	ID=cds-AGG91100.1;Parent=gene-ABTJ_p2089;Dbxref=NCBI_GP:AGG91100.1;Name=AGG91100.1;gbkey=CDS;locus_tag=ABTJ_p2089;product=hypothetical protein;protein_id=AGG91100.1;transl_table=11
+CP004359.1	Genbank	gene	70581	70874	.	-	.	ID=gene-ABTJ_p2090;Name=ABTJ_p2090;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2090
+CP004359.1	Genbank	CDS	70581	70874	.	-	0	ID=cds-AGG91101.1;Parent=gene-ABTJ_p2090;Dbxref=NCBI_GP:AGG91101.1;Name=AGG91101.1;gbkey=CDS;locus_tag=ABTJ_p2090;product=hypothetical protein;protein_id=AGG91101.1;transl_table=11
+CP004359.1	Genbank	gene	71000	72709	.	-	.	ID=gene-ABTJ_p2091;Name=ABTJ_p2091;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2091
+CP004359.1	Genbank	CDS	71000	72709	.	-	0	ID=cds-AGG91102.1;Parent=gene-ABTJ_p2091;Dbxref=NCBI_GP:AGG91102.1;Name=AGG91102.1;gbkey=CDS;locus_tag=ABTJ_p2091;product=DNA or RNA helicases of superfamily II;protein_id=AGG91102.1;transl_table=11
+CP004359.1	Genbank	gene	72788	73426	.	+	.	ID=gene-ABTJ_p2092;Name=ABTJ_p2092;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2092
+CP004359.1	Genbank	CDS	72788	73426	.	+	0	ID=cds-AGG91103.1;Parent=gene-ABTJ_p2092;Dbxref=NCBI_GP:AGG91103.1;Name=AGG91103.1;gbkey=CDS;locus_tag=ABTJ_p2092;product=putative transcriptional regulator;protein_id=AGG91103.1;transl_table=11
+CP004359.1	Genbank	gene	73455	74057	.	+	.	ID=gene-ABTJ_p2093;Name=ABTJ_p2093;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2093
+CP004359.1	Genbank	CDS	73455	74057	.	+	0	ID=cds-AGG91104.1;Parent=gene-ABTJ_p2093;Dbxref=NCBI_GP:AGG91104.1;Name=AGG91104.1;gbkey=CDS;locus_tag=ABTJ_p2093;product=hypothetical protein;protein_id=AGG91104.1;transl_table=11
+CP004359.1	Genbank	gene	74054	74704	.	+	.	ID=gene-ABTJ_p2094;Name=ABTJ_p2094;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2094
+CP004359.1	Genbank	CDS	74054	74704	.	+	0	ID=cds-AGG91105.1;Parent=gene-ABTJ_p2094;Dbxref=NCBI_GP:AGG91105.1;Name=AGG91105.1;gbkey=CDS;locus_tag=ABTJ_p2094;product=putative transcriptional regulator;protein_id=AGG91105.1;transl_table=11
+CP004359.1	Genbank	gene	74704	75360	.	+	.	ID=gene-ABTJ_p2095;Name=ABTJ_p2095;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2095
+CP004359.1	Genbank	CDS	74704	75360	.	+	0	ID=cds-AGG91106.1;Parent=gene-ABTJ_p2095;Dbxref=NCBI_GP:AGG91106.1;Name=AGG91106.1;gbkey=CDS;locus_tag=ABTJ_p2095;product=ABC-type ATPase fused to a predicted acetyltransferase domain;protein_id=AGG91106.1;transl_table=11
+CP004359.1	Genbank	gene	75357	75779	.	+	.	ID=gene-ABTJ_p2096;Name=ABTJ_p2096;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2096
+CP004359.1	Genbank	CDS	75357	75779	.	+	0	ID=cds-AGG91107.1;Parent=gene-ABTJ_p2096;Dbxref=NCBI_GP:AGG91107.1;Name=AGG91107.1;gbkey=CDS;locus_tag=ABTJ_p2096;product=Thioredoxin domain-containing protein;protein_id=AGG91107.1;transl_table=11
+CP004359.1	Genbank	gene	75818	76771	.	+	.	ID=gene-ABTJ_p2097;Name=ABTJ_p2097;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2097
+CP004359.1	Genbank	CDS	75818	76771	.	+	0	ID=cds-AGG91108.1;Parent=gene-ABTJ_p2097;Dbxref=NCBI_GP:AGG91108.1;Name=AGG91108.1;gbkey=CDS;locus_tag=ABTJ_p2097;product=hypothetical protein;protein_id=AGG91108.1;transl_table=11
+CP004359.1	Genbank	gene	76762	77085	.	+	.	ID=gene-ABTJ_p2098;Name=ABTJ_p2098;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2098
+CP004359.1	Genbank	CDS	76762	77085	.	+	0	ID=cds-AGG91109.1;Parent=gene-ABTJ_p2098;Dbxref=NCBI_GP:AGG91109.1;Name=AGG91109.1;gbkey=CDS;locus_tag=ABTJ_p2098;product=hypothetical protein;protein_id=AGG91109.1;transl_table=11
+CP004359.1	Genbank	gene	77069	77548	.	+	.	ID=gene-ABTJ_p2099;Name=ABTJ_p2099;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2099
+CP004359.1	Genbank	CDS	77069	77548	.	+	0	ID=cds-AGG91110.1;Parent=gene-ABTJ_p2099;Dbxref=NCBI_GP:AGG91110.1;Name=AGG91110.1;gbkey=CDS;locus_tag=ABTJ_p2099;product=hypothetical protein;protein_id=AGG91110.1;transl_table=11
+CP004359.1	Genbank	gene	77660	78061	.	+	.	ID=gene-ABTJ_p2100;Name=ABTJ_p2100;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2100
+CP004359.1	Genbank	CDS	77660	78061	.	+	0	ID=cds-AGG91111.1;Parent=gene-ABTJ_p2100;Dbxref=NCBI_GP:AGG91111.1;Name=AGG91111.1;gbkey=CDS;locus_tag=ABTJ_p2100;product=hypothetical protein;protein_id=AGG91111.1;transl_table=11
+CP004359.1	Genbank	gene	78214	78819	.	+	.	ID=gene-ABTJ_p2101;Name=ABTJ_p2101;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2101
+CP004359.1	Genbank	CDS	78214	78819	.	+	0	ID=cds-AGG91112.1;Parent=gene-ABTJ_p2101;Dbxref=NCBI_GP:AGG91112.1;Name=AGG91112.1;gbkey=CDS;locus_tag=ABTJ_p2101;product=hypothetical protein;protein_id=AGG91112.1;transl_table=11
+CP004359.1	Genbank	gene	78829	80073	.	+	.	ID=gene-ABTJ_p2102;Name=ABTJ_p2102;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2102
+CP004359.1	Genbank	CDS	78829	80073	.	+	0	ID=cds-AGG91113.1;Parent=gene-ABTJ_p2102;Dbxref=NCBI_GP:AGG91113.1;Name=AGG91113.1;gbkey=CDS;locus_tag=ABTJ_p2102;product=Phage terminase large subunit;protein_id=AGG91113.1;transl_table=11
+CP004359.1	Genbank	gene	80119	81789	.	+	.	ID=gene-ABTJ_p2103;Name=ABTJ_p2103;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2103
+CP004359.1	Genbank	CDS	80119	81789	.	+	0	ID=cds-AGG91114.1;Parent=gene-ABTJ_p2103;Dbxref=NCBI_GP:AGG91114.1;Name=AGG91114.1;gbkey=CDS;locus_tag=ABTJ_p2103;product=hypothetical protein;protein_id=AGG91114.1;transl_table=11
+CP004359.1	Genbank	gene	81833	82711	.	+	.	ID=gene-ABTJ_p2104;Name=ABTJ_p2104;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2104
+CP004359.1	Genbank	CDS	81833	82711	.	+	0	ID=cds-AGG91115.1;Parent=gene-ABTJ_p2104;Dbxref=NCBI_GP:AGG91115.1;Name=AGG91115.1;gbkey=CDS;locus_tag=ABTJ_p2104;product=hypothetical protein;protein_id=AGG91115.1;transl_table=11
+CP004359.1	Genbank	gene	82847	83749	.	+	.	ID=gene-ABTJ_p2105;Name=ABTJ_p2105;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2105
+CP004359.1	Genbank	CDS	82847	83749	.	+	0	ID=cds-AGG91116.1;Parent=gene-ABTJ_p2105;Dbxref=NCBI_GP:AGG91116.1;Name=AGG91116.1;gbkey=CDS;locus_tag=ABTJ_p2105;product=Phage capsid family;protein_id=AGG91116.1;transl_table=11
+CP004359.1	Genbank	gene	83888	84382	.	+	.	ID=gene-ABTJ_p2106;Name=ABTJ_p2106;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2106
+CP004359.1	Genbank	CDS	83888	84382	.	+	0	ID=cds-AGG91117.1;Parent=gene-ABTJ_p2106;Dbxref=NCBI_GP:AGG91117.1;Name=AGG91117.1;gbkey=CDS;locus_tag=ABTJ_p2106;product=hypothetical protein;protein_id=AGG91117.1;transl_table=11
+CP004359.1	Genbank	gene	84389	85159	.	+	.	ID=gene-ABTJ_p2107;Name=ABTJ_p2107;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2107
+CP004359.1	Genbank	CDS	84389	85159	.	+	0	ID=cds-AGG91118.1;Parent=gene-ABTJ_p2107;Dbxref=NCBI_GP:AGG91118.1;Name=AGG91118.1;gbkey=CDS;locus_tag=ABTJ_p2107;product=hypothetical protein;protein_id=AGG91118.1;transl_table=11
+CP004359.1	Genbank	gene	85161	85856	.	+	.	ID=gene-ABTJ_p2108;Name=ABTJ_p2108;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2108
+CP004359.1	Genbank	CDS	85161	85856	.	+	0	ID=cds-AGG91119.1;Parent=gene-ABTJ_p2108;Dbxref=NCBI_GP:AGG91119.1;Name=AGG91119.1;gbkey=CDS;locus_tag=ABTJ_p2108;product=hypothetical protein;protein_id=AGG91119.1;transl_table=11
+CP004359.1	Genbank	gene	85843	86193	.	+	.	ID=gene-ABTJ_p2109;Name=ABTJ_p2109;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2109
+CP004359.1	Genbank	CDS	85843	86193	.	+	0	ID=cds-AGG91120.1;Parent=gene-ABTJ_p2109;Dbxref=NCBI_GP:AGG91120.1;Name=AGG91120.1;gbkey=CDS;locus_tag=ABTJ_p2109;product=hypothetical protein;protein_id=AGG91120.1;transl_table=11
+CP004359.1	Genbank	gene	86190	86576	.	+	.	ID=gene-ABTJ_p2110;Name=ABTJ_p2110;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2110
+CP004359.1	Genbank	CDS	86190	86576	.	+	0	ID=cds-AGG91121.1;Parent=gene-ABTJ_p2110;Dbxref=NCBI_GP:AGG91121.1;Name=AGG91121.1;gbkey=CDS;locus_tag=ABTJ_p2110;product=hypothetical protein;protein_id=AGG91121.1;transl_table=11
+CP004359.1	Genbank	gene	86576	87073	.	+	.	ID=gene-ABTJ_p2111;Name=ABTJ_p2111;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2111
+CP004359.1	Genbank	CDS	86576	87073	.	+	0	ID=cds-AGG91122.1;Parent=gene-ABTJ_p2111;Dbxref=NCBI_GP:AGG91122.1;Name=AGG91122.1;gbkey=CDS;locus_tag=ABTJ_p2111;product=hypothetical protein;protein_id=AGG91122.1;transl_table=11
+CP004359.1	Genbank	gene	87158	87703	.	+	.	ID=gene-ABTJ_p2112;Name=ABTJ_p2112;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2112
+CP004359.1	Genbank	CDS	87158	87703	.	+	0	ID=cds-AGG91123.1;Parent=gene-ABTJ_p2112;Dbxref=NCBI_GP:AGG91123.1;Name=AGG91123.1;gbkey=CDS;locus_tag=ABTJ_p2112;product=hypothetical protein;protein_id=AGG91123.1;transl_table=11
+CP004359.1	Genbank	gene	87798	88151	.	+	.	ID=gene-ABTJ_p2113;Name=ABTJ_p2113;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2113
+CP004359.1	Genbank	CDS	87798	88151	.	+	0	ID=cds-AGG91124.1;Parent=gene-ABTJ_p2113;Dbxref=NCBI_GP:AGG91124.1;Name=AGG91124.1;gbkey=CDS;locus_tag=ABTJ_p2113;product=hypothetical protein;protein_id=AGG91124.1;transl_table=11
+CP004359.1	Genbank	gene	88193	88504	.	+	.	ID=gene-ABTJ_p2114;Name=ABTJ_p2114;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2114
+CP004359.1	Genbank	CDS	88193	88504	.	+	0	ID=cds-AGG91125.1;Parent=gene-ABTJ_p2114;Dbxref=NCBI_GP:AGG91125.1;Name=AGG91125.1;gbkey=CDS;locus_tag=ABTJ_p2114;product=hypothetical protein;protein_id=AGG91125.1;transl_table=11
+CP004359.1	Genbank	gene	88507	94095	.	+	.	ID=gene-ABTJ_p2115;Name=ABTJ_p2115;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2115
+CP004359.1	Genbank	CDS	88507	94095	.	+	0	ID=cds-AGG91126.1;Parent=gene-ABTJ_p2115;Dbxref=NCBI_GP:AGG91126.1;Name=AGG91126.1;gbkey=CDS;locus_tag=ABTJ_p2115;product=hypothetical protein;protein_id=AGG91126.1;transl_table=11
+CP004359.1	Genbank	gene	94168	94494	.	+	.	ID=gene-ABTJ_p2116;Name=ABTJ_p2116;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2116
+CP004359.1	Genbank	CDS	94168	94494	.	+	0	ID=cds-AGG91127.1;Parent=gene-ABTJ_p2116;Dbxref=NCBI_GP:AGG91127.1;Name=AGG91127.1;gbkey=CDS;locus_tag=ABTJ_p2116;product=Phage-related protein;protein_id=AGG91127.1;transl_table=11
+CP004359.1	Genbank	gene	94494	95189	.	+	.	ID=gene-ABTJ_p2117;Name=ABTJ_p2117;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2117
+CP004359.1	Genbank	CDS	94494	95189	.	+	0	ID=cds-AGG91128.1;Parent=gene-ABTJ_p2117;Dbxref=NCBI_GP:AGG91128.1;Name=AGG91128.1;gbkey=CDS;locus_tag=ABTJ_p2117;product=Phage-related protein;protein_id=AGG91128.1;transl_table=11
+CP004359.1	Genbank	gene	95186	95935	.	+	.	ID=gene-ABTJ_p2118;Name=ABTJ_p2118;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2118
+CP004359.1	Genbank	CDS	95186	95935	.	+	0	ID=cds-AGG91129.1;Parent=gene-ABTJ_p2118;Dbxref=NCBI_GP:AGG91129.1;Name=AGG91129.1;gbkey=CDS;locus_tag=ABTJ_p2118;product=Cell wall-associated hydrolases (invasion-associated proteins);protein_id=AGG91129.1;transl_table=11
+CP004359.1	Genbank	gene	95929	96507	.	+	.	ID=gene-ABTJ_p2119;Name=ABTJ_p2119;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2119
+CP004359.1	Genbank	CDS	95929	96507	.	+	0	ID=cds-AGG91130.1;Parent=gene-ABTJ_p2119;Dbxref=NCBI_GP:AGG91130.1;Name=AGG91130.1;gbkey=CDS;locus_tag=ABTJ_p2119;product=Phage-related protein%2C tail component;protein_id=AGG91130.1;transl_table=11
+CP004359.1	Genbank	gene	96531	107714	.	+	.	ID=gene-ABTJ_p2120;Name=ABTJ_p2120;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2120
+CP004359.1	Genbank	CDS	96531	107714	.	+	0	ID=cds-AGG91131.1;Parent=gene-ABTJ_p2120;Dbxref=NCBI_GP:AGG91131.1;Name=AGG91131.1;gbkey=CDS;locus_tag=ABTJ_p2120;product=Phage-related protein%2C tail component;protein_id=AGG91131.1;transl_table=11
+CP004359.1	Genbank	gene	107715	108029	.	+	.	ID=gene-ABTJ_p2121;Name=ABTJ_p2121;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2121
+CP004359.1	Genbank	CDS	107715	108029	.	+	0	ID=cds-AGG91132.1;Parent=gene-ABTJ_p2121;Dbxref=NCBI_GP:AGG91132.1;Name=AGG91132.1;gbkey=CDS;locus_tag=ABTJ_p2121;product=hypothetical protein;protein_id=AGG91132.1;transl_table=11
+CP004359.1	Genbank	gene	107968	108777	.	+	.	ID=gene-ABTJ_p2122;Name=ABTJ_p2122;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2122
+CP004359.1	Genbank	CDS	107968	108777	.	+	0	ID=cds-AGG91133.1;Parent=gene-ABTJ_p2122;Dbxref=NCBI_GP:AGG91133.1;Name=AGG91133.1;gbkey=CDS;locus_tag=ABTJ_p2122;product=hypothetical protein;protein_id=AGG91133.1;transl_table=11
+CP004359.1	Genbank	gene	108787	109038	.	+	.	ID=gene-ABTJ_p2123;Name=ABTJ_p2123;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2123
+CP004359.1	Genbank	CDS	108787	109038	.	+	0	ID=cds-AGG91134.1;Parent=gene-ABTJ_p2123;Dbxref=NCBI_GP:AGG91134.1;Name=AGG91134.1;gbkey=CDS;locus_tag=ABTJ_p2123;product=hypothetical protein;protein_id=AGG91134.1;transl_table=11
+CP004359.1	Genbank	gene	109171	109374	.	-	.	ID=gene-ABTJ_p2124;Name=ABTJ_p2124;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2124
+CP004359.1	Genbank	CDS	109171	109374	.	-	0	ID=cds-AGG91135.1;Parent=gene-ABTJ_p2124;Dbxref=NCBI_GP:AGG91135.1;Name=AGG91135.1;gbkey=CDS;locus_tag=ABTJ_p2124;product=hypothetical protein;protein_id=AGG91135.1;transl_table=11
+CP004359.1	Genbank	gene	109498	109890	.	+	.	ID=gene-ABTJ_p2125;Name=ABTJ_p2125;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2125
+CP004359.1	Genbank	CDS	109498	109890	.	+	0	ID=cds-AGG91136.1;Parent=gene-ABTJ_p2125;Dbxref=NCBI_GP:AGG91136.1;Name=AGG91136.1;gbkey=CDS;locus_tag=ABTJ_p2125;product=hypothetical protein;protein_id=AGG91136.1;transl_table=11
+CP004359.1	Genbank	gene	109890	110528	.	+	.	ID=gene-ABTJ_p2126;Name=ABTJ_p2126;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTJ_p2126
+CP004359.1	Genbank	CDS	109890	110528	.	+	0	ID=cds-AGG91137.1;Parent=gene-ABTJ_p2126;Dbxref=NCBI_GP:AGG91137.1;Name=AGG91137.1;gbkey=CDS;locus_tag=ABTJ_p2126;product=Phage-related lysozyme (muraminidase);protein_id=AGG91137.1;transl_table=11
+CP004359.1	Genbank	origin_of_replication	110529	111531	.	+	.	ID=id-CP004359.1:1..110967;Note=The origin of replication (oriC) was identified by using Ori-Finder at http://tubic.tju.edu.cn/Ori-Finder/;gbkey=rep_origin
+

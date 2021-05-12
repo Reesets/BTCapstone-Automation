@@ -1,0 +1,14 @@
+##sequence-region CP000523.1 1 11302
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=400667
+CP000523.1	Genbank	region	1	11302	.	+	.	ID=CP000523.1:1..11302;Dbxref=ATCC:17978,taxon:400667;Is_circular=true;Name=pAB2;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=pAB2;strain=ATCC 17978
+CP000523.1	Genbank	gene	1	951	.	+	.	ID=gene-A1S_3472;Name=A1S_3472;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A1S_3472
+CP000523.1	Genbank	CDS	1	951	.	+	0	ID=cds-ABO13861.1;Parent=gene-A1S_3472;Dbxref=NCBI_GP:ABO13861.1;Name=ABO13861.1;gbkey=CDS;locus_tag=A1S_3472;product=DNA replication protein;protein_id=ABO13861.1;transl_table=11
+CP000523.1	Genbank	gene	3048	4262	.	+	.	ID=gene-A1S_3473;Name=A1S_3473;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A1S_3473
+CP000523.1	Genbank	CDS	3048	4262	.	+	0	ID=cds-ABO13862.1;Parent=gene-A1S_3473;Dbxref=NCBI_GP:ABO13862.1;Name=ABO13862.1;gbkey=CDS;locus_tag=A1S_3473;product=hypothetical protein;protein_id=ABO13862.1;transl_table=11
+CP000523.1	Genbank	gene	4357	5133	.	+	.	ID=gene-A1S_3474;Name=A1S_3474;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A1S_3474
+CP000523.1	Genbank	CDS	4357	5133	.	+	0	ID=cds-ABO13863.1;Parent=gene-A1S_3474;Dbxref=NCBI_GP:ABO13863.1;Name=ABO13863.1;gbkey=CDS;locus_tag=A1S_3474;product=hypothetical protein;protein_id=ABO13863.1;transl_table=11
+CP000523.1	Genbank	gene	6197	8608	.	+	.	ID=gene-A1S_3475;Name=A1S_3475;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A1S_3475
+CP000523.1	Genbank	CDS	6197	8608	.	+	0	ID=cds-ABO13864.1;Parent=gene-A1S_3475;Dbxref=NCBI_GP:ABO13864.1;Name=ABO13864.1;gbkey=CDS;locus_tag=A1S_3475;product=hypothetical protein;protein_id=ABO13864.1;transl_table=11
+CP000523.1	Genbank	gene	8705	9403	.	+	.	ID=gene-A1S_3476;Name=A1S_3476;gbkey=Gene;gene_biotype=protein_coding;locus_tag=A1S_3476
+CP000523.1	Genbank	CDS	8705	9403	.	+	0	ID=cds-ABO13865.1;Parent=gene-A1S_3476;Dbxref=NCBI_GP:ABO13865.1;Name=ABO13865.1;gbkey=CDS;locus_tag=A1S_3476;product=secretory lipase;protein_id=ABO13865.1;transl_table=11
+

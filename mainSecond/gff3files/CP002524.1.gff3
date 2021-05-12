@@ -1,0 +1,194 @@
+##sequence-region CP002524.1 1 70894
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=980514
+CP002524.1	Genbank	region	1	70894	.	+	.	ID=CP002524.1:1..70894;Dbxref=taxon:980514;Is_circular=true;Name=p2ABTCDC0715;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=p2ABTCDC0715;strain=TCDC-AB0715
+CP002524.1	Genbank	gene	5	217	.	-	.	ID=gene-ABTW07_2p001;Name=ABTW07_2p001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p001
+CP002524.1	Genbank	CDS	5	217	.	-	0	ID=cds-ADX94294.1;Parent=gene-ABTW07_2p001;Dbxref=NCBI_GP:ADX94294.1;Name=ADX94294.1;gbkey=CDS;locus_tag=ABTW07_2p001;product=hypothetical protein;protein_id=ADX94294.1;transl_table=11
+CP002524.1	Genbank	gene	255	881	.	-	.	ID=gene-ABTW07_2p002;Name=ABTW07_2p002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p002
+CP002524.1	Genbank	CDS	255	881	.	-	0	ID=cds-ADX94295.1;Parent=gene-ABTW07_2p002;Dbxref=NCBI_GP:ADX94295.1;Name=ADX94295.1;gbkey=CDS;locus_tag=ABTW07_2p002;product=hypothetical protein;protein_id=ADX94295.1;transl_table=11
+CP002524.1	Genbank	gene	1065	1343	.	-	.	ID=gene-ABTW07_2p003;Name=ABTW07_2p003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p003
+CP002524.1	Genbank	CDS	1065	1343	.	-	0	ID=cds-ADX94296.1;Parent=gene-ABTW07_2p003;Dbxref=NCBI_GP:ADX94296.1;Name=ADX94296.1;gbkey=CDS;locus_tag=ABTW07_2p003;product=hypothetical protein;protein_id=ADX94296.1;transl_table=11
+CP002524.1	Genbank	gene	1358	1819	.	-	.	ID=gene-ABTW07_2p004;Name=ABTW07_2p004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p004
+CP002524.1	Genbank	CDS	1358	1819	.	-	0	ID=cds-ADX94297.1;Parent=gene-ABTW07_2p004;Dbxref=NCBI_GP:ADX94297.1;Name=ADX94297.1;gbkey=CDS;locus_tag=ABTW07_2p004;product=hypothetical protein;protein_id=ADX94297.1;transl_table=11
+CP002524.1	Genbank	gene	2033	2230	.	-	.	ID=gene-ABTW07_2p005;Name=ABTW07_2p005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p005
+CP002524.1	Genbank	CDS	2033	2230	.	-	0	ID=cds-ADX94298.1;Parent=gene-ABTW07_2p005;Dbxref=NCBI_GP:ADX94298.1;Name=ADX94298.1;gbkey=CDS;locus_tag=ABTW07_2p005;product=hypothetical protein;protein_id=ADX94298.1;transl_table=11
+CP002524.1	Genbank	gene	2373	3032	.	-	.	ID=gene-ABTW07_2p006;Name=ABTW07_2p006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p006
+CP002524.1	Genbank	CDS	2373	3032	.	-	0	ID=cds-ADX94299.1;Parent=gene-ABTW07_2p006;Dbxref=NCBI_GP:ADX94299.1;Name=ADX94299.1;gbkey=CDS;locus_tag=ABTW07_2p006;product=hypothetical protein;protein_id=ADX94299.1;transl_table=11
+CP002524.1	Genbank	gene	3313	3927	.	+	.	ID=gene-ABTW07_2p007;Name=ABTW07_2p007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p007
+CP002524.1	Genbank	CDS	3313	3927	.	+	0	ID=cds-ADX94300.1;Parent=gene-ABTW07_2p007;Dbxref=NCBI_GP:ADX94300.1;Name=ADX94300.1;gbkey=CDS;locus_tag=ABTW07_2p007;product=Resolvase%2C N-terminal domain;protein_id=ADX94300.1;transl_table=11
+CP002524.1	Genbank	gene	4426	4761	.	-	.	ID=gene-ABTW07_2p008;Name=ABTW07_2p008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p008
+CP002524.1	Genbank	CDS	4426	4761	.	-	0	ID=cds-ADX94301.1;Parent=gene-ABTW07_2p008;Dbxref=NCBI_GP:ADX94301.1;Name=ADX94301.1;gbkey=CDS;locus_tag=ABTW07_2p008;product=hypothetical protein;protein_id=ADX94301.1;transl_table=11
+CP002524.1	Genbank	gene	4992	5618	.	+	.	ID=gene-ABTW07_2p009;Name=ABTW07_2p009;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p009
+CP002524.1	Genbank	CDS	4992	5618	.	+	0	ID=cds-ADX94302.1;Parent=gene-ABTW07_2p009;Dbxref=NCBI_GP:ADX94302.1;Name=ADX94302.1;gbkey=CDS;locus_tag=ABTW07_2p009;product=Soluble lytic murein transglycosylase;protein_id=ADX94302.1;transl_table=11
+CP002524.1	Genbank	gene	5635	5871	.	+	.	ID=gene-ABTW07_2p010;Name=ABTW07_2p010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p010
+CP002524.1	Genbank	CDS	5635	5871	.	+	0	ID=cds-ADX94303.1;Parent=gene-ABTW07_2p010;Dbxref=NCBI_GP:ADX94303.1;Name=ADX94303.1;gbkey=CDS;locus_tag=ABTW07_2p010;product=hypothetical protein;protein_id=ADX94303.1;transl_table=11
+CP002524.1	Genbank	gene	5922	6275	.	+	.	ID=gene-ABTW07_2p011;Name=ABTW07_2p011;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p011
+CP002524.1	Genbank	CDS	5922	6275	.	+	0	ID=cds-ADX94304.1;Parent=gene-ABTW07_2p011;Dbxref=NCBI_GP:ADX94304.1;Name=ADX94304.1;gbkey=CDS;locus_tag=ABTW07_2p011;product=hypothetical protein;protein_id=ADX94304.1;transl_table=11
+CP002524.1	Genbank	gene	6291	6590	.	+	.	ID=gene-ABTW07_2p012;Name=ABTW07_2p012;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p012
+CP002524.1	Genbank	CDS	6291	6590	.	+	0	ID=cds-ADX94305.1;Parent=gene-ABTW07_2p012;Dbxref=NCBI_GP:ADX94305.1;Name=ADX94305.1;gbkey=CDS;locus_tag=ABTW07_2p012;product=TraL;protein_id=ADX94305.1;transl_table=11
+CP002524.1	Genbank	gene	6595	7173	.	+	.	ID=gene-ABTW07_2p013;Name=ABTW07_2p013;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p013
+CP002524.1	Genbank	CDS	6595	7173	.	+	0	ID=cds-ADX94306.1;Parent=gene-ABTW07_2p013;Dbxref=NCBI_GP:ADX94306.1;Name=ADX94306.1;gbkey=CDS;locus_tag=ABTW07_2p013;product=Conserved hypothetical protein;protein_id=ADX94306.1;transl_table=11
+CP002524.1	Genbank	gene	7154	7876	.	+	.	ID=gene-ABTW07_2p014;Name=ABTW07_2p014;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p014
+CP002524.1	Genbank	CDS	7154	7876	.	+	0	ID=cds-ADX94307.1;Parent=gene-ABTW07_2p014;Dbxref=NCBI_GP:ADX94307.1;Name=ADX94307.1;gbkey=CDS;locus_tag=ABTW07_2p014;product=Conserved hypothetical protein;protein_id=ADX94307.1;transl_table=11
+CP002524.1	Genbank	gene	7886	9202	.	+	.	ID=gene-ABTW07_2p015;Name=ABTW07_2p015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p015
+CP002524.1	Genbank	CDS	7886	9202	.	+	0	ID=cds-ADX94308.1;Parent=gene-ABTW07_2p015;Dbxref=NCBI_GP:ADX94308.1;Name=ADX94308.1;gbkey=CDS;locus_tag=ABTW07_2p015;product=TraB pilus assembly family protein;protein_id=ADX94308.1;transl_table=11
+CP002524.1	Genbank	gene	9204	9926	.	+	.	ID=gene-ABTW07_2p016;Name=ABTW07_2p016;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p016
+CP002524.1	Genbank	CDS	9204	9926	.	+	0	ID=cds-ADX94309.1;Parent=gene-ABTW07_2p016;Dbxref=NCBI_GP:ADX94309.1;Name=ADX94309.1;gbkey=CDS;locus_tag=ABTW07_2p016;product=Protein-disulfide isomerase;protein_id=ADX94309.1;transl_table=11
+CP002524.1	Genbank	gene	9942	10229	.	+	.	ID=gene-ABTW07_2p017;Name=ABTW07_2p017;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p017
+CP002524.1	Genbank	CDS	9942	10229	.	+	0	ID=cds-ADX94310.1;Parent=gene-ABTW07_2p017;Dbxref=NCBI_GP:ADX94310.1;Name=ADX94310.1;gbkey=CDS;locus_tag=ABTW07_2p017;product=hypothetical protein;protein_id=ADX94310.1;transl_table=11
+CP002524.1	Genbank	gene	10230	10874	.	+	.	ID=gene-ABTW07_2p018;Name=ABTW07_2p018;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p018
+CP002524.1	Genbank	CDS	10230	10874	.	+	0	ID=cds-ADX94311.1;Parent=gene-ABTW07_2p018;Dbxref=NCBI_GP:ADX94311.1;Name=ADX94311.1;gbkey=CDS;locus_tag=ABTW07_2p018;product=membrane lipoprotein lipid attachment site;protein_id=ADX94311.1;transl_table=11
+CP002524.1	Genbank	gene	11046	13610	.	+	.	ID=gene-ABTW07_2p019;Name=ABTW07_2p019;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p019
+CP002524.1	Genbank	CDS	11046	13610	.	+	0	ID=cds-ADX94312.1;Parent=gene-ABTW07_2p019;Dbxref=NCBI_GP:ADX94312.1;Name=ADX94312.1;gbkey=CDS;locus_tag=ABTW07_2p019;product=Type IV secretory pathway%2C VirB4 component;protein_id=ADX94312.1;transl_table=11
+CP002524.1	Genbank	gene	13607	14002	.	+	.	ID=gene-ABTW07_2p020;Name=ABTW07_2p020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p020
+CP002524.1	Genbank	CDS	13607	14002	.	+	0	ID=cds-ADX94313.1;Parent=gene-ABTW07_2p020;Dbxref=NCBI_GP:ADX94313.1;Name=ADX94313.1;gbkey=CDS;locus_tag=ABTW07_2p020;product=hypothetical protein;protein_id=ADX94313.1;transl_table=11
+CP002524.1	Genbank	gene	14050	14550	.	+	.	ID=gene-ABTW07_2p021;Name=ABTW07_2p021;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p021
+CP002524.1	Genbank	CDS	14050	14550	.	+	0	ID=cds-ADX94314.1;Parent=gene-ABTW07_2p021;Dbxref=NCBI_GP:ADX94314.1;Name=ADX94314.1;gbkey=CDS;locus_tag=ABTW07_2p021;product=hypothetical protein;protein_id=ADX94314.1;transl_table=11
+CP002524.1	Genbank	gene	14537	15175	.	+	.	ID=gene-ABTW07_2p022;Name=ABTW07_2p022;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p022
+CP002524.1	Genbank	CDS	14537	15175	.	+	0	ID=cds-ADX94315.1;Parent=gene-ABTW07_2p022;Dbxref=NCBI_GP:ADX94315.1;Name=ADX94315.1;gbkey=CDS;locus_tag=ABTW07_2p022;product=Conserved hypothetical protein;protein_id=ADX94315.1;transl_table=11
+CP002524.1	Genbank	gene	15490	16215	.	+	.	ID=gene-ABTW07_2p023;Name=ABTW07_2p023;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p023
+CP002524.1	Genbank	CDS	15490	16215	.	+	0	ID=cds-ADX94316.1;Parent=gene-ABTW07_2p023;Dbxref=NCBI_GP:ADX94316.1;Name=ADX94316.1;gbkey=CDS;locus_tag=ABTW07_2p023;product=TraU family protein;protein_id=ADX94316.1;transl_table=11
+CP002524.1	Genbank	gene	16230	16937	.	+	.	ID=gene-ABTW07_2p024;Name=ABTW07_2p024;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p024
+CP002524.1	Genbank	CDS	16230	16937	.	+	0	ID=cds-ADX94317.1;Parent=gene-ABTW07_2p024;Dbxref=NCBI_GP:ADX94317.1;Name=ADX94317.1;gbkey=CDS;locus_tag=ABTW07_2p024;product=Conserved hypothetical protein;protein_id=ADX94317.1;transl_table=11
+CP002524.1	Genbank	gene	16934	18991	.	+	.	ID=gene-ABTW07_2p025;Name=ABTW07_2p025;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p025
+CP002524.1	Genbank	CDS	16934	18991	.	+	0	ID=cds-ADX94318.1;Parent=gene-ABTW07_2p025;Dbxref=NCBI_GP:ADX94318.1;Name=ADX94318.1;gbkey=CDS;locus_tag=ABTW07_2p025;product=Mating pair stabilization TraN;protein_id=ADX94318.1;transl_table=11
+CP002524.1	Genbank	gene	18984	19796	.	+	.	ID=gene-ABTW07_2p026;Name=ABTW07_2p026;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p026
+CP002524.1	Genbank	CDS	18984	19796	.	+	0	ID=cds-ADX94319.1;Parent=gene-ABTW07_2p026;Dbxref=NCBI_GP:ADX94319.1;Name=ADX94319.1;gbkey=CDS;locus_tag=ABTW07_2p026;product=Conserved hypothetical protein;protein_id=ADX94319.1;transl_table=11
+CP002524.1	Genbank	gene	19831	20160	.	+	.	ID=gene-ABTW07_2p027;Name=ABTW07_2p027;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p027
+CP002524.1	Genbank	CDS	19831	20160	.	+	0	ID=cds-ADX94320.1;Parent=gene-ABTW07_2p027;Dbxref=NCBI_GP:ADX94320.1;Name=ADX94320.1;gbkey=CDS;locus_tag=ABTW07_2p027;product=hypothetical protein;protein_id=ADX94320.1;transl_table=11
+CP002524.1	Genbank	gene	20194	21621	.	+	.	ID=gene-ABTW07_2p028;Name=ABTW07_2p028;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p028
+CP002524.1	Genbank	CDS	20194	21621	.	+	0	ID=cds-ADX94321.1;Parent=gene-ABTW07_2p028;Dbxref=NCBI_GP:ADX94321.1;Name=ADX94321.1;gbkey=CDS;locus_tag=ABTW07_2p028;product=TraH family protein;protein_id=ADX94321.1;transl_table=11
+CP002524.1	Genbank	gene	21763	24639	.	+	.	ID=gene-ABTW07_2p029;Name=ABTW07_2p029;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p029
+CP002524.1	Genbank	CDS	21763	24639	.	+	0	ID=cds-ADX94322.1;Parent=gene-ABTW07_2p029;Dbxref=NCBI_GP:ADX94322.1;Name=ADX94322.1;gbkey=CDS;locus_tag=ABTW07_2p029;product=TraG domain protein;protein_id=ADX94322.1;transl_table=11
+CP002524.1	Genbank	gene	24711	25229	.	+	.	ID=gene-ABTW07_2p030;Name=ABTW07_2p030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p030
+CP002524.1	Genbank	CDS	24711	25229	.	+	0	ID=cds-ADX94323.1;Parent=gene-ABTW07_2p030;Dbxref=NCBI_GP:ADX94323.1;Name=ADX94323.1;gbkey=CDS;locus_tag=ABTW07_2p030;product=hypothetical protein;protein_id=ADX94323.1;transl_table=11
+CP002524.1	Genbank	gene	25261	26109	.	-	.	ID=gene-ABTW07_2p031;Name=ABTW07_2p031;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p031
+CP002524.1	Genbank	CDS	25261	26109	.	-	0	ID=cds-ADX94324.1;Parent=gene-ABTW07_2p031;Dbxref=NCBI_GP:ADX94324.1;Name=ADX94324.1;gbkey=CDS;locus_tag=ABTW07_2p031;product=hypothetical protein;protein_id=ADX94324.1;transl_table=11
+CP002524.1	Genbank	gene	26418	27710	.	+	.	ID=gene-ABTW07_2p032;Name=ABTW07_2p032;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p032
+CP002524.1	Genbank	CDS	26418	27710	.	+	0	ID=cds-ADX94325.1;Parent=gene-ABTW07_2p032;Dbxref=NCBI_GP:ADX94325.1;Name=ADX94325.1;gbkey=CDS;locus_tag=ABTW07_2p032;product=Nucleotidyltransferase/DNA polymerase involved in DNA repair;protein_id=ADX94325.1;transl_table=11
+CP002524.1	Genbank	gene	27984	29024	.	+	.	ID=gene-ABTW07_2p033;Name=ABTW07_2p033;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p033
+CP002524.1	Genbank	CDS	27984	29024	.	+	0	ID=cds-ADX94326.1;Parent=gene-ABTW07_2p033;Dbxref=NCBI_GP:ADX94326.1;Name=ADX94326.1;gbkey=CDS;locus_tag=ABTW07_2p033;product=hypothetical protein;protein_id=ADX94326.1;transl_table=11
+CP002524.1	Genbank	gene	29268	29519	.	-	.	ID=gene-ABTW07_2p034;Name=ABTW07_2p034;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p034
+CP002524.1	Genbank	CDS	29268	29519	.	-	0	ID=cds-ADX94327.1;Parent=gene-ABTW07_2p034;Dbxref=NCBI_GP:ADX94327.1;Name=ADX94327.1;gbkey=CDS;locus_tag=ABTW07_2p034;product=hypothetical protein;protein_id=ADX94327.1;transl_table=11
+CP002524.1	Genbank	gene	29587	29820	.	-	.	ID=gene-ABTW07_2p035;Name=ABTW07_2p035;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p035
+CP002524.1	Genbank	CDS	29587	29820	.	-	0	ID=cds-ADX94328.1;Parent=gene-ABTW07_2p035;Dbxref=NCBI_GP:ADX94328.1;Name=ADX94328.1;gbkey=CDS;locus_tag=ABTW07_2p035;product=hypothetical protein;protein_id=ADX94328.1;transl_table=11
+CP002524.1	Genbank	gene	30309	31484	.	+	.	ID=gene-ABTW07_2p036;Name=ABTW07_2p036;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p036
+CP002524.1	Genbank	CDS	30309	31484	.	+	0	ID=cds-ADX94329.1;Parent=gene-ABTW07_2p036;Dbxref=NCBI_GP:ADX94329.1;Name=ADX94329.1;gbkey=CDS;locus_tag=ABTW07_2p036;product=plasmid replicase protein;protein_id=ADX94329.1;transl_table=11
+CP002524.1	Genbank	gene	31556	31795	.	+	.	ID=gene-ABTW07_2p037;Name=ABTW07_2p037;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p037
+CP002524.1	Genbank	CDS	31556	31795	.	+	0	ID=cds-ADX94330.1;Parent=gene-ABTW07_2p037;Dbxref=NCBI_GP:ADX94330.1;Name=ADX94330.1;gbkey=CDS;locus_tag=ABTW07_2p037;product=hypothetical protein;protein_id=ADX94330.1;transl_table=11
+CP002524.1	Genbank	gene	31782	32864	.	+	.	ID=gene-ABTW07_2p038;Name=ABTW07_2p038;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p038
+CP002524.1	Genbank	CDS	31782	32864	.	+	0	ID=cds-ADX94331.1;Parent=gene-ABTW07_2p038;Dbxref=NCBI_GP:ADX94331.1;Name=ADX94331.1;gbkey=CDS;locus_tag=ABTW07_2p038;product=Zeta toxin family protein;protein_id=ADX94331.1;transl_table=11
+CP002524.1	Genbank	gene	32880	34145	.	+	.	ID=gene-ABTW07_2p039;Name=ABTW07_2p039;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p039
+CP002524.1	Genbank	CDS	32880	34145	.	+	0	ID=cds-ADX94332.1;Parent=gene-ABTW07_2p039;Dbxref=NCBI_GP:ADX94332.1;Name=ADX94332.1;gbkey=CDS;locus_tag=ABTW07_2p039;product=hypothetical protein;protein_id=ADX94332.1;transl_table=11
+CP002524.1	Genbank	gene	34246	34635	.	+	.	ID=gene-ABTW07_2p040;Name=ABTW07_2p040;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p040
+CP002524.1	Genbank	CDS	34246	34635	.	+	0	ID=cds-ADX94333.1;Parent=gene-ABTW07_2p040;Dbxref=NCBI_GP:ADX94333.1;Name=ADX94333.1;gbkey=CDS;locus_tag=ABTW07_2p040;product=hypothetical protein;protein_id=ADX94333.1;transl_table=11
+CP002524.1	Genbank	gene	34681	35061	.	+	.	ID=gene-ABTW07_2p041;Name=ABTW07_2p041;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p041
+CP002524.1	Genbank	CDS	34681	35061	.	+	0	ID=cds-ADX94334.1;Parent=gene-ABTW07_2p041;Dbxref=NCBI_GP:ADX94334.1;Name=ADX94334.1;gbkey=CDS;locus_tag=ABTW07_2p041;product=hypothetical protein;protein_id=ADX94334.1;transl_table=11
+CP002524.1	Genbank	gene	35197	35589	.	+	.	ID=gene-ABTW07_2p042;Name=ABTW07_2p042;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p042
+CP002524.1	Genbank	CDS	35197	35589	.	+	0	ID=cds-ADX94335.1;Parent=gene-ABTW07_2p042;Dbxref=NCBI_GP:ADX94335.1;Name=ADX94335.1;gbkey=CDS;locus_tag=ABTW07_2p042;product=hypothetical protein;protein_id=ADX94335.1;transl_table=11
+CP002524.1	Genbank	gene	35761	36357	.	+	.	ID=gene-ABTW07_2p043;Name=ABTW07_2p043;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p043
+CP002524.1	Genbank	CDS	35761	36357	.	+	0	ID=cds-ADX94336.1;Parent=gene-ABTW07_2p043;Dbxref=NCBI_GP:ADX94336.1;Name=ADX94336.1;gbkey=CDS;locus_tag=ABTW07_2p043;product=hypothetical protein;protein_id=ADX94336.1;transl_table=11
+CP002524.1	Genbank	gene	36363	36554	.	+	.	ID=gene-ABTW07_2p044;Name=ABTW07_2p044;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p044
+CP002524.1	Genbank	CDS	36363	36554	.	+	0	ID=cds-ADX94337.1;Parent=gene-ABTW07_2p044;Dbxref=NCBI_GP:ADX94337.1;Name=ADX94337.1;gbkey=CDS;locus_tag=ABTW07_2p044;product=hypothetical protein;protein_id=ADX94337.1;transl_table=11
+CP002524.1	Genbank	gene	36576	36743	.	+	.	ID=gene-ABTW07_2p045;Name=ABTW07_2p045;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p045
+CP002524.1	Genbank	CDS	36576	36743	.	+	0	ID=cds-ADX94338.1;Parent=gene-ABTW07_2p045;Dbxref=NCBI_GP:ADX94338.1;Name=ADX94338.1;gbkey=CDS;locus_tag=ABTW07_2p045;product=hypothetical protein;protein_id=ADX94338.1;transl_table=11
+CP002524.1	Genbank	gene	36774	36986	.	+	.	ID=gene-ABTW07_2p046;Name=ABTW07_2p046;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p046
+CP002524.1	Genbank	CDS	36774	36986	.	+	0	ID=cds-ADX94339.1;Parent=gene-ABTW07_2p046;Dbxref=NCBI_GP:ADX94339.1;Name=ADX94339.1;gbkey=CDS;locus_tag=ABTW07_2p046;product=hypothetical protein;protein_id=ADX94339.1;transl_table=11
+CP002524.1	Genbank	gene	36976	37467	.	+	.	ID=gene-ABTW07_2p047;Name=ABTW07_2p047;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p047
+CP002524.1	Genbank	CDS	36976	37467	.	+	0	ID=cds-ADX94340.1;Parent=gene-ABTW07_2p047;Dbxref=NCBI_GP:ADX94340.1;Name=ADX94340.1;gbkey=CDS;locus_tag=ABTW07_2p047;product=Thermonuclease protein;protein_id=ADX94340.1;transl_table=11
+CP002524.1	Genbank	gene	37518	37823	.	+	.	ID=gene-ABTW07_2p048;Name=ABTW07_2p048;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p048
+CP002524.1	Genbank	CDS	37518	37823	.	+	0	ID=cds-ADX94341.1;Parent=gene-ABTW07_2p048;Dbxref=NCBI_GP:ADX94341.1;Name=ADX94341.1;gbkey=CDS;locus_tag=ABTW07_2p048;product=hypothetical protein;protein_id=ADX94341.1;transl_table=11
+CP002524.1	Genbank	gene	37934	38260	.	+	.	ID=gene-ABTW07_2p049;Name=ABTW07_2p049;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p049
+CP002524.1	Genbank	CDS	37934	38260	.	+	0	ID=cds-ADX94342.1;Parent=gene-ABTW07_2p049;Dbxref=NCBI_GP:ADX94342.1;Name=ADX94342.1;gbkey=CDS;locus_tag=ABTW07_2p049;product=Putative DNA binding protein;protein_id=ADX94342.1;transl_table=11
+CP002524.1	Genbank	gene	38274	38462	.	+	.	ID=gene-ABTW07_2p050;Name=ABTW07_2p050;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p050
+CP002524.1	Genbank	CDS	38274	38462	.	+	0	ID=cds-ADX94343.1;Parent=gene-ABTW07_2p050;Dbxref=NCBI_GP:ADX94343.1;Name=ADX94343.1;gbkey=CDS;locus_tag=ABTW07_2p050;product=hypothetical protein;protein_id=ADX94343.1;transl_table=11
+CP002524.1	Genbank	gene	38530	38826	.	+	.	ID=gene-ABTW07_2p051;Name=ABTW07_2p051;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p051
+CP002524.1	Genbank	CDS	38530	38826	.	+	0	ID=cds-ADX94344.1;Parent=gene-ABTW07_2p051;Dbxref=NCBI_GP:ADX94344.1;Name=ADX94344.1;gbkey=CDS;locus_tag=ABTW07_2p051;product=hypothetical protein;protein_id=ADX94344.1;transl_table=11
+CP002524.1	Genbank	gene	38823	39155	.	+	.	ID=gene-ABTW07_2p052;Name=ABTW07_2p052;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p052
+CP002524.1	Genbank	CDS	38823	39155	.	+	0	ID=cds-ADX94345.1;Parent=gene-ABTW07_2p052;Dbxref=NCBI_GP:ADX94345.1;Name=ADX94345.1;gbkey=CDS;locus_tag=ABTW07_2p052;product=hypothetical protein;protein_id=ADX94345.1;transl_table=11
+CP002524.1	Genbank	gene	39169	39411	.	+	.	ID=gene-ABTW07_2p053;Name=ABTW07_2p053;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p053
+CP002524.1	Genbank	CDS	39169	39411	.	+	0	ID=cds-ADX94346.1;Parent=gene-ABTW07_2p053;Dbxref=NCBI_GP:ADX94346.1;Name=ADX94346.1;gbkey=CDS;locus_tag=ABTW07_2p053;product=hypothetical protein;protein_id=ADX94346.1;transl_table=11
+CP002524.1	Genbank	gene	39478	40185	.	+	.	ID=gene-ABTW07_2p054;Name=ABTW07_2p054;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p054
+CP002524.1	Genbank	CDS	39478	40185	.	+	0	ID=cds-ADX94347.1;Parent=gene-ABTW07_2p054;Dbxref=NCBI_GP:ADX94347.1;Name=ADX94347.1;gbkey=CDS;locus_tag=ABTW07_2p054;product=Conserved hypothetical protein;protein_id=ADX94347.1;transl_table=11
+CP002524.1	Genbank	gene	40190	40426	.	+	.	ID=gene-ABTW07_2p055;Name=ABTW07_2p055;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p055
+CP002524.1	Genbank	CDS	40190	40426	.	+	0	ID=cds-ADX94348.1;Parent=gene-ABTW07_2p055;Dbxref=NCBI_GP:ADX94348.1;Name=ADX94348.1;gbkey=CDS;locus_tag=ABTW07_2p055;product=hypothetical protein;protein_id=ADX94348.1;transl_table=11
+CP002524.1	Genbank	gene	40432	40638	.	-	.	ID=gene-ABTW07_2p056;Name=ABTW07_2p056;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p056
+CP002524.1	Genbank	CDS	40432	40638	.	-	0	ID=cds-ADX94349.1;Parent=gene-ABTW07_2p056;Dbxref=NCBI_GP:ADX94349.1;Name=ADX94349.1;gbkey=CDS;locus_tag=ABTW07_2p056;product=hypothetical protein;protein_id=ADX94349.1;transl_table=11
+CP002524.1	Genbank	gene	41170	41667	.	+	.	ID=gene-ABTW07_2p057;Name=ABTW07_2p057;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p057
+CP002524.1	Genbank	CDS	41170	41667	.	+	0	ID=cds-ADX94350.1;Parent=gene-ABTW07_2p057;Dbxref=NCBI_GP:ADX94350.1;Name=ADX94350.1;gbkey=CDS;locus_tag=ABTW07_2p057;product=hypothetical protein;protein_id=ADX94350.1;transl_table=11
+CP002524.1	Genbank	gene	41696	42472	.	+	.	ID=gene-ABTW07_2p058;Name=ABTW07_2p058;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p058
+CP002524.1	Genbank	CDS	41696	42472	.	+	0	ID=cds-ADX94351.1;Parent=gene-ABTW07_2p058;Dbxref=NCBI_GP:ADX94351.1;Name=ADX94351.1;gbkey=CDS;locus_tag=ABTW07_2p058;product=hypothetical protein;protein_id=ADX94351.1;transl_table=11
+CP002524.1	Genbank	gene	42664	43437	.	+	.	ID=gene-ABTW07_2p059;Name=ABTW07_2p059;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p059
+CP002524.1	Genbank	CDS	42664	43437	.	+	0	ID=cds-ADX94352.1;Parent=gene-ABTW07_2p059;Dbxref=NCBI_GP:ADX94352.1;Name=ADX94352.1;gbkey=CDS;locus_tag=ABTW07_2p059;product=ATPases involved in chromosome partitioning;protein_id=ADX94352.1;transl_table=11
+CP002524.1	Genbank	gene	43441	44697	.	+	.	ID=gene-ABTW07_2p060;Name=ABTW07_2p060;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p060
+CP002524.1	Genbank	CDS	43441	44697	.	+	0	ID=cds-ADX94353.1;Parent=gene-ABTW07_2p060;Dbxref=NCBI_GP:ADX94353.1;Name=ADX94353.1;gbkey=CDS;locus_tag=ABTW07_2p060;product=Predicted transcriptional regulator;protein_id=ADX94353.1;transl_table=11
+CP002524.1	Genbank	gene	44833	46062	.	+	.	ID=gene-ABTW07_2p061;Name=ABTW07_2p061;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p061
+CP002524.1	Genbank	CDS	44833	46062	.	+	0	ID=cds-ADX94354.1;Parent=gene-ABTW07_2p061;Dbxref=NCBI_GP:ADX94354.1;Name=ADX94354.1;gbkey=CDS;locus_tag=ABTW07_2p061;product=hypothetical protein;protein_id=ADX94354.1;transl_table=11
+CP002524.1	Genbank	gene	46125	46358	.	+	.	ID=gene-ABTW07_2p062;Name=ABTW07_2p062;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p062
+CP002524.1	Genbank	CDS	46125	46358	.	+	0	ID=cds-ADX94355.1;Parent=gene-ABTW07_2p062;Dbxref=NCBI_GP:ADX94355.1;Name=ADX94355.1;gbkey=CDS;locus_tag=ABTW07_2p062;product=hypothetical protein;protein_id=ADX94355.1;transl_table=11
+CP002524.1	Genbank	gene	46397	46666	.	+	.	ID=gene-ABTW07_2p063;Name=ABTW07_2p063;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p063
+CP002524.1	Genbank	CDS	46397	46666	.	+	0	ID=cds-ADX94356.1;Parent=gene-ABTW07_2p063;Dbxref=NCBI_GP:ADX94356.1;Name=ADX94356.1;gbkey=CDS;locus_tag=ABTW07_2p063;product=hypothetical protein;protein_id=ADX94356.1;transl_table=11
+CP002524.1	Genbank	gene	46707	47810	.	+	.	ID=gene-ABTW07_2p064;Name=ABTW07_2p064;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p064
+CP002524.1	Genbank	CDS	46707	47810	.	+	0	ID=cds-ADX94357.1;Parent=gene-ABTW07_2p064;Dbxref=NCBI_GP:ADX94357.1;Name=ADX94357.1;gbkey=CDS;locus_tag=ABTW07_2p064;product=Conserved protein involved in tellurite resistance;protein_id=ADX94357.1;transl_table=11
+CP002524.1	Genbank	gene	47823	49103	.	+	.	ID=gene-ABTW07_2p065;Name=ABTW07_2p065;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p065
+CP002524.1	Genbank	CDS	47823	49103	.	+	0	ID=cds-ADX94358.1;Parent=gene-ABTW07_2p065;Dbxref=NCBI_GP:ADX94358.1;Name=ADX94358.1;gbkey=CDS;locus_tag=ABTW07_2p065;product=hypothetical protein;protein_id=ADX94358.1;transl_table=11
+CP002524.1	Genbank	gene	49208	49465	.	+	.	ID=gene-ABTW07_2p066;Name=ABTW07_2p066;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p066
+CP002524.1	Genbank	CDS	49208	49465	.	+	0	ID=cds-ADX94359.1;Parent=gene-ABTW07_2p066;Dbxref=NCBI_GP:ADX94359.1;Name=ADX94359.1;gbkey=CDS;locus_tag=ABTW07_2p066;product=hypothetical protein;protein_id=ADX94359.1;transl_table=11
+CP002524.1	Genbank	gene	49470	50042	.	+	.	ID=gene-ABTW07_2p067;Name=ABTW07_2p067;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p067
+CP002524.1	Genbank	CDS	49470	50042	.	+	0	ID=cds-ADX94360.1;Parent=gene-ABTW07_2p067;Dbxref=NCBI_GP:ADX94360.1;Name=ADX94360.1;gbkey=CDS;locus_tag=ABTW07_2p067;product=hypothetical protein;protein_id=ADX94360.1;transl_table=11
+CP002524.1	Genbank	gene	50018	50197	.	+	.	ID=gene-ABTW07_2p068;Name=ABTW07_2p068;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p068
+CP002524.1	Genbank	CDS	50018	50197	.	+	0	ID=cds-ADX94361.1;Parent=gene-ABTW07_2p068;Dbxref=NCBI_GP:ADX94361.1;Name=ADX94361.1;gbkey=CDS;locus_tag=ABTW07_2p068;product=hypothetical protein;protein_id=ADX94361.1;transl_table=11
+CP002524.1	Genbank	gene	50214	50843	.	+	.	ID=gene-ABTW07_2p069;Name=ABTW07_2p069;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p069
+CP002524.1	Genbank	CDS	50214	50843	.	+	0	ID=cds-ADX94362.1;Parent=gene-ABTW07_2p069;Dbxref=NCBI_GP:ADX94362.1;Name=ADX94362.1;gbkey=CDS;locus_tag=ABTW07_2p069;product=hypothetical protein;protein_id=ADX94362.1;transl_table=11
+CP002524.1	Genbank	gene	50883	51392	.	+	.	ID=gene-ABTW07_2p070;Name=ABTW07_2p070;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p070
+CP002524.1	Genbank	CDS	50883	51392	.	+	0	ID=cds-ADX94363.1;Parent=gene-ABTW07_2p070;Dbxref=NCBI_GP:ADX94363.1;Name=ADX94363.1;gbkey=CDS;locus_tag=ABTW07_2p070;product=hypothetical protein;protein_id=ADX94363.1;transl_table=11
+CP002524.1	Genbank	gene	51474	51986	.	+	.	ID=gene-ABTW07_2p071;Name=ABTW07_2p071;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p071
+CP002524.1	Genbank	CDS	51474	51986	.	+	0	ID=cds-ADX94364.1;Parent=gene-ABTW07_2p071;Dbxref=NCBI_GP:ADX94364.1;Name=ADX94364.1;gbkey=CDS;locus_tag=ABTW07_2p071;product=hypothetical protein;protein_id=ADX94364.1;transl_table=11
+CP002524.1	Genbank	gene	52030	52371	.	+	.	ID=gene-ABTW07_2p072;Name=ABTW07_2p072;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p072
+CP002524.1	Genbank	CDS	52030	52371	.	+	0	ID=cds-ADX94365.1;Parent=gene-ABTW07_2p072;Dbxref=NCBI_GP:ADX94365.1;Name=ADX94365.1;gbkey=CDS;locus_tag=ABTW07_2p072;product=hypothetical protein;protein_id=ADX94365.1;transl_table=11
+CP002524.1	Genbank	gene	52408	53136	.	+	.	ID=gene-ABTW07_2p073;Name=ABTW07_2p073;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p073
+CP002524.1	Genbank	CDS	52408	53136	.	+	0	ID=cds-ADX94366.1;Parent=gene-ABTW07_2p073;Dbxref=NCBI_GP:ADX94366.1;Name=ADX94366.1;gbkey=CDS;locus_tag=ABTW07_2p073;product=hypothetical protein;protein_id=ADX94366.1;transl_table=11
+CP002524.1	Genbank	gene	53372	53926	.	+	.	ID=gene-ABTW07_2p074;Name=ABTW07_2p074;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p074
+CP002524.1	Genbank	CDS	53372	53926	.	+	0	ID=cds-ADX94367.1;Parent=gene-ABTW07_2p074;Dbxref=NCBI_GP:ADX94367.1;Name=ADX94367.1;gbkey=CDS;locus_tag=ABTW07_2p074;product=hypothetical protein;protein_id=ADX94367.1;transl_table=11
+CP002524.1	Genbank	gene	53976	54512	.	+	.	ID=gene-ABTW07_2p075;Name=ABTW07_2p075;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p075
+CP002524.1	Genbank	CDS	53976	54512	.	+	0	ID=cds-ADX94368.1;Parent=gene-ABTW07_2p075;Dbxref=NCBI_GP:ADX94368.1;Name=ADX94368.1;gbkey=CDS;locus_tag=ABTW07_2p075;product=hypothetical protein;protein_id=ADX94368.1;transl_table=11
+CP002524.1	Genbank	gene	55048	55347	.	-	.	ID=gene-ABTW07_2p076;Name=ABTW07_2p076;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p076
+CP002524.1	Genbank	CDS	55048	55347	.	-	0	ID=cds-ADX94369.1;Parent=gene-ABTW07_2p076;Dbxref=NCBI_GP:ADX94369.1;Name=ADX94369.1;gbkey=CDS;locus_tag=ABTW07_2p076;product=hypothetical protein;protein_id=ADX94369.1;transl_table=11
+CP002524.1	Genbank	gene	55347	55706	.	-	.	ID=gene-ABTW07_2p077;Name=ABTW07_2p077;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p077
+CP002524.1	Genbank	CDS	55347	55706	.	-	0	ID=cds-ADX94370.1;Parent=gene-ABTW07_2p077;Dbxref=NCBI_GP:ADX94370.1;Name=ADX94370.1;gbkey=CDS;locus_tag=ABTW07_2p077;product=hypothetical protein;protein_id=ADX94370.1;transl_table=11
+CP002524.1	Genbank	gene	55907	56473	.	+	.	ID=gene-ABTW07_2p078;Name=ABTW07_2p078;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p078
+CP002524.1	Genbank	CDS	55907	56473	.	+	0	ID=cds-ADX94371.1;Parent=gene-ABTW07_2p078;Dbxref=NCBI_GP:ADX94371.1;Name=ADX94371.1;gbkey=CDS;locus_tag=ABTW07_2p078;product=hypothetical protein;protein_id=ADX94371.1;transl_table=11
+CP002524.1	Genbank	gene	56540	56704	.	+	.	ID=gene-ABTW07_2p079;Name=ABTW07_2p079;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p079
+CP002524.1	Genbank	CDS	56540	56704	.	+	0	ID=cds-ADX94372.1;Parent=gene-ABTW07_2p079;Dbxref=NCBI_GP:ADX94372.1;Name=ADX94372.1;gbkey=CDS;locus_tag=ABTW07_2p079;product=hypothetical protein;protein_id=ADX94372.1;transl_table=11
+CP002524.1	Genbank	gene	56771	57469	.	+	.	ID=gene-ABTW07_2p080;Name=ABTW07_2p080;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p080
+CP002524.1	Genbank	CDS	56771	57469	.	+	0	ID=cds-ADX94373.1;Parent=gene-ABTW07_2p080;Dbxref=NCBI_GP:ADX94373.1;Name=ADX94373.1;gbkey=CDS;locus_tag=ABTW07_2p080;product=hypothetical protein;protein_id=ADX94373.1;transl_table=11
+CP002524.1	Genbank	gene	57596	57991	.	+	.	ID=gene-ABTW07_2p081;Name=ABTW07_2p081;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p081
+CP002524.1	Genbank	CDS	57596	57991	.	+	0	ID=cds-ADX94374.1;Parent=gene-ABTW07_2p081;Dbxref=NCBI_GP:ADX94374.1;Name=ADX94374.1;gbkey=CDS;locus_tag=ABTW07_2p081;product=hypothetical protein;protein_id=ADX94374.1;transl_table=11
+CP002524.1	Genbank	gene	58058	58816	.	+	.	ID=gene-ABTW07_2p082;Name=ABTW07_2p082;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p082
+CP002524.1	Genbank	CDS	58058	58816	.	+	0	ID=cds-ADX94375.1;Parent=gene-ABTW07_2p082;Dbxref=NCBI_GP:ADX94375.1;Name=ADX94375.1;gbkey=CDS;locus_tag=ABTW07_2p082;product=hypothetical protein;protein_id=ADX94375.1;transl_table=11
+CP002524.1	Genbank	gene	58868	59203	.	+	.	ID=gene-ABTW07_2p083;Name=ABTW07_2p083;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p083
+CP002524.1	Genbank	CDS	58868	59203	.	+	0	ID=cds-ADX94376.1;Parent=gene-ABTW07_2p083;Dbxref=NCBI_GP:ADX94376.1;Name=ADX94376.1;gbkey=CDS;locus_tag=ABTW07_2p083;product=hypothetical protein;protein_id=ADX94376.1;transl_table=11
+CP002524.1	Genbank	gene	59690	60004	.	+	.	ID=gene-ABTW07_2p084;Name=ABTW07_2p084;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p084
+CP002524.1	Genbank	CDS	59690	60004	.	+	0	ID=cds-ADX94377.1;Parent=gene-ABTW07_2p084;Dbxref=NCBI_GP:ADX94377.1;Name=ADX94377.1;gbkey=CDS;locus_tag=ABTW07_2p084;product=hypothetical protein;protein_id=ADX94377.1;transl_table=11
+CP002524.1	Genbank	gene	60028	60537	.	+	.	ID=gene-ABTW07_2p085;Name=ABTW07_2p085;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p085
+CP002524.1	Genbank	CDS	60028	60537	.	+	0	ID=cds-ADX94378.1;Parent=gene-ABTW07_2p085;Dbxref=NCBI_GP:ADX94378.1;Name=ADX94378.1;gbkey=CDS;locus_tag=ABTW07_2p085;product=Conserved protein;protein_id=ADX94378.1;transl_table=11
+CP002524.1	Genbank	gene	60683	60967	.	+	.	ID=gene-ABTW07_2p086;Name=ABTW07_2p086;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p086
+CP002524.1	Genbank	CDS	60683	60967	.	+	0	ID=cds-ADX94379.1;Parent=gene-ABTW07_2p086;Dbxref=NCBI_GP:ADX94379.1;Name=ADX94379.1;gbkey=CDS;locus_tag=ABTW07_2p086;product=hypothetical protein;protein_id=ADX94379.1;transl_table=11
+CP002524.1	Genbank	gene	61268	61693	.	-	.	ID=gene-ABTW07_2p087;Name=ABTW07_2p087;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p087
+CP002524.1	Genbank	CDS	61268	61693	.	-	0	ID=cds-ADX94380.1;Parent=gene-ABTW07_2p087;Dbxref=NCBI_GP:ADX94380.1;Name=ADX94380.1;gbkey=CDS;locus_tag=ABTW07_2p087;product=hypothetical protein;protein_id=ADX94380.1;transl_table=11
+CP002524.1	Genbank	gene	61784	65059	.	-	.	ID=gene-ABTW07_2p088;Name=ABTW07_2p088;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p088
+CP002524.1	Genbank	CDS	61784	65059	.	-	0	ID=cds-ADX94381.1;Parent=gene-ABTW07_2p088;Dbxref=NCBI_GP:ADX94381.1;Name=ADX94381.1;gbkey=CDS;locus_tag=ABTW07_2p088;product=TrwC protein;protein_id=ADX94381.1;transl_table=11
+CP002524.1	Genbank	gene	65071	67230	.	-	.	ID=gene-ABTW07_2p089;Name=ABTW07_2p089;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p089
+CP002524.1	Genbank	CDS	65071	67230	.	-	0	ID=cds-ADX94382.1;Parent=gene-ABTW07_2p089;Dbxref=NCBI_GP:ADX94382.1;Name=ADX94382.1;gbkey=CDS;locus_tag=ABTW07_2p089;product=Type IV secretory pathway%2C VirD4 component;protein_id=ADX94382.1;transl_table=11
+CP002524.1	Genbank	gene	67235	67771	.	-	.	ID=gene-ABTW07_2p090;Name=ABTW07_2p090;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p090
+CP002524.1	Genbank	CDS	67235	67771	.	-	0	ID=cds-ADX94383.1;Parent=gene-ABTW07_2p090;Dbxref=NCBI_GP:ADX94383.1;Name=ADX94383.1;gbkey=CDS;locus_tag=ABTW07_2p090;product=hypothetical protein;protein_id=ADX94383.1;transl_table=11
+CP002524.1	Genbank	gene	68284	68613	.	+	.	ID=gene-ABTW07_2p091;Name=ABTW07_2p091;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p091
+CP002524.1	Genbank	CDS	68284	68613	.	+	0	ID=cds-ADX94384.1;Parent=gene-ABTW07_2p091;Dbxref=NCBI_GP:ADX94384.1;Name=ADX94384.1;gbkey=CDS;locus_tag=ABTW07_2p091;product=hypothetical protein;protein_id=ADX94384.1;transl_table=11
+CP002524.1	Genbank	gene	68643	68837	.	-	.	ID=gene-ABTW07_2p092;Name=ABTW07_2p092;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p092
+CP002524.1	Genbank	CDS	68643	68837	.	-	0	ID=cds-ADX94385.1;Parent=gene-ABTW07_2p092;Dbxref=NCBI_GP:ADX94385.1;Name=ADX94385.1;gbkey=CDS;locus_tag=ABTW07_2p092;product=hypothetical protein;protein_id=ADX94385.1;transl_table=11
+CP002524.1	Genbank	gene	68853	69185	.	-	.	ID=gene-ABTW07_2p093;Name=ABTW07_2p093;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p093
+CP002524.1	Genbank	CDS	68853	69185	.	-	0	ID=cds-ADX94386.1;Parent=gene-ABTW07_2p093;Dbxref=NCBI_GP:ADX94386.1;Name=ADX94386.1;gbkey=CDS;locus_tag=ABTW07_2p093;product=hypothetical protein;protein_id=ADX94386.1;transl_table=11
+CP002524.1	Genbank	gene	69291	70316	.	-	.	ID=gene-ABTW07_2p094;Name=ABTW07_2p094;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p094
+CP002524.1	Genbank	CDS	69291	70316	.	-	0	ID=cds-ADX94387.1;Parent=gene-ABTW07_2p094;Dbxref=NCBI_GP:ADX94387.1;Name=ADX94387.1;gbkey=CDS;locus_tag=ABTW07_2p094;product=Transposase of Transposase%2C IS30 family;protein_id=ADX94387.1;transl_table=11
+CP002524.1	Genbank	gene	70500	70796	.	-	.	ID=gene-ABTW07_2p095;Name=ABTW07_2p095;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_2p095
+CP002524.1	Genbank	CDS	70500	70796	.	-	0	ID=cds-ADX94388.1;Parent=gene-ABTW07_2p095;Dbxref=NCBI_GP:ADX94388.1;Name=ADX94388.1;gbkey=CDS;locus_tag=ABTW07_2p095;product=hypothetical protein;protein_id=ADX94388.1;transl_table=11
+

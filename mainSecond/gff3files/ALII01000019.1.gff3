@@ -1,0 +1,46 @@
+##sequence-region ALII01000019.1 1 17984
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=903899
+ALII01000019.1	Genbank	region	1	17984	.	+	.	ID=ALII01000019.1:1..17984;Dbxref=taxon:903899;Is_circular=true;Name=pIS123-18;collection-date=09-Feb-2009;country=Iraq: Ibn Sina;gbkey=Src;genome=plasmid;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pIS123-18;strain=IS-123
+ALII01000019.1	Genbank	gene	100	801	.	+	.	ID=gene-ACINIS123_B0001;Name=ACINIS123_B0001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINIS123_B0001
+ALII01000019.1	Genbank	CDS	100	801	.	+	0	ID=cds-EJO37630.1;Parent=gene-ACINIS123_B0001;Dbxref=NCBI_GP:EJO37630.1;Name=EJO37630.1;gbkey=CDS;locus_tag=ACINIS123_B0001;product=IS1 transposase;protein_id=EJO37630.1;transl_table=11
+ALII01000019.1	Genbank	gene	855	1547	.	-	.	ID=gene-ACINIS123_B0002;Name=ACINIS123_B0002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINIS123_B0002
+ALII01000019.1	Genbank	CDS	855	1547	.	-	0	ID=cds-EJO37639.1;Parent=gene-ACINIS123_B0002;Dbxref=NCBI_GP:EJO37639.1;Name=EJO37639.1;gbkey=CDS;locus_tag=ACINIS123_B0002;product=putative lipoprotein;protein_id=EJO37639.1;transl_table=11
+ALII01000019.1	Genbank	gene	1571	1705	.	-	.	ID=gene-ACINIS123_B0003;Name=ACINIS123_B0003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINIS123_B0003
+ALII01000019.1	Genbank	CDS	1571	1705	.	-	0	ID=cds-EJO37648.1;Parent=gene-ACINIS123_B0003;Dbxref=NCBI_GP:EJO37648.1;Name=EJO37648.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=ACINIS123_B0003;product=hypothetical protein;protein_id=EJO37648.1;transl_table=11
+ALII01000019.1	Genbank	gene	1914	2132	.	-	.	ID=gene-ACINIS123_B0004;Name=ACINIS123_B0004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINIS123_B0004
+ALII01000019.1	Genbank	CDS	1914	2132	.	-	0	ID=cds-EJO37641.1;Parent=gene-ACINIS123_B0004;Dbxref=NCBI_GP:EJO37641.1;Name=EJO37641.1;gbkey=CDS;locus_tag=ACINIS123_B0004;product=hypothetical protein;protein_id=EJO37641.1;transl_table=11
+ALII01000019.1	Genbank	gene	2688	2906	.	-	.	ID=gene-ACINIS123_B0005;Name=ACINIS123_B0005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINIS123_B0005
+ALII01000019.1	Genbank	CDS	2688	2906	.	-	0	ID=cds-EJO37637.1;Parent=gene-ACINIS123_B0005;Dbxref=NCBI_GP:EJO37637.1;Name=EJO37637.1;gbkey=CDS;locus_tag=ACINIS123_B0005;product=hypothetical protein;protein_id=EJO37637.1;transl_table=11
+ALII01000019.1	Genbank	gene	3613	4530	.	+	.	ID=gene-ACINIS123_B0006;Name=ACINIS123_B0006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINIS123_B0006
+ALII01000019.1	Genbank	CDS	3613	4530	.	+	0	ID=cds-EJO37647.1;Parent=gene-ACINIS123_B0006;Dbxref=NCBI_GP:EJO37647.1;Name=EJO37647.1;gbkey=CDS;locus_tag=ACINIS123_B0006;product=initiator RepB protein;protein_id=EJO37647.1;transl_table=11
+ALII01000019.1	Genbank	gene	4579	5130	.	+	.	ID=gene-ACINIS123_B0007;Name=ACINIS123_B0007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINIS123_B0007
+ALII01000019.1	Genbank	CDS	4579	5130	.	+	0	ID=cds-EJO37644.1;Parent=gene-ACINIS123_B0007;Dbxref=NCBI_GP:EJO37644.1;Name=EJO37644.1;gbkey=CDS;locus_tag=ACINIS123_B0007;product=hypothetical protein;protein_id=EJO37644.1;transl_table=11
+ALII01000019.1	Genbank	gene	5406	5990	.	+	.	ID=gene-ACINIS123_B0008;Name=ACINIS123_B0008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINIS123_B0008
+ALII01000019.1	Genbank	CDS	5406	5990	.	+	0	ID=cds-EJO37634.1;Parent=gene-ACINIS123_B0008;Dbxref=NCBI_GP:EJO37634.1;Name=EJO37634.1;gbkey=CDS;locus_tag=ACINIS123_B0008;product=hypothetical protein;protein_id=EJO37634.1;transl_table=11
+ALII01000019.1	Genbank	gene	6003	6809	.	+	.	ID=gene-ACINIS123_B0009;Name=ACINIS123_B0009;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINIS123_B0009
+ALII01000019.1	Genbank	CDS	6003	6809	.	+	0	ID=cds-EJO37642.1;Parent=gene-ACINIS123_B0009;Dbxref=NCBI_GP:EJO37642.1;Name=EJO37642.1;gbkey=CDS;locus_tag=ACINIS123_B0009;product=hypothetical protein;protein_id=EJO37642.1;transl_table=11
+ALII01000019.1	Genbank	gene	7074	7463	.	-	.	ID=gene-ACINIS123_B0010;Name=ACINIS123_B0010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINIS123_B0010
+ALII01000019.1	Genbank	CDS	7074	7463	.	-	0	ID=cds-EJO37636.1;Parent=gene-ACINIS123_B0010;Dbxref=NCBI_GP:EJO37636.1;Name=EJO37636.1;gbkey=CDS;locus_tag=ACINIS123_B0010;product=PEP-CTERM protein-sorting domain protein;protein_id=EJO37636.1;transl_table=11
+ALII01000019.1	Genbank	gene	7569	7769	.	+	.	ID=gene-ACINIS123_B0011;Name=ACINIS123_B0011;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINIS123_B0011
+ALII01000019.1	Genbank	CDS	7569	7769	.	+	0	ID=cds-EJO37643.1;Parent=gene-ACINIS123_B0011;Dbxref=NCBI_GP:EJO37643.1;Name=EJO37643.1;gbkey=CDS;locus_tag=ACINIS123_B0011;product=putative lipoprotein;protein_id=EJO37643.1;transl_table=11
+ALII01000019.1	Genbank	gene	7918	9243	.	+	.	ID=gene-ACINIS123_B0012;Name=ACINIS123_B0012;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINIS123_B0012
+ALII01000019.1	Genbank	CDS	7918	9243	.	+	0	ID=cds-EJO37645.1;Parent=gene-ACINIS123_B0012;Dbxref=NCBI_GP:EJO37645.1;Name=EJO37645.1;gbkey=CDS;locus_tag=ACINIS123_B0012;product=integrase core domain protein;protein_id=EJO37645.1;transl_table=11
+ALII01000019.1	Genbank	gene	9394	11532	.	-	.	ID=gene-ACINIS123_B0013;Name=ACINIS123_B0013;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINIS123_B0013
+ALII01000019.1	Genbank	CDS	9394	11532	.	-	0	ID=cds-EJO37640.1;Parent=gene-ACINIS123_B0013;Dbxref=NCBI_GP:EJO37640.1;Name=EJO37640.1;gbkey=CDS;locus_tag=ACINIS123_B0013;product=peptidase%2C C39 family;protein_id=EJO37640.1;transl_table=11
+ALII01000019.1	Genbank	gene	11536	12801	.	-	.	ID=gene-ACINIS123_B0014;Name=ACINIS123_B0014;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINIS123_B0014
+ALII01000019.1	Genbank	CDS	11536	12801	.	-	0	ID=cds-EJO37632.1;Parent=gene-ACINIS123_B0014;Dbxref=NCBI_GP:EJO37632.1;Name=EJO37632.1;gbkey=CDS;locus_tag=ACINIS123_B0014;product=HlyD family secretion protein;protein_id=EJO37632.1;transl_table=11
+ALII01000019.1	Genbank	gene	12810	13958	.	-	.	ID=gene-ACINIS123_B0015;Name=ACINIS123_B0015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINIS123_B0015
+ALII01000019.1	Genbank	CDS	12810	13958	.	-	0	ID=cds-EJO37635.1;Parent=gene-ACINIS123_B0015;Dbxref=NCBI_GP:EJO37635.1;Name=EJO37635.1;gbkey=CDS;locus_tag=ACINIS123_B0015;product=cupin domain protein%2C PF06172 family;protein_id=EJO37635.1;transl_table=11
+ALII01000019.1	Genbank	gene	14026	14274	.	-	.	ID=gene-ACINIS123_B0016;Name=ACINIS123_B0016;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINIS123_B0016
+ALII01000019.1	Genbank	CDS	14026	14274	.	-	0	ID=cds-EJO37638.1;Parent=gene-ACINIS123_B0016;Dbxref=NCBI_GP:EJO37638.1;Name=EJO37638.1;gbkey=CDS;locus_tag=ACINIS123_B0016;product=bacteriocin class II with double-glycine leader peptide;protein_id=EJO37638.1;transl_table=11
+ALII01000019.1	Genbank	gene	14292	14501	.	-	.	ID=gene-ACINIS123_B0017;Name=ACINIS123_B0017;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINIS123_B0017
+ALII01000019.1	Genbank	CDS	14292	14501	.	-	0	ID=cds-EJO37633.1;Parent=gene-ACINIS123_B0017;Dbxref=NCBI_GP:EJO37633.1;Name=EJO37633.1;gbkey=CDS;locus_tag=ACINIS123_B0017;product=putative lipoprotein;protein_id=EJO37633.1;transl_table=11
+ALII01000019.1	Genbank	gene	14872	15474	.	-	.	ID=gene-ACINIS123_B0018;Name=ACINIS123_B0018;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINIS123_B0018
+ALII01000019.1	Genbank	CDS	14872	15474	.	-	0	ID=cds-EJO37631.1;Parent=gene-ACINIS123_B0018;Dbxref=NCBI_GP:EJO37631.1;Name=EJO37631.1;gbkey=CDS;locus_tag=ACINIS123_B0018;product=resolvase%2C N-terminal domain protein;protein_id=EJO37631.1;transl_table=11
+ALII01000019.1	Genbank	gene	15669	16685	.	-	.	ID=gene-ACINIS123_B0019;Name=ACINIS123_B0019;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINIS123_B0019
+ALII01000019.1	Genbank	CDS	15669	16685	.	-	0	ID=cds-EJO37629.1;Parent=gene-ACINIS123_B0019;Dbxref=NCBI_GP:EJO37629.1;Name=EJO37629.1;gbkey=CDS;locus_tag=ACINIS123_B0019;product=hypothetical protein;protein_id=EJO37629.1;transl_table=11
+ALII01000019.1	Genbank	gene	16782	17117	.	-	.	ID=gene-ACINIS123_B0020;Name=ACINIS123_B0020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINIS123_B0020
+ALII01000019.1	Genbank	CDS	16782	17117	.	-	0	ID=cds-EJO37646.1;Parent=gene-ACINIS123_B0020;Dbxref=NCBI_GP:EJO37646.1;Name=EJO37646.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=ACINIS123_B0020;product=hypothetical protein;protein_id=EJO37646.1;transl_table=11
+ALII01000019.1	Genbank	gene	17400	17804	.	-	.	ID=gene-ACINIS123_B0021;Name=ACINIS123_B0021;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINIS123_B0021
+ALII01000019.1	Genbank	CDS	17400	17804	.	-	0	ID=cds-EJO37628.1;Parent=gene-ACINIS123_B0021;Dbxref=NCBI_GP:EJO37628.1;Name=EJO37628.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=ACINIS123_B0021;product=hypothetical protein;protein_id=EJO37628.1;transl_table=11
+

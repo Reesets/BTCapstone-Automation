@@ -1,0 +1,124 @@
+##sequence-region CP003848.1 1 52268
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1096996
+CP003848.1	Genbank	region	1	52268	.	+	.	ID=CP003848.1:1..52268;Dbxref=taxon:1096996;Is_circular=true;Name=pBJAB0715;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=pBJAB0715;strain=BJAB0715
+CP003848.1	Genbank	gene	8	1018	.	-	.	ID=gene-BJAB0715_p0001;Name=BJAB0715_p0001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0001
+CP003848.1	Genbank	CDS	8	1018	.	-	0	ID=cds-AGQ08495.1;Parent=gene-BJAB0715_p0001;Dbxref=NCBI_GP:AGQ08495.1;Name=AGQ08495.1;Note=COG:COG2826;gbkey=CDS;locus_tag=BJAB0715_p0001;product=Transposase-like protein%2C IS30 family;protein_id=AGQ08495.1;transl_table=11
+CP003848.1	Genbank	gene	1113	1892	.	-	.	ID=gene-BJAB0715_p0002;Name=BJAB0715_p0002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0002
+CP003848.1	Genbank	CDS	1113	1892	.	-	0	ID=cds-AGQ08496.1;Parent=gene-BJAB0715_p0002;Dbxref=NCBI_GP:AGQ08496.1;Name=AGQ08496.1;gbkey=CDS;locus_tag=BJAB0715_p0002;product=hypothetical protein;protein_id=AGQ08496.1;transl_table=11
+CP003848.1	Genbank	gene	1993	3003	.	-	.	ID=gene-BJAB0715_p0003;Name=BJAB0715_p0003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0003
+CP003848.1	Genbank	CDS	1993	3003	.	-	0	ID=cds-AGQ08497.1;Parent=gene-BJAB0715_p0003;Dbxref=NCBI_GP:AGQ08497.1;Name=AGQ08497.1;gbkey=CDS;locus_tag=BJAB0715_p0003;product=hypothetical protein;protein_id=AGQ08497.1;transl_table=11
+CP003848.1	Genbank	gene	3135	3290	.	+	.	ID=gene-BJAB0715_p0004;Name=BJAB0715_p0004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0004
+CP003848.1	Genbank	CDS	3135	3290	.	+	0	ID=cds-AGQ08498.1;Parent=gene-BJAB0715_p0004;Dbxref=NCBI_GP:AGQ08498.1;Name=AGQ08498.1;gbkey=CDS;locus_tag=BJAB0715_p0004;product=hypothetical protein;protein_id=AGQ08498.1;transl_table=11
+CP003848.1	Genbank	gene	3817	4173	.	+	.	ID=gene-BJAB0715_p0005;Name=BJAB0715_p0005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0005
+CP003848.1	Genbank	CDS	3817	4173	.	+	0	ID=cds-AGQ08499.1;Parent=gene-BJAB0715_p0005;Dbxref=NCBI_GP:AGQ08499.1;Name=AGQ08499.1;Note=COG:COG4683;gbkey=CDS;locus_tag=BJAB0715_p0005;product=hypothetical protein;protein_id=AGQ08499.1;transl_table=11
+CP003848.1	Genbank	gene	4166	4468	.	+	.	ID=gene-BJAB0715_p0006;Name=BJAB0715_p0006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0006
+CP003848.1	Genbank	CDS	4166	4468	.	+	0	ID=cds-AGQ08500.1;Parent=gene-BJAB0715_p0006;Dbxref=NCBI_GP:AGQ08500.1;Name=AGQ08500.1;gbkey=CDS;locus_tag=BJAB0715_p0006;product=hypothetical protein;protein_id=AGQ08500.1;transl_table=11
+CP003848.1	Genbank	gene	4461	4670	.	+	.	ID=gene-BJAB0715_p0007;Name=BJAB0715_p0007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0007
+CP003848.1	Genbank	CDS	4461	4670	.	+	0	ID=cds-AGQ08501.1;Parent=gene-BJAB0715_p0007;Dbxref=NCBI_GP:AGQ08501.1;Name=AGQ08501.1;gbkey=CDS;locus_tag=BJAB0715_p0007;product=hypothetical protein;protein_id=AGQ08501.1;transl_table=11
+CP003848.1	Genbank	gene	4845	5363	.	+	.	ID=gene-BJAB0715_p0008;Name=BJAB0715_p0008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0008
+CP003848.1	Genbank	CDS	4845	5363	.	+	0	ID=cds-AGQ08502.1;Parent=gene-BJAB0715_p0008;Dbxref=NCBI_GP:AGQ08502.1;Name=AGQ08502.1;Note=COG:COG0790;gbkey=CDS;locus_tag=BJAB0715_p0008;product=TPR repeat%2C SEL1 subfamily protein;protein_id=AGQ08502.1;transl_table=11
+CP003848.1	Genbank	gene	5402	5914	.	+	.	ID=gene-BJAB0715_p0009;Name=BJAB0715_p0009;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0009
+CP003848.1	Genbank	CDS	5402	5914	.	+	0	ID=cds-AGQ08503.1;Parent=gene-BJAB0715_p0009;Dbxref=NCBI_GP:AGQ08503.1;Name=AGQ08503.1;gbkey=CDS;locus_tag=BJAB0715_p0009;product=hypothetical protein;protein_id=AGQ08503.1;transl_table=11
+CP003848.1	Genbank	gene	6157	7080	.	+	.	ID=gene-BJAB0715_p0010;Name=BJAB0715_p0010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0010
+CP003848.1	Genbank	CDS	6157	7080	.	+	0	ID=cds-AGQ08504.1;Parent=gene-BJAB0715_p0010;Dbxref=NCBI_GP:AGQ08504.1;Name=AGQ08504.1;gbkey=CDS;locus_tag=BJAB0715_p0010;product=hypothetical protein;protein_id=AGQ08504.1;transl_table=11
+CP003848.1	Genbank	gene	7291	7872	.	-	.	ID=gene-BJAB0715_p0011;Name=BJAB0715_p0011;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0011
+CP003848.1	Genbank	CDS	7291	7872	.	-	0	ID=cds-AGQ08505.1;Parent=gene-BJAB0715_p0011;Dbxref=NCBI_GP:AGQ08505.1;Name=AGQ08505.1;Note=COG:COG1961;gbkey=CDS;locus_tag=BJAB0715_p0011;product=Site-specific recombinase%2C DNA invertase Pin-like proteins;protein_id=AGQ08505.1;transl_table=11
+CP003848.1	Genbank	gene	8374	9579	.	-	.	ID=gene-BJAB0715_p0012;Name=BJAB0715_p0012;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0012
+CP003848.1	Genbank	CDS	8374	9579	.	-	0	ID=cds-AGQ08506.1;Parent=gene-BJAB0715_p0012;Dbxref=NCBI_GP:AGQ08506.1;Name=AGQ08506.1;Note=COG:COG3464;gbkey=CDS;locus_tag=BJAB0715_p0012;product=Transposase-like protein;protein_id=AGQ08506.1;transl_table=11
+CP003848.1	Genbank	gene	9572	10837	.	-	.	ID=gene-BJAB0715_p0013;Name=BJAB0715_p0013;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0013
+CP003848.1	Genbank	CDS	9572	10837	.	-	0	ID=cds-AGQ08507.1;Parent=gene-BJAB0715_p0013;Dbxref=NCBI_GP:AGQ08507.1;Name=AGQ08507.1;Note=COG:COG0477;gbkey=CDS;locus_tag=BJAB0715_p0013;product=Permeases of the major facilitator superfamily;protein_id=AGQ08507.1;transl_table=11
+CP003848.1	Genbank	gene	11120	11800	.	+	.	ID=gene-BJAB0715_p0014;Name=BJAB0715_p0014;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0014
+CP003848.1	Genbank	CDS	11120	11800	.	+	0	ID=cds-AGQ08508.1;Parent=gene-BJAB0715_p0014;Dbxref=NCBI_GP:AGQ08508.1;Name=AGQ08508.1;Note=COG:COG2801;gbkey=CDS;locus_tag=BJAB0715_p0014;product=Transposase-like protein;protein_id=AGQ08508.1;transl_table=11
+CP003848.1	Genbank	gene	12126	13091	.	+	.	ID=gene-BJAB0715_p0015;Name=BJAB0715_p0015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0015
+CP003848.1	Genbank	CDS	12126	13091	.	+	0	ID=cds-AGQ08509.1;Parent=gene-BJAB0715_p0015;Dbxref=NCBI_GP:AGQ08509.1;Name=AGQ08509.1;gbkey=CDS;locus_tag=BJAB0715_p0015;product=hypothetical protein;protein_id=AGQ08509.1;transl_table=11
+CP003848.1	Genbank	gene	13099	13614	.	+	.	ID=gene-BJAB0715_p0016;Name=BJAB0715_p0016;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0016
+CP003848.1	Genbank	CDS	13099	13614	.	+	0	ID=cds-AGQ08510.1;Parent=gene-BJAB0715_p0016;Dbxref=NCBI_GP:AGQ08510.1;Name=AGQ08510.1;gbkey=CDS;locus_tag=BJAB0715_p0016;product=hypothetical protein;protein_id=AGQ08510.1;transl_table=11
+CP003848.1	Genbank	gene	13611	14552	.	+	.	ID=gene-BJAB0715_p0017;Name=BJAB0715_p0017;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0017
+CP003848.1	Genbank	CDS	13611	14552	.	+	0	ID=cds-AGQ08511.1;Parent=gene-BJAB0715_p0017;Dbxref=NCBI_GP:AGQ08511.1;Name=AGQ08511.1;Note=COG:COG1223;gbkey=CDS;locus_tag=BJAB0715_p0017;product=putative ATPase (AAA+ superfamily);protein_id=AGQ08511.1;transl_table=11
+CP003848.1	Genbank	gene	14549	15277	.	+	.	ID=gene-BJAB0715_p0018;Name=BJAB0715_p0018;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0018
+CP003848.1	Genbank	CDS	14549	15277	.	+	0	ID=cds-AGQ08512.1;Parent=gene-BJAB0715_p0018;Dbxref=NCBI_GP:AGQ08512.1;Name=AGQ08512.1;gbkey=CDS;locus_tag=BJAB0715_p0018;product=hypothetical protein;protein_id=AGQ08512.1;transl_table=11
+CP003848.1	Genbank	gene	15279	15671	.	+	.	ID=gene-BJAB0715_p0019;Name=BJAB0715_p0019;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0019
+CP003848.1	Genbank	CDS	15279	15671	.	+	0	ID=cds-AGQ08513.1;Parent=gene-BJAB0715_p0019;Dbxref=NCBI_GP:AGQ08513.1;Name=AGQ08513.1;gbkey=CDS;locus_tag=BJAB0715_p0019;product=hypothetical protein;protein_id=AGQ08513.1;transl_table=11
+CP003848.1	Genbank	gene	15791	17692	.	-	.	ID=gene-BJAB0715_p0020;Name=BJAB0715_p0020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0020
+CP003848.1	Genbank	CDS	15791	17692	.	-	0	ID=cds-AGQ08514.1;Parent=gene-BJAB0715_p0020;Dbxref=NCBI_GP:AGQ08514.1;Name=AGQ08514.1;Note=COG:COG4930;gbkey=CDS;locus_tag=BJAB0715_p0020;product=putative ATP-dependent Lon-type protease;protein_id=AGQ08514.1;transl_table=11
+CP003848.1	Genbank	gene	17828	19789	.	-	.	ID=gene-BJAB0715_p0021;Name=BJAB0715_p0021;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0021
+CP003848.1	Genbank	CDS	17828	19789	.	-	0	ID=cds-AGQ08515.1;Parent=gene-BJAB0715_p0021;Dbxref=NCBI_GP:AGQ08515.1;Name=AGQ08515.1;Note=COG:COG4644;gbkey=CDS;locus_tag=BJAB0715_p0021;product=Transposase-like protein%2C TnpA family;protein_id=AGQ08515.1;transl_table=11
+CP003848.1	Genbank	gene	20127	20252	.	+	.	ID=gene-BJAB0715_p0022;Name=BJAB0715_p0022;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0022
+CP003848.1	Genbank	CDS	20127	20252	.	+	0	ID=cds-AGQ08516.1;Parent=gene-BJAB0715_p0022;Dbxref=NCBI_GP:AGQ08516.1;Name=AGQ08516.1;gbkey=CDS;locus_tag=BJAB0715_p0022;product=hypothetical protein;protein_id=AGQ08516.1;transl_table=11
+CP003848.1	Genbank	gene	20394	21482	.	-	.	ID=gene-BJAB0715_p0023;Name=BJAB0715_p0023;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0023
+CP003848.1	Genbank	CDS	20394	21482	.	-	0	ID=cds-AGQ08517.1;Parent=gene-BJAB0715_p0023;Dbxref=NCBI_GP:AGQ08517.1;Name=AGQ08517.1;Note=COG:COG3666;gbkey=CDS;locus_tag=BJAB0715_p0023;product=Transposase-like protein;protein_id=AGQ08517.1;transl_table=11
+CP003848.1	Genbank	gene	21880	23193	.	-	.	ID=gene-BJAB0715_p0024;Name=BJAB0715_p0024;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0024
+CP003848.1	Genbank	CDS	21880	23193	.	-	0	ID=cds-AGQ08518.1;Parent=gene-BJAB0715_p0024;Dbxref=NCBI_GP:AGQ08518.1;Name=AGQ08518.1;gbkey=CDS;locus_tag=BJAB0715_p0024;product=hypothetical protein;protein_id=AGQ08518.1;transl_table=11
+CP003848.1	Genbank	gene	23318	23509	.	+	.	ID=gene-BJAB0715_p0025;Name=BJAB0715_p0025;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0025
+CP003848.1	Genbank	CDS	23318	23509	.	+	0	ID=cds-AGQ08519.1;Parent=gene-BJAB0715_p0025;Dbxref=NCBI_GP:AGQ08519.1;Name=AGQ08519.1;gbkey=CDS;locus_tag=BJAB0715_p0025;product=hypothetical protein;protein_id=AGQ08519.1;transl_table=11
+CP003848.1	Genbank	gene	23991	24296	.	-	.	ID=gene-BJAB0715_p0026;Name=BJAB0715_p0026;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0026
+CP003848.1	Genbank	CDS	23991	24296	.	-	0	ID=cds-AGQ08520.1;Parent=gene-BJAB0715_p0026;Dbxref=NCBI_GP:AGQ08520.1;Name=AGQ08520.1;gbkey=CDS;locus_tag=BJAB0715_p0026;product=hypothetical protein;protein_id=AGQ08520.1;transl_table=11
+CP003848.1	Genbank	gene	24546	25406	.	-	.	ID=gene-BJAB0715_p0027;Name=BJAB0715_p0027;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0027
+CP003848.1	Genbank	CDS	24546	25406	.	-	0	ID=cds-AGQ08521.1;Parent=gene-BJAB0715_p0027;Dbxref=NCBI_GP:AGQ08521.1;Name=AGQ08521.1;Note=COG:COG2746;gbkey=CDS;locus_tag=BJAB0715_p0027;product=Aminoglycoside N3'-acetyltransferase;protein_id=AGQ08521.1;transl_table=11
+CP003848.1	Genbank	gene	25486	25671	.	-	.	ID=gene-BJAB0715_p0028;Name=BJAB0715_p0028;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0028
+CP003848.1	Genbank	CDS	25486	25671	.	-	0	ID=cds-AGQ08522.1;Parent=gene-BJAB0715_p0028;Dbxref=NCBI_GP:AGQ08522.1;Name=AGQ08522.1;gbkey=CDS;locus_tag=BJAB0715_p0028;product=hypothetical protein;protein_id=AGQ08522.1;transl_table=11
+CP003848.1	Genbank	gene	25991	26113	.	+	.	ID=gene-BJAB0715_p0029;Name=BJAB0715_p0029;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0029
+CP003848.1	Genbank	CDS	25991	26113	.	+	0	ID=cds-AGQ08523.1;Parent=gene-BJAB0715_p0029;Dbxref=NCBI_GP:AGQ08523.1;Name=AGQ08523.1;gbkey=CDS;locus_tag=BJAB0715_p0029;product=hypothetical protein;protein_id=AGQ08523.1;transl_table=11
+CP003848.1	Genbank	gene	26169	26318	.	-	.	ID=gene-BJAB0715_p0030;Name=BJAB0715_p0030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0030
+CP003848.1	Genbank	CDS	26169	26318	.	-	0	ID=cds-AGQ08524.1;Parent=gene-BJAB0715_p0030;Dbxref=NCBI_GP:AGQ08524.1;Name=AGQ08524.1;gbkey=CDS;locus_tag=BJAB0715_p0030;product=hypothetical protein;protein_id=AGQ08524.1;transl_table=11
+CP003848.1	Genbank	gene	26302	27957	.	-	.	ID=gene-BJAB0715_p0031;Name=BJAB0715_p0031;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0031
+CP003848.1	Genbank	CDS	26302	27957	.	-	0	ID=cds-AGQ08525.1;Parent=gene-BJAB0715_p0031;Dbxref=NCBI_GP:AGQ08525.1;Name=AGQ08525.1;gbkey=CDS;locus_tag=BJAB0715_p0031;product=hypothetical protein;protein_id=AGQ08525.1;transl_table=11
+CP003848.1	Genbank	gene	28297	28425	.	-	.	ID=gene-BJAB0715_p0032;Name=BJAB0715_p0032;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0032
+CP003848.1	Genbank	CDS	28297	28425	.	-	0	ID=cds-AGQ08526.1;Parent=gene-BJAB0715_p0032;Dbxref=NCBI_GP:AGQ08526.1;Name=AGQ08526.1;gbkey=CDS;locus_tag=BJAB0715_p0032;product=hypothetical protein;protein_id=AGQ08526.1;transl_table=11
+CP003848.1	Genbank	gene	28709	28828	.	+	.	ID=gene-BJAB0715_p0033;Name=BJAB0715_p0033;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0033
+CP003848.1	Genbank	CDS	28709	28828	.	+	0	ID=cds-AGQ08527.1;Parent=gene-BJAB0715_p0033;Dbxref=NCBI_GP:AGQ08527.1;Name=AGQ08527.1;gbkey=CDS;locus_tag=BJAB0715_p0033;product=hypothetical protein;protein_id=AGQ08527.1;transl_table=11
+CP003848.1	Genbank	gene	29115	32651	.	-	.	ID=gene-BJAB0715_p0034;Name=BJAB0715_p0034;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0034
+CP003848.1	Genbank	CDS	29115	32651	.	-	0	ID=cds-AGQ08528.1;Parent=gene-BJAB0715_p0034;Dbxref=NCBI_GP:AGQ08528.1;Name=AGQ08528.1;gbkey=CDS;locus_tag=BJAB0715_p0034;product=hypothetical protein;protein_id=AGQ08528.1;transl_table=11
+CP003848.1	Genbank	gene	32663	35011	.	-	.	ID=gene-BJAB0715_p0035;Name=BJAB0715_p0035;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0035
+CP003848.1	Genbank	CDS	32663	35011	.	-	0	ID=cds-AGQ08529.1;Parent=gene-BJAB0715_p0035;Dbxref=NCBI_GP:AGQ08529.1;Name=AGQ08529.1;gbkey=CDS;locus_tag=BJAB0715_p0035;product=hypothetical protein;protein_id=AGQ08529.1;transl_table=11
+CP003848.1	Genbank	gene	35016	35474	.	-	.	ID=gene-BJAB0715_p0036;Name=BJAB0715_p0036;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0036
+CP003848.1	Genbank	CDS	35016	35474	.	-	0	ID=cds-AGQ08530.1;Parent=gene-BJAB0715_p0036;Dbxref=NCBI_GP:AGQ08530.1;Name=AGQ08530.1;gbkey=CDS;locus_tag=BJAB0715_p0036;product=hypothetical protein;protein_id=AGQ08530.1;transl_table=11
+CP003848.1	Genbank	gene	35790	36788	.	-	.	ID=gene-BJAB0715_p0037;Name=BJAB0715_p0037;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0037
+CP003848.1	Genbank	CDS	35790	36788	.	-	0	ID=cds-AGQ08531.1;Parent=gene-BJAB0715_p0037;Dbxref=NCBI_GP:AGQ08531.1;Name=AGQ08531.1;Note=COG:COG1475;gbkey=CDS;locus_tag=BJAB0715_p0037;product=putative transcriptional regulator;protein_id=AGQ08531.1;transl_table=11
+CP003848.1	Genbank	gene	36788	37405	.	-	.	ID=gene-BJAB0715_p0038;Name=BJAB0715_p0038;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0038
+CP003848.1	Genbank	CDS	36788	37405	.	-	0	ID=cds-AGQ08532.1;Parent=gene-BJAB0715_p0038;Dbxref=NCBI_GP:AGQ08532.1;Name=AGQ08532.1;Note=COG:COG1192;gbkey=CDS;locus_tag=BJAB0715_p0038;product=ATPases involved in chromosome partitioning;protein_id=AGQ08532.1;transl_table=11
+CP003848.1	Genbank	gene	37536	37676	.	+	.	ID=gene-BJAB0715_p0039;Name=BJAB0715_p0039;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0039
+CP003848.1	Genbank	CDS	37536	37676	.	+	0	ID=cds-AGQ08533.1;Parent=gene-BJAB0715_p0039;Dbxref=NCBI_GP:AGQ08533.1;Name=AGQ08533.1;gbkey=CDS;locus_tag=BJAB0715_p0039;product=hypothetical protein;protein_id=AGQ08533.1;transl_table=11
+CP003848.1	Genbank	gene	37750	38148	.	+	.	ID=gene-BJAB0715_p0040;Name=BJAB0715_p0040;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0040
+CP003848.1	Genbank	CDS	37750	38148	.	+	0	ID=cds-AGQ08534.1;Parent=gene-BJAB0715_p0040;Dbxref=NCBI_GP:AGQ08534.1;Name=AGQ08534.1;gbkey=CDS;locus_tag=BJAB0715_p0040;product=hypothetical protein;protein_id=AGQ08534.1;transl_table=11
+CP003848.1	Genbank	gene	38272	38565	.	+	.	ID=gene-BJAB0715_p0041;Name=BJAB0715_p0041;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0041
+CP003848.1	Genbank	CDS	38272	38565	.	+	0	ID=cds-AGQ08535.1;Parent=gene-BJAB0715_p0041;Dbxref=NCBI_GP:AGQ08535.1;Name=AGQ08535.1;gbkey=CDS;locus_tag=BJAB0715_p0041;product=hypothetical protein;protein_id=AGQ08535.1;transl_table=11
+CP003848.1	Genbank	gene	38544	38681	.	+	.	ID=gene-BJAB0715_p0042;Name=BJAB0715_p0042;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0042
+CP003848.1	Genbank	CDS	38544	38681	.	+	0	ID=cds-AGQ08536.1;Parent=gene-BJAB0715_p0042;Dbxref=NCBI_GP:AGQ08536.1;Name=AGQ08536.1;gbkey=CDS;locus_tag=BJAB0715_p0042;product=hypothetical protein;protein_id=AGQ08536.1;transl_table=11
+CP003848.1	Genbank	gene	38737	40083	.	-	.	ID=gene-BJAB0715_p0043;Name=BJAB0715_p0043;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0043
+CP003848.1	Genbank	CDS	38737	40083	.	-	0	ID=cds-AGQ08537.1;Parent=gene-BJAB0715_p0043;Dbxref=NCBI_GP:AGQ08537.1;Name=AGQ08537.1;gbkey=CDS;locus_tag=BJAB0715_p0043;product=hypothetical protein;protein_id=AGQ08537.1;transl_table=11
+CP003848.1	Genbank	gene	41116	41478	.	+	.	ID=gene-BJAB0715_p0044;Name=BJAB0715_p0044;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0044
+CP003848.1	Genbank	CDS	41116	41478	.	+	0	ID=cds-AGQ08538.1;Parent=gene-BJAB0715_p0044;Dbxref=NCBI_GP:AGQ08538.1;Name=AGQ08538.1;gbkey=CDS;locus_tag=BJAB0715_p0044;product=hypothetical protein;protein_id=AGQ08538.1;transl_table=11
+CP003848.1	Genbank	gene	41636	41977	.	+	.	ID=gene-BJAB0715_p0045;Name=BJAB0715_p0045;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0045
+CP003848.1	Genbank	CDS	41636	41977	.	+	0	ID=cds-AGQ08539.1;Parent=gene-BJAB0715_p0045;Dbxref=NCBI_GP:AGQ08539.1;Name=AGQ08539.1;gbkey=CDS;locus_tag=BJAB0715_p0045;product=hypothetical protein;protein_id=AGQ08539.1;transl_table=11
+CP003848.1	Genbank	gene	42108	42425	.	+	.	ID=gene-BJAB0715_p0046;Name=BJAB0715_p0046;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0046
+CP003848.1	Genbank	CDS	42108	42425	.	+	0	ID=cds-AGQ08540.1;Parent=gene-BJAB0715_p0046;Dbxref=NCBI_GP:AGQ08540.1;Name=AGQ08540.1;Note=COG:COG2963;gbkey=CDS;locus_tag=BJAB0715_p0046;product=Transposase-like protein;protein_id=AGQ08540.1;transl_table=11
+CP003848.1	Genbank	gene	42425	43327	.	+	.	ID=gene-BJAB0715_p0047;Name=BJAB0715_p0047;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0047
+CP003848.1	Genbank	CDS	42425	43327	.	+	0	ID=cds-AGQ08541.1;Parent=gene-BJAB0715_p0047;Dbxref=NCBI_GP:AGQ08541.1;Name=AGQ08541.1;Note=COG:COG2801;gbkey=CDS;locus_tag=BJAB0715_p0047;product=Transposase-like protein;protein_id=AGQ08541.1;transl_table=11
+CP003848.1	Genbank	gene	43614	44192	.	+	.	ID=gene-BJAB0715_p0048;Name=BJAB0715_p0048;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0048
+CP003848.1	Genbank	CDS	43614	44192	.	+	0	ID=cds-AGQ08542.1;Parent=gene-BJAB0715_p0048;Dbxref=NCBI_GP:AGQ08542.1;Name=AGQ08542.1;Note=COG:COG1974;gbkey=CDS;locus_tag=BJAB0715_p0048;product=SOS-response transcriptional repressors (RecA-mediated autopeptidases);protein_id=AGQ08542.1;transl_table=11
+CP003848.1	Genbank	gene	44224	45522	.	+	.	ID=gene-BJAB0715_p0049;Name=BJAB0715_p0049;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0049
+CP003848.1	Genbank	CDS	44224	45522	.	+	0	ID=cds-AGQ08543.1;Parent=gene-BJAB0715_p0049;Dbxref=NCBI_GP:AGQ08543.1;Name=AGQ08543.1;Note=COG:COG0389;gbkey=CDS;locus_tag=BJAB0715_p0049;product=Nucleotidyltransferase/DNA polymerase involved in DNA repair;protein_id=AGQ08543.1;transl_table=11
+CP003848.1	Genbank	gene	45519	45713	.	-	.	ID=gene-BJAB0715_p0050;Name=BJAB0715_p0050;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0050
+CP003848.1	Genbank	CDS	45519	45713	.	-	0	ID=cds-AGQ08544.1;Parent=gene-BJAB0715_p0050;Dbxref=NCBI_GP:AGQ08544.1;Name=AGQ08544.1;Note=Similar to product of gene ACICU_01202 in CP000863;gbkey=CDS;locus_tag=BJAB0715_p0050;product=hypothetical protein;protein_id=AGQ08544.1;transl_table=11
+CP003848.1	Genbank	gene	45706	46968	.	-	.	ID=gene-BJAB0715_p0051;Name=BJAB0715_p0051;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0051
+CP003848.1	Genbank	CDS	45706	46968	.	-	0	ID=cds-AGQ08545.1;Parent=gene-BJAB0715_p0051;Dbxref=NCBI_GP:AGQ08545.1;Name=AGQ08545.1;Note=COG:COG1570;gbkey=CDS;locus_tag=BJAB0715_p0051;product=Exonuclease VII%2C large subunit;protein_id=AGQ08545.1;transl_table=11
+CP003848.1	Genbank	gene	47069	47773	.	-	.	ID=gene-BJAB0715_p0052;Name=BJAB0715_p0052;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0052
+CP003848.1	Genbank	CDS	47069	47773	.	-	0	ID=cds-AGQ08546.1;Parent=gene-BJAB0715_p0052;Dbxref=NCBI_GP:AGQ08546.1;Name=AGQ08546.1;Note=COG:COG3316;gbkey=CDS;locus_tag=BJAB0715_p0052;product=Transposase-like protein;protein_id=AGQ08546.1;transl_table=11
+CP003848.1	Genbank	gene	47879	48820	.	+	.	ID=gene-BJAB0715_p0053;Name=BJAB0715_p0053;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0053
+CP003848.1	Genbank	CDS	47879	48820	.	+	0	ID=cds-AGQ08547.1;Parent=gene-BJAB0715_p0053;Dbxref=NCBI_GP:AGQ08547.1;Name=AGQ08547.1;Note=COG:COG2602;gbkey=CDS;locus_tag=BJAB0715_p0053;product=Beta-lactamase class D;protein_id=AGQ08547.1;transl_table=11
+CP003848.1	Genbank	gene	48911	49348	.	+	.	ID=gene-BJAB0715_p0054;Name=BJAB0715_p0054;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0054
+CP003848.1	Genbank	CDS	48911	49348	.	+	0	ID=cds-AGQ08548.1;Parent=gene-BJAB0715_p0054;Dbxref=NCBI_GP:AGQ08548.1;Name=AGQ08548.1;Note=Similar to product of gene ACICU_p0025 in CP000864;gbkey=CDS;locus_tag=BJAB0715_p0054;product=hypothetical protein;protein_id=AGQ08548.1;transl_table=11
+CP003848.1	Genbank	gene	49352	49663	.	+	.	ID=gene-BJAB0715_p0055;Name=BJAB0715_p0055;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0055
+CP003848.1	Genbank	CDS	49352	49663	.	+	0	ID=cds-AGQ08549.1;Parent=gene-BJAB0715_p0055;Dbxref=NCBI_GP:AGQ08549.1;Name=AGQ08549.1;Note=COG:COG1662;gbkey=CDS;locus_tag=BJAB0715_p0055;product=Transposase-like protein%2C IS1 family;protein_id=AGQ08549.1;transl_table=11
+CP003848.1	Genbank	gene	49791	50261	.	+	.	ID=gene-BJAB0715_p0056;Name=BJAB0715_p0056;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0056
+CP003848.1	Genbank	CDS	49791	50261	.	+	0	ID=cds-AGQ08550.1;Parent=gene-BJAB0715_p0056;Dbxref=NCBI_GP:AGQ08550.1;Name=AGQ08550.1;Note=COG:COG2207;gbkey=CDS;locus_tag=BJAB0715_p0056;product=AraC-type DNA-binding domain-containing protein;protein_id=AGQ08550.1;transl_table=11
+CP003848.1	Genbank	gene	50290	51036	.	-	.	ID=gene-BJAB0715_p0057;Name=BJAB0715_p0057;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0057
+CP003848.1	Genbank	CDS	50290	51036	.	-	0	ID=cds-AGQ08551.1;Parent=gene-BJAB0715_p0057;Dbxref=NCBI_GP:AGQ08551.1;Name=AGQ08551.1;Note=COG:COG2801;gbkey=CDS;locus_tag=BJAB0715_p0057;product=Transposase-like protein;protein_id=AGQ08551.1;transl_table=11
+CP003848.1	Genbank	gene	51099	51365	.	-	.	ID=gene-BJAB0715_p0058;Name=BJAB0715_p0058;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0058
+CP003848.1	Genbank	CDS	51099	51365	.	-	0	ID=cds-AGQ08552.1;Parent=gene-BJAB0715_p0058;Dbxref=NCBI_GP:AGQ08552.1;Name=AGQ08552.1;Note=COG:COG2801;gbkey=CDS;locus_tag=BJAB0715_p0058;product=Transposase-like protein;protein_id=AGQ08552.1;transl_table=11
+CP003848.1	Genbank	gene	51567	51821	.	+	.	ID=gene-BJAB0715_p0059;Name=BJAB0715_p0059;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0059
+CP003848.1	Genbank	CDS	51567	51821	.	+	0	ID=cds-AGQ08553.1;Parent=gene-BJAB0715_p0059;Dbxref=NCBI_GP:AGQ08553.1;Name=AGQ08553.1;Note=COG:COG2207;gbkey=CDS;locus_tag=BJAB0715_p0059;product=AraC-type DNA-binding domain-containing protein;protein_id=AGQ08553.1;transl_table=11
+CP003848.1	Genbank	gene	51871	52170	.	+	.	ID=gene-BJAB0715_p0060;Name=BJAB0715_p0060;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BJAB0715_p0060
+CP003848.1	Genbank	CDS	51871	52170	.	+	0	ID=cds-AGQ08554.1;Parent=gene-BJAB0715_p0060;Dbxref=NCBI_GP:AGQ08554.1;Name=AGQ08554.1;Note=COG:COG1280;gbkey=CDS;locus_tag=BJAB0715_p0060;product=Putative threonine efflux protein;protein_id=AGQ08554.1;transl_table=11
+

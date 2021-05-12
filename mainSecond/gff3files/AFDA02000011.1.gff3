@@ -1,0 +1,20 @@
+##sequence-region AFDA02000011.1 1 7032
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=903897
+AFDA02000011.1	Genbank	region	1	7032	.	+	.	ID=AFDA02000011.1:1..7032;Dbxref=taxon:903897;Is_circular=true;Name=pNaval18-7.0;collection-date=08-Jun-2006;country=USA: National Naval Medical Center%2C Bethesda%2C MD;gbkey=Src;genome=plasmid;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pNaval18-7.0;strain=Naval-18
+AFDA02000011.1	Genbank	gene	88	429	.	-	.	ID=gene-ACINNAV18_D0001;Name=ACINNAV18_D0001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_D0001
+AFDA02000011.1	Genbank	CDS	88	429	.	-	0	ID=cds-EJP48326.1;Parent=gene-ACINNAV18_D0001;Dbxref=NCBI_GP:EJP48326.1;Name=EJP48326.1;gbkey=CDS;locus_tag=ACINNAV18_D0001;product=hypothetical protein;protein_id=EJP48326.1;transl_table=11
+AFDA02000011.1	Genbank	gene	426	1361	.	-	.	ID=gene-ACINNAV18_D0002;Name=ACINNAV18_D0002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_D0002
+AFDA02000011.1	Genbank	CDS	426	1361	.	-	0	ID=cds-EJP48325.1;Parent=gene-ACINNAV18_D0002;Dbxref=NCBI_GP:EJP48325.1;Name=EJP48325.1;gbkey=CDS;locus_tag=ACINNAV18_D0002;product=hypothetical protein;protein_id=EJP48325.1;transl_table=11
+AFDA02000011.1	Genbank	gene	1609	1983	.	-	.	ID=gene-ACINNAV18_D0003;Name=ACINNAV18_D0003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_D0003
+AFDA02000011.1	Genbank	CDS	1609	1983	.	-	0	ID=cds-EJP48321.1;Parent=gene-ACINNAV18_D0003;Dbxref=NCBI_GP:EJP48321.1;Name=EJP48321.1;gbkey=CDS;locus_tag=ACINNAV18_D0003;product=hypothetical protein;protein_id=EJP48321.1;transl_table=11
+AFDA02000011.1	Genbank	gene	2242	2433	.	+	.	ID=gene-ACINNAV18_D0004;Name=ACINNAV18_D0004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_D0004
+AFDA02000011.1	Genbank	CDS	2242	2433	.	+	0	ID=cds-EJP48324.1;Parent=gene-ACINNAV18_D0004;Dbxref=NCBI_GP:EJP48324.1;Name=EJP48324.1;Note=an automated process has identified a potential problem with this gene model%3B the current end5 and/or the end3 may need to extended or the current gene model may need to be merged with a neighboring gene model%3B the current gene model (or a revised gene model) may contain a frame shift;gbkey=CDS;locus_tag=ACINNAV18_D0004;product=MobA/MobL domain protein;protein_id=EJP48324.1;transl_table=11
+AFDA02000011.1	Genbank	gene	2489	3994	.	+	.	ID=gene-ACINNAV18_D0005;Name=ACINNAV18_D0005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_D0005
+AFDA02000011.1	Genbank	CDS	2489	3994	.	+	0	ID=cds-EJP48322.1;Parent=gene-ACINNAV18_D0005;Dbxref=NCBI_GP:EJP48322.1;Name=EJP48322.1;Note=an automated process has identified a potential problem with this gene model%3B the current end5 and/or the end3 may need to extended or the current gene model may need to be merged with a neighboring gene model%3B the current gene model (or a revised gene model) may contain a frame shift;gbkey=CDS;locus_tag=ACINNAV18_D0005;product=MobA/MobL family protein;protein_id=EJP48322.1;transl_table=11
+AFDA02000011.1	Genbank	gene	4629	5579	.	+	.	ID=gene-ACINNAV18_D0006;Name=ACINNAV18_D0006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_D0006
+AFDA02000011.1	Genbank	CDS	4629	5579	.	+	0	ID=cds-EJP48327.1;Parent=gene-ACINNAV18_D0006;Dbxref=NCBI_GP:EJP48327.1;Name=EJP48327.1;gbkey=CDS;locus_tag=ACINNAV18_D0006;product=initiator RepB protein;protein_id=EJP48327.1;transl_table=11
+AFDA02000011.1	Genbank	gene	5572	6147	.	+	.	ID=gene-ACINNAV18_D0007;Name=ACINNAV18_D0007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_D0007
+AFDA02000011.1	Genbank	CDS	5572	6147	.	+	0	ID=cds-EJP48323.1;Parent=gene-ACINNAV18_D0007;Dbxref=NCBI_GP:EJP48323.1;Name=EJP48323.1;gbkey=CDS;locus_tag=ACINNAV18_D0007;product=hypothetical protein;protein_id=EJP48323.1;transl_table=11
+AFDA02000011.1	Genbank	gene	6168	6311	.	+	.	ID=gene-ACINNAV18_D0008;Name=ACINNAV18_D0008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ACINNAV18_D0008
+AFDA02000011.1	Genbank	CDS	6168	6311	.	+	0	ID=cds-EJP48320.1;Parent=gene-ACINNAV18_D0008;Dbxref=NCBI_GP:EJP48320.1;Name=EJP48320.1;gbkey=CDS;locus_tag=ACINNAV18_D0008;product=hypothetical protein;protein_id=EJP48320.1;transl_table=11
+

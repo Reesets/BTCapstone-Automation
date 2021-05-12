@@ -1,0 +1,20 @@
+##sequence-region CP007714.1 1 6076
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1455315
+CP007714.1	Genbank	region	1	6076	.	+	.	ID=CP007714.1:1..6076;Dbxref=taxon:1455315;Is_circular=true;Name=pABLAC2;collected-by=Public Health Laboratory;collection-date=1997-01-02;country=USA: Los Angeles County%2C California;gbkey=Src;genome=plasmid;lat-lon=34.0500 N 118.2500 W;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pABLAC2;strain=LAC-4
+CP007714.1	Genbank	gene	28	573	.	+	.	ID=gene-ABLAC_p200010;Name=ABLAC_p200010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABLAC_p200010
+CP007714.1	Genbank	CDS	28	573	.	+	0	ID=cds-AIY39153.1;Parent=gene-ABLAC_p200010;Dbxref=NCBI_GP:AIY39153.1;Name=AIY39153.1;gbkey=CDS;locus_tag=ABLAC_p200010;product=2'-aminoglycoside nucleotidyltransferase;protein_id=AIY39153.1;transl_table=11
+CP007714.1	Genbank	gene	732	1007	.	-	.	ID=gene-ABLAC_p200020;Name=ABLAC_p200020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABLAC_p200020
+CP007714.1	Genbank	CDS	732	1007	.	-	0	ID=cds-AIY39154.1;Parent=gene-ABLAC_p200020;Dbxref=NCBI_GP:AIY39154.1;Name=AIY39154.1;gbkey=CDS;locus_tag=ABLAC_p200020;product=hypothetical protein;protein_id=AIY39154.1;transl_table=11
+CP007714.1	Genbank	gene	1229	1399	.	-	.	ID=gene-ABLAC_p200030;Name=ABLAC_p200030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABLAC_p200030
+CP007714.1	Genbank	CDS	1229	1399	.	-	0	ID=cds-AIY39155.1;Parent=gene-ABLAC_p200030;Dbxref=NCBI_GP:AIY39155.1;Name=AIY39155.1;gbkey=CDS;locus_tag=ABLAC_p200030;product=hypothetical protein;protein_id=AIY39155.1;transl_table=11
+CP007714.1	Genbank	gene	1532	2077	.	-	.	ID=gene-ABLAC_p200040;Name=ABLAC_p200040;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABLAC_p200040
+CP007714.1	Genbank	CDS	1532	2077	.	-	0	ID=cds-AIY39156.1;Parent=gene-ABLAC_p200040;Dbxref=NCBI_GP:AIY39156.1;Name=AIY39156.1;gbkey=CDS;locus_tag=ABLAC_p200040;product=hypothetical protein;protein_id=AIY39156.1;transl_table=11
+CP007714.1	Genbank	gene	2126	3940	.	-	.	ID=gene-ABLAC_p200050;Name=ABLAC_p200050;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABLAC_p200050
+CP007714.1	Genbank	CDS	2126	3940	.	-	0	ID=cds-AIY39157.1;Parent=gene-ABLAC_p200050;Dbxref=NCBI_GP:AIY39157.1;Name=AIY39157.1;gbkey=CDS;locus_tag=ABLAC_p200050;product=protein MobA;protein_id=AIY39157.1;transl_table=11
+CP007714.1	Genbank	gene	3930	4337	.	-	.	ID=gene-ABLAC_p200060;Name=ABLAC_p200060;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABLAC_p200060
+CP007714.1	Genbank	CDS	3930	4337	.	-	0	ID=cds-AIY39158.1;Parent=gene-ABLAC_p200060;Dbxref=NCBI_GP:AIY39158.1;Name=AIY39158.1;gbkey=CDS;locus_tag=ABLAC_p200060;product=Protein MobC;protein_id=AIY39158.1;transl_table=11
+CP007714.1	Genbank	gene	4610	4885	.	-	.	ID=gene-ABLAC_p200070;Name=ABLAC_p200070;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABLAC_p200070
+CP007714.1	Genbank	CDS	4610	4885	.	-	0	ID=cds-AIY39159.1;Parent=gene-ABLAC_p200070;Dbxref=NCBI_GP:AIY39159.1;Name=AIY39159.1;gbkey=CDS;locus_tag=ABLAC_p200070;product=hypothetical protein;protein_id=AIY39159.1;transl_table=11
+CP007714.1	Genbank	gene	5339	6025	.	+	.	ID=gene-ABLAC_p200080;Name=ABLAC_p200080;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABLAC_p200080
+CP007714.1	Genbank	CDS	5339	6025	.	+	0	ID=cds-AIY39160.1;Parent=gene-ABLAC_p200080;Dbxref=NCBI_GP:AIY39160.1;Name=AIY39160.1;gbkey=CDS;locus_tag=ABLAC_p200080;product=pentapeptide repeat protein;protein_id=AIY39160.1;transl_table=11
+

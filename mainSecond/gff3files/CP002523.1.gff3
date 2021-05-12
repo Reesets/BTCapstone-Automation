@@ -1,0 +1,24 @@
+##sequence-region CP002523.1 1 8731
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=980514
+CP002523.1	Genbank	region	1	8731	.	+	.	ID=CP002523.1:1..8731;Dbxref=taxon:980514;Is_circular=true;Name=p1ABTCDC0715;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=p1ABTCDC0715;strain=TCDC-AB0715
+CP002523.1	Genbank	gene	247	501	.	-	.	ID=gene-ABTW07_1p001;Name=ABTW07_1p001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_1p001
+CP002523.1	Genbank	CDS	247	501	.	-	0	ID=cds-ADX94284.1;Parent=gene-ABTW07_1p001;Dbxref=NCBI_GP:ADX94284.1;Name=ADX94284.1;gbkey=CDS;locus_tag=ABTW07_1p001;product=hypothetical protein;protein_id=ADX94284.1;transl_table=11
+CP002523.1	Genbank	gene	623	961	.	-	.	ID=gene-ABTW07_1p002;Name=ABTW07_1p002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_1p002
+CP002523.1	Genbank	CDS	623	961	.	-	0	ID=cds-ADX94285.1;Parent=gene-ABTW07_1p002;Dbxref=NCBI_GP:ADX94285.1;Name=ADX94285.1;gbkey=CDS;locus_tag=ABTW07_1p002;product=hypothetical protein;protein_id=ADX94285.1;transl_table=11
+CP002523.1	Genbank	gene	1179	2135	.	+	.	ID=gene-ABTW07_1p003;Name=ABTW07_1p003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_1p003
+CP002523.1	Genbank	CDS	1179	2135	.	+	0	ID=cds-ADX94286.1;Parent=gene-ABTW07_1p003;Dbxref=NCBI_GP:ADX94286.1;Name=ADX94286.1;gbkey=CDS;locus_tag=ABTW07_1p003;product=DNA replication protein;protein_id=ADX94286.1;transl_table=11
+CP002523.1	Genbank	gene	2128	2703	.	+	.	ID=gene-ABTW07_1p004;Name=ABTW07_1p004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_1p004
+CP002523.1	Genbank	CDS	2128	2703	.	+	0	ID=cds-ADX94287.1;Parent=gene-ABTW07_1p004;Dbxref=NCBI_GP:ADX94287.1;Name=ADX94287.1;gbkey=CDS;locus_tag=ABTW07_1p004;product=DNA replication protein;protein_id=ADX94287.1;transl_table=11
+CP002523.1	Genbank	gene	3055	3597	.	-	.	ID=gene-ABTW07_1p005;Name=ABTW07_1p005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_1p005
+CP002523.1	Genbank	CDS	3055	3597	.	-	0	ID=cds-ADX94288.1;Parent=gene-ABTW07_1p005;Dbxref=NCBI_GP:ADX94288.1;Name=ADX94288.1;gbkey=CDS;locus_tag=ABTW07_1p005;product=Sel1 repeat family;protein_id=ADX94288.1;transl_table=11
+CP002523.1	Genbank	gene	3946	4233	.	+	.	ID=gene-ABTW07_1p006;Name=ABTW07_1p006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_1p006
+CP002523.1	Genbank	CDS	3946	4233	.	+	0	ID=cds-ADX94289.1;Parent=gene-ABTW07_1p006;Dbxref=NCBI_GP:ADX94289.1;Name=ADX94289.1;gbkey=CDS;locus_tag=ABTW07_1p006;product=hypothetical protein;protein_id=ADX94289.1;transl_table=11
+CP002523.1	Genbank	gene	4226	4534	.	+	.	ID=gene-ABTW07_1p007;Name=ABTW07_1p007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_1p007
+CP002523.1	Genbank	CDS	4226	4534	.	+	0	ID=cds-ADX94290.1;Parent=gene-ABTW07_1p007;Dbxref=NCBI_GP:ADX94290.1;Name=ADX94290.1;gbkey=CDS;locus_tag=ABTW07_1p007;product=putative cytoplasmic protein;protein_id=ADX94290.1;transl_table=11
+CP002523.1	Genbank	gene	4662	7073	.	+	.	ID=gene-ABTW07_1p008;Name=ABTW07_1p008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_1p008
+CP002523.1	Genbank	CDS	4662	7073	.	+	0	ID=cds-ADX94291.1;Parent=gene-ABTW07_1p008;Dbxref=NCBI_GP:ADX94291.1;Name=ADX94291.1;gbkey=CDS;locus_tag=ABTW07_1p008;product=TonB-dependent receptor protein;protein_id=ADX94291.1;transl_table=11
+CP002523.1	Genbank	gene	7378	7839	.	+	.	ID=gene-ABTW07_1p009;Name=ABTW07_1p009;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_1p009
+CP002523.1	Genbank	CDS	7378	7839	.	+	0	ID=cds-ADX94292.1;Parent=gene-ABTW07_1p009;Dbxref=NCBI_GP:ADX94292.1;Name=ADX94292.1;gbkey=CDS;locus_tag=ABTW07_1p009;product=hypothetical protein;protein_id=ADX94292.1;transl_table=11
+CP002523.1	Genbank	gene	8335	8706	.	-	.	ID=gene-ABTW07_1p010;Name=ABTW07_1p010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABTW07_1p010
+CP002523.1	Genbank	CDS	8335	8706	.	-	0	ID=cds-ADX94293.1;Parent=gene-ABTW07_1p010;Dbxref=NCBI_GP:ADX94293.1;Name=ADX94293.1;gbkey=CDS;locus_tag=ABTW07_1p010;product=conserved hypothetical protein;protein_id=ADX94293.1;transl_table=11
+

@@ -1,0 +1,20 @@
+##sequence-region CP003968.1 1 7416
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=945556
+CP003968.1	Genbank	region	1	7416	.	+	.	ID=CP003968.1:1..7416;Dbxref=taxon:945556;Is_circular=true;Name=pD1279779;country=Australia;gbkey=Src;genome=plasmid;mol_type=genomic DNA;nat-host=Homo sapiens;plasmid-name=pD1279779;strain=D1279779
+CP003968.1	Genbank	gene	145	1068	.	+	.	ID=gene-ABD1_p00010;Name=repB;gbkey=Gene;gene=repB;gene_biotype=protein_coding;locus_tag=ABD1_p00010
+CP003968.1	Genbank	CDS	145	1068	.	+	0	ID=cds-AGH37280.1;Parent=gene-ABD1_p00010;Dbxref=NCBI_GP:AGH37280.1;Name=AGH37280.1;gbkey=CDS;gene=repB;locus_tag=ABD1_p00010;product=DNA replication protein B;protein_id=AGH37280.1;transl_table=11
+CP003968.1	Genbank	gene	1136	1681	.	+	.	ID=gene-ABD1_p00020;Name=ABD1_p00020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABD1_p00020
+CP003968.1	Genbank	CDS	1136	1681	.	+	0	ID=cds-AGH37281.1;Parent=gene-ABD1_p00020;Dbxref=NCBI_GP:AGH37281.1;Name=AGH37281.1;gbkey=CDS;locus_tag=ABD1_p00020;product=hypothetical protein;protein_id=AGH37281.1;transl_table=11
+CP003968.1	Genbank	gene	2019	2336	.	+	.	ID=gene-ABD1_p00030;Name=ABD1_p00030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABD1_p00030
+CP003968.1	Genbank	CDS	2019	2336	.	+	0	ID=cds-AGH37282.1;Parent=gene-ABD1_p00030;Dbxref=NCBI_GP:AGH37282.1;Name=AGH37282.1;gbkey=CDS;locus_tag=ABD1_p00030;product=hypothetical protein;protein_id=AGH37282.1;transl_table=11
+CP003968.1	Genbank	gene	2864	3220	.	+	.	ID=gene-ABD1_p00040;Name=ABD1_p00040;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABD1_p00040
+CP003968.1	Genbank	CDS	2864	3220	.	+	0	ID=cds-AGH37283.1;Parent=gene-ABD1_p00040;Dbxref=NCBI_GP:AGH37283.1;Name=AGH37283.1;gbkey=CDS;locus_tag=ABD1_p00040;product=hypothetical protein;protein_id=AGH37283.1;transl_table=11
+CP003968.1	Genbank	gene	3213	3515	.	+	.	ID=gene-ABD1_p00050;Name=ABD1_p00050;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABD1_p00050
+CP003968.1	Genbank	CDS	3213	3515	.	+	0	ID=cds-AGH37284.1;Parent=gene-ABD1_p00050;Dbxref=NCBI_GP:AGH37284.1;Name=AGH37284.1;gbkey=CDS;locus_tag=ABD1_p00050;product=transcriptional regulator%2C XRE family;protein_id=AGH37284.1;transl_table=11
+CP003968.1	Genbank	gene	3892	4410	.	+	.	ID=gene-ABD1_p00060;Name=ABD1_p00060;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABD1_p00060
+CP003968.1	Genbank	CDS	3892	4410	.	+	0	ID=cds-AGH37285.1;Parent=gene-ABD1_p00060;Dbxref=NCBI_GP:AGH37285.1;Name=AGH37285.1;gbkey=CDS;locus_tag=ABD1_p00060;product=Sel1 repeat-containing protein;protein_id=AGH37285.1;transl_table=11
+CP003968.1	Genbank	gene	4449	4961	.	+	.	ID=gene-ABD1_p00070;Name=ABD1_p00070;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABD1_p00070
+CP003968.1	Genbank	CDS	4449	4961	.	+	0	ID=cds-AGH37286.1;Parent=gene-ABD1_p00070;Dbxref=NCBI_GP:AGH37286.1;Name=AGH37286.1;gbkey=CDS;locus_tag=ABD1_p00070;product=hypothetical protein;protein_id=AGH37286.1;transl_table=11
+CP003968.1	Genbank	gene	5160	5954	.	+	.	ID=gene-ABD1_p00080;Name=ABD1_p00080;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ABD1_p00080
+CP003968.1	Genbank	CDS	5160	5954	.	+	0	ID=cds-AGH37287.1;Parent=gene-ABD1_p00080;Dbxref=NCBI_GP:AGH37287.1;Name=AGH37287.1;gbkey=CDS;locus_tag=ABD1_p00080;product=hypothetical protein;protein_id=AGH37287.1;transl_table=11
+
